@@ -84,7 +84,7 @@
 	"gridUnits": "ft",
 	"primaryTokenAttribute": "wounds",
 	"secondaryTokenAttribute": "fortune",
-	"url": "https://github.com/McGregor777/wfrp3e",
+	"url": "https://github.com/Natherul/wfrp3e",
 	"manifest": "#{MANIFEST}#",
 	"download": "#{DOWNLOAD}#",
 	"background": "systems/wfrp3e/assets/background.jpg",
