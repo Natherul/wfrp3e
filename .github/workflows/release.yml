@@ -2,13 +2,15 @@ name: System Release Build
 
 env:
   node_version: 18
-  version: ${{ github.event.release.tag_name }}
-  release_manifest_url: "https://github.com/${{github.repository}}/releases//download/${{github.event.release.tag_name}}/system.json"
-  release_download_url: "https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/system.zip"
+  version: "100.0.${{ github.run_number }}"
+  release_manifest_url: "https://github.com/${{github.repository}}/releases/latest/download/system.json"
+  release_download_url: "https://github.com/${{github.repository}}/releases/download/100.0.${{github.run_number}}/system.zip"
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
+      - master
 
 jobs:
   build:
@@ -59,10 +61,10 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          name: ${{ github.event.release.name }}
-          draft: ${{ github.event.release.unpublished }}
-          prerelease: ${{ github.event.release.prerelease }}
+          name: Release ${{ env.version }}
+          draft: false
+          prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: './system.json, ./system.zip'
-          tag: ${{ github.event.release.tag_name }}
-          body: ${{ github.event.release.body }}
+          tag: ${{ env.version }}
+          body: "Automated release for fork build ${{ env.version }}"
