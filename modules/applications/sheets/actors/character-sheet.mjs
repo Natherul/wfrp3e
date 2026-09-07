@@ -174,6 +174,7 @@ export default class CharacterSheet extends ActorSheet
 	async #onAdvanceCheckboxChange(options, event)
 	{
 		event.preventDefault();
+		event.stopPropagation();
 
 		const career = this.actor.items.get(event.target.closest("[data-item-id]").dataset.itemId),
 			  input = event.target;

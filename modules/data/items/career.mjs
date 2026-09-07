@@ -227,7 +227,7 @@ export default class Career extends Item
 	{
 		const nonCareerAdvances = [];
 		for(const advance of this.advances.nonCareer)
-			nonCareerAdvances.push({type: advance.type, ...advance._source});
+			nonCareerAdvances.push({type: advance.type, ...advance.toObject()});
 
 		return nonCareerAdvances;
 	}
@@ -240,7 +240,7 @@ export default class Career extends Item
 	{
 		const openAdvances = [];
 		for(const advance of this.advances.open)
-			openAdvances.push({type: advance.type, ...advance._source});
+			openAdvances.push({type: advance.type, ...advance.toObject()});
 
 		return openAdvances;
 	}
