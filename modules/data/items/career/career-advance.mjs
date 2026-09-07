@@ -126,7 +126,7 @@ export default class CareerAdvance extends foundry.abstract.DataModel
 			return ui.notifications.warn(game.i18n.localize("CAREER.WARNINGS.advanceOptionDepleted"));
 
 		const openAdvanceIndex = career.advances.open.findIndex(advance => !advance.active);
-		if(openAdvanceIndex == null)
+		if(openAdvanceIndex === -1)
 			return ui.notifications.warn("Unable to buy the advance: the career has no available open advance.");
 
 		const openAdvances = career.simpleOpenAdvances;
