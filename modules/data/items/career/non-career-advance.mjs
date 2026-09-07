@@ -77,7 +77,7 @@ export default class NonCareerAdvance extends foundry.abstract.DataModel
 	static async buyAdvance(career)
 	{
 		const nonCareerAdvanceIndex = career.advances.nonCareer.findIndex(advance => !advance.cost);
-		if(nonCareerAdvanceIndex == null)
+		if(nonCareerAdvanceIndex === -1)
 			return ui.notifications.warn("Unable to buy the advance: the career has no available non-career advance.");
 
 		const nonCareerAdvances = career.simpleNonCareerAdvances;

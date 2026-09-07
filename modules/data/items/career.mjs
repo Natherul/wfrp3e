@@ -299,7 +299,7 @@ export default class Career extends Item
 				break;
 
 			case wfrp3e.data.items.career.NonCareerAdvance.TYPE:
-				if(this.advances.nonCareer.findIndex(slot => !slot.type) == null)
+				if(this.advances.nonCareer.findIndex(slot => !slot.type) === -1)
 					return ui.notifications.warn(
 						"Unable to buy the advance: the career has no available non-career advance."
 					);
