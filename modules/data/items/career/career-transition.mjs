@@ -37,7 +37,6 @@ export default class CareerTransition extends foundry.abstract.DataModel
 				type: "Item",
 				// Accept undefined as a valid value since fromUuidSync() fails to properly fetch
 				// an item embedded on an actor during document preparation.
-				validate: value => ["career", undefined].includes(fromUuidSync(value)?.type),
 				validationError: "must be a career"
 			})
 		};
