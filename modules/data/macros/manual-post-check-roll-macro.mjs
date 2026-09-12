@@ -30,7 +30,7 @@ export default class ManualPostCheckRollMacro extends ActiveEffectMacro
 	{
 		return {
 			...super.defineSchema(),
-			conditionalScript: new foundry.data.fields.JavaScriptField()
+			conditionalScript: new foundry.data.fields.StringField()
 		};
 	}
 }

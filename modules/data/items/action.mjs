@@ -31,13 +31,13 @@ export default class Action extends foundry.abstract.TypeDataModel
 							label: "ACTION.FIELDS.effects.immediate.label",
 							hint: "ACTION.FIELDS.effects.immediate.hint"
 						}),
-						reverseScript: new fields.JavaScriptField({
-							async: true,
+						reverseScript: new fields.StringField({
+							
 							label: "ACTION.FIELDS.effects.reverseScript.label",
 							hint: "ACTION.FIELDS.effects.reverseScript.hint"
 						}),
-						script: new fields.JavaScriptField({
-							async: true,
+						script: new fields.StringField({
+							
 							label: "ACTION.FIELDS.effects.script.label",
 							hint: "ACTION.FIELDS.effects.script.hint"
 						}),

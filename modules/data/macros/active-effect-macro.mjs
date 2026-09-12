@@ -78,7 +78,7 @@ export default class ActiveEffectMacro extends foundry.abstract.DataModel
 
 		return {
 			priority: new fields.NumberField({initial: 0, integer: true, min: 0, nullable: false, required: true}),
-			script: new fields.JavaScriptField({async: true}),
+			script: new fields.StringField({async: true}),
 			type: new fields.StringField({
 				choices: types,
 				initial: this.TYPE,
