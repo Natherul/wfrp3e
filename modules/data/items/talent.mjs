@@ -29,6 +29,7 @@ export default class Talent extends Item
 		tactic: "TALENT.TYPES.tactic",
 		faith: "TALENT.TYPES.faith",
 		order: "TALENT.TYPES.order",
-		tricks: "TALENT.TYPES.tricks"
+		tricks: "TALENT.TYPES.tricks",
+		social: "TALENT.TYPES.social"
 	};
 }

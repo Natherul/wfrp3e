@@ -121,6 +121,7 @@ export default class Action extends foundry.abstract.TypeDataModel
 		ranged: "ACTION.TYPES.ranged",
 		support: "ACTION.TYPES.support",
 		blessing: "ACTION.TYPES.blessing",
-		spell: "ACTION.TYPES.spell"
+		spell: "ACTION.TYPES.spell",
+		social: "ACTION.TYPES.social"
 	};
 }
