@@ -74,5 +74,6 @@
       "difficulty": "1c",
       "requirements": "<p>Shield equipped, engaged with target. If you are engaged with an ally, gain +1 to your check</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

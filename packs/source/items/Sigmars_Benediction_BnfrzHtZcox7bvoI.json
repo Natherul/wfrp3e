@@ -34,5 +34,6 @@
       "difficulty": "",
       "requirements": "<p>Play when you or an ally within close range critically wounds a creature of Chaos or a Heretic. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

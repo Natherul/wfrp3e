@@ -83,5 +83,6 @@
       "difficulty": "2b",
       "requirements": "<p>Target must be within medium range. Effect: You cajole, bluster, frustrate, or otherwise distract the target.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

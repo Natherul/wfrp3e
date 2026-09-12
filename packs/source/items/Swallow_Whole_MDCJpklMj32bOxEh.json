@@ -44,5 +44,6 @@
       "difficulty": "1c 1f",
       "requirements": "<p>Engaged with target, must have a free appendage (hand, tentacle, etc). Effect: You grab the target and swallow him whole. On your turn, while this action is recharging, if your target has not yet escaped, he suffers 1 wound and you gain 1 Aggression die. While swallowed, the target cannot perform manoeuvres and the only action he can perform is to try and cut his way out of your stomach. If the target is armed with a sharp melee weapon, he can escape by making a Hard (3{Dc}) Weapon Skill (St) check. If not, he must make a Daunting (4{Dc}) Athletics (Ag or St) check to escape. He also escapes if you die. If your target escapes, you suffer 3 wounds. If the target fails to escape by the time this card recharges, your stomach juices digest him and he dies horribly.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

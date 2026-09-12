@@ -58,5 +58,6 @@
       "difficulty": "2c",
       "requirements": "<p>must p\\:rform the prepare manoeuvre before performing this action. Special: The GM may modify the difficulty of this action based on the complexity of the item being repaired. Effect: Your repairs are adequate, but they won't hold forever. While this card is recharging, the affected item is repaired its damaged condition, if any, is and its Unreliable rating, if any, is improved (increased) by 1.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

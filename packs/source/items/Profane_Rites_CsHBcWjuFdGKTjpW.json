@@ -87,5 +87,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Cult Follower, Cult Leader. Engaged with target. Special: If the attacker is within close range of at least three other cultists, reduce the difficulty modifier to {Dc} 1.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

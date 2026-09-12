@@ -70,5 +70,6 @@
       "difficulty": "2c",
       "requirements": "<p>Target must be within close range Effect: You use some dirty, underhanded f trick to impair your enemy, such as throwing mud in his eyes or hiding his ® journal Special: When making this check, Skulduggery (Ag) is opposed by the highest Observation (Int) amongst enemiesin the encounter</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

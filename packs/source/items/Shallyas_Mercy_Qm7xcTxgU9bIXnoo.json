@@ -77,5 +77,6 @@
       "difficulty": "1c",
       "requirements": "<p>1 favour Effect: Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 2</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

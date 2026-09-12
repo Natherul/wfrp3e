@@ -86,5 +86,6 @@
       "recharge": 4,
       "difficulty": ""
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

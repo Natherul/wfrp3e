@@ -72,5 +72,6 @@
       "difficulty": "2c",
       "requirements": "<p>must proudly hold forth a symbol of your faith</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

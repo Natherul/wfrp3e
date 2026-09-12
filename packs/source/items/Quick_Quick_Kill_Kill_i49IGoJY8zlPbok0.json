@@ -82,5 +82,6 @@
       "difficulty": "2b",
       "requirements": "<p>Ranged weapon equipped, target within range. Special: Add B to this attack for each opponent engaged with the attacker. If the opponent uses any Active Defences against this attack, add 1 additional recharge token to those actions</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

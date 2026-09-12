@@ -5,5 +5,6 @@
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
     "description": "<p>This small chunk of green-black rock seems to throb with an evil green light. It is somewhat larger than a fifty-shilling piece. Encumbrance: Trivial This nugget of warpstone is a Minor source of corruption (see the Book of Change, page 17). You may choose to use it to aid you when you Channel Power. If you do, add to the Channelling check. Gain 1 power for each {Dc} rolled, in addition to their normal effects. You must gain the most power possible, then make a Daunting (4{Dc}) Discipline (WP) check to resist corruption, as detailed on pages 34-35 of Winds</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

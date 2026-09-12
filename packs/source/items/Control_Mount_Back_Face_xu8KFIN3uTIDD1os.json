@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Mounted, first entering combat, previous failed check, or facing significant new threat. Must spend action if failed previous check. Difficulty is Fear/Terror rating (if higher). Normally to end of Act or next Rally unless GM warrants a new Control check. Above, plus add [Dc] to next action or [Dm] to this encounter’s Ride checks. Lose AND action fighting to keep horse from fleeing. If Fear/Terror mount loses 1 Wind. You may also dismount or flee.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

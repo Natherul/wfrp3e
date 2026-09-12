@@ -78,5 +78,6 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>Target allies within long range.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

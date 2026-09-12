@@ -104,5 +104,6 @@
       "difficulty": "1b",
       "requirements": "<p>Ranged weapon equipped, not engaged with an enemy, target within close range, target declares an action as Special: If target is engaged with an ally add +1 to this attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

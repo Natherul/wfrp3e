@@ -93,5 +93,6 @@
       "difficulty": "2c",
       "requirements": "<p>Effect: A foul aura of stench and decay surrounds you. While this spell is recharging, all creatures within close range of you have their Toughness score reduced by 1. Followers of Nurgle, daemons, and the undead are immune to this effect.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

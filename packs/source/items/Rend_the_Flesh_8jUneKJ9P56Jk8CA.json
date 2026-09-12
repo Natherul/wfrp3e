@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>Engaged with target; must have the Regeneration special ability</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

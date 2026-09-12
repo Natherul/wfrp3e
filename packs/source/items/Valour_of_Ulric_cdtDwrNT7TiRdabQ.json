@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: You and your pack offer one another strength and comfort. While this action is recharging, you and all allies within close range gain {Dm} to Discipline (WP) checks</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

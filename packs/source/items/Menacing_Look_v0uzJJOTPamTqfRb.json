@@ -43,5 +43,6 @@
       "difficulty": "",
       "requirements": "<p>Your companion just sits in one place looking menacingly at your target, making it feel uncomfortable. While this card is recharging, you may spend your 4 companion Obedience to increase the difficulty of social tests your target performs. For each Obedience spent,</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

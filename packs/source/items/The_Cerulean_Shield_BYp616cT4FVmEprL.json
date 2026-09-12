@@ -73,5 +73,6 @@
       "difficulty": "1b",
       "requirements": "<p>Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

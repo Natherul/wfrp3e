@@ -57,5 +57,6 @@
       "difficulty": "1b",
       "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The attack gains +1 damage.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

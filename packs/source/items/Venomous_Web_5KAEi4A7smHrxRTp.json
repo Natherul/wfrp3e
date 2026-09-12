@@ -72,5 +72,6 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>Equipped with a flinger, target engagement within medium range. Special: You may attack a target at long range by adding {Dr} to the dice pool. For each goblin rider, add {Dm} to the dice pool.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

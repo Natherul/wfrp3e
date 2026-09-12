@@ -78,5 +78,6 @@
       "difficulty": "2c",
       "requirements": "<p>Your subjects must be able to see and hear you; the story takes several minutes to tell than Intelligence</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

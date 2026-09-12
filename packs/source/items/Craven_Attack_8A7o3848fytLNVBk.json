@@ -80,5 +80,6 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon equipped, engaged with target, target is Entangled or prone</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

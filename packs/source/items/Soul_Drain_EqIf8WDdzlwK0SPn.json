@@ -98,5 +98,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the target, then streak back to you, invigorating you. You recover as many wounds as you inflict with this spell (that is, damage that is not canceled by Toughness or soak values). If you have no wounds, you may gain power.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

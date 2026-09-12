@@ -132,5 +132,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>6 power, target within close range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

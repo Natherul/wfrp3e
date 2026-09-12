@@ -67,5 +67,6 @@
       "difficulty": "",
       "requirements": "<p>Engaged with target Special: If an ally is engaged with the target, add {Dc} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

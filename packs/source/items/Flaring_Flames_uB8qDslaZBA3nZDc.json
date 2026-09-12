@@ -70,5 +70,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>6 power. If you are engaged with an enemy, add {Dm} to your dice pool. Special: You may not add or remove more than 2 recharge tokens from any one spell. If you add recharge tokens to an Ongoing spell in hand, it does not count as successfully cast.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

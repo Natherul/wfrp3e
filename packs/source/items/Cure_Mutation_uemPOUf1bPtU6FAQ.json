@@ -64,5 +64,6 @@
       "difficulty": "",
       "requirements": "<p>9 favour, engaged with target, target suffering from at least one mutation. Special: The difficulty of this check is equal to the severity of the target mutation. This action recharges at sunrise.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

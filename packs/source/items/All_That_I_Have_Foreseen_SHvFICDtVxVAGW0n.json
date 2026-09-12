@@ -80,5 +80,6 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>10 power. You must have at least 2 other Celestial Order spells recharging. Effect: Your various insights into the future coalesce into a sudden realization of truth. You may take a number of recharge tokens, as indicated below, from your recharging Celestial Order cards and place them on this card. If you do, then place a like number of recharge tokens on one non-basic action card belonging to the target. (That card does not have to be recharging)</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

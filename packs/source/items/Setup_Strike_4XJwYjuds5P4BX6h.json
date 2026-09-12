@@ -72,5 +72,6 @@
       "difficulty": "2b",
       "requirements": "<p>One-handed melee weapon equipped, engaged target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

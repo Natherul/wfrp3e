@@ -6,5 +6,6 @@
   "system": {
     "description": "<p>Whenever you suffer fatigue, suffer 1 additional fatigue.</p>",
     "severityRating": 2
-  }
+  },
+  "_text_fixed_by_llm": true
 }

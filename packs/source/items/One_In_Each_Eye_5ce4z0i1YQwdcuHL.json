@@ -90,5 +90,6 @@
       "difficulty": "3f",
       "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action may target 1 or 2 characters; use the higher defense score between them.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -95,5 +95,6 @@
       "difficulty": "1c",
       "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy Special: As part of this action, you move through the target’s engagement and end somewhere within close range of that engagement</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

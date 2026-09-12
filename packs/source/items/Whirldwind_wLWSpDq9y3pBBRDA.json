@@ -91,5 +91,6 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon in each hand, engaged with at least one target with your primary weapon. Its traits and values apply to this attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

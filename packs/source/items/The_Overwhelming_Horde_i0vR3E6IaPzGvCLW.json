@@ -86,5 +86,6 @@
       "difficulty": "1c",
       "requirements": "<p>Engaged with target Special: If you are within close range of at least two allies, reduce the difficulty modifier by {Dc}</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

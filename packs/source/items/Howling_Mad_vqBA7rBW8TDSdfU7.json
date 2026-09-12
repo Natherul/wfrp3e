@@ -85,5 +85,6 @@
       "difficulty": "",
       "requirements": "<p>4 favour, Strength 4+ Special: If you are trained in Intimidate, you may add {Dr} per rank of training to the dice pool.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -70,5 +70,6 @@
       "difficulty": "1f",
       "requirements": "<p>opposed by the highest Intelligence amongst characters (non-party members) who can see you. Each additional character who can see you and has Observation trained adds {Dc} to the dice pool, unless you have Stealth Mastery. Effect: You are invisible while this blessing recharges. Anyone who tries to target you is</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

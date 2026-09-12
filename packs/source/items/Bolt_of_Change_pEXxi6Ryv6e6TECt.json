@@ -104,5 +104,6 @@
       "difficulty": "",
       "requirements": "<p>6 power, up to 4 targets within medium range. All targets must be suffering from 1 or more corruption. Special: This action is opposed by the highest Discipline (WP) score amongst all its targets. Add {Dm} to the dice pool for each target beyond the first</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

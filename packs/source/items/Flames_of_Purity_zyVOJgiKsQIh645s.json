@@ -68,5 +68,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>S favour. You must use a prepare manoeuvre before invoking this blessing. Special: To prove your pure zeal, you light yourself on fire. This inflicts 1 normal wound. Effect: You are surrounded by a nimbus of holy flame that burns without consuming any fuel. While this blessing is recharging, each time you suffer any amount of corruption, you may remove recharge tokens from this card and reduce the corruption you suffer by the same amount (to a minimum of 0)</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

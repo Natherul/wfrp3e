@@ -77,5 +77,6 @@
       "difficulty": "1b",
       "requirements": "<p>Melee weapon in each hand, engaged with target Special: Nominate one of your weapons as your primary weapon. Its traits and values apply to this attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

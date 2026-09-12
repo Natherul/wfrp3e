@@ -39,5 +39,6 @@
       "difficulty": "",
       "requirements": "<p>ge hits with an attack | Special: If you have Piety Mastery, the duration of the Weakened condition is 3 rounds. Effect: When a creature within medium range hits with an attack or other action | that deals damage or inflicts wounds, you may spend all of your available favour and add 5 recharge tokens to this card to invoke this blessing. That creature gains the Weakened condition for 3 rounds</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

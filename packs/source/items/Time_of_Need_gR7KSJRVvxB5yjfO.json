@@ -34,5 +34,6 @@
       "difficulty": "1c",
       "requirements": "<p>An ally within close range suffers a critical wound. Special: When an ally within close range suffers a critical wound, you may play this card to move a number of recharge tokens equal to that wound’s severity value from one of your recharging Shallya cards to this</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

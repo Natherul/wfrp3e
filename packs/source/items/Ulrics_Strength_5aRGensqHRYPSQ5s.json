@@ -68,5 +68,6 @@
       "difficulty": "1c 2b",
       "requirements": "<p>Effect: Ulric favours the strong! While this blessing is recharging, you and all allies within close range gain +1 Strength and +1 Toughness</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

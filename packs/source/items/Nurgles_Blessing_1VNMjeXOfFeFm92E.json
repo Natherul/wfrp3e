@@ -81,5 +81,6 @@
       "difficulty": "3c",
       "requirements": "<p>Must perform a prepare manoeuvre be ., ‘1 sing ‘Special: Add {Dc} to the dice pool for each enemy engaged with you and for each disease suffered by characters within long range. Effect: Your droning chant weakens your foes. While this action is recharging, all enemies within medium range suffer -1 Toughness</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

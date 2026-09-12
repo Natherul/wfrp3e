@@ -72,5 +72,6 @@
       "difficulty": "2f 2b",
       "requirements": "<p>In favour. You and/or the target intone an oath over a symbol of law, authority, or Verena. This requires a prepare manoeuvre. Special: The target may voluntarily agree to take the oath. If so, then do not roll for this action: it is automatically successful.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

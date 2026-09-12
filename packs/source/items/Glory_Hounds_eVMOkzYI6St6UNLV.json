@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>PARTY, ADVENTURERS, IDEALISTIC PARTY TENSION METER Each party member suffers 1 stress and must adjust his stance meter 1 step more Reckless Each party member suffers 2 stress and must adjust his stance meters 1 step more [Dre]: Then the tension resets to zero IMMORTALISED IN STORIES When a member of the Glory Hounds spends a fortune point to add a fortune die to a [Dre], he recovers either 1 stress or 1 fatigue if the action is successful</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>Strength 6+. Melee weapon equipped. Engaged with target or within close range. The attacker is physically larger than the targets. Special: Even if the attack fails, all enemies engaged with the attacker suffer 1 fatigue.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

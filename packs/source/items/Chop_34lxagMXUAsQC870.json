@@ -89,5 +89,6 @@
       "difficulty": "1b",
       "requirements": "<p>By: Greens Engaged with target Special: If greenskins outnumber other opponents in the engagement, ignore this attack’s difficulty modifier</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

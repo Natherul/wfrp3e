@@ -61,5 +61,6 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>Engaged with target Special: X is equal to the number of Aggression spent on this check (up to {Df})</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

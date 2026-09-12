@@ -76,5 +76,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target within close range. The target must be under the effects of a spell with the Ongoing trait, a brief condition granted by a spell, or a similar effect. Special: This spell is an opposed check vs. the Spellcraft of the character who generated the effect you wish to destroy. If the effect is 'naturally occurring,' then the difficulty is set by the GM.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

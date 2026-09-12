@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>S favour, sword or spear equipped effect: Myrmidia guides your hand and strengthens your resolve. While this blessing is recharging, the DR of any weapon you wield is increased by 1</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

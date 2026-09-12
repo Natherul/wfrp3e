@@ -80,5 +80,6 @@
       "difficulty": "1c",
       "requirements": "<p>3 favour, Special: The difficulty of this check + to the highest Fear or Terror rating among undead opponents, plus the modifier above. Effect: While this card is recharging, allies within close range who can hear your prayers and smell your incense treat all Fear and Terror ratings of undead as 2 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

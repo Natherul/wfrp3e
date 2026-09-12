@@ -81,5 +81,6 @@
       "difficulty": "2b",
       "requirements": "<p>Ranged weapon equipped, disengaged, target within close range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

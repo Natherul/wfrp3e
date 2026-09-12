@@ -72,5 +72,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>Special: You may spend additional favour on this blessing up to your character's add 1 recharge token to this blessing per additional favour spent. Effect: You recite prayers to Sigmar, fortifying your mind. While this blessing is recharging, you gain +1 WP and are immune to Fear and Terror.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

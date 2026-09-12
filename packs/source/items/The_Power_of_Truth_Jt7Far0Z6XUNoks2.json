@@ -73,5 +73,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target within medium range. You must speak a truth unknown to the target. Effect: The light of truth shines down on the target. While this spell is recharging, if the target speaks any word that is not true, tell them that they are lying. You must only speak the truth while this spell is recharging; if you speak an untruth, the spell's effect ends (but does not recharge)</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

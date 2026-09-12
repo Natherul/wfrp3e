@@ -78,5 +78,6 @@
       "difficulty": "1b",
       "requirements": "<p>6 power. You must be exposed to the open sky. Effect: You throw your hands into the air and twist, causing the winds to rage and howl. The target is forced from the sky. If he was at close range from the ground, he suffers 1 wound; at medium range, 2 wounds; at long range, 3 wounds; at extreme range, 4 wounds.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

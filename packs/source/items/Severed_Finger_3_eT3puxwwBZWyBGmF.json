@@ -6,5 +6,6 @@
   "system": {
     "description": "<p>You smash a finger on your sword hand! You suffer @{Dm} to actions where the use of that finger is important.</p> You lose the finger. This wound is permanent.",
     "severityRating": 3
-  }
+  },
+  "_text_fixed_by_llm": true
 }

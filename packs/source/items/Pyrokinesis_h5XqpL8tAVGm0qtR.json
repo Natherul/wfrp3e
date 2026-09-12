@@ -54,5 +54,6 @@
       "difficulty": "",
       "requirements": "<p>Special: The fire’s size determines this spell’s difficulty Candle flame - Trivial (0d); campfire - Easy (1d); hearth fire - Average (2d); bonfire or forge fire - Hard (3d); even larger fires - Daunting (4d) Effect: While this card is recharging, you assume command of the target fire. It consumes no fuel unless you want it to and cannot be doused. You may move it at your walking speed as a manoeuvre. When the spell ends, the fire resumes normal behavior (and may go out if it has been moved)</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

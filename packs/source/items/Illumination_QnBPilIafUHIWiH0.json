@@ -64,5 +64,6 @@
       "difficulty": "1c",
       "requirements": "<p>5 power. If engaged with an enemy, add {Dc} to your dice pool. Effect: You shine like a beacon of pure, white light. While this spell is recharging, the effects of darkness or shadow within close range of you are nullified entirely, and reduced by half out to long range. In your intense glow makes you hard to look upon and you gain +1 defence.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

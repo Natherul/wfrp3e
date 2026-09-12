@@ -87,5 +87,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>S power Effect: You veil yourself from sight. While this card is recharging, you are invisible. Characters within close range may make a Hard (3Dc) Observation (Int) check to detect your approximate location, but</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

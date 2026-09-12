@@ -80,5 +80,6 @@
       "difficulty": "",
       "requirements": "<p>Used By: Franz Bieber, Eduardo Rodrigues. Engaged with target, melee weapon equipped. Effect: attack that relies more on cunning and agility than brute force. Franz may use this attack with either his dagger or his bow, in which case it is a ranged attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

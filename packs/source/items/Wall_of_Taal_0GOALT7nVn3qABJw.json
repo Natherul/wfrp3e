@@ -43,5 +43,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 favour. There must be vegetation within close range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -5,5 +5,6 @@
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
     "description": "<p>You gain an armour soak value of 1 while not wearing any armour. Add {Dc} to all checks to interact with people who can see your mutation. Your skin is pockmarked and studded with hideous, swelling warts. You have become quite ugly.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

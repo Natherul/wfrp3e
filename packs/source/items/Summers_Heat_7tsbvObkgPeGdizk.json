@@ -84,5 +84,6 @@
       "difficulty": "1b",
       "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

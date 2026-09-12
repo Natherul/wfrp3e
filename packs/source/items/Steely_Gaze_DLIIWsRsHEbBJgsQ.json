@@ -62,5 +62,6 @@
       "difficulty": "",
       "requirements": "<p>You must be within close range of and able to make eye contact with the target Special: This action uses Fellowship rather than Strength</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

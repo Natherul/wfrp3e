@@ -67,5 +67,6 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dm} to the dice pool as the effective armour level you are wearing. Special: You may not use any Active Defences while this card is recharging</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -80,5 +80,6 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon equipped, must be able to see your target. Special: This attack uses Agility instead of Strength for both the attack roll and damage calculation. Increase the difficulty modifier by {Dc} for each increment of range you are away from the target.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

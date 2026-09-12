@@ -33,5 +33,6 @@
       "difficulty": "",
       "requirements": "<p>Four, not engaging with an enemy, a coin marked with an X on one face Special: After you are the target of a skill check, you may flip your lucky coin. Add 4 recharge tokens to this card and spend 2</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

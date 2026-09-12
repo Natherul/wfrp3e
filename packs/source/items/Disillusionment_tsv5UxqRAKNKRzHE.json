@@ -86,5 +86,6 @@
       "difficulty": "",
       "requirements": "<p>7 favour Special: This action is either opposed by the target’s Guile (Fel), or in case of illusions created by an enemy, has its difficulty set by the GM based on complexity of the illusion. This is usually Hard (3{Dc}). Use the difficulty within medium range to set the baseline.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

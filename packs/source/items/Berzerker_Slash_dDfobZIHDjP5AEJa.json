@@ -82,5 +82,6 @@
       "difficulty": "2b",
       "requirements": "<p>Used By: Izka Madtooth Engaged with target, melee weapon equipped Special: Izka Madtooth must spend at least one Aggression die to use this ability</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

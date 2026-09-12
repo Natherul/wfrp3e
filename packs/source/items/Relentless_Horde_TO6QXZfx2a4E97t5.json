@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>Not engaged with an enemy.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -5,5 +5,6 @@
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
     "description": "<p>Although they prefer to work in gromril when they can, dwarfs are no less skilled with simple iron and steel. This armour, forged in the dwarf karaks, is of the best possible quality, engraved with protective runes and decorative plating and scales. Defence Rating: 1 Soak Value: 4 Encumbrance: 6 The Pierce value of attacks that target you is reduced by 1</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

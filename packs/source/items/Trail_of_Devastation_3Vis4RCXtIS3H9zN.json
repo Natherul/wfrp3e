@@ -72,5 +72,6 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon in each hand, target within close range. Special: Nominate one of your weapons as your primary weapon. Its traits and values apply to this attack. As part of this attack, you move to engaged with your target.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

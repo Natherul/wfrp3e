@@ -69,5 +69,6 @@
       "difficulty": "1c",
       "requirements": "<p>For favour, a free hand. Effect: While this card is recharging, your hand is surrounded with a nimbus of deadly power. Treat it as a hand weapon with DR 7, CR 2, and Pierce 2. Whenever you land a blow with your hand, remove a recharge token from this card.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

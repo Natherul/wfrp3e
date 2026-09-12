@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target engagement or area within medium range.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

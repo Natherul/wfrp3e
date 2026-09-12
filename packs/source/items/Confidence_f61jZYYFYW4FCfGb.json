@@ -43,5 +43,6 @@
       "difficulty": "1c",
       "requirements": "<p>S power, a light source such as a candle or a small amount of incense to clear the mind. Effect: The light of Hysh shines bright within you, offering confidence. While this spell is recharging, you gain {Df} to Charm and Intimidate checks, and when spending fortune points on such checks you add {Dr} instead of {Df}</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

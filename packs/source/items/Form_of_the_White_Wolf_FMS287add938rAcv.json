@@ -43,5 +43,6 @@
       "recharge": 0,
       "difficulty": "1c 1b"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

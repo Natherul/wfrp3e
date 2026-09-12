@@ -90,5 +90,6 @@
       "difficulty": "2c 1f 1b",
       "requirements": "<p>9 power: Special: You play this card at the end of a round in which you took an action</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

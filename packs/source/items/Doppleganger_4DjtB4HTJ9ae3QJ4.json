@@ -58,5 +58,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power. If you are trained in Skulduggery, add {Dc} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

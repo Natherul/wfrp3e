@@ -86,5 +86,6 @@
       "difficulty": "2c 2b",
       "requirements": "<p>4 favour. Target within close range. Effect: The goddess’s tears rain down from the heavens upon your target. Each time you remove a recharge token from this blessing, the target recovers 1 normal wound.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

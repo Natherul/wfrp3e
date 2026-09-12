@@ -62,5 +62,6 @@
       "difficulty": "",
       "requirements": "<p>Used By: Klaus the Merchant Target within close range Effect: Klaus flatters and cajoles his target, making promises and claims like a snake-oil salesman, distracting his target and lulling him into a malleable state</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

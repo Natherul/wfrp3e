@@ -68,5 +68,6 @@
       "difficulty": "1c",
       "requirements": "<p>Pistol or handgun equipped, engaged with target. You may add {Dc} dice pool. If you do, you may make perform the Melee Strike Basic action immediately after resolving this action</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -94,5 +94,6 @@
       "difficulty": "1b",
       "requirements": "<p>edBy: € lJn }:shin Skaven Target within medium range. Special: Add B to this action if the target is beyond close range. Add {Dm} to this action if the attacker is engaged with an enemy</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

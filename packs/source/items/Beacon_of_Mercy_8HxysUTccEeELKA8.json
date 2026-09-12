@@ -97,5 +97,6 @@
       "difficulty": "3c",
       "requirements": "<p>8 favour. You must perform the prepare manoeuvre to invoke this blessing, and must stand in place until the blessing is resolved (see below). Special: If you move between when this blessing is invoked and when it is resolved, you immediately abort the blessing. Effect: A gentle glow emanates from you and heals all those it touches. You are not affected by this blessing, but other living creatures within close range are affected as described below.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

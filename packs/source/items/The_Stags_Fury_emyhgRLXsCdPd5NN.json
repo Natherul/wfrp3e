@@ -43,5 +43,6 @@
       "difficulty": "3c",
       "requirements": "<p>7 favour, target engagement within medium range. Effect: Taal empowers your allies in the target engagement. While this blessing is recharging, those characters (whether they remain in the engagement or not) gain a bonus to their DR equal to their depth in their current stance.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

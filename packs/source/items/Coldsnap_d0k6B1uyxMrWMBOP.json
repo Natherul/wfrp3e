@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>The surrounding temperature plummets to freezing. Any water within close range of you turns to ice. You and everyone engaged with you suffers 1 fatigue.</p> As above, and you gain the Sluggish condition for 2 rounds"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

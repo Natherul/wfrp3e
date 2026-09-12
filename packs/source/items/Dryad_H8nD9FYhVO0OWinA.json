@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Fear 2 (war-form only) Forest Walk: May ignore all terrain-based manoeuvre and up to {Dc} misfortune penalties to movement and actions performed while in woodland terrain. AGGRESSION 6 CUNNING 3 EXPERTISE 1</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

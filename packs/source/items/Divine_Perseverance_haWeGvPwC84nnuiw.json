@@ -72,5 +72,6 @@
       "difficulty": "3b",
       "requirements": "<p>Ultity modi in your engagement. Effect: While this card is recharging, you and any allies within close range add {Dr} to all Intelligence and Willpower checks</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

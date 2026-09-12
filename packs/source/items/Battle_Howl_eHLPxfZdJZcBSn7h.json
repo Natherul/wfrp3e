@@ -80,5 +80,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>engagement within close range Special: This check is opposed by the highest WP among enemies in the target engagement. Each enemy with Discipline adds {Dm} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -71,5 +71,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>8 power. Target living creature within medium range. The target must either have one or more corruption or a mutation, or be suffering from one of your Tzeentch spells. Effect: Tzeentch's treacherous whispers seize control of the target. While this spell is recharging, you and the target both control his body. He acts normally on his turn, but on your turn you may act through him using his characteristics, talents, and actions. If you take actions both through the target and yourself in the same turn,</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

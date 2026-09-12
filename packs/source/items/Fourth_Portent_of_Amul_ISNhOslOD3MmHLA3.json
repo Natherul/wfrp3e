@@ -72,5 +72,6 @@
       "difficulty": "2c 2f",
       "requirements": "<p>8 power</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

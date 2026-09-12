@@ -84,5 +84,6 @@
       "difficulty": "1c",
       "requirements": "<p>First Aid trained, cautious with target. Special: If the target is critically wounded, add {Dm} to the check. This card recharges at the end of the encounter</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

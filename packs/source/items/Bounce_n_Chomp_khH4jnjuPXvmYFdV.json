@@ -94,5 +94,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Used By: da Squig within close range. Special: Da Squig moves to engage the target as part of this action. Da Squig does not suffer any penalty for leaving engagement it was already in.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

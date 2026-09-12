@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Man-bane: Wargor and any beastmen units engaged with a Wargor gain {Dm} and +1 damage to their Melee Attacks against human opponents. AGGRESSION CUNNING 6 2</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

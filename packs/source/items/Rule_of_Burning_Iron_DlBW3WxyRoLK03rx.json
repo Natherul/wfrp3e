@@ -63,5 +63,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target within medium range and an item. The item in the target's possession begins to glow with burning heat. Each time you remove a recharge token from this card, the target suffers damage as noted below, so long as he's holding the item. His armour soak value is of no effect against this damage</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

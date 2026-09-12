@@ -108,5 +108,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>6 power, targets within long range Special: For each additional target beyond the first, add 1 to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

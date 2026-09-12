@@ -6,5 +6,6 @@
   "system": {
     "description": "<p>Add M to all your checks while you have any cards recharging. If you ever acquire two Concussions, you collapse unconscious until one of them is healed.</p>",
     "severityRating": 2
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>3 favour, Strength 3+. You cannot follow any trail older than 1 week. If the trail you are following is more than a day old, add {Dc} to the dice pool.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

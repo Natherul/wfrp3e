@@ -64,5 +64,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>vision the wind of While this card is recharging, you can tell the status of any creature in your field of view: dead, or undead. You can also see ethereal spirits, such as ghosts</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

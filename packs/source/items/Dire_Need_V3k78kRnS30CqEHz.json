@@ -38,5 +38,6 @@
       "difficulty": "2c",
       "requirements": "<p>Effect: You tap into hidden reserves of energy. While this spell is recharging, any {Dr} you roll count as #4, in addition to their effects as 4</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

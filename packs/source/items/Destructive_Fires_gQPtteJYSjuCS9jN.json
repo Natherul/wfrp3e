@@ -52,5 +52,6 @@
       "difficulty": "",
       "requirements": "<p>Power equal to twice the difficulty of the action (see below), target within medium range, must perform the prepare manoeuvre action Special: The difficulty of this action (and the power it requires) is based on the size and heat of the fire you require. Candle flame Trivial (0{Dc}); campfire Easy (1{Dc}); hearth fire Average (2{Dc}); bonfire or forge fire Hard (3{Dc}); house fire Daunting (4{Dc}); even larger fire Heroic (5{Dc}) Effect: When you cast this spell you focus your attention on an inanimate object, setting it alight and consuming it utterly</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

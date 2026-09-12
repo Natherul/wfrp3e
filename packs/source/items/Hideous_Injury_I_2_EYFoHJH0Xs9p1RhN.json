@@ -6,5 +6,6 @@
   "system": {
     "description": "<p>Severity Rating of every critical wound affecting you increases</p>",
     "severityRating": 2
-  }
+  },
+  "_text_fixed_by_llm": true
 }

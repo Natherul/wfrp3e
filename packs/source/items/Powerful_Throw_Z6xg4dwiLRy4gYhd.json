@@ -80,5 +80,6 @@
       "difficulty": "2b",
       "requirements": "<p>Throwing weapon equipped, not engaged with an enemy. Special: You may suffer up to 2 fatigue - before this action. Reduce the difficulty by {Dc}.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

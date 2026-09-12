@@ -72,5 +72,6 @@
       "difficulty": "1c 1f",
       "requirements": "<p>8 power. Target within medium range; you must be able to make eye contact with target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

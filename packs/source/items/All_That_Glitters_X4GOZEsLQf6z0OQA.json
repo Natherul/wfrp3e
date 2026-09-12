@@ -69,5 +69,6 @@
       "difficulty": "1c",
       "requirements": "<p>5 favour, engaged with target, you must donate 1 of your most valuable coins to the needy. dice pool. Effect: Ranald pulls the wool over your target's eyes. While this blessing is recharging, he sees you and your possessions as being wealthier and more valuable than you actually are. You gain +2 to checks to haggle or do business with the target. This blessing recharges when your business is concluded, when you move further than long range from your target, or at sunrise, whichever comes first</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

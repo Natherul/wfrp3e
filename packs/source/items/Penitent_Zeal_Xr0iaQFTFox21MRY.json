@@ -82,5 +82,6 @@
       "difficulty": "2b",
       "requirements": "<p>3 favour. You suffer 1 wound as you invoke this blessing</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

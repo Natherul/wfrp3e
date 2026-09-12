@@ -84,5 +84,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>4 favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

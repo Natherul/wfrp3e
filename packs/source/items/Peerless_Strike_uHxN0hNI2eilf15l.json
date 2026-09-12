@@ -103,5 +103,6 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon equipped. Al(t)h(1) closer range. Special: This attack uses Agility instead of Strength for the attack roll. As part of this action you may move to engage the target for free.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

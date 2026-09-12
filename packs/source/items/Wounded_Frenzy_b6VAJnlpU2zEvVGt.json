@@ -85,5 +85,6 @@
       "difficulty": "1b",
       "requirements": "<p>== . _& Melee weapon equipped, suffering from at least three wounds</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

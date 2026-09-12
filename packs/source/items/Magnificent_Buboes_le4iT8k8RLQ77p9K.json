@@ -84,5 +84,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>6 power, 4+ To. You must be afflicted by at least 1 disease. Effect: Magnificent pustules form and swell on your skin, and within each one is a tiny, wriggling Nurgling. While this spell is recharging, you gain +1 Soak. Once this spell recharges, roll 1 Nurgling emerges from your buboes.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

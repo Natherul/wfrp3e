@@ -83,5 +83,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Crypt Ghoul. Engaged with target. Special: The attacker may convert one additional € characteristic die into 2 @ reckless die for each critical wound the target is suffering from.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

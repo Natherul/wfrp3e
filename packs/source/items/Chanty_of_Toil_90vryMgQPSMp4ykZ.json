@@ -88,5 +88,6 @@
       "difficulty": "1c",
       "requirements": "<p>in an engagement within medium range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

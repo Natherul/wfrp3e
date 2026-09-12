@@ -69,5 +69,6 @@
       "difficulty": "3c 1f",
       "requirements": "<p>10 power. You toss a coin into the air as part of casting this spell. The coin is consumed.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -68,5 +68,6 @@
       "difficulty": "2c",
       "requirements": "<p>Target metal object within close range. Must spend 1 power per encumbrance of the target. Special: If the target object is carried by an enemy, add {Dm} to the dice pool. Unusually large or complex targets may add additional difficulty at the GM's discretion.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

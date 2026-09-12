@@ -53,5 +53,6 @@
       "difficulty": "",
       "requirements": "<p>Shield equipped Effect: After you have been declared the target of a Melee Attack or Ranged Attack, four recharge tokens to this card to</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

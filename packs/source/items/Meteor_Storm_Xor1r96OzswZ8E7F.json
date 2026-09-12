@@ -89,5 +89,6 @@
       "difficulty": "1b",
       "requirements": "<p>8 power. Target(s) within long range. If engaged with an enemy, add {Dm} to the dice pool. Special: For each target after the first, add {Dm} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

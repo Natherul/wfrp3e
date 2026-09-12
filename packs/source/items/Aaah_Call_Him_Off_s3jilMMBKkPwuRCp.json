@@ -72,5 +72,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>within close range, get engaged with pet target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

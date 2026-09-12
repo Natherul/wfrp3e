@@ -86,5 +86,6 @@
       "difficulty": "1c 2b",
       "requirements": "<p>4 favour. You must be holding target sword. Effect: Verena blesses your sword. While this blessing is recharging, the weapon is considered an enchanted and blessed item. It gains the Pierce 2 and Vicious qualities when wielded against a condemned criminal or anyone you know to have committed a crime or broken an oath.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

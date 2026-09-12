@@ -48,5 +48,6 @@
       "difficulty": "2b",
       "requirements": "<p>Special: You must hit the opponent with the highest Defence. All opponents in the engagement may use Active Defences this attack. While this card is recharging, you inflict +1 damage for every {Dr} you roll while making an attack. You may not use Active Defences while this card is recharging</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

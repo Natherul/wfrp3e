@@ -90,5 +90,6 @@
       "difficulty": "1c",
       "requirements": "<p>3 power, at least one free hand (or paw, or claw, or etc.), engaged with target Special: This action is both a Spell and a Melee Attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

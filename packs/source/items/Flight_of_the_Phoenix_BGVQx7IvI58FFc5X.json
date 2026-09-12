@@ -68,5 +68,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Special: You throw your sword at the target! This attack uses Strength instead of Agility both for the check and to determine {Dm} damage dealt. Don’t forget to retrieve your sword</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

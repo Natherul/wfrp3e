@@ -83,5 +83,6 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon equipped, engaged with target, place 2 recharge tokens on one of your Active Defences when you use this action</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

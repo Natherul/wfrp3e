@@ -49,5 +49,6 @@
       "difficulty": "",
       "requirements": "<p>Share vision with a friendly, small animal. You can see what the animal sees. You can target a larger or unfriendly animal if you add {Dm} to your dice pool. You cast the spell. Suffer 2 stress. After this spell recharges, you suffer a temporary insanity with the Chaos trait. Then the animal, terrified, attacks the nearest living creature!</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

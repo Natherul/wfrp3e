@@ -82,5 +82,6 @@
       "difficulty": "3c",
       "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from this card, each of your allies within medium range of you recovers 1 normal wound.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

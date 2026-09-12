@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: You are wreathed in flickering harmful orange flames that turn aside blows. While this card is recharging, your soak value is increased by your depth in the Reckless stance.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

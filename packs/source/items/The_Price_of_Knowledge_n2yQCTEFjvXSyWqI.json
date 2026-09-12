@@ -82,5 +82,6 @@
       "difficulty": "1c",
       "requirements": "<p>Within close range of the target allies, if you are engaged with one of the target, reduce the difficulty modifier</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

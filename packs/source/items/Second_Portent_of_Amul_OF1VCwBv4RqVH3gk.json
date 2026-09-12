@@ -83,5 +83,6 @@
       "difficulty": "3b",
       "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to dice pool. When this card recharges completely, discard all fortune points remaining on it</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

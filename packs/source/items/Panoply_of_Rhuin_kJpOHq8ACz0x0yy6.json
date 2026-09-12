@@ -78,5 +78,6 @@
       "difficulty": "3c 1f",
       "requirements": "<p>8 power. Must perform the prepare manoeuvre. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: You are guided with a magical armour, protecting you from harm while this spell is recharging. The Panoply of Rhuin counts as a suit of armour with Soak 4 and Defence 2 that does not interfere with spellcasting. Furthermore, your Flaming Sword of Rhuin gains +1 DR and +1 Pierce</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

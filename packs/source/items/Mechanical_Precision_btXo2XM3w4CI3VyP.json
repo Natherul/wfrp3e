@@ -90,5 +90,6 @@
       "difficulty": "2c",
       "requirements": "<p>Special: The Unreliable rating of your weapon is improved (increased) by 1 for this attack. This action uses Agility, Intelligence</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

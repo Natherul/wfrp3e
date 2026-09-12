@@ -44,5 +44,6 @@
       "difficulty": "",
       "requirements": "<p>Specific action card weapon, engaged with target. Decform the action as intended. You perform the action incredibly. You hit the target for normal damage. May perform a free manoeuvre. Hit the target for normal damage. You hit the target for +2 damage. If the check relied on a physical A. You hit the target for +2 damage. A4 Perform a for characteristic, recover 1 fatigue. If the M Perform for free.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

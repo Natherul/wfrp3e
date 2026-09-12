@@ -5,5 +5,6 @@
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
     "description": "<p>In cities, there is a neverending but hidden war waged by the lav. The arms used in this war are just as unfamiliar to most citizens of the Empire as the war itself - a fact that contributes to their deadliness. Damage Rating: 3 Critical Rating: 2 Group: Exotic Encumbrance: 2 Traits: Concealable, Pierce 1 An attack with this weapon that causes damage and gets a [Dc] result gains: suffer 1 fatigue to make a basic melee attack with this weapon.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

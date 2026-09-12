@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>9 power, target living creature within medium range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

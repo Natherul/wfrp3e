@@ -82,5 +82,6 @@
       "difficulty": "1c",
       "requirements": "<p>Fencing weapon, hand weapon, or dagger equipped, engaged with target. Weapon Skill & Coordination Trained</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>You must be able to fly, not be engaged with a target, and be within close range. If the attack is successful, you may perform a free manoeuvre</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

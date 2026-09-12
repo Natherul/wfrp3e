@@ -104,5 +104,6 @@
       "difficulty": "2c",
       "requirements": "<p>8 favour, hammer or glaive with Sigmar equipped. Effect: You fortify your hammer with Sigmar’s holy might. Assuming this blessing is successfully invoked, your next successful melee attack with your hammer this encounter gains the bonuses noted below</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

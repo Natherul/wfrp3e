@@ -90,5 +90,6 @@
       "difficulty": "1c 1f",
       "requirements": "<p>6 power. If you are engaged with an enemy, add to the dice pool effect: You conjure a gleaming lance of quicksilver in the air before you. When this spell recharges completely, it streaks out and strikes your enemies as detailed below</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

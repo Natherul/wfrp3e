@@ -51,5 +51,6 @@
       "difficulty": "2b",
       "requirements": "<p>Special: This action uses Fellowship than Strength. Effect: While this card is recharging, the target must suffer 1 stress in order Social action check</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -92,5 +92,6 @@
       "difficulty": "2b",
       "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Attack recharging, engaged with target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

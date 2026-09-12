@@ -77,5 +77,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Cult Mutant. With target modifier & reduce the difficulty to M. If the Cult Mutant is critically wounded, the attack gains {Dm}</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

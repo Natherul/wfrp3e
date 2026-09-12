@@ -78,5 +78,6 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: You become a grim spectre of death. While this card is recharging, you can Fear 1 against enemies as a manoeuvre, and add {Dr} to all Intimidate (St) checks.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

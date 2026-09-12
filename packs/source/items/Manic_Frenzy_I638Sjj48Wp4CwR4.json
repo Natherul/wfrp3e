@@ -77,5 +77,6 @@
       "difficulty": "1b",
       "requirements": "<p>6 power, target engagement within medium range. Special: This spell targets both allies and enemies within the engagement but the check is opposed by the highest enemy Discipline (WP) unless an ally resists. Effect: Each target gains the Energised condition and suffers 1 stress and 1 fatigue if he does perform an action that is not an attack that targets a character’s Defence during his turn while this card is recharging</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

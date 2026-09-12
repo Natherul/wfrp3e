@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Horrifying: The upgraded creature or NPC gains Fear 3. If it already has a Fear or Terror rating, that rating is instead increased by 1 (to a maximum of 4). Stomp: A Monstrous creature may perform the Melee Strike action as a manoeuvre once per turn. MONSTROUS</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Rushes through you</p> Gain 2 power for each {Dc} generated. Suffer 1 stress for each {Dm} generated."
-  }
+  },
+  "_text_fixed_by_llm": true
 }

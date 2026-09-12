@@ -84,5 +84,6 @@
       "difficulty": "",
       "requirements": "<p>Special: If the target is not engaged with the attacker, add {Dm} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

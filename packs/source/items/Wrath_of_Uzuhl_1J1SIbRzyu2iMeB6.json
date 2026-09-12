@@ -104,5 +104,6 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

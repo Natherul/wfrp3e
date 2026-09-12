@@ -74,5 +74,6 @@
       "difficulty": "2c",
       "requirements": "<p>Special: This attack may be played when you are declared the target of an attack. This attack resolves before that attack takes place.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -96,5 +96,6 @@
       "difficulty": "2c",
       "requirements": "<p>1 response to your person being searched, you must have 1 {Dm} and may not Curry Favour (as you have no time).</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -73,5 +73,6 @@
       "difficulty": "1b",
       "requirements": "<p>You must be able to see and hear the target clearly</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -72,5 +72,6 @@
       "difficulty": "2c",
       "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, enemies with whom you are engaged may not take an action on the turn in which they disengage from you</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

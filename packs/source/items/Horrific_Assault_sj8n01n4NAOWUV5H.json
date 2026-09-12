@@ -84,5 +84,6 @@
       "difficulty": "1b",
       "requirements": "<p>Used By: Horror o Engaged with target Special: If the target is suffering from add {Dm} to this check</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

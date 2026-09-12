@@ -67,5 +67,6 @@
       "difficulty": "1c",
       "requirements": "<p>4 favour - Effect: While this card is recharging, you may add {Dm} to your dice pool on each Melee Attack that you make</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

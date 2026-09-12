@@ -48,5 +48,6 @@
       "difficulty": "1b",
       "requirements": "<p>Shield equipped, engaged with target If you have Weapon Skill trained, add {Dr} to your die pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

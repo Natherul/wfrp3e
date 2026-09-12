@@ -82,5 +82,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Effect: You are surrounded by buzzing, biting cloud of gnats. While this spell is recharging, your defence is increased by 1. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -81,5 +81,6 @@
       "difficulty": "2b",
       "requirements": "<p>Bow equipped, target(s) within medium range. Add {Dm} to your die pool for each target beyond the first (up to a maximum of 3 total targets)</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

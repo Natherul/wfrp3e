@@ -72,5 +72,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>Vessel filled with a [fill] Special: You count as a sizable body of water for Manann blessings while this blessing is recharging. Effect: Your body and all your clothing and equipment becomes a roiling mass of water. While this blessing is recharging, you ignore fatigue (and can’t suffer fatigue to perform extra manoeuvres), take half damage from all effects, and can pass with minimal effort through any barrier that would not keep out water.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

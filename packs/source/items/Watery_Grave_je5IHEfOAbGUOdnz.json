@@ -94,5 +94,6 @@
       "difficulty": "",
       "requirements": "<p>8 favour, target within medium range. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: The target's lungs fill with seawater. Each time a recharge token is removed from this card, the target makes a Resilience (To) check opposed by Discipline (WP). If he fails, he suffers 1 wound and 1 fatigue. The target gains the Overwhelmed condition while this card is recharging.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

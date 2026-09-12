@@ -76,5 +76,6 @@
       "difficulty": "1b",
       "requirements": "<p>Special: engaged with the target If an ally is target, ignore the difficulty modifier</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

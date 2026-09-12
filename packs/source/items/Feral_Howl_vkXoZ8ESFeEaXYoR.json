@@ -68,5 +68,6 @@
       "difficulty": "1b",
       "requirements": "<p>3 power. Must be in beast form and the target engagement must be within close range. Special: This check is opposed by the highest Willpower amongst enemies in the target engagement. Each enemy with Discipline trained in the engagement adds {De} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

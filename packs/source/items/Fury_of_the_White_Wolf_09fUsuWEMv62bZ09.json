@@ -64,5 +64,6 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: While this blessing is recharging, you gain the Frenzied condition. This card recharges when you are no longer engaged with an enemy.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

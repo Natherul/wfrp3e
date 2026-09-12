@@ -86,5 +86,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>6 power, target within medium range. The target must be suffering from either a permanent or temporary insanity</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

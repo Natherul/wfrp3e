@@ -85,5 +85,6 @@
       "difficulty": "3c",
       "requirements": "<p>You defeat an enemy in melee combat; target enemies within close range. This action is opposed by the highest Willpower amongst its targets; each</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

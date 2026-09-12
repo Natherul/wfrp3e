@@ -48,5 +48,6 @@
       "difficulty": "1c",
       "requirements": "<p>Engaged with target. You must have inflicted a wound a [Df]g1m the target during your last turn. Special: The target cannot perform the Active Parry or Improved Parry against an Ed Butt S</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

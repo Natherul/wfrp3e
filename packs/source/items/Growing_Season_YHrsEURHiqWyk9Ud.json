@@ -82,5 +82,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>4 power. Target must be within medium range and stand on natural earth or near greenery. Effect: Vines, roots, and other growing things burst from the ground and wrap around your target. While this spell is recharging, he must pass an Average (2d) Athletics check to move and gains the Exposed condition.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

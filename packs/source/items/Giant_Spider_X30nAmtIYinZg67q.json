@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Fast, Instinctive, Poison, Terror 1 Wall-crawlers: Can move across vertical surfaces. Ignore terrain-based manoeuvre penalties and up to two MM in adverse terrain. AGGRESSION 3 {Dc} CUNNING 3 {Dc}</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

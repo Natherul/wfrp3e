@@ -100,5 +100,6 @@
       "difficulty": "1c 2b",
       "requirements": "<p>8 power. Target undead creature within medium range.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

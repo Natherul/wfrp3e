@@ -47,5 +47,6 @@
       "difficulty": "",
       "requirements": "<p>Channelling and Spellcraft Mastery. You must be holding power in excess of Equilibrium. Enhances a Spell Special: Play this card when you cast a Spell that targets an enemy. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The target suffers 1 wound.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

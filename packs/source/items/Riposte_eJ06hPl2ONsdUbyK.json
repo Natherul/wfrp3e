@@ -72,5 +72,6 @@
       "difficulty": "1b",
       "requirements": "<p>Melee weapon equipped, target has just used the Melee Attack that you have used the Parry action against</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

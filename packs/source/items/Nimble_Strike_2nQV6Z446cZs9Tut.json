@@ -68,5 +68,6 @@
       "difficulty": "",
       "requirements": "<p>Dagger, rapier, or hand weapon equipped, engaged with target Special: This attack uses Agility instead of Strength for both the attack roll and to calculate damage dealt</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

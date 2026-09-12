@@ -34,5 +34,6 @@
       "difficulty": "",
       "requirements": "<p>Fellowship 4+, an ally within close range is assembling a dice pool for a Social action check. Paying careful attention to the timing, you can deliver a quick joke or aside when it matters most. When an ally within close range is assembling a dice pool for a Social action, you may add 4 recharge tokens to this card to add {Dm} to the dice pool. Special: If you have Charm trained, add an additional {Dm} to the dice pool.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

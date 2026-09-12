@@ -86,5 +86,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Effect: You are surrounded by a buzzing, foul cloud of flies. While this spell is recharging, you gain +1 Defence. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue [Dr]</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

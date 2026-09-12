@@ -86,5 +86,6 @@
       "difficulty": "2c 2b",
       "requirements": "<p>6 power, must be under the open sky and not encumbered. Effect: The winds of the heavens bear you aloft. While this spell is recharging, you can fly at the same speed you can walk.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

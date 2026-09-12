@@ -56,5 +56,6 @@
       "difficulty": "3c",
       "requirements": "<p>12 favour, must be under the open sky Effect While this blessing is recharging, a fierce storm breaks out within long range, churning the sea to angry waves and whipping rain and sea-foam through the air.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

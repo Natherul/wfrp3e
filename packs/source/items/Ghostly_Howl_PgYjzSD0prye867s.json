@@ -86,5 +86,6 @@
       "difficulty": "",
       "requirements": "<p>Special: Add {Dr} to your dice pool if you are engaged with an enemy</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

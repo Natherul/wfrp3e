@@ -81,5 +81,6 @@
       "difficulty": "2b",
       "requirements": "<p>S power, target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Medicine trained. May not be used during combat encounter mode. Add {De} if target of check is self.</p> Immediate Care: Recover 1 wound for each 4+ on 2D6 to a maximum of target’s Toughness. Causes 1 stress and 1 fatigue. Ignore Critical Wound: If 4+ equals the critical’s severity, target may ignore that critical wound for the remainder of the day. Causes 1 stress, 1 fatigue, and 1 normal wound. Overnight Resilience Check: Target gains +1Dc to Resilience check. Target gains additional +1Dc and minus 1Dc to Resilience check. May benefit from each specific source of healing once per day (PG:89)"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

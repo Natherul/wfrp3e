@@ -114,5 +114,6 @@
       "difficulty": "1c",
       "requirements": "<p>Not engaged with target, target within medium range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

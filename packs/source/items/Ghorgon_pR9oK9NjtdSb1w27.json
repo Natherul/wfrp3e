@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Terror 3, Frenzy, Reach, Four Arms, Sensitive Nostrils Bloodgreed: kills an opponent, it may perform a manoeuvre to feast on the flesh. If it does, it recovers 1 normal wound and gains 1 {Dc}. If not, it loses 1 Aggression. Bloodlust: A ghorgon inflicts +2 damage against the ally wounded.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

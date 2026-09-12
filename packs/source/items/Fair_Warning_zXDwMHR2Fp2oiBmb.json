@@ -34,5 +34,6 @@
       "difficulty": "",
       "requirements": "<p>Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

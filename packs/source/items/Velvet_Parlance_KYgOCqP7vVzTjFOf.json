@@ -81,5 +81,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>pool if you are engaged with an enemy</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

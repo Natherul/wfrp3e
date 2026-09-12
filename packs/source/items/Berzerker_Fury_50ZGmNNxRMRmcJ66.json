@@ -68,5 +68,6 @@
       "difficulty": "1b",
       "requirements": "<p>Effect: You abandon self control and lose yourself to a berserk fury. While this B card is recharging, you gain the Frenzied condition.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

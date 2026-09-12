@@ -91,5 +91,6 @@
       "difficulty": "",
       "requirements": "<p>Eye contact with target within close range. Add if you are engaged with another enemy.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -74,5 +74,6 @@
       "difficulty": "",
       "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against that character’s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

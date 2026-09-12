@@ -48,5 +48,6 @@
       "difficulty": "5c",
       "requirements": "<p>Wounded and have a deathwish. Special: This card recharges when the foe breaks or dies, or when you are KO'd. If, when this card recharges, your wounds exceed your wound threshold, you are affected and may die. Effect: You resolve die gloriously in this battle. While this card is recharging, you deal +3 damage on all attacks, your CR is reduced by 1 to a minimum of 1, and your wound threshold is doubled. Also while this card is recharging, all attacks that target you gain +1 Critical.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

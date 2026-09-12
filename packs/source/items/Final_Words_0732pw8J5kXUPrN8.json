@@ -79,5 +79,6 @@
       "difficulty": "2c",
       "requirements": "<p>6 power. Your target must be the corpse of a creature that had a soul (e.g., it cannot be a daemon or undead). The target must have died within close range of you during this encounter.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

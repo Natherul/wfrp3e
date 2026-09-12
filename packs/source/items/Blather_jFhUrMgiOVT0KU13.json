@@ -74,5 +74,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Special: perform another Social action while this card is recharging. Blather immediately recharges. Effect: You flood your target with an endless stream of random chit-chat. While this card is recharging and the target is engaged with you, he adds {Dc} to all Social checks as he tries to get a word in edgeways. It costs one extra manoeuvre for the target to disengage from you while this card is recharging.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

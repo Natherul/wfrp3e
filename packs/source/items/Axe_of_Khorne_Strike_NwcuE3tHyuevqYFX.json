@@ -106,5 +106,6 @@
       "difficulty": "",
       "requirements": "<p>Axe of Khorne equipped, engaged with target. Special: If this action generates any severe injuries, the severe effect of the injury is applied immediately.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -76,5 +76,6 @@
       "difficulty": "1c",
       "requirements": "<p>Target within medium range, target can understand you. Effect: You use your inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow. While this action is recharging, Charm, Guile, and Intimidate checks that target you gain {Df}.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

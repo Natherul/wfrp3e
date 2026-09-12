@@ -72,5 +72,6 @@
       "difficulty": "3c",
       "requirements": "<p>Effect: While this blessing is recharging, Verena administers justice on your behalf. Each time you suffer 1 or more wounds, fatigue, stress, corruption, critical wounds, or conditions, you may choose another character within long range. That character suffers wounds, fatigue, stress, corruption, critical wounds, or corresponding conditions as appropriate and in equal measure to the injury you have suffered.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

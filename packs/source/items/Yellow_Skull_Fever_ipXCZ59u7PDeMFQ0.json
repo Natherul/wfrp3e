@@ -5,5 +5,6 @@
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
     "description": "<p>check Intelligence: Your brain burns so badly; it feels like any movement will cause your head to explode. Each FEVER symptom adds {Dm} to all mental checks.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -86,5 +86,6 @@
       "difficulty": "2c",
       "requirements": "<p>Effect: You imitate the voice and mannerisms of a specific (perhaps invented) person with intent to deceive and pass yourself off as someone else. While this card is recharging, gain a {Df} bonus on all Guile checks</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

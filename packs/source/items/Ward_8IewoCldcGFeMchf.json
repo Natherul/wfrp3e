@@ -53,5 +53,6 @@
       "difficulty": "",
       "requirements": "<p>Shield equipped, Toughness 4+, Resilience trained effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

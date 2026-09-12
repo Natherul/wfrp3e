@@ -85,5 +85,6 @@
       "difficulty": "",
       "requirements": "<p>Used By: Beastmen Engaged with target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

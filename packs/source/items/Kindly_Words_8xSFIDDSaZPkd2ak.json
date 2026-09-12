@@ -76,5 +76,6 @@
       "difficulty": "1c",
       "requirements": "<p>4 favour. Target must be able to hear and understand you. Special: You engage the target in conversation when you invoke this blessing and until the blessing is resolved</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

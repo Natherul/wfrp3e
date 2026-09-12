@@ -101,5 +101,6 @@
       "difficulty": "2b",
       "requirements": "<p>Special: Reduce the difficulty modifier by: 10%.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

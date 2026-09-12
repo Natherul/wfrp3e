@@ -82,5 +82,6 @@
       "difficulty": "1f",
       "requirements": "<p>6 favour, target(s) within long range. The target(s) must have broken one of Manann’s many strictures, which certainly includes offending or attacking a priest of Manann. Each target with Discipline trained adds {Dc} to the dice</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

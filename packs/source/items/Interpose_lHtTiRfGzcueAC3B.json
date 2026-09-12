@@ -29,5 +29,6 @@
       "difficulty": "1c",
       "requirements": "<p>Mounted on a war-trained steed, trained in Ride, Agility 3+. Effect: When you are declared as the target of a Melee or Ranged Attack, Spell or Blessing to defence, you may manoeuvre your mount to block the attack. Add 4 additional recharge tokens to this card to add {Da} to the action’s dice pool equal to your ranks in Ride. Your mount & wind 1</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

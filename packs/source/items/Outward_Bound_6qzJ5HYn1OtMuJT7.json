@@ -52,5 +52,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>3 favour, must toss a coin into a body of water as you set out on a journey to a place you've never been before. Special: This card recharges when you reach your destination or when you set out on a new journey.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

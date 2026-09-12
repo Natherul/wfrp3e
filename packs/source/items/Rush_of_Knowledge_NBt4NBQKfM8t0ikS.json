@@ -82,5 +82,6 @@
       "difficulty": "2c",
       "requirements": "<p>Intelligence 4+, 4 power per target, engaged with target, en Education trained</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

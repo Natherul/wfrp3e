@@ -76,5 +76,6 @@
       "difficulty": "",
       "requirements": "<p>Effect: You weave the conversation into a twisted path, and before he knows it, you are saying something embarrassing, foolish, or untrue. While this card is</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -77,5 +77,6 @@
       "difficulty": "3c",
       "requirements": "<p>8 favour Special If a character becomes unconscious due to stress inflicted by the angel of death, he dies instead Effect: A grim apparition of Morr, in his aspect as the Reaper, appears. The apparition causes Fear 3 (to everyone but you) and may perform a single manoeuvre on your turn</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

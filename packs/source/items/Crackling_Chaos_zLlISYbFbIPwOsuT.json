@@ -76,5 +76,6 @@
       "difficulty": "1c",
       "requirements": "<p>Special: If the target's Willpower is distressed, add 1Dr to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

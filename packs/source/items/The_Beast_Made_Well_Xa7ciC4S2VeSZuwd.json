@@ -78,5 +78,6 @@
       "difficulty": "1b",
       "requirements": "<p>power, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

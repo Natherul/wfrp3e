@@ -77,5 +77,6 @@
       "difficulty": "1c",
       "requirements": "<p>At least 1 other Way of the Sword card recharging, sword or greatsword equipped, engaged with target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -52,5 +52,6 @@
       "difficulty": "",
       "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Skill Mastery: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

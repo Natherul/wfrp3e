@@ -52,5 +52,6 @@
       "difficulty": "1c",
       "requirements": "<p>If you have Intuition on the check</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

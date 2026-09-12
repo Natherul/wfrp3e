@@ -81,5 +81,6 @@
       "difficulty": "2b",
       "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target Special: This attack uses Fellowship rather than Strength. If you have Guile trained, add {De} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

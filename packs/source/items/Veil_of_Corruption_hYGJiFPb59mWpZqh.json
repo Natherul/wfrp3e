@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>8 power, target engagement within long range Special: For each character in the target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

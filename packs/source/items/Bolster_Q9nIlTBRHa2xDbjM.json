@@ -77,5 +77,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>Effect: While this card is recharging, target’s shame threshold is increased by 1</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

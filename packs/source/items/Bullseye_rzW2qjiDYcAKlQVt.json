@@ -71,5 +71,6 @@
       "difficulty": "2c",
       "requirements": "<p>Bow L‘qluppcd, target cannot see you</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

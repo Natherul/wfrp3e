@@ -77,5 +77,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used by a Chaos Spawn, Chaos Lord, or Engaged with target, a Chaos enemy must have rolled 3Dc during a previous Melee Attack this encounter. Special: This attack targets one enemy in the current engagement. If the attack hits, two other enemies in the engagement suffer the effects, as well.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

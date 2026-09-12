@@ -64,5 +64,6 @@
       "difficulty": "1c",
       "requirements": "<p>Special: The difficulty of this task is either set by the GM based on the size, craftsmanship, and durability of the item; or the check is opposed by the Discipline (WP) of the creature carrying or wearing the object.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

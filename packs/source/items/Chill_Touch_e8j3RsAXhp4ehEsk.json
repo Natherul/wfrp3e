@@ -62,5 +62,6 @@
       "difficulty": "",
       "requirements": "<p>You reach your target with a spectral hand, chilling him to the bone.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

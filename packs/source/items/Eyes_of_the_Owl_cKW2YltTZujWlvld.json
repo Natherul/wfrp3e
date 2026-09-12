@@ -81,5 +81,6 @@
       "difficulty": "1c",
       "requirements": "<p>3 favour</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

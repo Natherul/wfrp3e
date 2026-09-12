@@ -82,5 +82,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Chaos Sorcerer, Doktor chus get within medium Special: Add {Dm} to the dice pool for each enemy engaged with the caster</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

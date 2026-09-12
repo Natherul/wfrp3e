@@ -96,5 +96,6 @@
       "difficulty": "1b",
       "requirements": "<p>3 power, target within medium range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

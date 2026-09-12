@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>You have more empathy with animals than people. Charm checks. However, add {Dc} to Animal Handling checks. People are wretched, terrible things. Not like your beloved animals!</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

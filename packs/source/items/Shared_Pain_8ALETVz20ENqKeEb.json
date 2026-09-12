@@ -68,5 +68,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a walking stick) Special: X is equal to</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

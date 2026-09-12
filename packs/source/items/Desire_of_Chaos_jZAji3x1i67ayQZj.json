@@ -68,5 +68,6 @@
       "difficulty": "2c",
       "requirements": "<p>6 power, engaged with target. Effect: card recharging, the While this is</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

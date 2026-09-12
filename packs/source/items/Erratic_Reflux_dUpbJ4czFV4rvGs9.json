@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>The kickback of magical energy disorients you. Add 2 recharge tokens to the action just performed.</p> As above, and if the action inflicts damage to a target, you also suffer damage as if you had been struck by the action."
-  }
+  },
+  "_text_fixed_by_llm": true
 }

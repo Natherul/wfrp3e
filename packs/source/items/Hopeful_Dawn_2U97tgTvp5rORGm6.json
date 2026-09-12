@@ -83,5 +83,6 @@
       "recharge": 6,
       "difficulty": "2c 2b"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

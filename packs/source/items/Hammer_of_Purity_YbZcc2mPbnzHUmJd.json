@@ -76,5 +76,6 @@
       "difficulty": "1f",
       "requirements": "<p>4 favour without needing to Curry Favour. Hammer or great hammer equipped, engaged with target Special: This action is both a Blessing and a Melee Attack Effect: You imbue your hammer with Sigmar’s holy might and lash out, striking as described below. Your attack deals even damage to corrupted targets. You deal +3 damage to daemons, +2 damage to mutants, beastmen, and anyone bearing a Mark of Chaos, and +1 damage to creatures with Corruption scores less than their Corruption threshold</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

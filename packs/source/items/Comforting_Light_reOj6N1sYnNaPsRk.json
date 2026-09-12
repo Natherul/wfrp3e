@@ -81,5 +81,6 @@
       "difficulty": "1c",
       "requirements": "<p>1 power, target within close range. Target must be able to see your light and must be suffering from a temporary insanity. Special: This check's difficulty is the severity of the target insanity - i.e., if the target insanity has a severity of 2, the difficulty is Average (2{Dc})</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

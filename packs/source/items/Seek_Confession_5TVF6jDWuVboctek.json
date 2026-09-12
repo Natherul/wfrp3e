@@ -89,5 +89,6 @@
       "difficulty": "",
       "requirements": "<p>Pistol or handgun equipped; target w range Special: If you are trained in Intimidation, add {Df} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

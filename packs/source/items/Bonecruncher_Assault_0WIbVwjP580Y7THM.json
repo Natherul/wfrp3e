@@ -75,5 +75,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

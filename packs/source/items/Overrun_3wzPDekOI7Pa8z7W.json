@@ -94,5 +94,6 @@
       "difficulty": "1c",
       "requirements": "<p>Not engaged with target, target within medium range. Special: The daemon may move to a new location within medium range as part of this attack</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

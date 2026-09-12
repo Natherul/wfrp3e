@@ -29,5 +29,6 @@
       "difficulty": "1c",
       "requirements": "<p>You defeat an enemy in melee combat and another enemy is within close range. Effect: If you defeat an enemy while another enemy is within close range, you may suffer 1 fatigue and place 4 recharge tokens on this card to immediately manoeuvre to engaged with that enemy and attempt the Melee Strike Basic action.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

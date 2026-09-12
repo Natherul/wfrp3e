@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Your Social actions and Fellowship skill checks suffer {Dm} whenever dealing with someone with a Noble Rank higher than yours. Don't trust them. Their words are poison and they will step on us to ahead.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

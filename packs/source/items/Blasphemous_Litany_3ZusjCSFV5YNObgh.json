@@ -92,5 +92,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Cult Leader Target within medium range Special: If the cult leader is within close range of at least three other cultists, reduce the difficulty modifier to</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

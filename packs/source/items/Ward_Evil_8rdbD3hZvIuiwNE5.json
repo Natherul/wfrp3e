@@ -72,5 +72,6 @@
       "difficulty": "1c 2b",
       "requirements": "<p>6 power. The wizard must either describe a circle with chalk, candles, or similar, or use an existing defined threshold such as a room. Effect: You weave a complex ward that keeps evil forces at bay. While this spell is recharging, daemons and the undead may not cross the barrier you erected while casting the spell, nor may they attack or in any way affect anything on the far side of that barrier. Particularly strong-willed daemons or undead may make an opposed Discipline (WP) check to breach the barrier, but suffer 2 stress each time they attempt and fail.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

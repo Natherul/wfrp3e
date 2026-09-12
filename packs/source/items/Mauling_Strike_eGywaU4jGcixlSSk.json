@@ -90,5 +90,6 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon or talons equipped. Engaged with target. Special: This attack gains the Vicious quality</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

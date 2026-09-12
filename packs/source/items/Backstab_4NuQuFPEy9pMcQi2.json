@@ -76,5 +76,6 @@
       "difficulty": "1c 3b",
       "requirements": "<p>One-handed melee weapon equipped, engaged with target. Special: Reduce the difficulty modifier by {Dc}.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

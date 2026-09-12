@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>PARTY TENSION METER: Each party member suffers 1 stress and 1 fatigue and must adjust his stance meter 1 step more conservative. Each party member loses one point, then tension resets. COMMITTED TO A GREATER CAUSE: Once per session, each member of the Oathbound may add one {Df} to a Toughness or Willpower check.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

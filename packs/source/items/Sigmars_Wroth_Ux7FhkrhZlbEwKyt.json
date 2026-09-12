@@ -72,5 +72,6 @@
       "difficulty": "1c 2b",
       "requirements": "<p>6 favour Effect: Sigmar’s anger and hatred strengthen you and your allies. While this blessing is recharging, each time you or an ally within close range of you suffers 1 or more wounds, the wounded character deals additional damage on his next Melee Attack equal to the amount of wounds he has suffered, up to a maximum of your character rank</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

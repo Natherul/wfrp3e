@@ -74,5 +74,6 @@
       "difficulty": "2c",
       "requirements": "<p>In favour, engaged with target item. Special: Items of great antiquity or very specific queries may increase the difficulty</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

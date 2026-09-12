@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>Target within medium range. You must have a Terror muting Special: While this action is recharging, undead in this encounter cause Terror rather than Fear.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

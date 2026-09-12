@@ -72,5 +72,6 @@
       "difficulty": "3c",
       "requirements": "<p>4 favour, the ability to speak. Your target must hear you, but need not understand you</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

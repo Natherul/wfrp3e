@@ -48,5 +48,6 @@
       "difficulty": "1b",
       "requirements": "<p>Engaged with target Special: Ignore the attack's difficulty modifier if the defender is significantly shorter than you, or is prone</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

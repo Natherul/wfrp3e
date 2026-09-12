@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Whenever you fail a mental check, suffer 1 stress. The plan is flawed. This can only end in disaster, and it will be all my fault.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

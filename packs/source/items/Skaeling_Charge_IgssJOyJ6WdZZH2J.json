@@ -82,5 +82,6 @@
       "difficulty": "1b",
       "requirements": "<p>Melee weapon equipped, target within medium range, not engaged with an enemy. Special: As part of this action, you move to engaged with the target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

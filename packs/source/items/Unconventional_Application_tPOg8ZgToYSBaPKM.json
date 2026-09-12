@@ -86,5 +86,6 @@
       "difficulty": "2c",
       "requirements": "<p>Engaged with target. Grab one of your inventions and smash it over your opponent’s head, damaging it. Special: If your Invention is attached to a melee weapon, use that weapon’s traits and values. Otherwise, treat the Invention as a hand weapon. You may apply all of the Invention’s {Dc} modifications to this attack.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -86,5 +86,6 @@
       "difficulty": "",
       "requirements": "<p>Bow or repeating ranged weapon equipped, disengaged from target. Special: If you hit with this attack, you may immediately perform this action again, choosing either the same target or a new target in the same engagement as the first, and adding {Dr} to your dice pool. You may fire up to three times, as long as you still meet the requirements for the attack and as long as you continue to hit, but you must add another {Dr} to your dice pool each time you perform this action.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

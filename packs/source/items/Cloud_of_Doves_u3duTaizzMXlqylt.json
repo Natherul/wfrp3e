@@ -94,5 +94,6 @@
       "difficulty": "4c",
       "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area performs an attack, between 1 and [Dm] doves (your choice) flutter up to distract him. That creature suffers a like amount of fatigue and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -80,5 +80,6 @@
       "difficulty": "1b",
       "requirements": "<p>3 power, a clear view of the stars or a suitable divining instrument (deck of cards, dice, etc.) Effect: Glimpses of the future are revealed to you. While this card is recharging, you may remove 1 recharge token from it to</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -82,5 +82,6 @@
       "difficulty": "",
       "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom Special: This attack uses Agility instead of Strength for the attack roll</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

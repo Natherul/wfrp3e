@@ -110,5 +110,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>3 favour. You must have a clear description or image of the object you are trying to find, or an item linked to it in some way on your person. Special: If you possess a map of the area in which the item may be found, reduce the</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

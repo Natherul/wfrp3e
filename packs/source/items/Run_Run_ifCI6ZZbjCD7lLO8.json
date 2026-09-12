@@ -90,5 +90,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By an enemy unprepared with a smoke bomb. Special: Add {Dr} to this action for each opponent the attacker attempts to hide from</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

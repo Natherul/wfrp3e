@@ -63,5 +63,6 @@
       "difficulty": "4c 1b",
       "requirements": "<p>Target must be able to hear you, the person you mention must be important (a big name). This action can only be made against each individual target once per act. If you do not really know the subject of your name-drop, add {Dm} to the check and use Guile (Fel) vs. Target Intuition (Int) instead.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -74,5 +74,6 @@
       "difficulty": "",
       "requirements": "<p>6 favour, must be engaged with target and perform a prepare manoeuvre. May only attempt this once per insanity. Special: The difficulty of this check equals the severity of the insanity</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

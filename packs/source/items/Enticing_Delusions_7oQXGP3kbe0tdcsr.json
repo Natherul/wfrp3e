@@ -80,5 +80,6 @@
       "difficulty": "1b",
       "requirements": "<p>S power, target within long range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

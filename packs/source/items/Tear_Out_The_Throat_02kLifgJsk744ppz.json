@@ -90,5 +90,6 @@
       "difficulty": "1c",
       "requirements": "<p>Engaged with target Special: If the target is critically wounded, add to the dice pool equal to the highest severity rating among the target's critical wounds</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

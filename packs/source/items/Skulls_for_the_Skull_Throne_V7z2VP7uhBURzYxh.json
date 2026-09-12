@@ -92,5 +92,6 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon equipped, engaged with target Special: You may not use any Defences whilst this card is</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

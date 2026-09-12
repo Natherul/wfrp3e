@@ -77,5 +77,6 @@
       "difficulty": "",
       "requirements": "<p>SPELLCRAFT (INT) vs. TARGET DEFENCE 3 power, 1 hand must be free or wielding a sword, target within close range. Target must be in shadow (which adds M to your dice pool) or casting a shadow. If you are empty handed, conjure a sword made of shadow</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

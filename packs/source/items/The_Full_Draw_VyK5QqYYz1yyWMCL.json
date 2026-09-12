@@ -72,5 +72,6 @@
       "difficulty": "2c 2b",
       "requirements": "<p>Bow equipped, not engaged with an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character’s turn and shoot him as described below. If you use your bow for anything else while this action is recharging, it recharges completely</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

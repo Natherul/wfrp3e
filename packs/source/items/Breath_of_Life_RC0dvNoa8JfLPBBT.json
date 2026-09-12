@@ -82,5 +82,6 @@
       "difficulty": "3c 1f",
       "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

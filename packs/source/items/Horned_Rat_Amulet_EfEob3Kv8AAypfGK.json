@@ -5,5 +5,6 @@
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
     "description": "<p>This beaten metal bears an odd triangular shape. It veritably pulses with a power that makes the hairs on the back of your neck stand up. The strange charm is tied to a course knot of what appears to be hair. The horned rat amulet increases the wearer’s soak value by 1. At the start of each session, any non-Skaven wearing the amulet must make an Average (2{Dc}) Resilience check or suffer 2 corruption (minor corruption). Each 1 rolled on this generates 1 corruption.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -76,5 +76,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>3 favour, close range to the target. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -88,5 +88,6 @@
       "difficulty": "1c",
       "requirements": "<p>Whip equipped, not engaged with an enemy, target within medium range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

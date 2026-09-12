@@ -82,5 +82,6 @@
       "difficulty": "3c",
       "requirements": "<p>Effect: While this blessing is recharging, if you pass a Fear or Terror check, your allies within long range automatically pass their checks against the same source, too.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

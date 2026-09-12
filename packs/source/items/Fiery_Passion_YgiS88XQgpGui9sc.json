@@ -68,5 +68,6 @@
       "difficulty": "1c",
       "requirements": "<p>4 power effect: While this card is recharging, the target’s passions are stoked to a raging inferno!</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

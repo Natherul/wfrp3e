@@ -78,5 +78,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>4 power per target; all targets must be engaged with you (you may target yourself). Special: For each target beyond the first, add M to your dice pool. Effect: Everything is illuminated by Azyr’s light, and the targets see through all falsehoods. While this spell is recharging, the targets can see the invisible and the immaterial and see through illusions; in short, they see things as they truly are.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

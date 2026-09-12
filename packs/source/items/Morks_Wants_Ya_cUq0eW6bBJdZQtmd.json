@@ -98,5 +98,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>within long 7 power, target range</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -48,5 +48,6 @@
       "difficulty": "2c",
       "requirements": "<p>Coordination trained, target(s) within medium range (up to a maximum of 4 {Dc} Effect Targets) - Weakened 3 gain condition while this card is recharging</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

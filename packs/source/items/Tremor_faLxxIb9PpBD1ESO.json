@@ -66,5 +66,6 @@
       "difficulty": "",
       "requirements": "<p>Special: Treat this spell as an attack with the Blast quality.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -63,5 +63,6 @@
       "difficulty": "2c 1f",
       "requirements": "<p>For favour, you must have a weapon in hand</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

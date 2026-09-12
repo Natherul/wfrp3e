@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>At the end of your turn, move the tracking token on your Stance meter two spaces towards the neutral stance. You retreat into yourself, your senses trying to shut out the world. Others find you distant, cold, and unresponsive.</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

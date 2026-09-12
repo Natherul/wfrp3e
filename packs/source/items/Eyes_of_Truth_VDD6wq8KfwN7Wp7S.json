@@ -67,5 +67,6 @@
       "difficulty": "2c",
       "requirements": "<p>4 power You reduce all penalties due to darkness.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -81,5 +81,6 @@
       "difficulty": "",
       "requirements": "<p>avour, target within medium range. If engaged with an enemy, add {Dc} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

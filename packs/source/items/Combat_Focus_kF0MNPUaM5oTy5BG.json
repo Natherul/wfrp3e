@@ -79,5 +79,6 @@
       "difficulty": "2b",
       "requirements": "<p>Special: Before making this check, you may suffer up to 2 stress. Reduce the difficulty modifier of this action by 1 for each stress suffered.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

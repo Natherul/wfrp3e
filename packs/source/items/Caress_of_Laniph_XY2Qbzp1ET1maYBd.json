@@ -82,5 +82,6 @@
       "difficulty": "1c 1f",
       "requirements": "<p>9 power, target within close range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -90,5 +90,6 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Herald of Tzeentch. Special: Add M to the difficulty modifier for each enemy engaged with you.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

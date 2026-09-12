@@ -92,5 +92,6 @@
       "difficulty": "1b",
       "requirements": "<p>Special: Thls action gains +1 {Dc} difficulty if engaged with an enemy</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

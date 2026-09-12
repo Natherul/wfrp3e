@@ -94,5 +94,6 @@
       "difficulty": "1c",
       "requirements": "<p>must be suffering from at least 1 disease</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

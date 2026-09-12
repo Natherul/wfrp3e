@@ -42,5 +42,6 @@
       "difficulty": "2b",
       "requirements": "<p>S favour Effect: You gain some of the keenness and ferocity of a predator. While this blessing is recharging, you add {Dr} to Observation and Ballistic Skill checks</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

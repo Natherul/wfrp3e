@@ -56,5 +56,6 @@
       "difficulty": "1c 1b",
       "requirements": "<p>4 power, target within long range Special: Reduce the difficulty modifier by 1 if within close range to an open</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

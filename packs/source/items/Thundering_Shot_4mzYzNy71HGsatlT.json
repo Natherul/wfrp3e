@@ -72,5 +72,6 @@
       "difficulty": "",
       "requirements": "<p>Black powder weapon, disengaged from target. If the target is trained in Discipline, add {Dc} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

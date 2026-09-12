@@ -67,5 +67,6 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: When you play this action, you may add 2 recharge tokens to any of your Active Defences, either in your hand or currently recharging. X is the total recharge tokens added in this way.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

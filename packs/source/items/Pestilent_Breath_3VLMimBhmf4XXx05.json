@@ -68,5 +68,6 @@
       "difficulty": "2b",
       "requirements": "<p>S power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: A cloud of poisonous green gas spews forth from your open jaws, affecting all creatures (friend and enemy) other than you within close range.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

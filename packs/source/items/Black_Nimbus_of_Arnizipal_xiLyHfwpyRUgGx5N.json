@@ -91,5 +91,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>S power Effect: A nimbus of black smoke surrounds you. While this spell recharges, Melee Attack, Ranged Attack, Spell, and Blessing actions</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

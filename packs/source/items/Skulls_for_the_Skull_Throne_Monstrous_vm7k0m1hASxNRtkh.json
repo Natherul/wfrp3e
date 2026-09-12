@@ -57,5 +57,6 @@
       "difficulty": "1c",
       "requirements": "<p>Melee weapon, engaged with target, target must have rolled a Chaos Star 3 during its most recent turn</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

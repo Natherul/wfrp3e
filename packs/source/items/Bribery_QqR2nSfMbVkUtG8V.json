@@ -72,5 +72,6 @@
       "difficulty": "1b",
       "requirements": "<p>You must engage in conversation for a few minutes</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

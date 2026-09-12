@@ -88,5 +88,6 @@
       "difficulty": "1c",
       "requirements": "<p>4 power, living target within close range. If you are engaged with an enemy, add {Dm} to your dice pool. Effect: You siphon vital essence from the target. For each wound you inflict, you may heal 1 wound or gain 1 power.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

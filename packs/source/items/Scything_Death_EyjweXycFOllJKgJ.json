@@ -101,5 +101,6 @@
       "difficulty": "",
       "requirements": "<p>Engaged with target Special: Add {Dm} for every enemy you engaged with other than the target</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

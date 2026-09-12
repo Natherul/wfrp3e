@@ -81,5 +81,6 @@
       "difficulty": "1b",
       "requirements": "<p>You must have real or perceived social status and an audience to impress with it. Effect: You drop a few key names and otherwise flaunt your superior station and birth. While this card is recharging, you gain {Df} to all checks (especially Fellowship checks) where your social status is relevant, and those of lesser station suffer {Dm} to checks that target you</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

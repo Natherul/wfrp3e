@@ -72,5 +72,6 @@
       "difficulty": "1c",
       "requirements": "<p>3 power, caster must be in a swampy or marshy environment. You must suffer 1 fatigue to move.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

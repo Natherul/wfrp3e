@@ -82,5 +82,6 @@
       "difficulty": "2c 2f",
       "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess’s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

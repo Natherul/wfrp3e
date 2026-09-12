@@ -74,5 +74,6 @@
       "difficulty": "",
       "requirements": "<p>Weapon equipped, engaged with target and with henchman. 1 Obedience and if you are trained in skill, difficulty by 1</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

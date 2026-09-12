@@ -100,5 +100,6 @@
       "difficulty": "1c",
       "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are engaged with the target, add 0 to the dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

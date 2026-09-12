@@ -44,5 +44,6 @@
       "difficulty": "",
       "requirements": "<p>A gility 4+, not encumbered, Coordination Mastery ! effect: After you have been declared the target of a Melee Attack or Ranged Attack, or a Spell or a Blessing that targets your defence, add two {Dc} to this</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

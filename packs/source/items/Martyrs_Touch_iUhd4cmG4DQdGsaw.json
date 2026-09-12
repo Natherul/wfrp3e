@@ -110,5 +110,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>4 favour. Engaged with target (you may not target yourself) Special: You must use the highest possible success line. (But you do not have to count</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

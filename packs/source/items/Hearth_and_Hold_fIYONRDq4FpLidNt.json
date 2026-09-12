@@ -84,5 +84,6 @@
       "difficulty": "3c",
       "requirements": "<p>Effect: You unleash some of the magic contained within the runes. The runes invoked in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune exhausted, all allies within medium range recover 1 wound.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

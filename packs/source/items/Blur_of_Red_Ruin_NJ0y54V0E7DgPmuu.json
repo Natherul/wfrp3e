@@ -97,5 +97,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>Agility 5+, melee weapon in each hand, engaged with target(s). Special: This action uses Agility rather than Strength. Effect: In a blur of motion you strike your target(s) multiple times. Each hit inflicts -2 damage to your target(s). Determine damage and apply the target's Toughness and Soak separately for each successful hit. You may hit your target(s) a maximum number of times equal to your Agility + {Dm}.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

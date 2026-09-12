@@ -81,5 +81,6 @@
       "difficulty": "2c",
       "requirements": "<p>4 favour, target within medium range, must perform the prepare manoeuvre before invoking this blessing.</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

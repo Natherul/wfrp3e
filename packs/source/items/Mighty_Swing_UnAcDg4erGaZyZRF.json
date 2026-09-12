@@ -103,5 +103,6 @@
       "difficulty": "2b",
       "requirements": "<p>Two-handed weapon equipped, engaged with target Special: Against targets with a soak of 3 or more, this attack gains Pierce</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

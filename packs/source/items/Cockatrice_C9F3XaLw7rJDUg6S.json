@@ -5,5 +5,6 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Fear 2, Flight, Instinctive Petrification: Add {Dc} to checks targeting cockatrice, or targeted actions gain:</p> 3{Dc} The character is turned to stone!</p>"
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -64,5 +64,6 @@
       "difficulty": "2b",
       "requirements": "<p>7 favour Effect: While this card is recharging, you are imbued with the strength and fortitude of Sigmar! You and all your allies within close range gain 1 Strength and 1 Toughness</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

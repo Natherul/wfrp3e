@@ -72,5 +72,6 @@
       "difficulty": "2b",
       "requirements": "<p>You must be engaged with your target, must possess a long poisonous tongue. Special: Damage reduction for this attack is calculated using the target’s lelpower instead of Toughness</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

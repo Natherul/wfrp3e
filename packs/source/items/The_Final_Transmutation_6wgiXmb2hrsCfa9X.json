@@ -67,5 +67,6 @@
       "difficulty": "1c 2f",
       "requirements": "<p>10 power, target within medium range. You throw a gold coin at the target when you cast this spell; the gold coin is consumed. Effect: The target is transmuted to a statue of gold. While this spell is recharging, he gains the Petrified condition. When the spell recharges, he returns to normal (minus any damage he’s suffered in the meantime).</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

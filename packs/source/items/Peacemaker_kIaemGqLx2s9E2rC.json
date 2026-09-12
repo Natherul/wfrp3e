@@ -84,5 +84,6 @@
       "difficulty": "3c",
       "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, ¥ rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

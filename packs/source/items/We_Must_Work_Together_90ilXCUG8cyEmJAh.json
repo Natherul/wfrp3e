@@ -90,5 +90,6 @@
       "difficulty": "2c 1b",
       "requirements": "<p>Leadership trained, ally engaged with you. If you are engaged with an enemy, add to your dice pool {Dr}</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

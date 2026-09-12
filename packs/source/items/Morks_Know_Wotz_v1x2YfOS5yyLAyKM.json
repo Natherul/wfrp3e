@@ -73,5 +73,6 @@
       "difficulty": "1c",
       "requirements": "<p>4 power Effect: You appeal to Mork to provide you with some of the benefits of his vast knowledge. While this card is recharging you may benefit from 4 extra cunning {Dc} and 2 extra expertise {De} dice</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

@@ -39,5 +39,6 @@
       "difficulty": "",
       "requirements": "<p>Special: While this card is recharging,</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

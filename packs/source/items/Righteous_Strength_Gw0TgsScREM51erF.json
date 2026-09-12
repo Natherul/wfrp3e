@@ -69,5 +69,6 @@
       "difficulty": "2c",
       "requirements": "<p>Effect: You imbue yourself with Sigmar’s righteousness. Your eyes begin to glow with golden light, and you leave a trail in the air behind you. While this card is recharging, your Melee Attacks inflict +2 {Dm} damage</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

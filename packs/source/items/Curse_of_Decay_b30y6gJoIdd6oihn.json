@@ -90,5 +90,6 @@
       "difficulty": "1b",
       "requirements": "<p>Targets within medium range. The dice pool target beyond the first. Effect: Draw a random disease. While this £ action is recharging, the targets suffer from that disease</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }

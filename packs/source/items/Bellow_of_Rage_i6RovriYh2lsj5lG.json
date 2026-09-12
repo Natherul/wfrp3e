@@ -95,5 +95,6 @@
       "difficulty": "3c",
       "requirements": "<p>You may target any number of characters within close range who can hear you. For each target beyond the first, add {Dm} to your dice pool</p>"
     }
-  }
+  },
+  "_text_fixed_by_llm": true
 }
