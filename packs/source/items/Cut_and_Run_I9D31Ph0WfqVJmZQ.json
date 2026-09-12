@@ -67,6 +67,5 @@
       "difficulty": "1b",
       "requirements": "<p>Melee weapon equipped, engaged with target Special: If you have Athletics trained, add your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

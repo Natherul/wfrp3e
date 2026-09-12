@@ -54,6 +54,5 @@
       "difficulty": "2b",
       "requirements": "<p>You may target any number of characters who can see you and hear you speak. Special: As part of this action, you deliver a monologue that gloats about your despicable plans and wicked intent. If you are socketed to either the Black Cowl or Mastermind epic threat sheet, remove {Dm} from the check. This action recharges at the end of the encounter</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

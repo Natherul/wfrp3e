@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending your movement engaged to the target in the new location</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

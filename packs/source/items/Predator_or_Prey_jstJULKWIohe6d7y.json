@@ -88,6 +88,5 @@
       "difficulty": "2c 1b",
       "requirements": "<p>Special: Increase the difficulty modifier of this action to {Dc} if it is performed in a setting</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

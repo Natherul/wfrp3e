@@ -76,6 +76,5 @@
       "difficulty": "",
       "requirements": "<p>Special: The beastman targets an engagement within close range. The check is opposed by the highest Willpower among enemies in the engagement. Each opponent in the engagement with Discipline trained adds one {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

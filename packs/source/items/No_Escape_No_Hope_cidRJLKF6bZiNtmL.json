@@ -90,6 +90,5 @@
       "difficulty": "1b",
       "requirements": "<p>Engaged with target Special: If the attack is successful, the target does not gain a free manoeuvre on its turn for as long as this action is recharging</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

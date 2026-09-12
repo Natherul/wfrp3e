@@ -100,6 +100,5 @@
       "difficulty": "1c",
       "requirements": "<p>Add {Dm} to the dice pool if Engaged with an enemy</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

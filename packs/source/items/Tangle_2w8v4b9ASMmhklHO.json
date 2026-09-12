@@ -57,6 +57,5 @@
       "difficulty": "1c",
       "requirements": "<p>7 favour, target engagement within medium range. Must be in an area of natural vegetation. Effect: The surrounding plants grasp and ensnare the targets. While this blessing is recharging, all characters in the target engagement gain the Entangled condition as long as they remain in that engagement.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

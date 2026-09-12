@@ -67,6 +67,5 @@
       "difficulty": "2c",
       "requirements": "<p>Engaged with target. You must have a variety of depraved tools at hand. Special: Reduce the difficulty modifier by {Dc} if the target is securely restrained. This action completely recharges as soon as you disengage from the target, make an attack, or use an Active Defence.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

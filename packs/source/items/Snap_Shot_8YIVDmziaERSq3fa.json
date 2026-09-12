@@ -72,6 +72,5 @@
       "difficulty": "1b",
       "requirements": "<p>Ranged weapon equipped, not engaged with enemy, target within medium range, no other action cards recharging. Special: You fire off a quick shot, taking your target off-guard. Any Active Defences used against this attack receive 1 additional recharge token.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

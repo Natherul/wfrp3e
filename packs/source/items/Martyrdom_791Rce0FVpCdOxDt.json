@@ -72,6 +72,5 @@
       "difficulty": "1c",
       "requirements": "<p>+4 if you are engaged with an enemy, add 1 {Dm} to your dice pool. Effect: While this card is recharging and you are within close range of the target, you suffer wounds in the target’s stead. Use the target’s Toughness, soak, and other values to reduce damage and then suffer the wounds (including any criticals) yourself.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

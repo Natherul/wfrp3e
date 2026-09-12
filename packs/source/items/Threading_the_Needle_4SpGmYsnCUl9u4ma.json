@@ -72,6 +72,5 @@
       "difficulty": "2b",
       "requirements": "<p>Ranged weapon equipped, not engaged with target. At least one ally must be engaged with the target. If you perform the prepare manoeuvre, remove [Dm] from your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

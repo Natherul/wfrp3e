@@ -86,6 +86,5 @@
       "difficulty": "1c",
       "requirements": "<p>Black Powder Weapon equipped, target engagement within close range. Special: The Unreliable rating of your weapon is worsened by 1 to a minimum as you load the weapon with non-standard powder.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

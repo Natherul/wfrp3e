@@ -72,6 +72,5 @@
       "difficulty": "",
       "requirements": "<p>5 power You twist and warp the Winds of Magic to swirl about you, repelling the effects of mutation for a short time. While this spell is recharging you gain {Dr} to Resilience (To) checks in order to resist corruption.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

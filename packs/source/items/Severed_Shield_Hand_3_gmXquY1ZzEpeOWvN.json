@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Your shield hand is crippled! You can't do anything requiring that.</p> You lose the hand. This wound is permanent.",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

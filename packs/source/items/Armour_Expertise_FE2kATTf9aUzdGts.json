@@ -39,6 +39,5 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: When you are hit by a Melee or Ranged Attack, you may add 6 recharge tokens to this card to turn and catch the blow on your armour and shield. Add your Defence value to your Soak value against this attack.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Must be in beastform and making a skill check where keen senses are relevant. Special: While in beastform, the caster can utilise the preternatural senses common to wild beasts. When making an Observation, Intuition, or Nature Lore check where your beastform's keen senses are relevant, you may cast this spell and spend power to enhance your dice pool for the check. For each 1 power you spend, you may add {Dr} to your dice pool. You may add no more than {Dr} in this way per sense relevant to the check and possessed by your beastform. As a general rule, mammals such as bears and wolves have keen senses of smell and hearing, while birds such as crows or eagles have keen senses of vision.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

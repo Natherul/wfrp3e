@@ -83,6 +83,5 @@
       "difficulty": "1c",
       "requirements": "<p>7 power, not engaged with target, target within close range. Add {Dm} to your dice pool for each enemy in the target’s engagement after the first</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

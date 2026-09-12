@@ -57,6 +57,5 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: While this card is recharging, your boundless rage explodes! Your Melee Attacks deal bonus damage equal to your B{Dc} depth in the Reckless stance, but your Defence is reduced by 1</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

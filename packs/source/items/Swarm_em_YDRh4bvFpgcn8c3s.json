@@ -91,6 +91,5 @@
       "difficulty": "1c",
       "requirements": "<p>You and at least one ally must be engaged with the target § Special: Every ally in the engagement contributes {Dm} to the check. (Henchmen only contribute {Dm} to the check)</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

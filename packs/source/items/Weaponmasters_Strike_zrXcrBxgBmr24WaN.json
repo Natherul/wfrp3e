@@ -44,6 +44,5 @@
       "difficulty": "",
       "requirements": "<p>Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The attack gains Pierce 2.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

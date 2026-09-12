@@ -72,6 +72,5 @@
       "difficulty": "1f 1b",
       "requirements": "<p>8 favour, target within medium range Special: When you invoke this blessing and “steal” from the target, you benefit and your target suffers. For example, if you steal a characteristic such as Agility, your target loses Agility and you gain Agility. If you steal fatigue, you recover fatigue and your target suffers fatigue.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

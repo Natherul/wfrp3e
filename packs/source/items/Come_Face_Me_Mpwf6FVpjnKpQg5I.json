@@ -72,6 +72,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Target within hearing distance, can understand. Special: If your allies outnumber the target's, add {Dc} to the dice pool. Effect: You taunt and ridicule your target, demanding he meet you in combat.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

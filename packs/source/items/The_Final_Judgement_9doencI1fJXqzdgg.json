@@ -82,6 +82,5 @@
       "difficulty": "2b",
       "requirements": "<p>Special: You may use either your Weapon Skill (St) or your Ballistic Skill (Ag) for this check; use the values and traits for the appropriate weapon</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

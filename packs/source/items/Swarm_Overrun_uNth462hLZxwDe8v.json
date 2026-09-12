@@ -88,6 +88,5 @@
       "difficulty": "",
       "requirements": "<p>Used By: Swarms. Engaged with 1 or more enemy. Special: This attack gains {Dm} if the swarm is targeted by this action.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

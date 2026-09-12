@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Add to Toughness checks</p>",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Willpower 3+, must be a Dwarf Terror check, you may play this card. Effect: When you are forced to make a Fear or Terror check, you may play this card. You gain {Dc} to the check. This action recharges when you have a stiff drink.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

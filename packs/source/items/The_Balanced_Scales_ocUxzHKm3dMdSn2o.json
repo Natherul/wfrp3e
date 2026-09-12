@@ -102,6 +102,5 @@
       "difficulty": "1c",
       "requirements": "<p>1 favour. Two targets, both of which must be within medium range (you can target yourself). Special: This action is opposed by the higher Willpower between your targets. If you target yourself, use the second target's Willpower.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

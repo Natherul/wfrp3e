@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Your mental checks gain:</p> @ The GM may add or remove one recharge token to one of your recharging cards",
     "severityRating": 2
-  },
-  "_text_fixed_by_llm": true
+  }
 }

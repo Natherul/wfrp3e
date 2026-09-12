@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Suffer to all Fellowship checks and all Observation checks concerning vision</p>",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

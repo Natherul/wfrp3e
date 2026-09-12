@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>3 Power, target within close range. If you are engaged with an enemy, add to your dice pool 1 {Dr}. You chant a curse at the target in a feral language, drawing dark energies to work against him. While this card is recharging, you may remove recharge tokens from this card as an immediate reaction to the target's actions. Each recharge token removed adds 1 {Dm} to a check the target makes. You may</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

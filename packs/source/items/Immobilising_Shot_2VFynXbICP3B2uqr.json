@@ -82,6 +82,5 @@
       "difficulty": "1c 2b",
       "requirements": "<p>Effect: You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

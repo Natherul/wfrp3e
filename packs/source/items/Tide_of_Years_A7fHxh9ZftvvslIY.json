@@ -94,6 +94,5 @@
       "difficulty": "1c",
       "requirements": "<p>6 power, target within medium range. Target must be a living, mortal creature (i.e., not daemonic, undead, or another ageless creature). Effect: The ravages of time are visited upon the target, who becomes old and frail while the spell persists. While this spell is recharging, the target's Strength, Agility, and Toughness characteristics are each reduced by 1.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

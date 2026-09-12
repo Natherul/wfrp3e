@@ -77,6 +77,5 @@
       "difficulty": "1c",
       "requirements": "<p>Dwarf only. Target must be able to hear and understand you.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

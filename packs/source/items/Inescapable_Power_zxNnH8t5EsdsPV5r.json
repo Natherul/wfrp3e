@@ -90,6 +90,5 @@
       "difficulty": "1b",
       "requirements": "<p>Engaged with target, must be roughly the same height</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

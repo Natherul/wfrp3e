@@ -52,6 +52,5 @@
       "difficulty": "3c",
       "requirements": "<p>Target must be able to see and hear you; if anyone aside from the target can hear you (i.e., you're in public), add {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

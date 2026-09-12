@@ -86,6 +86,5 @@
       "difficulty": "1c",
       "requirements": "<p>4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

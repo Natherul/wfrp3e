@@ -80,6 +80,5 @@
       "difficulty": "",
       "requirements": "<p>Target within close range. Not visibly armed or target does not suspect you of being an enemy. Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

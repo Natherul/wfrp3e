@@ -77,6 +77,5 @@
       "difficulty": "3b",
       "requirements": "<p>8 power, target within medium range. Special: Reduce the difficulty {Dc} for each Undead ally engaged with the target.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

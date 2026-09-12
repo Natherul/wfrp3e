@@ -68,6 +68,5 @@
       "difficulty": "2c",
       "requirements": "<p>You can only assume the guise of a humanoid no smaller than a halfling nor larger than an orc. Special: Reduce the difficulty modifier by {Dc} if you are dressed as or already resemble the subject.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

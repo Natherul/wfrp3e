@@ -64,6 +64,5 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: You enhance your presence with the recharging power of fire. While this card is recharging, you gain {Dc} on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

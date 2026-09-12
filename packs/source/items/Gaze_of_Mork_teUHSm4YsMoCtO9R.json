@@ -81,6 +81,5 @@
       "difficulty": "1b",
       "requirements": "<p>power, target within medium range. If my, add {Dc} to the dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

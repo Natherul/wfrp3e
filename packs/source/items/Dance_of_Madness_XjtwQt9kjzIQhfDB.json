@@ -86,6 +86,5 @@
       "difficulty": "1b",
       "requirements": "<p>4 power, target(s) within close range Special: You can cast Dance of Madness against multiple targets. For each beyond the first, add {Dc} to the check. Effect: You dominate the minds of your targets, forcing them into a blissful but agonizing dance. While this card is recharging, each target must suffer 1 fatigue and 1 stress before attempting any action.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

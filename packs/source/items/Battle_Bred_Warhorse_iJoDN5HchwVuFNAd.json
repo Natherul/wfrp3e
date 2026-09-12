@@ -5,6 +5,5 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>acter sheet, representing your Battle-Bred Warhorse, a unique mount with whom you have a special bond. Your Warhorse has a Strength of 6 and a Wind score of 6. It may improve its Wind score with advances. The Warhorse Wind recovers in the same way characters recover fatigue. Any time the Battle-Bred Warhorse would suffer fatigue, stress, or damage, it loses 1 Wind instead. Enemies may attack it as an action, automatically causing it to lose 1 Wind, with no check needed. When the Battle-Bred Warhorse runs out of Wind, it becomes Blown and is in danger of dying. Any time your Battle-Bred Warhorse would lose more Wind while Blown, it makes an Average Animal (2d) Ride (Ag) check or Handle (Fel) check, (2d) or purchase a permanent +1 maximum Wind for his Battle-Bred Warhorse Strength check. If you fail the check, your Battle-Bred Warhorse dies. The Battle-Bred Warhorse is Warhorse receives a free movement manoeuvre once during his career for 1 advance; the talent (as applies to both the horse and rider appropriate to the talent). These advances count as Knight career advances. Fast: Costs one manoeuvre to move from long to short and from short to long.</p>"
-  },
-  "_text_fixed_by_llm": true
+  }
 }

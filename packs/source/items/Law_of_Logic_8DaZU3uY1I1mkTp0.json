@@ -82,6 +82,5 @@
       "difficulty": "1c",
       "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dr} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

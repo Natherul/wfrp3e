@@ -92,6 +92,5 @@
       "difficulty": "2c",
       "requirements": "<p>Runic item equipped. As part of this action, you strike the item with your hammer. If you are engaged with an enemy, add {Dm} to the dice pool. Effect: You strike your runic item, unleashing some of the power contained within the runes. All the runes on the item are exhausted (turned facedown) and will recharge with the next sunrise.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

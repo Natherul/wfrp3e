@@ -39,6 +39,5 @@
       "difficulty": "",
       "requirements": "<p>Persuade, Intimidate, or Skulduggery Mastery. Special: Play this card when you perform a Social action. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. Your target suffers 1 stress. Add 2 recharge tokens to one of the target's action cards. Then, the target suffers 1 stress per {Dm} invested in this Enhance.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

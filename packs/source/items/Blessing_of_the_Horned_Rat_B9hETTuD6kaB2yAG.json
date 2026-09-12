@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Target ally within medium range Effect: After you have been successfully hit by a Melee Attack or Ranged Attack, or a Spell or Blessing that targets your defence, add 2 recharge tokens to this card to shunt any damage and effects resulting from the attack onto your target instead Special: If your target survives the attack, you may immediately perform a free manoeuvre</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

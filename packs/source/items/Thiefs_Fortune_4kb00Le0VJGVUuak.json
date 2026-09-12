@@ -68,6 +68,5 @@
       "difficulty": "2b",
       "requirements": "<p>4 favour Effect: While this card is recharging, when you spend a fortune point to add {Df} to a Skulduggery check’s dice pool, add an additional {Dm} to the pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

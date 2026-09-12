@@ -73,6 +73,5 @@
       "difficulty": "2c",
       "requirements": "<p>Target can hear and understand you. Effect: You delay your target with an unanswerable riddle</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

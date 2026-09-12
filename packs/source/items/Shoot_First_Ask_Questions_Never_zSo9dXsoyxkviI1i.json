@@ -92,6 +92,5 @@
       "difficulty": "1c",
       "requirements": "<p>Ballistic Skill mastery, loaded pistol or crossbow pistol close at hand, or wielding a bow. You make this shot in response to rolling for initiative at the start of a combat encounter</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

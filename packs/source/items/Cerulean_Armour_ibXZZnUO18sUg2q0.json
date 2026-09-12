@@ -76,6 +76,5 @@
       "difficulty": "3c",
       "requirements": "<p>8 power. Must perform the prepare manoeuvre. If engaged with an enemy, add {Dc} to the dice pool. Special: If your Cerulean Shield is recharging, reduce the difficulty modifier by 1. Effect: You are girded with crackling magical armour while this spell is recharging. The Cerulean Armour counts as a suit of armour with Soak 3 and Defence 2 that does not interfere with spellcasting. When you are attacked, you may remove 1 recharge token from this card to cause your attacker to suffer 1 wound.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

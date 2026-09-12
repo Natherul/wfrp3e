@@ -72,6 +72,5 @@
       "difficulty": "",
       "requirements": "<p>Used by: Magnus Gottchalk. Engaged with target, currently in a combat scene. Special: This action gains {Df} if the target is a devout Sigmarite.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

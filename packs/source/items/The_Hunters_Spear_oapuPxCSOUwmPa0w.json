@@ -76,6 +76,5 @@
       "difficulty": "2b",
       "requirements": "<p>Special: This action uses Strength instead of Intelligence. If you have Ballistic Skill trained, add {De} to your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

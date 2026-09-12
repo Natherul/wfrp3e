@@ -72,6 +72,5 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon equipped, engaged with the target Special: If your target has wronged you or your clan, or is a Greenskin or Elf, gain {Df} to your check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

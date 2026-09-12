@@ -7,6 +7,5 @@
     "description": "<p>Mele: You conjure up an enormous blazing sun, streaks to your target and strikes him for S + WP damage. As above, plus additional damage wound. The target’s armour soak value is ignored against this blessing. WA + Fel damage. Each enemy within medium range is Blinded for 2 rounds. Suffer 1 stress and 1 fatigue. Gain the Blinded condition for 2 rounds. Gain 3 favour immediately.</p>",
     "rechargeTokens": 0,
     "socket": null
-  },
-  "_text_fixed_by_llm": true
+  }
 }

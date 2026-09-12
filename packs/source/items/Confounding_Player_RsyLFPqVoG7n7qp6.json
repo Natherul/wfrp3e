@@ -48,6 +48,5 @@
       "difficulty": "1b",
       "requirements": "<p>Flavour. Targets must be within close range and able to hear you speak. Special: This check is opposed by the highest Willpower amongst enemies within close range. Each enemy with Discipline trained adds {Dm} to the dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

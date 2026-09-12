@@ -72,6 +72,5 @@
       "difficulty": "2c",
       "requirements": "<p>S power. If you are engaged with an enemy, add {Dj} to the dice pool. Effect: You conjure a number of silver arrows into the air around you. When this spell recharges completely, they streak out and strike your enemies as detailed below</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

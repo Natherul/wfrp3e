@@ -57,6 +57,5 @@
       "difficulty": "",
       "requirements": "<p>Target can see and hear you, ally has performed a Charm check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

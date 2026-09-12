@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Suffer M to all Fellowship checks. Gain {Dm} to Intimidate checks. This wound is permanent.</p>",
     "severityRating": 2
-  },
-  "_text_fixed_by_llm": true
+  }
 }

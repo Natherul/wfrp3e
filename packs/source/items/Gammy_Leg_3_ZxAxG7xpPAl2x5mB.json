@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>When you suffer fatigue to perform an additional manoeuvre, suffer 1 additional fatigue.</p> You can only move at a crawl, or hobble on crutches",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

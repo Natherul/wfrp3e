@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>4 favour without needing to curry favour. A sentient being (such as a human) must have just died within medium range. Effect: Play when a sentient being within medium range dies. All living beings within medium range of you are wracked by grief. All affected creatures suffer 1 stress per character rank you have attained. The creature that killed the being that has just died must make a Discipline (WP) check opposed by your Discipline (WP). If he fails, he does nothing on his next turn, devastated by grief.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

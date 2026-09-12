@@ -82,6 +82,5 @@
       "difficulty": "1c",
       "requirements": "<p>Specia Add {Dm} to the check if you and your allies are outnumbered. Add {Dc} you are aboard a ship</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

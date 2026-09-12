@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>This wound has no special effect aside from its severity</p>",
     "severityRating": 5
-  },
-  "_text_fixed_by_llm": true
+  }
 }

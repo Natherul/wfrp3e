@@ -91,6 +91,5 @@
       "difficulty": "3b",
       "requirements": "<p>Melee weapon equipped, engaged with target, must have just received a critical wound due to the target’s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

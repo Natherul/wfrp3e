@@ -84,6 +84,5 @@
       "difficulty": "1c",
       "requirements": "<p>Target within close range, you must be “dead,” or incapacitated by damage, fatigue, or stress. Special: When you use this action, you stand up suddenly and shamble to your target, taking him by surprise! You recover 1 stress, 1 fatigue, and a number of normal wounds until your total wounds are 4 less than your wound threshold. This action begins recharging whether or not it is successful. This action recharges at the end of the encounter.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

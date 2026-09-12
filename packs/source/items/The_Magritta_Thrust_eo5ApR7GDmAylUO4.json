@@ -84,6 +84,5 @@
       "difficulty": "2b",
       "requirements": "<p>Special: This attack uses either Strength or Agility (your choice) both for its check and to determine damage dealt</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -66,6 +66,5 @@
       "difficulty": "1b",
       "requirements": "<p>Must possess at least one claw, engaged with target. This Agility instead of Strength for the attack roll.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

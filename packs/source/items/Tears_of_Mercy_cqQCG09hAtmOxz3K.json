@@ -74,6 +74,5 @@
       "difficulty": "4c",
       "requirements": "<p>10 favour, engaged with target Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

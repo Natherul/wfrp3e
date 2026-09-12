@@ -82,6 +82,5 @@
       "difficulty": "1c",
       "requirements": "<p>Target(s) within medium range Special: Add {Dc} to the dice pool for each target beyond the first. This is opposed by the best defence score of its targets</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

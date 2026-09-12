@@ -89,6 +89,5 @@
       "difficulty": "2b",
       "requirements": "<p>Engaged with target Special: For each of the engagement, remove {Dc} from the dice (no matter the source of the )</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

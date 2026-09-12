@@ -91,6 +91,5 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>One-handed melee weapon equipped. Engaged with target and at least three other characters. You are hidden from the target. Special: Reduce the difficulty modifier by {Dc} if you have Stealth trained or by {Dc} if you have Stealth Mastery</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

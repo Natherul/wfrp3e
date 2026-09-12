@@ -80,6 +80,5 @@
       "difficulty": "1b",
       "requirements": "<p>Special: After character within close range declares an action, the NPC tokens - remove any number of recharge tokens from this action to add {Dr} to action's dice pool recharge token removed</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

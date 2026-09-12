@@ -102,6 +102,5 @@
       "difficulty": "2c 2b",
       "requirements": "<p>8 favour, engaged with target, must perform a manoeuvre. Special: The difficulty of this action is equal to the highest severity amongst critical wounds the target is suffering from.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

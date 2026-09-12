@@ -73,6 +73,5 @@
       "difficulty": "2c",
       "requirements": "<p>Special: If it is winter, reduce the difficulty modifier by {Dc} Effect: Cold and icy winds blow around you. While this spell is recharging, all other 3 characters within close range of you gain the Freezing condition</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

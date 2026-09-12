@@ -39,6 +39,5 @@
       "difficulty": "",
       "requirements": "<p>An ally within medium range is injured as described below. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When an ally within medium range suffers 2 or more wounds, suffers a critical wound, or acquires an insanity, a disease, or a new symptom, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

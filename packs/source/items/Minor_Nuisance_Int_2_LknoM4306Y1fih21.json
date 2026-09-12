@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Add to Intelligence checks</p>",
     "severityRating": 2
-  },
-  "_text_fixed_by_llm": true
+  }
 }

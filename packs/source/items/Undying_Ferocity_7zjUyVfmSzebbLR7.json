@@ -72,6 +72,5 @@
       "difficulty": "2b",
       "requirements": "<p>Melee weapon, engaged with target, received a killing blow Special: This action is performed immediately after the attack that dealt the killing blow is resolved, before any other manoeuvres or effects. Undying Ferocity interrupts the active player’s turn until this action has been resolved</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -64,6 +64,5 @@
       "difficulty": "2c 1f 1b",
       "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of a Grey Order spell (you may target yourself). Special: You may affect 1 target per character rank. If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

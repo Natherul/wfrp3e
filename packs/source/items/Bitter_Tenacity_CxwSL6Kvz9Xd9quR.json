@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Play when you suffer any effect that deals damage, fatigue, and/or stress. Special: If you suffer no wounds, fatigue, or stress as a result of the triggering effect, this action immediately recharges. This does not reduce or affect any effect that deals wounds directly; only damage. Effect: When you suffer any effect that deals damage, fatigue, and/or stress, you may place 2 recharge tokens on this card. If you do, you gain +1 soak and reduce the amount of fatigue and/or stress inflicted by 1. You also ignore the minimum wound result rule for this effect (you may reduce damage to 0).</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

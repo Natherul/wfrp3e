@@ -92,6 +92,5 @@
       "difficulty": "1c 2b",
       "requirements": "<p>Special: Add [Dm] to the dice pool for each disease the target is afflicted by</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

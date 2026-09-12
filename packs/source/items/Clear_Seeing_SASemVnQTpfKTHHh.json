@@ -64,6 +64,5 @@
       "difficulty": "1c",
       "requirements": "<p>The target’s eyes are filled with cerulean light. He sees more clearly. While this spell is recharging, he gains {Dc} to Observation checks, and fortune points spent to enhance such checks add {Df} rather than {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

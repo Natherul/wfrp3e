@@ -76,6 +76,5 @@
       "difficulty": "3c",
       "requirements": "<p>Special: You may only be under the effect of one Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you suffer 1 less stress and 1 less fatigue from failed Fear and Terror checks, to a minimum of 0.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -90,6 +90,5 @@
       "difficulty": "1c",
       "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 damage and Pierce 2 to all attacks that hit.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

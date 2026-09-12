@@ -90,6 +90,5 @@
       "difficulty": "1c 1f",
       "requirements": "<p>Melee weapon equipped, engaged with target. You must be critically wounded. Special: This card recharges when the target is defeated, or at the end of the encounter (whichever comes first)</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

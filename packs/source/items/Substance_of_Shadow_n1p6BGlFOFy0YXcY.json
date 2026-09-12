@@ -76,6 +76,5 @@
       "difficulty": "2c",
       "requirements": "<p>6 power. If you are engaged with an enemy, add {Dm} to your dice pool. B Effect: Your body becomes insubstantial and shadowy. While this spell is recharging, enemy weapons and attacks pass through you without harm, inflicting 1 stress instead of their normal damage. You also gain 3 {De} to Stealth checks</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

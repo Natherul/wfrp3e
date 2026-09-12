@@ -76,6 +76,5 @@
       "difficulty": "2b",
       "requirements": "<p>Special: If you attack another character while this card is recharging, you suffer the wrath of Ranald and gain the Staggered condition for 2 rounds. Effect: While this card is recharging, add {Dm} to Athletics checks associated with climbing or jumping, to Coordination checks associated with balancing or dodging, and to all Stealth checks</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

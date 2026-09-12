@@ -90,6 +90,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>4 power, target object no larger than you within close range</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

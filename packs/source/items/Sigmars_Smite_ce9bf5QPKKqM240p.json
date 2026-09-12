@@ -94,6 +94,5 @@
       "difficulty": "1c",
       "requirements": "<p>Special This blessing requires between 5 and 10 favour to resolve; you may choose to resolve it during your turn when it has favour within that range. X is the amount of favour invested in the blessing when it resolves</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

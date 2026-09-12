@@ -94,6 +94,5 @@
       "difficulty": "1b",
       "requirements": "<p>Used By: Coloured Fiends, get within close range Special: If the target is suffering from corruption, add {Dm} to this check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -86,6 +86,5 @@
       "difficulty": "1c",
       "requirements": "<p>7 power, target engagement within close range. If you are engaged with an enemy, add {Dm} to your pool. Special: Add {Dc} for each character in the engagement beyond the first. Effect: Corrosive fog lingers at the target engagement while this card recharges. Any character starting his turn engaged with the fog suffers 2 normal wounds. Any character starting his turn within close range of the fog suffers 1 normal wound.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

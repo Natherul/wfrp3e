@@ -64,6 +64,5 @@
       "difficulty": "2c",
       "requirements": "<p>S power. Must be able to touch every plant affected by this spell over the course of casting it; this may require an extended period of time</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -92,6 +92,5 @@
       "difficulty": "2c",
       "requirements": "<p>4 power Effect: Your body shines with an intensely bright light, making you difficult to look upon, then slowly fades. While this spell is recharging, actions that target you or anyone engaged with you add a number of {Dm} to their dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

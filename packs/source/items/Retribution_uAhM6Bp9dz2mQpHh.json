@@ -77,6 +77,5 @@
       "difficulty": "2b",
       "requirements": "<p>Shield and melee weapon equipped, target has just missed you with a Melee Attack that you have used the Block action against</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -43,6 +43,5 @@
       "difficulty": "1c",
       "requirements": "<p>S favour, engaged with target melee weapon Effect: Myrmidia blesses your weapon. While this blessing is recharging, the weapon is considered an enchanted and blessed item of quality {Dc} § 3 superior and adds {Df} to the dice pool. Attacks with the affected</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

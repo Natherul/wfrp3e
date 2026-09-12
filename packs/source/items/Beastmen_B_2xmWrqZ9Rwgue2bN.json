@@ -5,6 +5,5 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>UNRULY NATURE OF THE BEAST Each time a beastman wounds an enemy, advance the token 1 space. Upon reaching space 8, the beastmen are in danger of becoming uncontrollable. At the start of each round, the beastman with the highest Discipline skill must pass an Average (2{Dc}) Discipline check to keep the other beastmen focused on the battle. If the check is failed, the beastmen suffer -1 to Intellect, Willpower, and Fellowship (to a minimum of 1) and -1 Defence, but gain +1 damage to Melee (to a minimum of 1) until the end of the encounter. The effects of a failed check are cumulative.</p><p>BEASTMEN PRIMAL FURY!</p><p>When a beastman generates or inflicts a critical 1 hit during melee combat, advance the Fury token one space. Once the token reaches space 4, the beastmen gain +1 Strength. Once the token reaches space 6, the beastmen gain +1 Toughness. During each beastman’s End of Turn Phase, if the active beastman is not engaged in melee, move the token two spaces to the left along the track.</p>"
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -5,6 +5,5 @@
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
     "description": "<p>This ancient, jagged sword glows with a pulsing green light. Damage Rating: 4</p> <p>Critical Rating: 3 (2 on {Dc}) Qualities: None Group: Ordinary Encumbrance: 3 If the attacker’s dice pool generates one or more {Dm}, the Desolate Blade has a CR of 2, but the wielder suffers 1 fatigue and must make (To) an Average (2d) Resilience check or suffer 2 corruption. Each {Dc} rolled on this check also generates 1 corruption. Wielding this magical sword counts as having +1 Str.</p>"
-  },
-  "_text_fixed_by_llm": true
+  }
 }

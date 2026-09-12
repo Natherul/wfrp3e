@@ -80,6 +80,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Special: The Unreliable rating of your weapon is worsened by 1 to a minimum of 1 as you load the weapon with far too much black powder.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

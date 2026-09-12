@@ -90,6 +90,5 @@
       "difficulty": "1c 1f",
       "requirements": "<p>8 power. Target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool. Special: If KO with this you an enemy spell, you may strike an additional enemy in the same engagement for the same effect but -2 damage; you may keep doing this (taking -2 damage each time) until you fail to KO an enemy or there are no enemies remaining in the engagement.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

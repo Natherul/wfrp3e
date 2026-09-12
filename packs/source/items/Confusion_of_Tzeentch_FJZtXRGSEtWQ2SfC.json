@@ -80,6 +80,5 @@
       "difficulty": "1c",
       "requirements": "<p>5 power. The caster must either have a piece of the target's body (blood, hair, etc.) which is consumed in the spell, or the target must be within close range</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

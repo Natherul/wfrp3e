@@ -66,6 +66,5 @@
       "difficulty": "1c",
       "requirements": "<p>4 favour, +1 favour per character in target engagement within medium range. Must perform the prepare manoeuvre</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

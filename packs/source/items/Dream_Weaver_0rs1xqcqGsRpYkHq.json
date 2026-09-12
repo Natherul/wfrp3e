@@ -78,6 +78,5 @@
       "difficulty": "2c",
       "requirements": "<p>Requires: As part of working this spell, you fall asleep and remain so for at least 6 hours. You must have a connection to the target, such as a portrait, true name, or personal item. Special: This blessing recharges at sundown.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

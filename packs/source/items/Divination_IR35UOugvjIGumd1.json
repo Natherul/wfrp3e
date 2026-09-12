@@ -64,6 +64,5 @@
       "difficulty": "2c 2b",
       "requirements": "<p>7 power, must be able to see the open sky or have access to a divination instrument. Effect: You perceive the future as a hazy image of potential events. While this spell is recharging, you may remove a recharge token from it to experience a \"flash of insight\" the exact details of which are up to you and the GM. At minimum, the flash should grant you {Dr} to a skill check. You might, for example, suddenly know which door the bandits will come through, or which dish to avoid at dinner. Regardless of whether or not this spell has recharged, you may only cast it once per session.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Your leg is crippled. You can only move at a crawl, or hobble on crutches. You lose the leg. This wound is permanent.</p>",
     "severityRating": 4
-  },
-  "_text_fixed_by_llm": true
+  }
 }

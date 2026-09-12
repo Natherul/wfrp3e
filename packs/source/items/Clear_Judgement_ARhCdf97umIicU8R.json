@@ -67,6 +67,5 @@
       "difficulty": "2c",
       "requirements": "<p>Target within close range. If the target is not a willing subject, add € to the dice pool. Effect: Verena clears the target’s mind of distractions and wrong thinking. While this blessing is recharging, the subject may ignore any penalties to mental skill checks caused by an insanity, condition, or spell.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

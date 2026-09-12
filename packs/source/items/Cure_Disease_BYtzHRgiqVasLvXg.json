@@ -82,6 +82,5 @@
       "difficulty": "",
       "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease. Special: The difficulty of this check is equal to the severity of the disease or [Dc]</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

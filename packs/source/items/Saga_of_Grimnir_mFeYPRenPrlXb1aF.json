@@ -68,6 +68,5 @@
       "difficulty": "2c",
       "requirements": "<p>of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, add 1 recharge token to it each time you suffer 1 wounds. When hit with Melee or more you a Attack, you may remove any number of recharge tokens from this card to increase the damage dealt by that amount.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

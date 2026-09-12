@@ -49,6 +49,5 @@
       "difficulty": "1c",
       "requirements": "<p>Dwarf only WP 4+ or Discipline trained Special: If the cause of the check is an AF against whom you have a Grudge, add an {Dr} additional die of the appropriate type to your check. You may not use this action on your daily Resilience (To) check to recover wounds. Effect: When you are called upon to make a Discipline or Resilience check, or when you are targeted by an effect that opposes Willpower or your Toughness or skills keyed to those characteristics, you may play this card in response by adding 4 recharge tokens to it. You may add {Dr} to your check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

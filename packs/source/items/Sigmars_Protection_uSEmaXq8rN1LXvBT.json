@@ -76,6 +76,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Special: If, when your wound threshold is reduced, you are suffering from wounds in excess of your wound threshold, you are KO’d and may die. Effect: Your faith in Sigmar hardens your flesh and strengthens you against pain. While this blessing is recharging, your wound threshold is increased by your depth in the Reckless stance.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

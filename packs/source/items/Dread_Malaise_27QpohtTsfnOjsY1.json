@@ -75,6 +75,5 @@
       "difficulty": "1c",
       "requirements": "<p>4 power, target(s) within close range, target beyond the range, ldd O to [Dc] die pool. Special: This spell opposes the highest Resilience amongst its targets.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -78,6 +78,5 @@
       "difficulty": "",
       "requirements": "<p>Shield equipped, engaged with target Special: If you have Weapon Skill trained, add {Df} to your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

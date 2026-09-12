@@ -82,6 +82,5 @@
       "difficulty": "2b",
       "requirements": "<p>You must be engaged with your target. Special: This attack uses Agility instead for the attack roll</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

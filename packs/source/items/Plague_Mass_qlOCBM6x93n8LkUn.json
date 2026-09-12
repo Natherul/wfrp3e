@@ -72,6 +72,5 @@
       "difficulty": "2c 1b",
       "requirements": "<p>Must be able to chant loudly and burn profane and disgusting substances as incense. Special: Add {Dm} to the dice pool for each enemy engaged with you and {Dm} for each disease suffered by characters within long range. Effect: You summon a swarm of flies: While this action is recharging, you can spend a manoeuvre to direct the swarm to envelop any engagement within long range. All characters in that engagement suffer 1 wound at the beginning of their turn</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

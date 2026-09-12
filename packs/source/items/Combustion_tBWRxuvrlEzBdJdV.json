@@ -76,6 +76,5 @@
       "difficulty": "1c",
       "requirements": "<p>3 power, delum range to target, 1 or more Bright Order spells recharging. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -76,6 +76,5 @@
       "difficulty": "1b",
       "requirements": "<p>Special: While this action is recharging, you may remove one misfortune die from one of your own dice pools (before rolling) by removing one recharge token from this action</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

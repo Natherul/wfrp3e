@@ -72,6 +72,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

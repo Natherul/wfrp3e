@@ -70,6 +70,5 @@
       "difficulty": "1c 1f 1b",
       "requirements": "<p>Add {Dc} to your dice pool if you are engaged with an enemy. The spell recharges following midnight. Effect: You summon creatures of the night to attack your enemies. They appear anywhere at extreme range from you</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

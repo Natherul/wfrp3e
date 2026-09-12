@@ -80,6 +80,5 @@
       "difficulty": "2b",
       "requirements": "<p>Engaged with 1 target. Special: If you have Athletics trained, add {De} to this check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

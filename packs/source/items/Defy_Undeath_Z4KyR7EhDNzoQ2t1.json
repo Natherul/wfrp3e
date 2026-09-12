@@ -90,6 +90,5 @@
       "difficulty": "",
       "requirements": "<p>7 favour. You must prepare a manoeuvre before invoking this blessing. Effect: A chanted prayer to Morr weakens the undead. Each time you remove a Recharge token from this card, each undead within close range of you suffers 1 wound (ignoring Toughness and armour)</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

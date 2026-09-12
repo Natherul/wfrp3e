@@ -82,6 +82,5 @@
       "difficulty": "2c",
       "requirements": "<p>Ranged weapon equipped, close range or engaged with target. Add {Dm} to your dice pool for each enemy engaged with you</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

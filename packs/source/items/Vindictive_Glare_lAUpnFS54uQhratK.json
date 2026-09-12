@@ -108,6 +108,5 @@
       "difficulty": "1b",
       "requirements": "<p>6 power, target within medium range. If you are engaged with an enemy, add 1 {Dm} to your pool. Special: For each Shaman action currently recharging, add {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

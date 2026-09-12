@@ -49,6 +49,5 @@
       "difficulty": "",
       "requirements": "<p>S favour, target within medium range and able to hear and understand you speak Special: If you have Guile trained, add {Dc} to the dice pool for each rank of Guile. When you invoke this blessing, you describe what effect you want it to have and the GM may modify the dice pool based on how dangerous or contrary to the target's nature the desired action is. Actions that are clearly self-harmful or flagrantly against the subject's nature will add at least {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -38,6 +38,5 @@
       "difficulty": "",
       "requirements": "<p>After have been declared the target of a Melee Attack, add two {Dm} to this card to add to the action’s dice pool. May add or remove one recharge token from one of your Melee Attack cards. Improved Parry replaces Parry in your action deck and counts as Parry for all effects that reference it.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

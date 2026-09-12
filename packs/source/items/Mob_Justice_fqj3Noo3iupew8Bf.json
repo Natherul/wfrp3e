@@ -85,6 +85,5 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Townsfolk with target Spectal If there are more townsfolk in the engagement than enemies, add {Dr} to the attack’s dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

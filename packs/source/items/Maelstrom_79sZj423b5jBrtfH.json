@@ -74,6 +74,5 @@
       "difficulty": "4c 1f",
       "requirements": "<p>10 favour. There must be a sizable body of water within long range to focus the maelstrom upon. Effect: A storm of incredible size and strength lashes the seas around you out to extreme range while this blessing is recharging. Wind, rain, and sea spray add {Dc} to all checks against targets that are not engaged with the active player, or any checks that the GM rules would be affected. Anyone attempting to swim or otherwise navigate the storm-tossed waters must pass a Heroic (5d) check of a relevant skill. Failure may be fatal at the GM’s discretion.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

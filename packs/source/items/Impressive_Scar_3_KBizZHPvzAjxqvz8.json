@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Your wound pains you. This injury counts as 1 stress that cannot be recovered.</p> Gain {Df}{Df} Fellowship checks, due to your veteran’s scar",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -44,6 +44,5 @@
       "difficulty": "3c",
       "requirements": "<p>Intimidate trained Special: This action uses Fellowship rather than Strength</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

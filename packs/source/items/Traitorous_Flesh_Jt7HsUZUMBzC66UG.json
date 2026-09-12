@@ -86,6 +86,5 @@
       "difficulty": "1c",
       "requirements": "<p>7 power, target suffering from one or more corruption and within medium range. Special: You may purge up to 3 corruption from the target. If you do, add {Dr} to your dice pool for each corruption purged. Effect: The target's flesh ripples and twists, weakening him. While this spell is recharging, his defence and soak values are reduced by 1 (to a minimum of 0).</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

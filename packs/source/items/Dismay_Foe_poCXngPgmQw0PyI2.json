@@ -51,6 +51,5 @@
       "difficulty": "1c",
       "requirements": "<p>3 favour. You must be able to speak and your target(s) must be able to hear you clearly. For target beyond the first, add 1 to the dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

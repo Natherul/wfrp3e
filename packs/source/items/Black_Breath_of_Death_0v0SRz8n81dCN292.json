@@ -90,6 +90,5 @@
       "difficulty": "1c",
       "requirements": "<p>1 power, target within medium range Special: If the target's Toughness is fatigued, the difficulty modifier for this action is ignored</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

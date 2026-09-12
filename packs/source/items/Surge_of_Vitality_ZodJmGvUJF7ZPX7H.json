@@ -5,6 +5,5 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Recover all fatigue, then heal a number of normal wounds equal to the amount of fatigue recovered. During your End of Turn phase, suffer stress equal to the amount of fatigue recovered.</p>"
-  },
-  "_text_fixed_by_llm": true
+  }
 }

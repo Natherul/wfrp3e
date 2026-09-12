@@ -62,6 +62,5 @@
       "difficulty": "2c 1f 1b",
       "requirements": "<p>engaged with target. Special: Add {Dm} to the dice pool for every head beyond the first involved in this attack. After the attack is resolved, add 1 recharge token to this card for each living head you still possess.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

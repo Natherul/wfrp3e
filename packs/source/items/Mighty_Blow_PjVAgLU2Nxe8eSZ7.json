@@ -82,6 +82,5 @@
       "difficulty": "",
       "requirements": "<p>Special: The defence rating of any armour heavier than leather is increased by 1 against this attack</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

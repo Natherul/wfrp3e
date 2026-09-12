@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>When you receive this wound, suffer fatigue equal to its severity.</p>",
     "severityRating": 3
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -64,6 +64,5 @@
       "difficulty": "1c",
       "requirements": "<p>9 power, target within line of sight or marked with the blood of a natural beast. Effect: The target has been marked as a hated foe of the beasts of the wild. While this spell is recharging, all natural beasts hate and fear the target on sight. Wild beasts will flee or attack at the target's approach, depending on their nature and situation, and receive {Dm} on all attacks against the target. Domesticated animals are also affected, although to a lesser</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

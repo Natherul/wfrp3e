@@ -82,6 +82,5 @@
       "difficulty": "",
       "requirements": "<p>Melee weapon equipped; target within close range Special: If your weapon’s DR is greater than your opponent’s DR, add {De} to your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -5,6 +5,5 @@
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
     "description": "<p>Your body. Each character (friend or foe) within close range (including you) suffers 1 wound for each 3+ generated. If any friendly characters suffer wounds as a result, increase party tension by 1 for each generated.</p>"
-  },
-  "_text_fixed_by_llm": true
+  }
 }

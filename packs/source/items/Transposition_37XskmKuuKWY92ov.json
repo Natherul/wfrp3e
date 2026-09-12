@@ -54,6 +54,5 @@
       "difficulty": "3c 1f",
       "requirements": "<p>10 power. You must have a clear view of the night sky to cast this spell. Special: If you have instruments for celestial observation and an accurate map marking the direction and distance to your destination, and you spend at least a half-hour using them, remove {Dr} from the dice pool. If your map is inaccurate, or you have no map, add {Dm} instead. This spell recharges at sunset.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

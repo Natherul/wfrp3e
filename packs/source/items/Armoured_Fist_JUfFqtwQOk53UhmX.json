@@ -104,6 +104,5 @@
       "difficulty": "",
       "requirements": "<p>Must be wearing armour with a soak value of at least 2, engaged with target. Special: If your armour’s soak value is higher, you deal +2 damage with this attack</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

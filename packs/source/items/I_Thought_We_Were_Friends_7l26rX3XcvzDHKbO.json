@@ -92,6 +92,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Target must be within medium range and be able to see or hear you. Effect: You try a meek approach with the target, trying to make yourself appear less threatening</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

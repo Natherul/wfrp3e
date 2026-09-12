@@ -43,6 +43,5 @@
       "difficulty": "2c",
       "requirements": "<p>For S favour. Engaged with a target with a higher Strength rating than you. Effect: Verena redresses an imbalance. While this blessing is recharging, your Strength is increased as described below. This blessing won't increase your Strength beyond that of your target.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

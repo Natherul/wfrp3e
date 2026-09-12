@@ -83,6 +83,5 @@
       "difficulty": "1c",
       "requirements": "<p>Corpses within range. Add {Dm} to your dice pool if you are engaged with an enemy. Effect: You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons. For each success and each boon you can raise one undead creature.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

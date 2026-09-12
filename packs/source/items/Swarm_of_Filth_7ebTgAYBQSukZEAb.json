@@ -86,6 +86,5 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Nurglings. Nurglings engaged with the target. The Nurgling suffering from the fewest wounds makes the attack. Each additional Nurgling in the engagement adds {Dc} to the dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

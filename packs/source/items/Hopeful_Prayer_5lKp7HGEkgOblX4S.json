@@ -74,6 +74,5 @@
       "difficulty": "2c",
       "requirements": "<p>For favour. You may target any number of characters within close range who can hear you speak, including yourself. For each target beyond the first, remove {Dco} from your dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

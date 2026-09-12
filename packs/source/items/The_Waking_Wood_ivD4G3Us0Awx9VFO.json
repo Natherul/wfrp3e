@@ -67,6 +67,5 @@
       "difficulty": "3c 1f",
       "requirements": "<p>Special: If you have Nature Lore, reduce the difficulty modifier by {Dc}. Effect: The trees and shrubs of this forest spring to life to attack your enemies. While this blessing is recharging, you may perform a free Melee Strike action at the beginning of your turn, targeting any enemy engaged with the affected trees and shrubs</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

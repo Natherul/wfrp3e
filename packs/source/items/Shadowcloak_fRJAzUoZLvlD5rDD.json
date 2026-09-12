@@ -54,6 +54,5 @@
       "difficulty": "1c",
       "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

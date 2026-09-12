@@ -82,6 +82,5 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Marauder Engaged with target. Special: If the target is critically affected, ignore this attack’s difficulty modifier.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

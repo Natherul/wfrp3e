@@ -86,6 +86,5 @@
       "difficulty": "3c",
       "requirements": "<p>Used By: Orcs. Engaged with target. Special: The GM may choose to kill any number of snotlings or goblins in the current engagement as the orc hacks through it. For each goblin killed, reduce the difficulty modifier by {Dc}. For each snotling killed, add {Dm} to the attack check.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

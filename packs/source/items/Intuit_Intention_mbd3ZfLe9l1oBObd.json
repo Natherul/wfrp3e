@@ -95,6 +95,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>Target within medium range Effect: While this card is recharging your target must add {Dm} to all Guile checks that include you as a target.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

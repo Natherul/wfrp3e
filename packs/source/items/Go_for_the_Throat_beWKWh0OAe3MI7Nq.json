@@ -90,6 +90,5 @@
       "difficulty": "1c",
       "requirements": "<p>Used By: Flesh Hounds Engaged with target Special: If the target is critically wounded, the flesh hound adds {Dc} to its dice pool equal to the highest severity rating among the target's critical wounds</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -84,6 +84,5 @@
       "difficulty": "4c 1b",
       "requirements": "<p>Special: If you have Observation trained, add {Dr} to the check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

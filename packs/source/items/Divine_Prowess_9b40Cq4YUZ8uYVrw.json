@@ -86,6 +86,5 @@
       "difficulty": "2c",
       "requirements": "<p>Have a Melee Attack or Ranged Attack action available (i.e. not recharging)</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

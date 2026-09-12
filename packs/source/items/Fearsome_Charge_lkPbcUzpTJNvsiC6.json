@@ -77,6 +77,5 @@
       "difficulty": "1b",
       "requirements": "<p>Melee weapon, not engaged with target, target within close range Special: The beastman performs a free manoeuvre as part of the action to engage the target</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

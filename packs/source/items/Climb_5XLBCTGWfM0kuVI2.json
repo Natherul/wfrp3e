@@ -72,6 +72,5 @@
       "difficulty": "",
       "requirements": "<p>3 power Effect: Your hands and feet become tacky, adhering to any face you touch. You can climb virtually any surface, no matter how sheer or smooth it is. You may remove up to {Dr} {Dr} from any Athletics check associated with climbing. If the difficulty falls below Easy (0d) you do not need to roll.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

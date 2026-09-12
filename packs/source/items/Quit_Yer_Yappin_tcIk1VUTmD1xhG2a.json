@@ -34,6 +34,5 @@
       "difficulty": "",
       "requirements": "<p>Special: After an engaged ally is declared as a target of a Ranged Attack, Melee Attack, or Spell action, you may place 3 recharge tokens on this card to add {Dm} to that action’s dice pool. You may spend a Cunning die from your budget to add another {Dm} to the dice pool. You must spend 1 power per {Dm} added to the pool.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

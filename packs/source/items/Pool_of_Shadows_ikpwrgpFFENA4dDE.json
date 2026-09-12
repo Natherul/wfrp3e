@@ -82,6 +82,5 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: The terrain feature or choose is shrouded in shadows out to close range while this card is recharging. Checks involving vision or actions that target into or out of the shrouded area suffer a penalty of {Dm} to their dice pools.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -112,6 +112,5 @@
       "difficulty": "1c",
       "requirements": "<p>Agility 4+, you have just been missed by an attack that you have used the Dodge action against. Engaged with target; target cannot be the attacker Special: May not be used if the incoming attack is a Teamwork action. For each ally</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

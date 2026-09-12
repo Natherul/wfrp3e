@@ -93,6 +93,5 @@
       "difficulty": "2c",
       "requirements": "<p>Your subjects must be able to see Effect: You gain {Dc} on all your Social actions while this card is recharging</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

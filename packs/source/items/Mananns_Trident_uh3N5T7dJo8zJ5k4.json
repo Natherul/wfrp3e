@@ -90,6 +90,5 @@
       "difficulty": "",
       "requirements": "<p>3 favour, target within long range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

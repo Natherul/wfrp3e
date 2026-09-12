@@ -82,6 +82,5 @@
       "difficulty": "2c",
       "requirements": "<p>Effect: Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

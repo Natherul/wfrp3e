@@ -76,6 +76,5 @@
       "difficulty": "",
       "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dr}</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

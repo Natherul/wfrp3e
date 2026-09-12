@@ -54,6 +54,5 @@
       "difficulty": "2c 2f",
       "requirements": "<p>You must spend at least 1 hour studying the stars through a telescope of Superior quality. Effect: You see the future. Over the 24 hours after you cast this spell, you can immediately recharge this action to use your knowledge and do one of the following: &+ Deal 3 extra damage with an attack or spell. Turn a failed attack or spell into a success (as if net success). % A Recover 3 wounds. &+ Turn an action that would include you as a target into a failure (as if net 0 successes). #+ Recharge an action card completely.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

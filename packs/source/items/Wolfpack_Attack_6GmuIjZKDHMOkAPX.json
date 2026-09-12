@@ -100,6 +100,5 @@
       "difficulty": "1c 1f",
       "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack Special: This action uses Strength instead of Fellowship</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

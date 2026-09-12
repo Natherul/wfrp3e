@@ -64,6 +64,5 @@
       "difficulty": "1c",
       "requirements": "<p>Effect: You discern truth from falsehood. While this blessing is recharging, you will know if the target lies. You will not know what the truth is, nor can you detect it if a person unwittingly speaks untrue information. The liar must be consciously attempting to deceive.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

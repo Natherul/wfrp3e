@@ -80,6 +80,5 @@
       "difficulty": "1c",
       "requirements": "<p>Special: Ignore the target’s armour soak value against this attack, as the slime oozes right through it</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

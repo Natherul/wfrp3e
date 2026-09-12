@@ -86,6 +86,5 @@
       "difficulty": "3c",
       "requirements": "<p>3 favour per ally to be protected, all targets within medium range. Effect: Shallya keeps diseases, poisons, and other threats to health at bay. While this blessing is recharging, all targets may add {Dc} to checks to resist disease, corruption, poison, or similar effects</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

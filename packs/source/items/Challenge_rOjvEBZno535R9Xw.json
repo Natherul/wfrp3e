@@ -61,6 +61,5 @@
       "difficulty": "1b",
       "requirements": "<p>Target within medium range Effect: You call out your target and challenge him to one on one combat. While this card is recharging you and your target add {Dc} checks that do not target each other</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

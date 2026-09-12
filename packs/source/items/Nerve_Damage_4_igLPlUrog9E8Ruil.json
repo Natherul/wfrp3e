@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Your Intelligence, Willpower, and Fellowship are & reduced by 1</p>",
     "severityRating": 4
-  },
-  "_text_fixed_by_llm": true
+  }
 }

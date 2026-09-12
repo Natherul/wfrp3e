@@ -81,6 +81,5 @@
       "difficulty": "2b",
       "requirements": "<p>Ranged weapon equipped, target within medium range, disengaged from target, you must perform the prepare manoeuvre</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

@@ -77,6 +77,5 @@
       "difficulty": "2c",
       "requirements": "<p>Ranged weapon equipped, disengaged from target. If you perform the prepare manoeuvre before taking this action, exchange one [Dm] for [Dm] in your dice pool. Special: You may attack a target up to one range increment beyond the usual maximum range of your weapon</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

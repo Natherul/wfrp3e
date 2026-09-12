@@ -77,6 +77,5 @@
       "difficulty": "3c",
       "requirements": "<p>Effect: While this action is recharging, all followers of Nurgle within long range recover 1 wound at the end of each round, all other characters within long range add {Dm} to Resilience checks</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

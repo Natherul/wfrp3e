@@ -62,6 +62,5 @@
       "difficulty": "2c 1f",
       "requirements": "<p>normal sleep for effects (such . counts as Morr blessing that is invoked when going to sleep) that reference it. A priest may invoke this blessing and 1 other blessing that keys off of sleep at the same time</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

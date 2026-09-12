@@ -6,6 +6,5 @@
   "system": {
     "description": "<p>Until this critical wound is healed, its Severity Rating increases by 1 each day, to a maximum Severity of S</p>",
     "severityRating": 0
-  },
-  "_text_fixed_by_llm": true
+  }
 }

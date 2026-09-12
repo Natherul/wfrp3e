@@ -90,6 +90,5 @@
       "difficulty": "1c",
       "requirements": "<p>Special This attack uses Agility instead of Strength for both the attack roll and damage dealt</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

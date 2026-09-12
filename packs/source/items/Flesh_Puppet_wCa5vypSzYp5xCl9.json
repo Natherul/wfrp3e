@@ -83,6 +83,5 @@
       "difficulty": "1c 1b",
       "requirements": "<p>9 power, target living creature within medium range § Effect: Each time the target takes his turn, while this card is recharging, the caster announces what he would like the target to do. If the target resists, he can act normally, but must draw an insanity from the deck (keep drawing until an insanity with the Chaos or Trauma trait is drawn) and suffer its effects as a temporary insanity</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

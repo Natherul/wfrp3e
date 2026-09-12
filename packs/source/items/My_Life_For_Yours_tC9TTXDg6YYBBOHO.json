@@ -82,6 +82,5 @@
       "difficulty": "1c 3b",
       "requirements": "<p>Engaged with target, target must be willing to receive your protection. Effect: You devote yourself to defending one ally. While this card is recharging, you remain engaged with the ally and automatically move with him when he moves. You suffer half of your ally’s wounds after Toughness and Soak (in his stead). If you leave your ally’s engagement, this card recharges completely.</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

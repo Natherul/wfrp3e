@@ -75,6 +75,5 @@
       "difficulty": "",
       "requirements": "<p>With 4 favour, lock picking tool engaged with target lock Special: The difficulty of this action is based on the quality of the lock, exactly as if you were using Skulduggery (Ag) to open it</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }

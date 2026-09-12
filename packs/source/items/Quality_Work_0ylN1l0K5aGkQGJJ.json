@@ -77,6 +77,5 @@
       "difficulty": "1c",
       "requirements": "<p>You may require the tools of your trade or Special: You may use this action with any skill except for Ballistic Skill or Skill. Whichever skill you use to make the check determines which skill checks this action can affect. Effect: You steel yourself and make preparations so that you can excel in your chosen field. While this action is recharging, anytime you use the chosen skill, you may completely recharge it and add {Dc} to the check</p>"
     }
-  },
-  "_text_fixed_by_llm": true
+  }
 }
