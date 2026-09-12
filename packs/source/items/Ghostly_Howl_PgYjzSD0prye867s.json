@@ -46,11 +46,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Special: Add {Dc} to your dice pool if you are engaged with an enemy</p>"
+      "requirements": "<p>Special: Add {Dc} to your dice pool if you are engaged with an enemy</p>",
+      "name": "Ghostly Howl",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Special: Add {Dr} to your dice pool if you are engaged with an enemy</p>"
-    }
+      "requirements": "<p>Special: Add {Dr} to your dice pool if you are engaged with an enemy</p>",
+      "name": "Ghostly Howl",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

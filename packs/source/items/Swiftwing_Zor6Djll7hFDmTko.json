@@ -28,16 +28,23 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The capricious Winds of Magic whisk you away. At the end of your turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM’s choice as to where).</p>"
+            "description": "<p>The capricious Winds of Magic whisk you away. At the end of your turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM\u2019s choice as to where).</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>6 power</p>"
+      "requirements": "<p>6 power</p>",
+      "name": "Swiftwing",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -63,15 +70,25 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The capricious Winds of Magic whisk you away. At the end of your turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM’s choice as to where).</p>"
+            "description": "<p>The capricious Winds of Magic whisk you away. At the end of your turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM\u2019s choice as to where).</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c"
-    }
+      "name": "Swiftwing",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

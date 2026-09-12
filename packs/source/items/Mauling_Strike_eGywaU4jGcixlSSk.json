@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon or talons equipped. Engaged with target</p>"
+      "requirements": "<p>Melee weapon or talons equipped. Engaged with target</p>",
+      "name": "Mauling Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 87,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon or talons equipped. Engaged with target. Special: This attack gains the Vicious quality</p>"
-    }
+      "requirements": "<p>Melee weapon or talons equipped. Engaged with target. Special: This attack gains the Vicious quality</p>",
+      "name": "Mauling Strike",
+      "rechargeRating": 87,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

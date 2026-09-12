@@ -32,10 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": ""
+      "name": "Tooth and Claw",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +82,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Engaged with target</p>"
-    }
+      "requirements": "<p>Engaged with target</p>",
+      "name": "Tooth and Claw",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You borrow some of the swiftness of Ulric’s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
+            "description": "<p>You borrow some of the swiftness of Ulric\u2019s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
           }
         ],
         "righteousSuccess": [],
@@ -36,10 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1b"
+      "name": "Swiftness of the Wolf",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -50,7 +58,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>4 You borrow some of the swiftness of Ulric’s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
+            "description": "<p>4 You borrow some of the swiftness of Ulric\u2019s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
           }
         ],
         "righteousSuccess": [],
@@ -73,10 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b"
-    }
+      "name": "Swiftness of the Wolf",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

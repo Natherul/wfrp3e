@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Piercing ranged weapon such as bow, crossbow, arrow or similar. Target within close range. You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>"
+      "requirements": "<p>Piercing ranged weapon such as bow, crossbow, arrow or similar. Target within close range. You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>",
+      "name": "Immobilising Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 2b",
-      "requirements": "<p>Effect: You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>"
-    }
+      "requirements": "<p>Effect: You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>",
+      "name": "Immobilising Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

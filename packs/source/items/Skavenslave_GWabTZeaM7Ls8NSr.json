@@ -4,6 +4,7 @@
   "_id": "GWabTZeaM7Ls8NSr",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Keen Senses Skittish: If outnumbered in an engagement, gain {Dm} to all actions. Expendable: Do not count slaves when calculating skaven morale. Desperate: Once morale has been broken, stance becomes AGGRESSION. CUNNING EXPERTISE 1 2 0</p>"
+    "description": "<p>Keen Senses Skittish: If outnumbered in an engagement, gain {Dm} to all actions. Expendable: Do not count slaves when calculating skaven morale. Desperate: Once morale has been broken, stance becomes AGGRESSION. CUNNING EXPERTISE 1 2 0</p>",
+    "cooldown": false
   }
 }

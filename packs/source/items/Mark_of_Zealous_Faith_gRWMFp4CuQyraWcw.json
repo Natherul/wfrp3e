@@ -38,11 +38,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>7 favour. You must prominently display a symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar’s faithful. While his blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>"
+      "requirements": "<p>7 favour. You must prominently display a symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar\u2019s faithful. While his blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>",
+      "name": "Mark of Zealous Faith",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -82,11 +89,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 85,
-      "difficulty": "2c 1b",
-      "requirements": "<p>Symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar’s faithful. While this blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>"
-    }
+      "requirements": "<p>Symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar\u2019s faithful. While this blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>",
+      "name": "Mark of Zealous Faith",
+      "rechargeRating": 85,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

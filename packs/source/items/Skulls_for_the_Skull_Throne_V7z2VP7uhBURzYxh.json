@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>£ 141444 The attack hits for +3 damage</p>"
+            "description": "<p>\u00a3 141444 The attack hits for +3 damage</p>"
           }
         ],
         "righteousSuccess": [],
@@ -42,11 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "2b",
-      "requirements": "<p>Special: You may not use any Defences whilst this card is</p>"
+      "requirements": "<p>Special: You may not use any Defences whilst this card is</p>",
+      "name": "Skulls for the Skull Throne",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -86,11 +93,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon equipped, engaged with target Special: You may not use any Defences whilst this card is</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with target Special: You may not use any Defences whilst this card is</p>",
+      "name": "Skulls for the Skull Throne",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

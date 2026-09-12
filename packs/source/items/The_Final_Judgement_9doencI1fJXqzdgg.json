@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon or one-handed ranged weapon equipped; engaged with target</p>"
+      "requirements": "<p>Melee weapon or one-handed ranged weapon equipped; engaged with target</p>",
+      "name": "The Final Judgement",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Special: You may use either your Weapon Skill (St) or your Ballistic Skill (Ag) for this check; use the values and traits for the appropriate weapon</p>"
-    }
+      "requirements": "<p>Special: You may use either your Weapon Skill (St) or your Ballistic Skill (Ag) for this check; use the values and traits for the appropriate weapon</p>",
+      "name": "The Final Judgement",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

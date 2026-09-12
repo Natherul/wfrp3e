@@ -37,16 +37,42 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>On your behalf and soothe the weather to gentleness. While this blessing is recharging, winds still, rain stops, and fog disperses, cancelling the negative effects of all natural weather within long range of</p>"
+      "requirements": "<p>On your behalf and soothe the weather to gentleness. While this blessing is recharging, winds still, rain stops, and fog disperses, cancelling the negative effects of all natural weather within long range of</p>",
+      "name": "Dead Calm",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Dead Calm",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

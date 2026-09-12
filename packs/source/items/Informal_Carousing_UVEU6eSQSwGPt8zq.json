@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Informal Carousing",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -41,10 +58,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c"
-    }
+      "name": "Informal Carousing",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

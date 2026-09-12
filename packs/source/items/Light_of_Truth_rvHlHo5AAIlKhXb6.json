@@ -22,16 +22,23 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Whenever a falsehood is spoken within this spell’s radius of effect, you also suffer 1 stress and 1 fatigue.</p>"
+            "description": "<p>Whenever a falsehood is spoken within this spell\u2019s radius of effect, you also suffer 1 stress and 1 fatigue.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>8 power. You must light a candle, lantern, or other light source as you cast this spell. Effect: While this spell is recharging, anyone within medium range of the light source who speaks a falsehood suffers 1 fatigue and 1 stress, and also everyone who hears him knows he has lied and knows the truth of what he said, as if he’d made a similar true statement instead. (For example, if he lied about his name or identity, everyone who heard him now knows his true name or identity.) This spell only identifies deliberate falsehood; there is no penalty for mistaken statements.</p>"
+      "requirements": "<p>8 power. You must light a candle, lantern, or other light source as you cast this spell. Effect: While this spell is recharging, anyone within medium range of the light source who speaks a falsehood suffers 1 fatigue and 1 stress, and also everyone who hears him knows he has lied and knows the truth of what he said, as if he\u2019d made a similar true statement instead. (For example, if he lied about his name or identity, everyone who heard him now knows his true name or identity.) This spell only identifies deliberate falsehood; there is no penalty for mistaken statements.</p>",
+      "name": "Light of Truth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -51,16 +58,25 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Whenever a falsehood is spoken within this spell’s radius of effect, you also suffer 1 stress and 1 fatigue.</p>"
+            "description": "<p>Whenever a falsehood is spoken within this spell\u2019s radius of effect, you also suffer 1 stress and 1 fatigue.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>8 power. You must light a candle, lantern, or other light source as you cast this spell. Effect: While this spell is recharging, anyone within medium range of the light source who speaks a falsehood suffers 1 fatigue and 1 stress, and also everyone who hears him knows he has lied and knows the truth of what he said, as if he’d made a similar true statement instead. (For example, if he lied about his name or identity, everyone who heard him now knows his true name or identity.) This spell only identifies deliberate falsehood; there is no penalty for mistaken statements.</p>"
-    }
+      "requirements": "<p>8 power. You must light a candle, lantern, or other light source as you cast this spell. Effect: While this spell is recharging, anyone within medium range of the light source who speaks a falsehood suffers 1 fatigue and 1 stress, and also everyone who hears him knows he has lied and knows the truth of what he said, as if he\u2019d made a similar true statement instead. (For example, if he lied about his name or identity, everyone who heard him now knows his true name or identity.) This spell only identifies deliberate falsehood; there is no penalty for mistaken statements.</p>",
+      "name": "Light of Truth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

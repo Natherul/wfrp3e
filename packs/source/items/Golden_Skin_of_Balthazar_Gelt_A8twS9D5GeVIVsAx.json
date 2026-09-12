@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>7 power Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>"
+      "requirements": "<p>7 power Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>",
+      "name": "Golden Skin of Balthazar Gelt",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Effect: Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>"
-    }
+      "requirements": "<p>Effect: Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>",
+      "name": "Golden Skin of Balthazar Gelt",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

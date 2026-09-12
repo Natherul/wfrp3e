@@ -4,6 +4,7 @@
   "_id": "EeR1M1hQAc04OLuv",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Crow’s</p>"
+    "description": "<p>Crow\u2019s</p>",
+    "cooldown": false
   }
 }

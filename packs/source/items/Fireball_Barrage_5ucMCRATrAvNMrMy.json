@@ -46,11 +46,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c",
-      "requirements": "<p>8 power, targets within medium range peci I: For each additional target beyond the first, add 1 to your dice pool</p>"
+      "requirements": "<p>8 power, targets within medium range peci I: For each additional target beyond the first, add 1 to your dice pool</p>",
+      "name": "Fireball Barrage",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -102,11 +109,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1f",
-      "requirements": "<p>6 power, targets within long range Special: For each additional target beyond the first, add 1 to your dice pool</p>"
-    }
+      "requirements": "<p>6 power, targets within long range Special: For each additional target beyond the first, add 1 to your dice pool</p>",
+      "name": "Fireball Barrage",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

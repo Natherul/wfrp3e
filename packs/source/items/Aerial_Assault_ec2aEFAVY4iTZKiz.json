@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "",
-      "requirements": "<p>Target within long range, you must be able to fly</p>"
+      "requirements": "<p>Target within long range, you must be able to fly</p>",
+      "name": "Aerial Assault",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +78,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "2b",
-      "requirements": "<p>Target within long range, you must be able to fly</p>"
-    }
+      "requirements": "<p>Target within long range, you must be able to fly</p>",
+      "name": "Aerial Assault",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

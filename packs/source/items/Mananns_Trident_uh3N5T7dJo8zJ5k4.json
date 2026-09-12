@@ -41,18 +41,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 favour, target within medium range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
+      "requirements": "<p>3 favour, target within medium range. If you are engaged with an enemy, add {Dm} to the dice pool</p>",
+      "name": "Mananns Trident",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>‘N You summon a spiritual trident and strike your target for WP + 4 damage with Pierce 2</p>"
+            "description": "<p>\u2018N You summon a spiritual trident and strike your target for WP + 4 damage with Pierce 2</p>"
           },
           {
             "symbolAmount": 3,
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 favour, target within long range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
-    }
+      "requirements": "<p>3 favour, target within long range. If you are engaged with an enemy, add {Dm} to the dice pool</p>",
+      "name": "Mananns Trident",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

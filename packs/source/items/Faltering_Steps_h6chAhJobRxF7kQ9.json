@@ -4,6 +4,7 @@
   "_id": "h6chAhJobRxF7kQ9",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>You suffer 1 additional stress for each extra space you move the activation token on your Stance meter at the beginning of your turn. I don’t want to be a bother, but could oh, never mind, it was a bad idea anyway.</p>"
+    "description": "<p>You suffer 1 additional stress for each extra space you move the activation token on your Stance meter at the beginning of your turn. I don\u2019t want to be a bother, but could oh, never mind, it was a bad idea anyway.</p>",
+    "cooldown": false
   }
 }

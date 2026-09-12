@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Heat Metal",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -18,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 Power, engaged with a metal target. If you are with an enemy, add 1 {Dm} to your dice pool. A flash of light emanates from where you touch the metal. In a moment, the item starts to heat considerably. If the affected item is held or worn, the wielder suffers 1 fatigue. As above, but the wielder suffers 1 fatigue each time a recharge token is removed from this spell. Add 1 recharge token to this card. The heat is intense enough that it ignites flammable objects it is in contact with. Suffer 1 fatigue. Suffer 1 stress.</p>"
-    }
+      "requirements": "<p>3 Power, engaged with a metal target. If you are with an enemy, add 1 {Dm} to your dice pool. A flash of light emanates from where you touch the metal. In a moment, the item starts to heat considerably. If the affected item is held or worn, the wielder suffers 1 fatigue. As above, but the wielder suffers 1 fatigue each time a recharge token is removed from this spell. Add 1 recharge token to this card. The heat is intense enough that it ignites flammable objects it is in contact with. Suffer 1 fatigue. Suffer 1 stress.</p>",
+      "name": "Heat Metal",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

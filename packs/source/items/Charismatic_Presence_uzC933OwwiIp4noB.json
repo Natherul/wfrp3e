@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target’s Fear Rating increases by 1 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 1. Subjects experience your Fear effect as an awe-inspiring presence, too majestic to be real.</p>"
+            "description": "<p>The target\u2019s Fear Rating increases by 1 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 1. Subjects experience your Fear effect as an awe-inspiring presence, too majestic to be real.</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The target’s Fear Rating is increased by 2 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 2.</p>"
+            "description": "<p>The target\u2019s Fear Rating is increased by 2 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 2.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -27,22 +27,29 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b",
-      "requirements": "<p>6 power, ally within medium range</p>"
+      "requirements": "<p>6 power, ally within medium range</p>",
+      "name": "Charismatic Presence",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target’s Fear Rating is increased by 1 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 1. Subjects experience your Fear effect as an awe-inspiring presence, too majestic to be real.</p>"
+            "description": "<p>The target\u2019s Fear Rating is increased by 1 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 1. Subjects experience your Fear effect as an awe-inspiring presence, too majestic to be real.</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The target’s Fear Rating is increased by 2 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 2.</p>"
+            "description": "<p>The target\u2019s Fear Rating is increased by 2 (to a maximum of 3) while this card is recharging. If the target has no current Fear Rating, he gains Fear 2.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -56,10 +63,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "2c 1b"
-    }
+      "name": "Charismatic Presence",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

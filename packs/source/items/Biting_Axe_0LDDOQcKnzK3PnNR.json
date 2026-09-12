@@ -4,6 +4,13 @@
   "_id": "0LDDOQcKnzK3PnNR",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>- Unnaturally sharp, this axe is forged of some strange, jagged steel that seems to hum slightly when swung through the air. Clearly ancient, you sense that this blade has spilled a great deal of blood over the years. Damage Rating: § Critical Rating: 3 Group: Hand Weapon Qualities: Magic, Pierce 1, Superior Encumbrance: 3 The Biting Axe is a superior weapon; it grants {Df} to the dice pool of all attacks made while wielding it. When you spend fortune points to enhance your dice pool, the Biting Axe’s Pierce value increases by the number of fortune points you spend.</p>"
+    "description": "<p>- Unnaturally sharp, this axe is forged of some strange, jagged steel that seems to hum slightly when swung through the air. Clearly ancient, you sense that this blade has spilled a great deal of blood over the years. Damage Rating: \u00a7 Critical Rating: 3 Group: Hand Weapon Qualities: Magic, Pierce 1, Superior Encumbrance: 3 The Biting Axe is a superior weapon; it grants {Df} to the dice pool of all attacks made while wielding it. When you spend fortune points to enhance your dice pool, the Biting Axe\u2019s Pierce value increases by the number of fortune points you spend.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

@@ -30,17 +30,24 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® Immediately lose 1 favour</p>"
+            "description": "<p>\u00ae Immediately lose 1 favour</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "1c",
-      "requirements": "<p>4 favour. Engaged with target. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+      "requirements": "<p>4 favour. Engaged with target. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
+      "name": "Healing Fist",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -51,7 +58,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>£ You recover 2 normal wounds</p>"
+            "description": "<p>\u00a3 You recover 2 normal wounds</p>"
           },
           {
             "symbolAmount": 3,
@@ -72,17 +79,26 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® Immediately lose 1 favour</p>"
+            "description": "<p>\u00ae Immediately lose 1 favour</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c 1b",
-      "requirements": "<p>4 favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
-    }
+      "requirements": "<p>4 favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
+      "name": "Healing Fist",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

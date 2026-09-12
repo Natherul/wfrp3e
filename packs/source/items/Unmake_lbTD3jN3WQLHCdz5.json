@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Unmake",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -18,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>M You point a finger at a non-living, inanimate object of Poor or Average quality. The item degrades and has the Damaged condition applied. If the item is already suffering the Damaged condition, it is destroyed. As above, and a Superior item may be affected if the item is wielded or held when the spell is cast, the person holding the item suffers 1 fatigue and 1 stress. Suffer 1 fatigue. All small plants within close range of you wither and die. Suffer 2 corruption. All creatures (including you) within close range gain the Weakened condition for 3 turns.</p>"
-    }
+      "requirements": "<p>M You point a finger at a non-living, inanimate object of Poor or Average quality. The item degrades and has the Damaged condition applied. If the item is already suffering the Damaged condition, it is destroyed. As above, and a Superior item may be affected if the item is wielded or held when the spell is cast, the person holding the item suffers 1 fatigue and 1 stress. Suffer 1 fatigue. All small plants within close range of you wither and die. Suffer 2 corruption. All creatures (including you) within close range gain the Weakened condition for 3 turns.</p>",
+      "name": "Unmake",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

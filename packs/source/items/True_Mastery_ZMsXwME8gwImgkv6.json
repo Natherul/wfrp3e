@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2f",
-      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess’s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>"
+      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess\u2019s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>",
+      "name": "True Mastery",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c 2f",
-      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess’s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>"
-    }
+      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess\u2019s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>",
+      "name": "True Mastery",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

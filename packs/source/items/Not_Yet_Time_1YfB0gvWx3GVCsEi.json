@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>4 power. If you are engaged with an enemy, add 1 {Dm} to your dice pool. Effect: Your time has not yet come. While this card is recharging, when you suffer a critical wound you may discard a number of recharge tokens from this card equal to that wound's severity to convert the</p>"
+      "requirements": "<p>4 power. If you are engaged with an enemy, add 1 {Dm} to your dice pool. Effect: Your time has not yet come. While this card is recharging, when you suffer a critical wound you may discard a number of recharge tokens from this card equal to that wound's severity to convert the</p>",
+      "name": "Not Yet Time",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -70,10 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b"
-    }
+      "name": "Not Yet Time",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

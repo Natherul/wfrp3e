@@ -4,6 +4,7 @@
   "_id": "vbMLzZ7oZEeluDUA",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Each party member suffers 1 fatigue and must adjust his stance 1 step towards neutral. Each party member suffers 1 fatigue and must adjust his stance meter to neutral, resetting to zero. SKIN OF THE TEETH Once per session, when a party member would suffer a critical wound, he may convert the critical wound into a normal wound by spending fortune points equal to the critical wound’s Severity Rating.</p>"
+    "description": "<p>Each party member suffers 1 fatigue and must adjust his stance 1 step towards neutral. Each party member suffers 1 fatigue and must adjust his stance meter to neutral, resetting to zero. SKIN OF THE TEETH Once per session, when a party member would suffer a critical wound, he may convert the critical wound into a normal wound by spending fortune points equal to the critical wound\u2019s Severity Rating.</p>",
+    "cooldown": false
   }
 }

@@ -4,6 +4,7 @@
   "_id": "nbTL33T1F9AnXSZv",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Hideous, Nurgle's Rot, Terror 3 Unfathomable Power: Checks this creature gain € Balesword: After inflicting 1 or more critical wounds, target suffers additional critical wound Potent Foe: Resilience trained x3, Discipline and Weapon Skill trained x2. AGGRESSION 10 CUNNING 4</p>"
+    "description": "<p>Hideous, Nurgle's Rot, Terror 3 Unfathomable Power: Checks this creature gain \u20ac Balesword: After inflicting 1 or more critical wounds, target suffers additional critical wound Potent Foe: Resilience trained x3, Discipline and Weapon Skill trained x2. AGGRESSION 10 CUNNING 4</p>",
+    "cooldown": false
   }
 }

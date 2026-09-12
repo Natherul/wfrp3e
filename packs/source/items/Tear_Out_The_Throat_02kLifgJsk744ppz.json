@@ -41,11 +41,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>to the dice pool equal to the highest severity rating among the target's critical wounds</p>"
+      "requirements": "<p>to the dice pool equal to the highest severity rating among the target's critical wounds</p>",
+      "name": "Tear Out The Throat",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 87,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target Special: If the target is critically wounded, add to the dice pool equal to the highest severity rating among the target's critical wounds</p>"
-    }
+      "requirements": "<p>Engaged with target Special: If the target is critically wounded, add to the dice pool equal to the highest severity rating among the target's critical wounds</p>",
+      "name": "Tear Out The Throat",
+      "rechargeRating": 87,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

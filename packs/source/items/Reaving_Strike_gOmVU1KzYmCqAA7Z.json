@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The marauder strikes brutally, exploiting its target's weaknesses. The target is struck for normal damage, and suffers 1 fatigue ¥</p>"
+            "description": "<p>The marauder strikes brutally, exploiting its target's weaknesses. The target is struck for normal damage, and suffers 1 fatigue \u00a5</p>"
           },
           {
             "symbolAmount": 2,
@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Marauder Engaged with target. Ignore this attack’s difficulty modifier</p>"
+      "requirements": "<p>Used By: Marauder Engaged with target. Ignore this attack\u2019s difficulty modifier</p>",
+      "name": "Reaving Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Marauder Engaged with target. Special: If the target is critically affected, ignore this attack’s difficulty modifier.</p>"
-    }
+      "requirements": "<p>Used By: Marauder Engaged with target. Special: If the target is critically affected, ignore this attack\u2019s difficulty modifier.</p>",
+      "name": "Reaving Strike",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

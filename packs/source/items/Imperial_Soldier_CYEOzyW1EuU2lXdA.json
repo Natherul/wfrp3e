@@ -4,6 +4,7 @@
   "_id": "CYEOzyW1EuU2lXdA",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Backbone troops: Weapon Skill and Discipline trained AGGRESSION CUNNING</p>"
+    "description": "<p>Backbone troops: Weapon Skill and Discipline trained AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

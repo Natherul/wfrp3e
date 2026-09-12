@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>What are you doing in Conservative stance, you pansy?</p>"
+      "requirements": "<p>What are you doing in Conservative stance, you pansy?</p>",
+      "name": "This Will Be a Glorious Death",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -42,11 +49,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "5c",
-      "requirements": "<p>Wounded and have a deathwish. Special: This card recharges when the foe breaks or dies, or when you are KO'd. If, when this card recharges, your wounds exceed your wound threshold, you are affected and may die. Effect: You resolve die gloriously in this battle. While this card is recharging, you deal +3 damage on all attacks, your CR is reduced by 1 to a minimum of 1, and your wound threshold is doubled. Also while this card is recharging, all attacks that target you gain +1 Critical.</p>"
-    }
+      "requirements": "<p>Wounded and have a deathwish. Special: This card recharges when the foe breaks or dies, or when you are KO'd. If, when this card recharges, your wounds exceed your wound threshold, you are affected and may die. Effect: You resolve die gloriously in this battle. While this card is recharging, you deal +3 damage on all attacks, your CR is reduced by 1 to a minimum of 1, and your wound threshold is doubled. Also while this card is recharging, all attacks that target you gain +1 Critical.</p>",
+      "name": "This Will Be a Glorious Death",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

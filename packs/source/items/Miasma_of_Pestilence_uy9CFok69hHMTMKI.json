@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1b",
-      "requirements": "<p>S power, target within medium range</p>"
+      "requirements": "<p>S power, target within medium range</p>",
+      "name": "Miasma of Pestilence",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>S power, target within medium range</p>"
-    }
+      "requirements": "<p>S power, target within medium range</p>",
+      "name": "Miasma of Pestilence",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

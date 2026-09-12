@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Pet within medium range Special: Reduce the difficulty modifier by {Dc}</p>"
+      "requirements": "<p>Pet within medium range Special: Reduce the difficulty modifier by {Dc}</p>",
+      "name": "Old Dog New Trick",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 2b",
-      "requirements": "<p>Pet within medium range Special: Reduce the difficulty modifier by {Dc}</p>"
-    }
+      "requirements": "<p>Pet within medium range Special: Reduce the difficulty modifier by {Dc}</p>",
+      "name": "Old Dog New Trick",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "The Hunter",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -36,11 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>S favour Effect: You gain some of the keenness and ferocity of a predator. While this blessing is recharging, you add {Dr} to Observation and Ballistic Skill checks</p>"
-    }
+      "requirements": "<p>S favour Effect: You gain some of the keenness and ferocity of a predator. While this blessing is recharging, you add {Dr} to Observation and Ballistic Skill checks</p>",
+      "name": "The Hunter",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

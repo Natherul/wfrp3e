@@ -40,11 +40,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Engaged with 1 or more enemy; you must outnumber the target(s) or be much larger. This attack gains {Dm} for each engaged enemy. Each enemy engaged with you is targeted by this action.</p>"
+      "requirements": "<p>Engaged with 1 or more enemy; you must outnumber the target(s) or be much larger. This attack gains {Dm} for each engaged enemy. Each enemy engaged with you is targeted by this action.</p>",
+      "name": "Swarm Overrun",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -82,11 +89,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Used By: Swarms. Engaged with 1 or more enemy. Special: This attack gains {Dm} if the swarm is targeted by this action.</p>"
-    }
+      "requirements": "<p>Used By: Swarms. Engaged with 1 or more enemy. Special: This attack gains {Dm} if the swarm is targeted by this action.</p>",
+      "name": "Swarm Overrun",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

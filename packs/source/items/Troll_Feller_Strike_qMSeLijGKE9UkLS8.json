@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit for +3 damage and ignore your target’s armour soak value for this attack. @ Suffer 1 Fatigue</p>"
+            "description": "<p>You hit for +3 damage and ignore your target\u2019s armour soak value for this attack. @ Suffer 1 Fatigue</p>"
           }
         ],
         "righteousSuccess": [],
@@ -27,11 +27,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: You may not use any Active Defences while this card is recharging</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: You may not use any Active Defences while this card is recharging</p>",
+      "name": "Troll Feller Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -42,7 +49,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit for +3 damage and ignore your target’s armour soak value for this attack. HUR 3 damage, +1 critical</p>"
+            "description": "<p>You hit for +3 damage and ignore your target\u2019s armour soak value for this attack. HUR 3 damage, +1 critical</p>"
           }
         ],
         "righteousSuccess": [],
@@ -61,11 +68,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dm} to the dice pool as the effective armour level you are wearing. Special: You may not use any Active Defences while this card is recharging</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dm} to the dice pool as the effective armour level you are wearing. Special: You may not use any Active Defences while this card is recharging</p>",
+      "name": "Troll Feller Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "sW0tl9GD7jGXO3gH",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Dead Earnest, Fear (1/2), Night Vision Ethereal: Can pass through solid objects. Against non-magic or non-divine effects, their Soak Value is increased by their Willpower. Their attacks ignore the defence rating of the target’s armour. AGGRESSION CUNNING 4 2</p>"
+    "description": "<p>Dead Earnest, Fear (1/2), Night Vision Ethereal: Can pass through solid objects. Against non-magic or non-divine effects, their Soak Value is increased by their Willpower. Their attacks ignore the defence rating of the target\u2019s armour. AGGRESSION CUNNING 4 2</p>",
+    "cooldown": false
   }
 }

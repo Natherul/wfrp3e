@@ -4,6 +4,7 @@
   "_id": "C6l9CRhGawMPlxZV",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Hideous, Terror 3 Unfathomable Power: Checks targeting this creature gain Nurgle’s Rot: If a character acquires a disease from Epidemius, roll 1Df on 3 the victim contracts — Nurgle’s Rot AGGRESSION CUNNING 4 8</p>"
+    "description": "<p>Hideous, Terror 3 Unfathomable Power: Checks targeting this creature gain Nurgle\u2019s Rot: If a character acquires a disease from Epidemius, roll 1Df on 3 the victim contracts \u2014 Nurgle\u2019s Rot AGGRESSION CUNNING 4 8</p>",
+    "cooldown": false
   }
 }

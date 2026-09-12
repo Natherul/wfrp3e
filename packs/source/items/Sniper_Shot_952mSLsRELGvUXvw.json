@@ -33,15 +33,22 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>extra damage equal to your weapon’s damage rating</p>"
+            "description": "<p>extra damage equal to your weapon\u2019s damage rating</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "1b",
-      "requirements": "<p>Ranged weapon equipped, target within medium range, disengaged from target, you must perform the prepare manoeuvre</p>"
+      "requirements": "<p>Ranged weapon equipped, target within medium range, disengaged from target, you must perform the prepare manoeuvre</p>",
+      "name": "Sniper Shot",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -63,7 +70,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>Ignore your target’s armour soak value</p>"
+            "description": "<p>Ignore your target\u2019s armour soak value</p>"
           }
         ],
         "bane": [
@@ -75,11 +82,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>Ranged weapon equipped, target within medium range, disengaged from target, you must perform the prepare manoeuvre</p>"
-    }
+      "requirements": "<p>Ranged weapon equipped, target within medium range, disengaged from target, you must perform the prepare manoeuvre</p>",
+      "name": "Sniper Shot",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

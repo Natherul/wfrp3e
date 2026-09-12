@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>1 to S power Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>"
+      "requirements": "<p>1 to S power Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>",
+      "name": "Fair Warning",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>"
-    }
+      "requirements": "<p>Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>",
+      "name": "Fair Warning",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

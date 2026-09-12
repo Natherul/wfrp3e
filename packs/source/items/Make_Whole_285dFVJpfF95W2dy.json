@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and a Superior item may be ® affected</p>"
+            "description": "<p>As above, and a Superior item may be \u00ae affected</p>"
           }
         ],
         "righteousSuccess": [],
@@ -31,21 +31,47 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>¢ An item of the GM's choosing within close range also gains the Damaged condition or may be destroyed</p>"
+            "description": "<p>\u00a2 An item of the GM's choosing within close range also gains the Damaged condition or may be destroyed</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c 1b",
-      "requirements": "<p>4 Power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+      "requirements": "<p>4 Power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
+      "name": "Make Whole",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Make Whole",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

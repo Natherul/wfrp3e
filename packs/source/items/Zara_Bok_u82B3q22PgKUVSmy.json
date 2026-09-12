@@ -4,6 +4,7 @@
   "_id": "u82B3q22PgKUVSmy",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Aggression Cunning Expertise 4 0 2</p>"
+    "description": "<p>Aggression Cunning Expertise 4 0 2</p>",
+    "cooldown": false
   }
 }

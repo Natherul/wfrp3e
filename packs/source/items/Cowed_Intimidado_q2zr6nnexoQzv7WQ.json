@@ -4,6 +4,7 @@
   "_id": "q2zr6nnexoQzv7WQ",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>You cannot convert characteristic dice into {Dr} dice</p>"
+    "description": "<p>You cannot convert characteristic dice into {Dr} dice</p>",
+    "duration": "brief"
   }
 }

@@ -4,6 +4,7 @@
   "_id": "0u48ZQDp5ZNuv1EQ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>When you suffer 1 or more stress, suffer 1 fatigue as well. Sometimes you see it again, and then the bile comes bubbling up... or worse, it doesn’t, and you just retch.</p>"
+    "description": "<p>When you suffer 1 or more stress, suffer 1 fatigue as well. Sometimes you see it again, and then the bile comes bubbling up... or worse, it doesn\u2019t, and you just retch.</p>",
+    "cooldown": false
   }
 }

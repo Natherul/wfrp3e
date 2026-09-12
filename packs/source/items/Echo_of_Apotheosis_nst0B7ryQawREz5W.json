@@ -22,7 +22,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>You are suffused with Sigmar’s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
+            "description": "<p>You are suffused with Sigmar\u2019s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
           }
         ],
         "sigmarsComet": [
@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 2f",
-      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar’s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>"
+      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar\u2019s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>",
+      "name": "Echo of Apotheosis",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,7 +63,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>You are suffused with Sigmar’s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
+            "description": "<p>You are suffused with Sigmar\u2019s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
           }
         ],
         "sigmarsComet": [
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 2f",
-      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar’s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>"
-    }
+      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar\u2019s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>",
+      "name": "Echo of Apotheosis",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 3b",
-      "requirements": "<p>One-handed melee weapon equipped, engaged with target.</p>"
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target.</p>",
+      "name": "Backstab",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -47,7 +54,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, and ignore the target’s armour soak value for this attack.</p>"
+            "description": "<p>As above, and ignore the target\u2019s armour soak value for this attack.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -70,11 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 3b",
-      "requirements": "<p>One-handed melee weapon equipped, engaged with target. Special: Reduce the difficulty modifier by {Dc}.</p>"
-    }
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target. Special: Reduce the difficulty modifier by {Dc}.</p>",
+      "name": "Backstab",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

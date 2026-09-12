@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease.</p>"
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease.</p>",
+      "name": "Cure Disease",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease. Special: The difficulty of this check is equal to the severity of the disease or [Dc]</p>"
-    }
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease. Special: The difficulty of this check is equal to the severity of the disease or [Dc]</p>",
+      "name": "Cure Disease",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

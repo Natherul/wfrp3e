@@ -40,11 +40,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1b",
-      "requirements": "<p>Target must be within close range and be able to see or hear you. Effect: You try to befriend the target to defuse the situation</p>"
+      "requirements": "<p>Target must be within close range and be able to see or hear you. Effect: You try to befriend the target to defuse the situation</p>",
+      "name": "I Thought We Were Friends",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -86,11 +93,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Target must be within medium range and be able to see or hear you. Effect: You try a meek approach with the target, trying to make yourself appear less threatening</p>"
-    }
+      "requirements": "<p>Target must be within medium range and be able to see or hear you. Effect: You try a meek approach with the target, trying to make yourself appear less threatening</p>",
+      "name": "I Thought We Were Friends",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "P7QIKOdAHRSTEpdh",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Keen Senses Moulder Beasts: While one or more Packmaster is within close range of an allied beasts or swarms, the beast or swarm gains {Df} on all checks made against the Packmaster’s enemies. AGGRESSION CUNNING</p>"
+    "description": "<p>Keen Senses Moulder Beasts: While one or more Packmaster is within close range of an allied beasts or swarms, the beast or swarm gains {Df} on all checks made against the Packmaster\u2019s enemies. AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You call upon the favour of the Dark Gods of Chaos. You and all allies within close range gain § +1 to Willpower and +1 Fellowship while this spell is recharging.</p>"
+            "description": "<p>You call upon the favour of the Dark Gods of Chaos. You and all allies within close range gain \u00a7 +1 to Willpower and +1 Fellowship while this spell is recharging.</p>"
           },
           {
             "symbolAmount": 3,
@@ -36,18 +36,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 power</p>"
+      "requirements": "<p>7 power</p>",
+      "name": "Boon of Chaos",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 You call the favour of the Dark Gods upon Chaos. You and all allies within close range gain § +1 to Strength and +1 Toughness while this spell is recharging.</p>"
+            "description": "<p>4 You call the favour of the Dark Gods upon Chaos. You and all allies within close range gain \u00a7 +1 to Strength and +1 Toughness while this spell is recharging.</p>"
           },
           {
             "symbolAmount": 3,
@@ -74,11 +81,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 power</p>"
-    }
+      "requirements": "<p>7 power</p>",
+      "name": "Boon of Chaos",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

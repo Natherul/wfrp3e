@@ -20,7 +20,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>£ You and all affected allies recover 1 stress and 1 fatigue.</p>"
+            "description": "<p>\u00a3 You and all affected allies recover 1 stress and 1 fatigue.</p>"
           }
         ],
         "bane": [
@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "3c 2f",
-      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>"
+      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>",
+      "name": "Wolfpack",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -72,15 +79,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>¥ X You and all affected allies gain {Df} to your next action.</p>"
+            "description": "<p>\u00a5 X You and all affected allies gain {Df} to your next action.</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "3c 2f",
-      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>"
-    }
+      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>",
+      "name": "Wolfpack",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,9 @@
   "_id": "46TI3hOdGO6QxoQf",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>Agility checks gain {Dc}. The wracking cough and constant wheezing makes it hard to stay on your feet. Each symptom counts as 1 fatigue.</p>"
+    "description": "<p>Agility checks gain {Dc}. The wracking cough and constant wheezing makes it hard to stay on your feet. Each symptom counts as 1 fatigue.</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

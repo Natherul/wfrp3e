@@ -37,18 +37,25 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Used By: S Engaged with target - Special: Add 1 additional recharge token to any Active Defence used against this action</p>"
+      "requirements": "<p>Used By: S Engaged with target - Special: Add 1 additional recharge token to any Active Defence used against this action</p>",
+      "name": "Cheap Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>¥ M You duck, feint, weave, and harass the target, who suffers 1 fatigue</p>"
+            "description": "<p>\u00a5 M You duck, feint, weave, and harass the target, who suffers 1 fatigue</p>"
           },
           {
             "symbolAmount": 2,
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target token to° Special Add 1 additional recharge token to any Active Defence used against this action</p>"
-    }
+      "requirements": "<p>Engaged with target token to\u00b0 Special Add 1 additional recharge token to any Active Defence used against this action</p>",
+      "name": "Cheap Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

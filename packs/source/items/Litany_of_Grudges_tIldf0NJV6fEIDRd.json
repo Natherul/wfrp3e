@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>I You recite from the Book of Grudges, naming each unresolved grudge suffered by the dwarf people § by your clan, hold, and the whole. You and your dwarfallies who can hear you speak gain either the Energised, Inspired, or Invigorated condition for 2 rounds. If appropriate, you may also influence dwarfs who hear you speak.</p>"
+            "description": "<p>I You recite from the Book of Grudges, naming each unresolved grudge suffered by the dwarf people \u00a7 by your clan, hold, and the whole. You and your dwarfallies who can hear you speak gain either the Energised, Inspired, or Invigorated condition for 2 rounds. If appropriate, you may also influence dwarfs who hear you speak.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -33,10 +33,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c"
+      "name": "Litany of Grudges",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +79,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Dwarf only. Target must be able to hear and understand you.</p>"
-    }
+      "requirements": "<p>Dwarf only. Target must be able to hear and understand you.</p>",
+      "name": "Litany of Grudges",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

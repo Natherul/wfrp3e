@@ -41,11 +41,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>8 favour, target within medium range. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Each time a recharge token is removed from this card, the target makes a Resilience (To) check opposed by your Discipline (WP). If he fails, he suffers 1 wound and 1 fatigue. The target gains the Overwhelmed condition while this card is recharging.</p>"
+      "requirements": "<p>8 favour, target within medium range. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Each time a recharge token is removed from this card, the target makes a Resilience (To) check opposed by your Discipline (WP). If he fails, he suffers 1 wound and 1 fatigue. The target gains the Overwhelmed condition while this card is recharging.</p>",
+      "name": "Watery Grave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -88,11 +95,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "",
-      "requirements": "<p>8 favour, target within medium range. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: The target's lungs fill with seawater. Each time a recharge token is removed from this card, the target makes a Resilience (To) check opposed by Discipline (WP). If he fails, he suffers 1 wound and 1 fatigue. The target gains the Overwhelmed condition while this card is recharging.</p>"
-    }
+      "requirements": "<p>8 favour, target within medium range. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: The target's lungs fill with seawater. Each time a recharge token is removed from this card, the target makes a Resilience (To) check opposed by Discipline (WP). If he fails, he suffers 1 wound and 1 fatigue. The target gains the Overwhelmed condition while this card is recharging.</p>",
+      "name": "Watery Grave",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

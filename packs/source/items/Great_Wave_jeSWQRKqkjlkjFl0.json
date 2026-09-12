@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>1S favour, water within medium range</p>"
+      "requirements": "<p>1S favour, water within medium range</p>",
+      "name": "Great Wave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>15 favour, a sizable body of water within medium range</p>"
-    }
+      "requirements": "<p>15 favour, a sizable body of water within medium range</p>",
+      "name": "Great Wave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

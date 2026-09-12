@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "",
-      "requirements": "<p>4 favour, target illusion within medium range</p>"
+      "requirements": "<p>4 favour, target illusion within medium range</p>",
+      "name": "Pierce Illusion",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>1 favour, target illusion within medium range Special: This action is either opposed by the Guile (Fel), in the case of illusions created by an enemy, or has its difficulty set by the GM based on the complexity of the illusion. This is usually Hard (3{Dc}) check.</p>"
-    }
+      "requirements": "<p>1 favour, target illusion within medium range Special: This action is either opposed by the Guile (Fel), in the case of illusions created by an enemy, or has its difficulty set by the GM based on the complexity of the illusion. This is usually Hard (3{Dc}) check.</p>",
+      "name": "Pierce Illusion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

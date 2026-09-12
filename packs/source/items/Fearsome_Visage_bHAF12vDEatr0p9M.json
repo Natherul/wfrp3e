@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>4 favour effect: You assume a deathly pallor and the presence of the grave. While this card is recharging, you gain a Fear rating as described below.</p>"
+      "requirements": "<p>4 favour effect: You assume a deathly pallor and the presence of the grave. While this card is recharging, you gain a Fear rating as described below.</p>",
+      "name": "Fearsome Visage",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: You assume a deathly pallor and the presence of the grave. While this card is recharging, you gain a Fear rating as described below.</p>"
-    }
+      "requirements": "<p>Effect: You assume a deathly pallor and the presence of the grave. While this card is recharging, you gain a Fear rating as described below.</p>",
+      "name": "Fearsome Visage",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "2biZqCrIjmgENAw6",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Fear Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and Resilience trained AGGRESSION CUNNING</p>"
+    "description": "<p>Fear Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and Resilience trained AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Clat, Gutter Runner Engaged with target Special: If the attacker is within close range of at least three other skaven, reduce the difficulty modifier by {Dc}</p>"
+      "requirements": "<p>Used By: Clat, Gutter Runner Engaged with target Special: If the attacker is within close range of at least three other skaven, reduce the difficulty modifier by {Dc}</p>",
+      "name": "The Overwhelming Horde",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target Special: If you are within close range of at least two allies, reduce the difficulty modifier by {Dc}</p>"
-    }
+      "requirements": "<p>Engaged with target Special: If you are within close range of at least two allies, reduce the difficulty modifier by {Dc}</p>",
+      "name": "The Overwhelming Horde",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

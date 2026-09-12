@@ -4,6 +4,9 @@
   "_id": "BLvg1up3CLmDszuy",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>Suffer 1 stress. Your mind aches, blurring your senses almost to the point of hallucination. Each FEVER symptom adds +1{Dm} to all mental checks performed by the sufferer.</p>"
+    "description": "<p>Suffer 1 stress. Your mind aches, blurring your senses almost to the point of hallucination. Each FEVER symptom adds +1{Dm} to all mental checks performed by the sufferer.</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

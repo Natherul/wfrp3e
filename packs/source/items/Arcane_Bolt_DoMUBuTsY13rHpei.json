@@ -42,11 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Target within medium range Special: This action gains +1 {Dc} engaged with an enemy</p>"
+      "requirements": "<p>Target within medium range Special: This action gains +1 {Dc} engaged with an enemy</p>",
+      "name": "Arcane Bolt",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -86,11 +93,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>Special: Thls action gains +1 {Dc} difficulty if engaged with an enemy</p>"
-    }
+      "requirements": "<p>Special: Thls action gains +1 {Dc} difficulty if engaged with an enemy</p>",
+      "name": "Arcane Bolt",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

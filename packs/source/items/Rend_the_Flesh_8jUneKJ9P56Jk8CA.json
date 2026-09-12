@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You scrabble your horrifying claws across the victim’s flesh, but don’t get a good purchase. The attack inflicts normal damage.</p>"
+            "description": "<p>You scrabble your horrifying claws across the victim\u2019s flesh, but don\u2019t get a good purchase. The attack inflicts normal damage.</p>"
           },
           {
             "symbolAmount": 2,
@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Engaged with target; must have the Regeneration special ability</p>"
+      "requirements": "<p>Engaged with target; must have the Regeneration special ability</p>",
+      "name": "Rend the Flesh",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Engaged with target; must have the Regeneration special ability</p>"
-    }
+      "requirements": "<p>Engaged with target; must have the Regeneration special ability</p>",
+      "name": "Rend the Flesh",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

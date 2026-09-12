@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>ard to add {Dc} to the action’s dice pool to your ranks in Ride. Your mount | Floses 1 wind</p>"
+            "description": "<p>ard to add {Dc} to the action\u2019s dice pool to your ranks in Ride. Your mount | Floses 1 wind</p>"
           }
         ],
         "righteousSuccess": [],
@@ -18,16 +18,42 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Mounted on a war-trained steed, trained in Ride, {Da} 3+ test if you are declared the target of a Melee or Ranged Attack, or a Spell or i</p>"
+      "requirements": "<p>Mounted on a war-trained steed, trained in Ride, {Da} 3+ test if you are declared the target of a Melee or Ranged Attack, or a Spell or i</p>",
+      "name": "Interpoe",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Interpoe",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

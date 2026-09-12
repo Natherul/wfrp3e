@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Special: If you have Guile trained, add {Dc} to the dice pool</p>"
+      "requirements": "<p>Special: If you have Guile trained, add {Dc} to the dice pool</p>",
+      "name": "Beguiling Persuasion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Special: If you have Guile trained, add {Dr} to the dice pool</p>"
-    }
+      "requirements": "<p>Special: If you have Guile trained, add {Dr} to the dice pool</p>",
+      "name": "Beguiling Persuasion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

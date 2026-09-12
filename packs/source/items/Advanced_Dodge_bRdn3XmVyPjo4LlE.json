@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Agility 4+, not encumbered, Coordination Mastery ! effect: After you have been declared the target of a Melee Attack or Ranged Attack, or a Spell or a Blessing that targets your defence, add two {Dc} to this</p>"
+      "requirements": "<p>Agility 4+, not encumbered, Coordination Mastery ! effect: After you have been declared the target of a Melee Attack or Ranged Attack, or a Spell or a Blessing that targets your defence, add two {Dc} to this</p>",
+      "name": "Advanced Dodge",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -32,17 +39,26 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>card to add 1 {Dr} to the action's dice pool Special: If the incoming attack misses, you may immediately perform a free manoeuvre. Advanced Dodge replaces Improved Dodge in your action deck and § Dodge for all effects that reference it i = =</p>"
+            "description": "<p>card to add 1 {Dr} to the action's dice pool Special: If the incoming attack misses, you may immediately perform a free manoeuvre. Advanced Dodge replaces Improved Dodge in your action deck and \u00a7 Dodge for all effects that reference it i = =</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>A gility 4+, not encumbered, Coordination Mastery ! effect: After you have been declared the target of a Melee Attack or Ranged Attack, or a Spell or a Blessing that targets your defence, add two {Dc} to this</p>"
-    }
+      "requirements": "<p>A gility 4+, not encumbered, Coordination Mastery ! effect: After you have been declared the target of a Melee Attack or Ranged Attack, or a Spell or a Blessing that targets your defence, add two {Dc} to this</p>",
+      "name": "Advanced Dodge",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

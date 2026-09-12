@@ -4,6 +4,7 @@
   "_id": "r68X5JYZWogLQS5v",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>NO LLVS</p>"
+    "description": "<p>NO LLVS</p>",
+    "cooldown": false
   }
 }

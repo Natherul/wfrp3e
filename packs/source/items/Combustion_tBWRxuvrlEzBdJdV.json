@@ -32,10 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
+      "name": "Combustion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -66,15 +74,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Ignore the target’s soak value</p>"
+            "description": "<p>Ignore the target\u2019s soak value</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>3 power, delum range to target, 1 or more Bright Order spells recharging. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
-    }
+      "requirements": "<p>3 power, delum range to target, 1 or more Bright Order spells recharging. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
+      "name": "Combustion",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

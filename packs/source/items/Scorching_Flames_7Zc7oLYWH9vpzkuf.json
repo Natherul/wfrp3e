@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and the attack inflicts 1 wound to all the target’s allies within close range of the target</p>"
+            "description": "<p>As above, and the attack inflicts 1 wound to all the target\u2019s allies within close range of the target</p>"
           }
         ],
         "righteousSuccess": [],
@@ -45,11 +45,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>Not engaged with target, target within medium range. Must have some source of fire</p>"
+      "requirements": "<p>Not engaged with target, target within medium range. Must have some source of fire</p>",
+      "name": "Scorching Flames",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -60,7 +67,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, and the attack inflicts 1 wound to all the target’s allies within close range of the target</p>"
+            "description": "<p>As above, and the attack inflicts 1 wound to all the target\u2019s allies within close range of the target</p>"
           }
         ],
         "righteousSuccess": [],
@@ -92,11 +99,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Flamer of Tzeentch Not engaged with target, target within medium range</p>"
-    }
+      "requirements": "<p>Used By: Flamer of Tzeentch Not engaged with target, target within medium range</p>",
+      "name": "Scorching Flames",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

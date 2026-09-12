@@ -4,6 +4,7 @@
   "_id": "OT9EPYZzQIogR6ga",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>Cancels Energised. Suffer 1 additional fatigue for each manoeuvre you perform during your turn.</p>"
+    "description": "<p>Cancels Energised. Suffer 1 additional fatigue for each manoeuvre you perform during your turn.</p>",
+    "duration": "brief"
   }
 }

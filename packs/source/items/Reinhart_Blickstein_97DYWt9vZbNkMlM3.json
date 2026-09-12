@@ -4,6 +4,7 @@
   "_id": "97DYWt9vZbNkMlM3",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Silver Tongue: Reinhart Blickstein has 1 rank of training in Charm, Discipline, Guile, Intuition, and Observation.</p>"
+    "description": "<p>Silver Tongue: Reinhart Blickstein has 1 rank of training in Charm, Discipline, Guile, Intuition, and Observation.</p>",
+    "cooldown": false
   }
 }

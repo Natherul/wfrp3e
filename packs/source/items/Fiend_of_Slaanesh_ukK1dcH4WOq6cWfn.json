@@ -4,6 +4,7 @@
   "_id": "ukK1dcH4WOq6cWfn",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Fear2 Poison: When a Fiend inflicts a critical wound, the target suffers fatigue equal to the severity of the critical wound. Swift: Perform 1 movement manoeuvre for free each turn.</p>"
+    "description": "<p>Fear2 Poison: When a Fiend inflicts a critical wound, the target suffers fatigue equal to the severity of the critical wound. Swift: Perform 1 movement manoeuvre for free each turn.</p>",
+    "cooldown": false
   }
 }

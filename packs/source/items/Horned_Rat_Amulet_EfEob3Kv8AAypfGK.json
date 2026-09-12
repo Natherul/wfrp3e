@@ -4,6 +4,13 @@
   "_id": "EfEob3Kv8AAypfGK",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This beaten metal bears an odd triangular shape. It veritably pulses with a power that makes the hairs on the back of your neck stand up. The strange charm is tied to a course knot of what appears to be hair. The horned rat amulet increases the wearer’s soak value by 1. At the start of each session, any non-Skaven wearing the amulet must make an Average (2{Dc}) Resilience check or suffer 2 corruption (minor corruption). Each 1 rolled on this generates 1 corruption.</p>"
+    "description": "<p>This beaten metal bears an odd triangular shape. It veritably pulses with a power that makes the hairs on the back of your neck stand up. The strange charm is tied to a course knot of what appears to be hair. The horned rat amulet increases the wearer\u2019s soak value by 1. At the start of each session, any non-Skaven wearing the amulet must make an Average (2{Dc}) Resilience check or suffer 2 corruption (minor corruption). Each 1 rolled on this generates 1 corruption.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 2,
-            "description": "<p>your CR is reduced by 1 (to a minimum of 1). If both {Dc} and {Dm} have been invested in this Enhance, ignore the target’s armour soak value</p>"
+            "description": "<p>your CR is reduced by 1 (to a minimum of 1). If both {Dc} and {Dm} have been invested in this Enhance, ignore the target\u2019s armour soak value</p>"
           },
           {
             "symbolAmount": 1,
@@ -22,11 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "1c",
-      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the</p>"
+      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the</p>",
+      "name": "Dangerous Modifications",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -54,11 +61,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die</p>"
-    }
+      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die</p>",
+      "name": "Dangerous Modifications",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

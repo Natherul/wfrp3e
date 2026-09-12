@@ -45,11 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>Target within close range. You move to engage target as this action. You do not suffer any penalty for leaving an engagement you were already in.</p>"
+      "requirements": "<p>Target within close range. You move to engage target as this action. You do not suffer any penalty for leaving an engagement you were already in.</p>",
+      "name": "Bounce n Chomp",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -88,11 +95,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Used By: da Squig within close range. Special: Da Squig moves to engage the target as part of this action. Da Squig does not suffer any penalty for leaving engagement it was already in.</p>"
-    }
+      "requirements": "<p>Used By: da Squig within close range. Special: Da Squig moves to engage the target as part of this action. Da Squig does not suffer any penalty for leaving engagement it was already in.</p>",
+      "name": "Bounce n Chomp",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

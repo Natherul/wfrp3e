@@ -4,6 +4,7 @@
   "_id": "HVSUDE2SOOl05aYa",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>BEWARE THE CORNERED BEAST As beasts become wounded, they grow desperate and the ferocity of their attacks increases. At the start of an encounter that includes one or more beasts of the same type, place one tracking token on space 8 of the morale track above. Each time a beast is wounded, advance the token one space to the right. When a token reaches space 3, that beast has become desperate. Its attacks gain {Dm} and inflict +1 light wounds. Its instinct is triggered. It may flee unless it is defending its lair, protecting its young, or if the beast is starving. If it remains to fight, the beast becomes enraged. An enraged beast immediately adopts an A stance and recovers a number of normal wounds equal to its the effects of its mind shutting out the pain.</p>"
+    "description": "<p>BEWARE THE CORNERED BEAST As beasts become wounded, they grow desperate and the ferocity of their attacks increases. At the start of an encounter that includes one or more beasts of the same type, place one tracking token on space 8 of the morale track above. Each time a beast is wounded, advance the token one space to the right. When a token reaches space 3, that beast has become desperate. Its attacks gain {Dm} and inflict +1 light wounds. Its instinct is triggered. It may flee unless it is defending its lair, protecting its young, or if the beast is starving. If it remains to fight, the beast becomes enraged. An enraged beast immediately adopts an A stance and recovers a number of normal wounds equal to its the effects of its mind shutting out the pain.</p>",
+    "cooldown": false
   }
 }

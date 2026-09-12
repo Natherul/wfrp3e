@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>"
+      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>",
+      "name": "Unquenchable Flame",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>"
-    }
+      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>",
+      "name": "Unquenchable Flame",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -23,11 +23,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b",
-      "requirements": "<p>7 power, a flat surface within close range that is within shadow effect: A shadowy pit opens on the flat surface you designate and remains there while this spell is recharging. It is dark and difficult to see, and once a character falls in, the shades inflict a number of wounds equal to the caster's Int turn until he manages to climb out. Checks to avoid or escape the pit are generally of Average (2{Dc}) difficulty, but this may vary.</p>"
+      "requirements": "<p>7 power, a flat surface within close range that is within shadow effect: A shadowy pit opens on the flat surface you designate and remains there while this spell is recharging. It is dark and difficult to see, and once a character falls in, the shades inflict a number of wounds equal to the caster's Int turn until he manages to climb out. Checks to avoid or escape the pit are generally of Average (2{Dc}) difficulty, but this may vary.</p>",
+      "name": "Pit of Shades",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -48,11 +55,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c 1b",
-      "requirements": "<p>7 power, a flat surface within close range that is within shadow effect: A shadowy pit opens on the flat surface you designate and remains there while this spell is recharging. It is dark and difficult to see, and once a character falls in, the shades inflict a number of wounds equal to the caster's Int turn until he manages to climb out. Checks to avoid or escape the pit are generally of Average (2{Dc}) difficulty, but this may vary.</p>"
-    }
+      "requirements": "<p>7 power, a flat surface within close range that is within shadow effect: A shadowy pit opens on the flat surface you designate and remains there while this spell is recharging. It is dark and difficult to see, and once a character falls in, the shades inflict a number of wounds equal to the caster's Int turn until he manages to climb out. Checks to avoid or escape the pit are generally of Average (2{Dc}) difficulty, but this may vary.</p>",
+      "name": "Pit of Shades",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

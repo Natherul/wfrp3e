@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>® 2 minimum of bloodshed and end the fight quickly. The attack inflicts damage and the target suffers 1 fatigue</p>"
+            "description": "<p>\u00ae 2 minimum of bloodshed and end the fight quickly. The attack inflicts damage and the target suffers 1 fatigue</p>"
           },
           {
             "symbolAmount": 2,
@@ -30,7 +30,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>wound § 28 Suffer 1 wound</p>"
+            "description": "<p>wound \u00a7 28 Suffer 1 wound</p>"
           }
         ],
         "chaosStar": [
@@ -46,11 +46,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target; you must use a non-edged weapon or improvised weapon</p>"
+      "requirements": "<p>Engaged with target; you must use a non-edged weapon or improvised weapon</p>",
+      "name": "Subdue",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -90,11 +97,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Soldiers Engaged with target</p>"
-    }
+      "requirements": "<p>Used By: Soldiers Engaged with target</p>",
+      "name": "Subdue",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

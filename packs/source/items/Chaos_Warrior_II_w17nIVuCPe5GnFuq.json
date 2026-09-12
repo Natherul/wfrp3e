@@ -4,6 +4,7 @@
   "_id": "w17nIVuCPe5GnFuq",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Fear Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and Resilience trained.</p>"
+    "description": "<p>Fear Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and Resilience trained.</p>",
+    "cooldown": false
   }
 }

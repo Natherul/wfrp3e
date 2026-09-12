@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>If this card is recharging, you gain the Frenzied condition.</p>"
+      "requirements": "<p>If this card is recharging, you gain the Frenzied condition.</p>",
+      "name": "Berzerker Fury",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "1b",
-      "requirements": "<p>Effect: You abandon self control and lose yourself to a berserk fury. While this B card is recharging, you gain the Frenzied condition.</p>"
-    }
+      "requirements": "<p>Effect: You abandon self control and lose yourself to a berserk fury. While this B card is recharging, you gain the Frenzied condition.</p>",
+      "name": "Berzerker Fury",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

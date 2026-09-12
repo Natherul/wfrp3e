@@ -16,18 +16,25 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>It's funny. Your target knows the person, but they’ve never heard your name mentioned.</p>"
+            "description": "<p>It's funny. Your target knows the person, but they\u2019ve never heard your name mentioned.</p>"
           }
         ],
         "bane": [],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "3c 1b",
-      "requirements": "<p>Target must be able to hear you, the person you mention must be important (a big name)</p>"
+      "requirements": "<p>Target must be able to hear you, the person you mention must be important (a big name)</p>",
+      "name": "Dont You Know Who I Work For",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -57,11 +64,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "4c 1b",
-      "requirements": "<p>Target must be able to hear you, the person you mention must be important (a big name). This action can only be made against each individual target once per act. If you do not really know the subject of your name-drop, add {Dm} to the check and use Guile (Fel) vs. Target Intuition (Int) instead.</p>"
-    }
+      "requirements": "<p>Target must be able to hear you, the person you mention must be important (a big name). This action can only be made against each individual target once per act. If you do not really know the subject of your name-drop, add {Dm} to the check and use Guile (Fel) vs. Target Intuition (Int) instead.</p>",
+      "name": "Dont You Know Who I Work For",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

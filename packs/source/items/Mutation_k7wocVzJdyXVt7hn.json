@@ -4,6 +4,7 @@
   "_id": "k7wocVzJdyXVt7hn",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>Magic temporarily corrupts your body. Draw one random mutation and place 3 recharge tokens on the mutation for each {Dc} generated. When the last recharge token is removed, the temporary mutation fades away. Suffer 1 stress for each {Dc}.</p>"
+    "description": "<p>Magic temporarily corrupts your body. Draw one random mutation and place 3 recharge tokens on the mutation for each {Dc} generated. When the last recharge token is removed, the temporary mutation fades away. Suffer 1 stress for each {Dc}.</p>",
+    "severityRating": 1
   }
 }

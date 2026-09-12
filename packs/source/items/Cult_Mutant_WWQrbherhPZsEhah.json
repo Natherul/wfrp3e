@@ -4,6 +4,7 @@
   "_id": "WWQrbherhPZsEhah",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Unwholesome Mutations: A cult mutant causes Fear 1, and may have between 1 to 4 random mutations.</p>"
+    "description": "<p>Unwholesome Mutations: A cult mutant causes Fear 1, and may have between 1 to 4 random mutations.</p>",
+    "cooldown": false
   }
 }

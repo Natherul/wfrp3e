@@ -6,6 +6,7 @@
   "system": {
     "description": "<p>Ill</p>",
     "rechargeTokens": 0,
-    "socket": null
+    "socket": null,
+    "type": "focus"
   }
 }

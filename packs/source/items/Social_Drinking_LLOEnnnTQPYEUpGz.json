@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>An ample supply of good beer and spirits creates an atmosphere of camaraderie (even for non-drinkers). While this (even for action) is recharging, you gain +1 to Charm and</p>"
+      "requirements": "<p>An ample supply of good beer and spirits creates an atmosphere of camaraderie (even for non-drinkers). While this (even for action) is recharging, you gain +1 to Charm and</p>",
+      "name": "Social Drinking",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>An ample supply of beer. Your target must drink, and you must</p>"
-    }
+      "requirements": "<p>An ample supply of beer. Your target must drink, and you must</p>",
+      "name": "Social Drinking",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

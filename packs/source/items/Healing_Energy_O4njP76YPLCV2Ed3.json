@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>4 power, engaged with target. If engaged with an enemy, add {Dc} to your dice pool</p>"
+      "requirements": "<p>4 power, engaged with target. If engaged with an enemy, add {Dc} to your dice pool</p>",
+      "name": "Healing Energy",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>4 power, engaged with target. If engaged with an enemy, add {Dr} to your dice pool</p>"
-    }
+      "requirements": "<p>4 power, engaged with target. If engaged with an enemy, add {Dr} to your dice pool</p>",
+      "name": "Healing Energy",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

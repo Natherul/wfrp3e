@@ -22,21 +22,29 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "Celerity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Fencing weapon, hand weapon, or dagger equipped Special: If you are trained in Coordination, remove {Dc} recharge token from each of your other recharging Active Defences Effect: After you have been declared the target of a Melee Attack, add 4 {Dm} to the action’s dice pool equal to the number of Diestro cards you have recharging (including this one)</p>"
+            "description": "<p>Fencing weapon, hand weapon, or dagger equipped Special: If you are trained in Coordination, remove {Dc} recharge token from each of your other recharging Active Defences Effect: After you have been declared the target of a Melee Attack, add 4 {Dm} to the action\u2019s dice pool equal to the number of Diestro cards you have recharging (including this one)</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>tokens to this card to add {Dr} to the action’s dice pool equal to the number of Diestro cards you have recharging (including this one)</p>"
+            "description": "<p>tokens to this card to add {Dr} to the action\u2019s dice pool equal to the number of Diestro cards you have recharging (including this one)</p>"
           }
         ],
         "righteousSuccess": [],
@@ -45,10 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "Celerity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

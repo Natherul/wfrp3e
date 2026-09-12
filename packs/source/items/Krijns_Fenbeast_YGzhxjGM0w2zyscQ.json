@@ -4,6 +4,7 @@
   "_id": "YGzhxjGM0w2zyscQ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Fear 2, Regeneration Protective Spirit: If Krijn is in danger, the fenbeast's stance becomes R2, it gains +3 Aggression, and it causes Terror rather than Fear. AGGRESSION CUNNING EXPERTISE S {Dc} 1</p>"
+    "description": "<p>Fear 2, Regeneration Protective Spirit: If Krijn is in danger, the fenbeast's stance becomes R2, it gains +3 Aggression, and it causes Terror rather than Fear. AGGRESSION CUNNING EXPERTISE S {Dc} 1</p>",
+    "cooldown": false
   }
 }

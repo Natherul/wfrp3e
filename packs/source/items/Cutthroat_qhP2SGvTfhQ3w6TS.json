@@ -4,6 +4,7 @@
   "_id": "qhP2SGvTfhQ3w6TS",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Murderer: Cutthroats have the Cut Throat action. Criminal: Cutthroats have Coordination and Skulduggery trained. CUNNING 4 {Dc}</p>"
+    "description": "<p>Murderer: Cutthroats have the Cut Throat action. Criminal: Cutthroats have Coordination and Skulduggery trained. CUNNING 4 {Dc}</p>",
+    "cooldown": false
   }
 }

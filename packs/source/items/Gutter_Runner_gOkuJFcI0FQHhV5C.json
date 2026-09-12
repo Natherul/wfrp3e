@@ -4,6 +4,7 @@
   "_id": "gOkuJFcI0FQHhV5C",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Keen Senses: Skaven have a well-developed sense of smell. Skaven add {Df} to Observation checks where the sense of smell provides an advantage. AGGRESSION CUNNING 4</p>"
+    "description": "<p>Keen Senses: Skaven have a well-developed sense of smell. Skaven add {Df} to Observation checks where the sense of smell provides an advantage. AGGRESSION CUNNING 4</p>",
+    "cooldown": false
   }
 }

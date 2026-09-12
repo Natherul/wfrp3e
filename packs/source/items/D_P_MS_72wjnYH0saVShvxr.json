@@ -29,7 +29,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Effect: After you have been declared the You hit the target for normal damage of a Melee Attack or Ranged Attack, add {Dc} to the action’s dice pool.</p>"
+            "description": "<p>Effect: After you have been declared the You hit the target for normal damage of a Melee Attack or Ranged Attack, add {Dc} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 3,
@@ -57,15 +57,15 @@
           },
           {
             "symbolAmount": 15,
-            "description": "<p>¥ Spell Blessing that adds defence, tokens this card adds M to the action’s dice pool or targets your choice to Perform for free a manoeuvre.</p>"
+            "description": "<p>\u00a5 Spell Blessing that adds defence, tokens this card adds M to the action\u2019s dice pool or targets your choice to Perform for free a manoeuvre.</p>"
           },
           {
             "symbolAmount": 6,
-            "description": "<p>add two recharge tokens to this card to add {Dc} to the action’s dice pool.</p>"
+            "description": "<p>add two recharge tokens to this card to add {Dc} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 6,
-            "description": "<p>@ Your disengage from M to the action’s dice pool, the target may you.</p>"
+            "description": "<p>@ Your disengage from M to the action\u2019s dice pool, the target may you.</p>"
           },
           {
             "symbolAmount": 4,
@@ -73,7 +73,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>free traihéd;</p>"
+            "description": "<p>free traih\u00e9d;</p>"
           },
           {
             "symbolAmount": 4,
@@ -81,7 +81,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>an additional M to the action’s dice</p>"
+            "description": "<p>an additional M to the action\u2019s dice</p>"
           }
         ],
         "chaosStar": [],
@@ -92,10 +92,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b"
+      "name": "D P MS",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -122,7 +130,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Effect: After you have been declared the You hit the target for normal damage of a Melee Attack or Ranged Attack, add {Dr} to the action’s dice pool.</p>"
+            "description": "<p>Effect: After you have been declared the You hit the target for normal damage of a Melee Attack or Ranged Attack, add {Dr} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 3,
@@ -150,15 +158,15 @@
           },
           {
             "symbolAmount": 15,
-            "description": "<p>¥ Spell Blessing that adds defence, tokens this card adds M to the action’s dice pool or targets your choice to Perform for free a manoeuvre.</p>"
+            "description": "<p>\u00a5 Spell Blessing that adds defence, tokens this card adds M to the action\u2019s dice pool or targets your choice to Perform for free a manoeuvre.</p>"
           },
           {
             "symbolAmount": 6,
-            "description": "<p>add two recharge tokens to this card to add {Dr} to the action’s dice pool.</p>"
+            "description": "<p>add two recharge tokens to this card to add {Dr} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 6,
-            "description": "<p>@ Your disengage from M to the action’s dice pool, the target may you.</p>"
+            "description": "<p>@ Your disengage from M to the action\u2019s dice pool, the target may you.</p>"
           },
           {
             "symbolAmount": 4,
@@ -166,7 +174,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>free traihéd;</p>"
+            "description": "<p>free traih\u00e9d;</p>"
           },
           {
             "symbolAmount": 4,
@@ -174,7 +182,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>an additional M to the action’s dice</p>"
+            "description": "<p>an additional M to the action\u2019s dice</p>"
           }
         ],
         "chaosStar": [],
@@ -185,10 +193,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b"
-    }
+      "name": "D P MS",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

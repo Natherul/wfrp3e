@@ -33,11 +33,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>6 favour, must be engaged with target and perform a prepare manoeuvre. May only attempt this blessing once per insanity</p>"
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepare manoeuvre. May only attempt this blessing once per insanity</p>",
+      "name": "Cure Insanity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -68,11 +75,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>6 favour, must be engaged with target and perform a prepare manoeuvre. May only attempt this once per insanity. Special: The difficulty of this check equals the severity of the insanity</p>"
-    }
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepare manoeuvre. May only attempt this once per insanity. Special: The difficulty of this check equals the severity of the insanity</p>",
+      "name": "Cure Insanity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

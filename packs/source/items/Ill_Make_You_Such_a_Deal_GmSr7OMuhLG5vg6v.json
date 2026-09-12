@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target moves toward neutral stance and the GM may add or remove one recharge token to/from any one of the target’s actions.</p>"
+            "description": "<p>The target moves toward neutral stance and the GM may add or remove one recharge token to/from any one of the target\u2019s actions.</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>The target immediately moves to a neutral stance, and the GM may add or remove one recharge token to/from any two of the target’s actions. Klaus gains +1 on his next Fellowship check. Klaus suffers 1 stress.</p>"
+            "description": "<p>The target immediately moves to a neutral stance, and the GM may add or remove one recharge token to/from any two of the target\u2019s actions. Klaus gains +1 on his next Fellowship check. Klaus suffers 1 stress.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -22,27 +22,34 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target is affected by Klaus’s duplicity, and gains +1 on his next Social action check targeting Klaus.</p>"
+            "description": "<p>The target is affected by Klaus\u2019s duplicity, and gains +1 on his next Social action check targeting Klaus.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used By: Klaus the Merchant Target within close range Effect: Klaus flatters and cajoles his target, making promises and claims like a snake-oil salesman, distracting his target and lulling him into a malleable state</p>"
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Effect: Klaus flatters and cajoles his target, making promises and claims like a snake-oil salesman, distracting his target and lulling him into a malleable state</p>",
+      "name": "Ill Make You Such a Deal",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target moves toward neutral stance and the GM may add or remove one recharge token to/from any one of the target’s actions.</p>"
+            "description": "<p>The target moves toward neutral stance and the GM may add or remove one recharge token to/from any one of the target\u2019s actions.</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>The target immediately moves to a neutral stance, and the GM may add or remove one recharge token to/from any two of the target’s actions. Klaus gains +1 on his next Fellowship check. Klaus suffers 1 stress.</p>"
+            "description": "<p>The target immediately moves to a neutral stance, and the GM may add or remove one recharge token to/from any two of the target\u2019s actions. Klaus gains +1 on his next Fellowship check. Klaus suffers 1 stress.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -51,16 +58,25 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target is affected by Klaus’s duplicity, and gains +1 on Social action check targeting Klaus.</p>"
+            "description": "<p>The target is affected by Klaus\u2019s duplicity, and gains +1 on Social action check targeting Klaus.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used By: Klaus the Merchant Target within close range Effect: Klaus flatters and cajoles his target, making promises and claims like a snake-oil salesman, distracting his target and lulling him into a malleable state</p>"
-    }
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Effect: Klaus flatters and cajoles his target, making promises and claims like a snake-oil salesman, distracting his target and lulling him into a malleable state</p>",
+      "name": "Ill Make You Such a Deal",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

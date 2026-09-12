@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c",
-      "requirements": "<p>4 favour your behalf ; : Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 1</p>"
+      "requirements": "<p>4 favour your behalf ; : Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 1</p>",
+      "name": "Shallyas Mercy",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +78,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>1 favour Effect: Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 2</p>"
-    }
+      "requirements": "<p>1 favour Effect: Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 2</p>",
+      "name": "Shallyas Mercy",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

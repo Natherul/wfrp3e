@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>Fencing weapon, sword, or dagger equipped, engaged with target</p>"
+      "requirements": "<p>Fencing weapon, sword, or dagger equipped, engaged with target</p>",
+      "name": "The Magritta Thrust",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -78,11 +85,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>Special: This attack uses either Strength or Agility (your choice) both for its check and to determine damage dealt</p>"
-    }
+      "requirements": "<p>Special: This attack uses either Strength or Agility (your choice) both for its check and to determine damage dealt</p>",
+      "name": "The Magritta Thrust",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

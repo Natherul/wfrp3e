@@ -4,6 +4,7 @@
   "_id": "zwwyf7Axc3aTicLl",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Mark of Slaanesh Magical Aptitude: A Chaos Sorcerer of Slaanesh has Channelling, Education, Magical Sight and Spellcraft trained.</p>"
+    "description": "<p>Mark of Slaanesh Magical Aptitude: A Chaos Sorcerer of Slaanesh has Channelling, Education, Magical Sight and Spellcraft trained.</p>",
+    "cooldown": false
   }
 }

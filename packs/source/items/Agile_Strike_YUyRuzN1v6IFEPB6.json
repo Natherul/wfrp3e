@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 29,
-      "difficulty": "",
-      "requirements": "<p>Engaged with target, melee weapon equipped, Agility score higher than Strength score enhances this attack</p>"
+      "requirements": "<p>Engaged with target, melee weapon equipped, Agility score higher than Strength score enhances this attack</p>",
+      "name": "Agile Strike",
+      "rechargeRating": 29,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 38,
-      "difficulty": "",
-      "requirements": "<p>Used By: Franz Bieber, Eduardo Rodrigues. Engaged with target, melee weapon equipped. Effect: attack that relies more on cunning and agility than brute force. Franz may use this attack with either his dagger or his bow, in which case it is a ranged attack</p>"
-    }
+      "requirements": "<p>Used By: Franz Bieber, Eduardo Rodrigues. Engaged with target, melee weapon equipped. Effect: attack that relies more on cunning and agility than brute force. Franz may use this attack with either his dagger or his bow, in which case it is a ranged attack</p>",
+      "name": "Agile Strike",
+      "rechargeRating": 38,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -17,7 +17,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>¥4 Until the start of your next turn, add {Dc} to</p>"
+            "description": "<p>\u00a54 Until the start of your next turn, add {Dc} to</p>"
           },
           {
             "symbolAmount": 2,
@@ -65,11 +65,11 @@
           },
           {
             "symbolAmount": 10,
-            "description": "<p>that defense, a Spell or Blessing targets your defense, add two recharge tokens to this card to add *§ :</p>"
+            "description": "<p>that defense, a Spell or Blessing targets your defense, add two recharge tokens to this card to add *\u00a7 :</p>"
           },
           {
             "symbolAmount": 5,
-            "description": "<p>{Dm} to the action’s dice pool % start of your next turn, add {Dm} to any Melee Attack or Ranged Attack actions targeting you or any allies in the same engagement as you</p>"
+            "description": "<p>{Dm} to the action\u2019s dice pool % start of your next turn, add {Dm} to any Melee Attack or Ranged Attack actions targeting you or any allies in the same engagement as you</p>"
           },
           {
             "symbolAmount": 10,
@@ -77,7 +77,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>add an additional {Dm} to the action’s dice pool</p>"
+            "description": "<p>add an additional {Dm} to the action\u2019s dice pool</p>"
           },
           {
             "symbolAmount": 3,
@@ -95,10 +95,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "AtS D GP",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -113,7 +121,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>¥4 Until the start of your next turn, add {Dr} to</p>"
+            "description": "<p>\u00a54 Until the start of your next turn, add {Dr} to</p>"
           },
           {
             "symbolAmount": 2,
@@ -161,11 +169,11 @@
           },
           {
             "symbolAmount": 10,
-            "description": "<p>that defense, a Spell or Blessing targets your defense, add two recharge tokens to this card to add *§ :</p>"
+            "description": "<p>that defense, a Spell or Blessing targets your defense, add two recharge tokens to this card to add *\u00a7 :</p>"
           },
           {
             "symbolAmount": 5,
-            "description": "<p>{Dr} to the action’s dice pool % start of your next turn, add {Dr} to any Melee Attack or Ranged Attack actions targeting you or any allies in the same engagement as you</p>"
+            "description": "<p>{Dr} to the action\u2019s dice pool % start of your next turn, add {Dr} to any Melee Attack or Ranged Attack actions targeting you or any allies in the same engagement as you</p>"
           },
           {
             "symbolAmount": 10,
@@ -173,7 +181,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>add an additional {Dr} to the action’s dice pool</p>"
+            "description": "<p>add an additional {Dr} to the action\u2019s dice pool</p>"
           },
           {
             "symbolAmount": 3,
@@ -191,10 +199,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "AtS D GP",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

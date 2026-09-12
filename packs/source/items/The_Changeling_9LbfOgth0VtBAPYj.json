@@ -4,6 +4,7 @@
   "_id": "9LbfOgth0VtBAPYj",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Terror 3, Unfathomable Power Deception: 2 {De} trained in Charm, Coordination, Guile, Intuition, and Stealth Master of Mischief: +1 recharge token to actions targeting Changeling, +2 if action fails.</p>"
+    "description": "<p>Terror 3, Unfathomable Power Deception: 2 {De} trained in Charm, Coordination, Guile, Intuition, and Stealth Master of Mischief: +1 recharge token to actions targeting Changeling, +2 if action fails.</p>",
+    "cooldown": false
   }
 }

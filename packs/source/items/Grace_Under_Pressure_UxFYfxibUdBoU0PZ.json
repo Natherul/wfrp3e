@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "1b",
-      "requirements": "<p>DiscreLing (WP) Used By: Expert NPCs</p>"
+      "requirements": "<p>DiscreLing (WP) Used By: Expert NPCs</p>",
+      "name": "Grace Under Pressure",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -70,11 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "1b",
-      "requirements": "<p>Special: While this action is recharging, you may remove one misfortune die from one of your own dice pools (before rolling) by removing one recharge token from this action</p>"
-    }
+      "requirements": "<p>Special: While this action is recharging, you may remove one misfortune die from one of your own dice pools (before rolling) by removing one recharge token from this action</p>",
+      "name": "Grace Under Pressure",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

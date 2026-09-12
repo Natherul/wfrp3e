@@ -22,11 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>"
+      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>",
+      "name": "Improved Guarded Position",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,11 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>"
-    }
+      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>",
+      "name": "Improved Guarded Position",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

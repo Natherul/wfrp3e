@@ -5,16 +5,33 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Form of the Crow",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M You assume the form of a crow. Place the ° Crow Beastform card on your character sheet —you can only use the physical characteristics and skills shown on the card, and can fly. While in beastform, you can only use spells with the Beastform trait. You resume human form when you are knocked unconscious or killed, or when the act ends or you voluntarily end the spell as a manoeuvre. In any case, this card will not recharge until the end of the act</p>"
+            "description": "<p>M You assume the form of a crow. Place the \u00b0 Crow Beastform card on your character sheet \u2014you can only use the physical characteristics and skills shown on the card, and can fly. While in beastform, you can only use spells with the Beastform trait. You resume human form when you are knocked unconscious or killed, or when the act ends or you voluntarily end the spell as a manoeuvre. In any case, this card will not recharge until the end of the act</p>"
           }
         ],
         "righteousSuccess": [],
@@ -31,7 +48,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>—1 to all mental checks except Observation and Intuition while in beastform &</p>"
+            "description": "<p>\u20141 to all mental checks except Observation and Intuition while in beastform &</p>"
           }
         ],
         "chaosStar": [
@@ -42,11 +59,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b",
-      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>"
-    }
+      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>",
+      "name": "Form of the Crow",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>S power Effect: You veil yourself from sight. While this card is recharging, you are invisible. Characters within close range may make Hard (3Dc) Observation (Int) check to detect your approximate location, but</p>"
+      "requirements": "<p>S power Effect: You veil yourself from sight. While this card is recharging, you are invisible. Characters within close range may make Hard (3Dc) Observation (Int) check to detect your approximate location, but</p>",
+      "name": "Shroud of Invisibility",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,7 +78,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Veiled creatures can’t see each other</p>"
+            "description": "<p>Veiled creatures can\u2019t see each other</p>"
           }
         ],
         "sigmarsComet": [
@@ -81,11 +88,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>S power Effect: You veil yourself from sight. While this card is recharging, you are invisible. Characters within close range may make a Hard (3Dc) Observation (Int) check to detect your approximate location, but</p>"
-    }
+      "requirements": "<p>S power Effect: You veil yourself from sight. While this card is recharging, you are invisible. Characters within close range may make a Hard (3Dc) Observation (Int) check to detect your approximate location, but</p>",
+      "name": "Shroud of Invisibility",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

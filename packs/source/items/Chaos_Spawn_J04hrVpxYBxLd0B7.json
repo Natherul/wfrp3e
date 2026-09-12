@@ -4,6 +4,7 @@
   "_id": "J04hrVpxYBxLd0B7",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Terror 2, Eldritch Physiology (immune to critical wounds; treat as normal wounds) Flailing Appendages: After a Melee Attack, roll on M result, {Dm}— perform a Basic Melee Attack. May make additional Basic Melee Attacks until the result does not produce a AGGRESSION CUNNING EXPERTISE S 1</p>"
+    "description": "<p>Terror 2, Eldritch Physiology (immune to critical wounds; treat as normal wounds) Flailing Appendages: After a Melee Attack, roll on M result, {Dm}\u2014 perform a Basic Melee Attack. May make additional Basic Melee Attacks until the result does not produce a AGGRESSION CUNNING EXPERTISE S 1</p>",
+    "cooldown": false
   }
 }

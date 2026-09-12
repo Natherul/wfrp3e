@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Target with medium range, engaging with target</p>"
+      "requirements": "<p>Target with medium range, engaging with target</p>",
+      "name": "Aaah Call Him Off",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -47,7 +54,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and ignore the target’s armour soak value for this attack</p>"
+            "description": "<p>As above, and ignore the target\u2019s armour soak value for this attack</p>"
           }
         ],
         "righteousSuccess": [],
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 15,
-      "difficulty": "1c 1b",
-      "requirements": "<p>within close range, get engaged with pet target</p>"
-    }
+      "requirements": "<p>within close range, get engaged with pet target</p>",
+      "name": "Aaah Call Him Off",
+      "rechargeRating": 15,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -44,11 +44,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>4 favour, Guile trained. You invoke this blessing in response to your person being searched, and you have no time to Curry Favour.</p>"
+      "requirements": "<p>4 favour, Guile trained. You invoke this blessing in response to your person being searched, and you have no time to Curry Favour.</p>",
+      "name": "Empty Pockets",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -90,11 +97,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c",
-      "requirements": "<p>1 response to your person being searched, you must have 1 {Dm} and may not Curry Favour (as you have no time).</p>"
-    }
+      "requirements": "<p>1 response to your person being searched, you must have 1 {Dm} and may not Curry Favour (as you have no time).</p>",
+      "name": "Empty Pockets",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

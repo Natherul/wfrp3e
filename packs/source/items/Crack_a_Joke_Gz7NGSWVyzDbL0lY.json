@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Your subjects must be able to see and hear you. All attention is drawn to you. Effect: Drawing attention towards you, make a witty remark or joke. While all eyes are on you, allies within</p>"
+      "requirements": "<p>Your subjects must be able to see and hear you. All attention is drawn to you. Effect: Drawing attention towards you, make a witty remark or joke. While all eyes are on you, allies within</p>",
+      "name": "Crack a Joke",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c 1b",
-      "requirements": "<p>The butt of your joke is within close range, he must be able to see and hear you. Effect: Pointing at your target, you make a hilariously insulting quip about him. While this card is recharging, target [Dc] finds it very difficult to avoid the attention,</p>"
-    }
+      "requirements": "<p>The butt of your joke is within close range, he must be able to see and hear you. Effect: Pointing at your target, you make a hilariously insulting quip about him. While this card is recharging, target [Dc] finds it very difficult to avoid the attention,</p>",
+      "name": "Crack a Joke",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

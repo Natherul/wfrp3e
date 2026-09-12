@@ -66,7 +66,7 @@
           },
           {
             "symbolAmount": 6,
-            "description": "<p>apemﬁu action card engagement as you.</p>"
+            "description": "<p>apem\ufb01u action card engagement as you.</p>"
           },
           {
             "symbolAmount": 6,
@@ -82,7 +82,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>start of your next turn, add {Dc} to any Melee recover 1 stress re«.harmnv cards.</p>"
+            "description": "<p>start of your next turn, add {Dc} to any Melee recover 1 stress re\u00ab.harmnv cards.</p>"
           },
           {
             "symbolAmount": 2,
@@ -104,10 +104,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "AtS PaS GP",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -171,7 +179,7 @@
           },
           {
             "symbolAmount": 6,
-            "description": "<p>apemﬁu action card engagement as you.</p>"
+            "description": "<p>apem\ufb01u action card engagement as you.</p>"
           },
           {
             "symbolAmount": 6,
@@ -187,7 +195,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>start of your next turn, add {Dr} to any Melee recover 1 stress re«.harmnv cards.</p>"
+            "description": "<p>start of your next turn, add {Dr} to any Melee recover 1 stress re\u00ab.harmnv cards.</p>"
           },
           {
             "symbolAmount": 2,
@@ -209,10 +217,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "AtS PaS GP",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -40,11 +40,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target and at least 1 ally and your allies in the engagement outnumber your enemies, add {Dc} to the attack’s dice pool.</p>"
+      "requirements": "<p>Engaged with target and at least 1 ally and your allies in the engagement outnumber your enemies, add {Dc} to the attack\u2019s dice pool.</p>",
+      "name": "Mob Justice",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -79,11 +86,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Townsfolk with target Spectal If there are more townsfolk in the engagement than enemies, add {Dr} to the attack’s dice pool.</p>"
-    }
+      "requirements": "<p>Used By: Townsfolk with target Spectal If there are more townsfolk in the engagement than enemies, add {Dr} to the attack\u2019s dice pool.</p>",
+      "name": "Mob Justice",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

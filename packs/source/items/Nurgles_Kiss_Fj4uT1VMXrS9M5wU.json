@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Target within medium range special Add to the dice pool for each enemy engaged with you</p>"
+      "requirements": "<p>Target within medium range special Add to the dice pool for each enemy engaged with you</p>",
+      "name": "Nurgles Kiss",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Chaos Sorcerer, Doktor chus get within medium Special: Add {Dm} to the dice pool for each enemy engaged with the caster</p>"
-    }
+      "requirements": "<p>Used By: Chaos Sorcerer, Doktor chus get within medium Special: Add {Dm} to the dice pool for each enemy engaged with the caster</p>",
+      "name": "Nurgles Kiss",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

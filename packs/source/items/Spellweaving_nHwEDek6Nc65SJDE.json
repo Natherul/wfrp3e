@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Channelling and Spellcraft Mastery. You must be holding power in excess of Equilibrium. Enhances a Spell Special: Play this card when you cast a Spell that targets an ally (or yourself). You may remove dice from your dice pool to gain the bonuses listed on this card for each die. Add or remove 1 recharge token from the spell. Add or remove 1 recharge token from the spell. Add or remove 1 recharge token 8 from the spell. If there are 8 recharge tokens on it, choose 1 additional target.</p>"
+      "requirements": "<p>Channelling and Spellcraft Mastery. You must be holding power in excess of Equilibrium. Enhances a Spell Special: Play this card when you cast a Spell that targets an ally (or yourself). You may remove dice from your dice pool to gain the bonuses listed on this card for each die. Add or remove 1 recharge token from the spell. Add or remove 1 recharge token from the spell. Add or remove 1 recharge token 8 from the spell. If there are 8 recharge tokens on it, choose 1 additional target.</p>",
+      "name": "Spellweaving",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -41,11 +48,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Channelling and Spellcraft Mastery. You must be holding power in excess of Equilibrium. Enhances a Spell Special: Play this card when you cast a Spell that targets an enemy. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The target suffers 1 wound.</p>"
-    }
+      "requirements": "<p>Channelling and Spellcraft Mastery. You must be holding power in excess of Equilibrium. Enhances a Spell Special: Play this card when you cast a Spell that targets an enemy. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The target suffers 1 wound.</p>",
+      "name": "Spellweaving",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

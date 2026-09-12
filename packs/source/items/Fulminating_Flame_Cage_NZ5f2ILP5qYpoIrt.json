@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "2c 2f",
-      "requirements": "<p>7 power. Target engagement within medium range. For each character in the target engagement beyond the first, add {Dc} to the dice pool. Effect: Roaring flames form a cage around the target engagement while this card is recharging. Characters who enter or leave the engagement suffer damage as described.</p>"
+      "requirements": "<p>7 power. Target engagement within medium range. For each character in the target engagement beyond the first, add {Dc} to the dice pool. Effect: Roaring flames form a cage around the target engagement while this card is recharging. Characters who enter or leave the engagement suffer damage as described.</p>",
+      "name": "Fulminating Flame Cage",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2f",
-      "requirements": "<p>Target engagement within medium range. Special: For each character in the target engagement beyond the first, add {Dc} to the dice pool. Effect: Roaring flames form a cage around the target engagement while this card is recharging. Characters who enter or leave the engagement suffer damage as described below.</p>"
-    }
+      "requirements": "<p>Target engagement within medium range. Special: For each character in the target engagement beyond the first, add {Dc} to the dice pool. Effect: Roaring flames form a cage around the target engagement while this card is recharging. Characters who enter or leave the engagement suffer damage as described below.</p>",
+      "name": "Fulminating Flame Cage",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

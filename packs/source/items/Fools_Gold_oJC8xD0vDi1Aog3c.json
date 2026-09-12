@@ -33,11 +33,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>1 power per silver coin affected, 1 power per brass coin affected. Effect: You imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>"
+      "requirements": "<p>1 power per silver coin affected, 1 power per brass coin affected. Effect: You imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>",
+      "name": "Fools Gold",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -67,11 +74,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>1 power per silver coin affected, 2 power per brass coin affected. Effect: Imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>"
-    }
+      "requirements": "<p>1 power per silver coin affected, 2 power per brass coin affected. Effect: Imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>",
+      "name": "Fools Gold",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

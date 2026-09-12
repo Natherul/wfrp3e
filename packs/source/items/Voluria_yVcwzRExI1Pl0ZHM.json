@@ -4,6 +4,7 @@
   "_id": "yVcwzRExI1Pl0ZHM",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Eternal Hatred, Night Vision, Nemesis, Poison Shade Training: Athletics, Coordination, Nature Lore, AGGRESSION CUNNING 4 6</p>"
+    "description": "<p>Eternal Hatred, Night Vision, Nemesis, Poison Shade Training: Athletics, Coordination, Nature Lore, AGGRESSION CUNNING 4 6</p>",
+    "cooldown": false
   }
 }

@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>3 power, a clear view of the stars or a suitable divining instrument (deck of cards, dice, etc.) Effect: Glimpses of the future are revealed to you. While this card is recharging, you may remove 1 recharge token from it to</p>"
+      "requirements": "<p>3 power, a clear view of the stars or a suitable divining instrument (deck of cards, dice, etc.) Effect: Glimpses of the future are revealed to you. While this card is recharging, you may remove 1 recharge token from it to</p>",
+      "name": "Omen",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>3 power, a clear view of the stars or a suitable divining instrument (deck of cards, dice, etc.) Effect: Glimpses of the future are revealed to you. While this card is recharging, you may remove 1 recharge token from it to</p>"
-    }
+      "requirements": "<p>3 power, a clear view of the stars or a suitable divining instrument (deck of cards, dice, etc.) Effect: Glimpses of the future are revealed to you. While this card is recharging, you may remove 1 recharge token from it to</p>",
+      "name": "Omen",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

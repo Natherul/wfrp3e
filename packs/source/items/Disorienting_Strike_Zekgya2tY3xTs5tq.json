@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>One-handed melee weapon equipped, engaged with target</p>"
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target</p>",
+      "name": "Disorienting Strike",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,7 +65,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>You may ignore the soak value of your enemy’s armour for this attack</p>"
+            "description": "<p>You may ignore the soak value of your enemy\u2019s armour for this attack</p>"
           }
         ],
         "bane": [
@@ -75,11 +82,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>One-handed melee weapon equipped, engaged with target</p>"
-    }
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target</p>",
+      "name": "Disorienting Strike",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

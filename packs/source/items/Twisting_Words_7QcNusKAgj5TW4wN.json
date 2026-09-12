@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 51,
-      "difficulty": "",
-      "requirements": "<p>Effect: You weave the conversation into a visited path, and before he knows it, you are saying something embarrassing,</p>"
+      "requirements": "<p>Effect: You weave the conversation into a visited path, and before he knows it, you are saying something embarrassing,</p>",
+      "name": "Twisting Words",
+      "rechargeRating": 51,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -70,11 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "",
-      "requirements": "<p>Effect: You weave the conversation into a twisted path, and before he knows it, you are saying something embarrassing, foolish, or untrue. While this card is</p>"
-    }
+      "requirements": "<p>Effect: You weave the conversation into a twisted path, and before he knows it, you are saying something embarrassing, foolish, or untrue. While this card is</p>",
+      "name": "Twisting Words",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

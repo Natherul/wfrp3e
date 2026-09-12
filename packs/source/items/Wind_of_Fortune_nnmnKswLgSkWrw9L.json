@@ -12,17 +12,24 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>Bon this card to add a number of {Dc} to the action’s dice pool equal to your Rank.</p>"
+            "description": "<p>Bon this card to add a number of {Dc} to the action\u2019s dice pool equal to your Rank.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend favour and place 2 recharge tokens.</p>"
+      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend favour and place 2 recharge tokens.</p>",
+      "name": "Wind of Fortune",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -32,17 +39,26 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>Bon this card to add a number of {Dr} to the action’s dice pool equal to your Rank.</p>"
+            "description": "<p>Bon this card to add a number of {Dr} to the action\u2019s dice pool equal to your Rank.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend 2 favour and place 4 recharge tokens.</p>"
-    }
+      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend 2 favour and place 4 recharge tokens.</p>",
+      "name": "Wind of Fortune",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

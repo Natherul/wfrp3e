@@ -4,6 +4,7 @@
   "_id": "eWv04ZtiSF0KQSLA",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Test Description Here</p>"
+    "description": "<p>Test Description Here</p>",
+    "cooldown": false
   }
 }

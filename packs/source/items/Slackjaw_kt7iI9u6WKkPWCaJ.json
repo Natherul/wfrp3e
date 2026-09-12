@@ -4,6 +4,9 @@
   "_id": "kt7iI9u6WKkPWCaJ",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>The GM may add or remove 1 recharge token from any action. You stare vacantly off into space, constantly forgetting what you are going to do. Each WEARY symptom adds 1 recharge token to actions performed, or adds 1 fewer token to Ongoing actions. ‘WEARY</p>"
+    "description": "<p>The GM may add or remove 1 recharge token from any action. You stare vacantly off into space, constantly forgetting what you are going to do. Each WEARY symptom adds 1 recharge token to actions performed, or adds 1 fewer token to Ongoing actions. \u2018WEARY</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

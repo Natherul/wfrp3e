@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Black Powder Weapon equipped, target engagement within close range</p>"
+      "requirements": "<p>Black Powder Weapon equipped, target engagement within close range</p>",
+      "name": "Scatter Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Black Powder Weapon equipped, target engagement within close range. Special: The Unreliable rating of your weapon is worsened by 1 to a minimum as you load the weapon with non-standard powder.</p>"
-    }
+      "requirements": "<p>Black Powder Weapon equipped, target engagement within close range. Special: The Unreliable rating of your weapon is worsened by 1 to a minimum as you load the weapon with non-standard powder.</p>",
+      "name": "Scatter Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

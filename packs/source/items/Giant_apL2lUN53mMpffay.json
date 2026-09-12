@@ -4,6 +4,7 @@
   "_id": "apL2lUN53mMpffay",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Terror 2, Swift Reach: May use Melee Attacks against targets in close range Watch Out! After defeat, all engaged characters roll a {Dm} character suffers 1 normal wound on 8 or 1 critical wound on 10+. AGGRESSION CUNNING EXPERTISE S 2</p>"
+    "description": "<p>Terror 2, Swift Reach: May use Melee Attacks against targets in close range Watch Out! After defeat, all engaged characters roll a {Dm} character suffers 1 normal wound on 8 or 1 critical wound on 10+. AGGRESSION CUNNING EXPERTISE S 2</p>",
+    "cooldown": false
   }
 }

@@ -36,11 +36,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c",
-      "requirements": "<p>As part of this action you hold aloft a Rune item and invoke its mystic runes. Effect: You unleash some of the magic contained within the runes. The runes invoked in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune exhausted, all allies within medium range recover 1 stress or 1 atigue.</p>"
+      "requirements": "<p>As part of this action you hold aloft a Rune item and invoke its mystic runes. Effect: You unleash some of the magic contained within the runes. The runes invoked in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune exhausted, all allies within medium range recover 1 stress or 1 atigue.</p>",
+      "name": "Hearth and Hold",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -78,11 +85,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>Effect: You unleash some of the magic contained within the runes. The runes invoked in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune exhausted, all allies within medium range recover 1 wound.</p>"
-    }
+      "requirements": "<p>Effect: You unleash some of the magic contained within the runes. The runes invoked in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune exhausted, all allies within medium range recover 1 wound.</p>",
+      "name": "Hearth and Hold",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

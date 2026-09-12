@@ -33,11 +33,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Shield equipped, engaged with target. If you are engaged with an ally, gain +1 to your check</p>"
+      "requirements": "<p>Shield equipped, engaged with target. If you are engaged with an ally, gain +1 to your check</p>",
+      "name": "Skalfs Anvil",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -68,11 +75,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "1c",
-      "requirements": "<p>Shield equipped, engaged with target. If you are engaged with an ally, gain +1 to your check</p>"
-    }
+      "requirements": "<p>Shield equipped, engaged with target. If you are engaged with an ally, gain +1 to your check</p>",
+      "name": "Skalfs Anvil",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

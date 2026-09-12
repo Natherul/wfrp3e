@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "1c 1f",
-      "requirements": "<p>6 power, all elements of your illusion must be within medium range. You play this card when the target attempts to interact with a friendly character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>"
+      "requirements": "<p>6 power, all elements of your illusion must be within medium range. You play this card when the target attempts to interact with a friendly character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>",
+      "name": "Retroactive Illusions",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "1c 1f",
-      "requirements": "<p>6 power, all elements of your illusion must be within medium range. Effect: You play this card when the target attempts to interact with a character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>"
-    }
+      "requirements": "<p>6 power, all elements of your illusion must be within medium range. Effect: You play this card when the target attempts to interact with a character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>",
+      "name": "Retroactive Illusions",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

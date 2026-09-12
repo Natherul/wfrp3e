@@ -22,11 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>8 power, engaged with target item. This spell takes at least five minutes to cast. Effect:</p>"
+      "requirements": "<p>8 power, engaged with target item. This spell takes at least five minutes to cast. Effect:</p>",
+      "name": "Enchant Item",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,11 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "3c",
-      "requirements": "<p>8 power, engaged with target item. This spell takes at least five minutes to cast. Effect: You imbue an item with the Wind of Chamon, which improves its function. The magic of the wind makes the item better at what it was designed to do, turning it into an enchanted item of superior quality while the spell is recharging. For skill checks where the item's use is relevant, fortune points add to the dice pool, rather than {Dm}</p>"
-    }
+      "requirements": "<p>8 power, engaged with target item. This spell takes at least five minutes to cast. Effect: You imbue an item with the Wind of Chamon, which improves its function. The magic of the wind makes the item better at what it was designed to do, turning it into an enchanted item of superior quality while the spell is recharging. For skill checks where the item's use is relevant, fortune points add to the dice pool, rather than {Dm}</p>",
+      "name": "Enchant Item",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

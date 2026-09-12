@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Engaged with target; must have a free appendage (hand, tentacle, etc.) or use the target drag him inexorably to your mouth. While this action is recharging, your target cannot move, counts as engaged with you, and suffers - checks except to escape. He can escape by making an Athletics (St) check or Coordination (Ag) check opposed by your Athletics (St). If the target is still in your grasp when this action recharges, he is affected.</p>"
+      "requirements": "<p>Engaged with target; must have a free appendage (hand, tentacle, etc.) or use the target drag him inexorably to your mouth. While this action is recharging, your target cannot move, counts as engaged with you, and suffers - checks except to escape. He can escape by making an Athletics (St) check or Coordination (Ag) check opposed by your Athletics (St). If the target is still in your grasp when this action recharges, he is affected.</p>",
+      "name": "Devouring Grasp",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -42,10 +49,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
-    }
+      "name": "Devouring Grasp",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

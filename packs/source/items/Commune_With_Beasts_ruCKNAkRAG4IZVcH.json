@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond “recently” or “long ago”.</p>"
+            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond \u201crecently\u201d or \u201clong ago\u201d.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -22,7 +22,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>About the distant past may add or even O to the check at the GM’s discretion.</p>"
+            "description": "<p>About the distant past may add or even O to the check at the GM\u2019s discretion.</p>"
           },
           {
             "symbolAmount": 2,
@@ -32,18 +32,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Detailed inquiries or inquiries</p>"
+      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Detailed inquiries or inquiries</p>",
+      "name": "Commune With Beasts",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond “recently” or “long ago”.</p>"
+            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond \u201crecently\u201d or \u201clong ago\u201d.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -56,7 +63,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>About the distant past may add or even O to the check at the GM’s discretion.</p>"
+            "description": "<p>About the distant past may add or even O to the check at the GM\u2019s discretion.</p>"
           },
           {
             "symbolAmount": 2,
@@ -70,11 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "3c",
-      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Special detailed inquiries or inquiries</p>"
-    }
+      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Special detailed inquiries or inquiries</p>",
+      "name": "Commune With Beasts",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "s4gWY4frAZAqqYZT",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Actions that do not involve a hostile or known enemy shall be forgotten. This sleight, foul cur. I must cleanse this stain on my honour!</p>"
+    "description": "<p>Actions that do not involve a hostile or known enemy shall be forgotten. This sleight, foul cur. I must cleanse this stain on my honour!</p>",
+    "cooldown": false
   }
 }

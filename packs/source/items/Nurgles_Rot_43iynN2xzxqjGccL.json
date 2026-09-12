@@ -4,6 +4,7 @@
   "_id": "43iynN2xzxqjGccL",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>Nurgle’s Rot counts as critical wound. While affected by this condition, your critical wounds and disease symptoms gain +1 {Dc}.</p>"
+    "description": "<p>Nurgle\u2019s Rot counts as critical wound. While affected by this condition, your critical wounds and disease symptoms gain +1 {Dc}.</p>",
+    "duration": "brief"
   }
 }

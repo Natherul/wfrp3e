@@ -40,11 +40,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1f",
-      "requirements": "<p>Equipped with the Scourge, not engaged with an enemy, target within close range. Special: This attack uses Strength instead of Agility for both the attack roll and damage calculation.</p>"
+      "requirements": "<p>Equipped with the Scourge, not engaged with an enemy, target within close range. Special: This attack uses Strength instead of Agility for both the attack roll and damage calculation.</p>",
+      "name": "Scourge Lash",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -91,11 +98,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c 1f 1b",
-      "requirements": "<p>Special: This attack uses Strength instead of Agility for both the attack roll and damage calculation.</p>"
-    }
+      "requirements": "<p>Special: This attack uses Strength instead of Agility for both the attack roll and damage calculation.</p>",
+      "name": "Scourge Lash",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

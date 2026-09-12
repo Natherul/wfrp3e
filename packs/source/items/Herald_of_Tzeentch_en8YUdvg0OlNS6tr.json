@@ -4,6 +4,7 @@
   "_id": "en8YUdvg0OlNS6tr",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Mastering Change: Spend Cunning to convert Terror [Df] or [De] to Power. Spellcasters lose 1 power for each + generated on the Terror check. For each power lost in this manner, add 1 Cunning die to the Herald’s Cunning budget. AGGRESSION CUNNING | 4 6</p>"
+    "description": "<p>Mastering Change: Spend Cunning to convert Terror [Df] or [De] to Power. Spellcasters lose 1 power for each + generated on the Terror check. For each power lost in this manner, add 1 Cunning die to the Herald\u2019s Cunning budget. AGGRESSION CUNNING | 4 6</p>",
+    "cooldown": false
   }
 }

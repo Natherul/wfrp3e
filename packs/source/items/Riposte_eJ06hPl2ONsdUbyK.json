@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Melee weapon equipped, target has just missed you with a Melee Attack that you have used the Parry action against</p>"
+      "requirements": "<p>Melee weapon equipped, target has just missed you with a Melee Attack that you have used the Parry action against</p>",
+      "name": "Riposte",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Melee weapon equipped, target has just used the Melee Attack that you have used the Parry action against</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, target has just used the Melee Attack that you have used the Parry action against</p>",
+      "name": "Riposte",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

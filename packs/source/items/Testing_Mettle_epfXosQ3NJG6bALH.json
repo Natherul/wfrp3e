@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "",
-      "requirements": "<p>Shield equipped, Resilience trained. Enhances a Melee Attack. Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. You gain +1 defence until your next turn.</p>"
+      "requirements": "<p>Shield equipped, Resilience trained. Enhances a Melee Attack. Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. You gain +1 defence until your next turn.</p>",
+      "name": "Testing Mettle",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -33,7 +40,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>to one of the target’s currently recharging actions.</p>"
+            "description": "<p>to one of the target\u2019s currently recharging actions.</p>"
           },
           {
             "symbolAmount": 1,
@@ -50,11 +57,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "",
-      "requirements": "<p>Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die.</p>"
-    }
+      "requirements": "<p>Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die.</p>",
+      "name": "Testing Mettle",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

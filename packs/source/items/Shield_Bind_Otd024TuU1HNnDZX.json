@@ -27,16 +27,42 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>GET DEFENCE Shield equipped; engaged with target. You cannot use the Block action while this action is recharging. If not recharging when you successfully use this card, you may add 2 recharge tokens to Block to add 2 recharge tokens to this card. Effect: By pressing your shield against the target’s body, you bind his limbs and control his movements. While this action is recharging, your target adds {Dc} to attack rolls that target him and adds 10 to attacks that target you. If the target's turn immediately ends and this action recharges completely.</p>"
+      "requirements": "<p>GET DEFENCE Shield equipped; engaged with target. You cannot use the Block action while this action is recharging. If not recharging when you successfully use this card, you may add 2 recharge tokens to Block to add 2 recharge tokens to this card. Effect: By pressing your shield against the target\u2019s body, you bind his limbs and control his movements. While this action is recharging, your target adds {Dc} to attack rolls that target him and adds 10 to attacks that target you. If the target's turn immediately ends and this action recharges completely.</p>",
+      "name": "Shield Bind",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Shield Bind",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Target within close range, you must be “dead,” or incapacitated by damage, fatigue, or stress. Special: When this action, stand you up suddenly and shamble to your target, taking him by surprise! You recover 2 stress, 2 fatigue, and a number of normal wounds until your total wounds are 5 less than your wound threshold. This action begins recharging whether or not it is successful. This action recharges at the end of the encounter.</p>"
+      "requirements": "<p>Target within close range, you must be \u201cdead,\u201d or incapacitated by damage, fatigue, or stress. Special: When this action, stand you up suddenly and shamble to your target, taking him by surprise! You recover 2 stress, 2 fatigue, and a number of normal wounds until your total wounds are 5 less than your wound threshold. This action begins recharging whether or not it is successful. This action recharges at the end of the encounter.</p>",
+      "name": "Half Dead",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -78,11 +85,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Target within close range, you must be “dead,” or incapacitated by damage, fatigue, or stress. Special: When you use this action, you stand up suddenly and shamble to your target, taking him by surprise! You recover 1 stress, 1 fatigue, and a number of normal wounds until your total wounds are 4 less than your wound threshold. This action begins recharging whether or not it is successful. This action recharges at the end of the encounter.</p>"
-    }
+      "requirements": "<p>Target within close range, you must be \u201cdead,\u201d or incapacitated by damage, fatigue, or stress. Special: When you use this action, you stand up suddenly and shamble to your target, taking him by surprise! You recover 1 stress, 1 fatigue, and a number of normal wounds until your total wounds are 4 less than your wound threshold. This action begins recharging whether or not it is successful. This action recharges at the end of the encounter.</p>",
+      "name": "Half Dead",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

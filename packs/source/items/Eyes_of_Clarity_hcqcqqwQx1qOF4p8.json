@@ -36,11 +36,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>"
+      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>",
+      "name": "Eyes of Clarity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "",
-      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>"
-    }
+      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>",
+      "name": "Eyes of Clarity",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

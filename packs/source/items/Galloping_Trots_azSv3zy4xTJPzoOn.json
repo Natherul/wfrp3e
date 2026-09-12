@@ -4,6 +4,9 @@
   "_id": "azSv3zy4xTJPzoOn",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>I sufferer Suffer 1 fatigue and 1 stress. Something’s squirming in your gut, and that something doesn’t want to share it. Each PAINFUL symptom adds +1{Dc} to all physical checks performed by the</p>"
+    "description": "<p>I sufferer Suffer 1 fatigue and 1 stress. Something\u2019s squirming in your gut, and that something doesn\u2019t want to share it. Each PAINFUL symptom adds +1{Dc} to all physical checks performed by the</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

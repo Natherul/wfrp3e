@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>trailing the air behind you. While this card is recharging, your Melee Attacks inflict +1 {Dc}</p>"
+      "requirements": "<p>trailing the air behind you. While this card is recharging, your Melee Attacks inflict +1 {Dc}</p>",
+      "name": "Righteous Strength",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -63,11 +70,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Effect: You imbue yourself with Sigmar’s righteousness. Your eyes begin to glow with golden light, and you leave a trail in the air behind you. While this card is recharging, your Melee Attacks inflict +2 {Dm} damage</p>"
-    }
+      "requirements": "<p>Effect: You imbue yourself with Sigmar\u2019s righteousness. Your eyes begin to glow with golden light, and you leave a trail in the air behind you. While this card is recharging, your Melee Attacks inflict +2 {Dm} damage</p>",
+      "name": "Righteous Strength",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

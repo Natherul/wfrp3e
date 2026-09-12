@@ -4,6 +4,7 @@
   "_id": "npcSlE2ufxYwkMYJ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Terror 3, Flaming Retribution,</p> Instinctive, Regeneration, Reach Multiple Heads: Can make a Basic Melee Attack against as many characters within close range as it has living heads. A multiheaded hydra suffering a critical must make a Resilience check vs. severity of the critical or a head is destroyed. AGGRESSION CUNNING EXPERTISE 6="
+    "description": "<p>Terror 3, Flaming Retribution,</p> Instinctive, Regeneration, Reach Multiple Heads: Can make a Basic Melee Attack against as many characters within close range as it has living heads. A multiheaded hydra suffering a critical must make a Resilience check vs. severity of the critical or a head is destroyed. AGGRESSION CUNNING EXPERTISE 6=",
+    "cooldown": false
   }
 }

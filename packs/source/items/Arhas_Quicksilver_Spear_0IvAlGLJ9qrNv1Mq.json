@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1f",
-      "requirements": "<p>7 power. If you are engaged with an enemy, add to the dice pool effect: You conjure a gleaming lance of quicksilver in the air before you. When this spell recharges completely, it streaks out and strikes your enemies as detailed below:</p>"
+      "requirements": "<p>7 power. If you are engaged with an enemy, add to the dice pool effect: You conjure a gleaming lance of quicksilver in the air before you. When this spell recharges completely, it streaks out and strikes your enemies as detailed below:</p>",
+      "name": "Arhas Quicksilver Spear",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1f",
-      "requirements": "<p>6 power. If you are engaged with an enemy, add to the dice pool effect: You conjure a gleaming lance of quicksilver in the air before you. When this spell recharges completely, it streaks out and strikes your enemies as detailed below</p>"
-    }
+      "requirements": "<p>6 power. If you are engaged with an enemy, add to the dice pool effect: You conjure a gleaming lance of quicksilver in the air before you. When this spell recharges completely, it streaks out and strikes your enemies as detailed below</p>",
+      "name": "Arhas Quicksilver Spear",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

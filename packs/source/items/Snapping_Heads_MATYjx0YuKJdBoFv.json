@@ -27,11 +27,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "2c 1f 1b",
-      "requirements": "<p>beyond the first involved in attack. After the attack is resolved, add 1 recharge token to this card for each living head you possess.</p>"
+      "requirements": "<p>beyond the first involved in attack. After the attack is resolved, add 1 recharge token to this card for each living head you possess.</p>",
+      "name": "Snapping Heads",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,11 +63,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1f 1b",
-      "requirements": "<p>engaged with target. Special: Add {Dm} to the dice pool for every head beyond the first involved in this attack. After the attack is resolved, add 1 recharge token to this card for each living head you still possess.</p>"
-    }
+      "requirements": "<p>engaged with target. Special: Add {Dm} to the dice pool for every head beyond the first involved in this attack. After the attack is resolved, add 1 recharge token to this card for each living head you still possess.</p>",
+      "name": "Snapping Heads",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

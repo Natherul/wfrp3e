@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Must bear the Mark of Tzeentch or be a servant of Tzeentch. Special: Add M to the difficulty modifier for each enemy engaged with you. Effect: Enigmatic energies surround you, making you difficult to see or understand. While this action is recharging, you gain {Dc} to Stealth and Guile checks, and other characters add {Dm} to Observation or Intuition checks with you as the target.</p>"
+      "requirements": "<p>Must bear the Mark of Tzeentch or be a servant of Tzeentch. Special: Add M to the difficulty modifier for each enemy engaged with you. Effect: Enigmatic energies surround you, making you difficult to see or understand. While this action is recharging, you gain {Dc} to Stealth and Guile checks, and other characters add {Dm} to Observation or Intuition checks with you as the target.</p>",
+      "name": "Veil of Trickery",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Herald of Tzeentch. Special: Add M to the difficulty modifier for each enemy engaged with you.</p>"
-    }
+      "requirements": "<p>Used By: Herald of Tzeentch. Special: Add M to the difficulty modifier for each enemy engaged with you.</p>",
+      "name": "Veil of Trickery",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

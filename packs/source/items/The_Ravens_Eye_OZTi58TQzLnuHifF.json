@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>4 favour, close range to target. Add {Dc} to your dice pool if you are engaged with an enemy</p>"
+      "requirements": "<p>4 favour, close range to target. Add {Dc} to your dice pool if you are engaged with an enemy</p>",
+      "name": "The Ravens Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>4 favour, close range to target. Add {Dm} to your dice pool if you are engaged with an enemy</p>"
-    }
+      "requirements": "<p>4 favour, close range to target. Add {Dm} to your dice pool if you are engaged with an enemy</p>",
+      "name": "The Ravens Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

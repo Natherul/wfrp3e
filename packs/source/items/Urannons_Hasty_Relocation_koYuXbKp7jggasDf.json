@@ -28,7 +28,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The capricious Winds of Magic whisk you away. At the end of the turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM’s choice as to where).</p>"
+            "description": "<p>The capricious Winds of Magic whisk you away. At the end of the turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM\u2019s choice as to where).</p>"
           }
         ],
         "sigmarsComet": [
@@ -38,11 +38,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>S power. Play after an attack, spell, or blessing that targets you resolves.</p>"
+      "requirements": "<p>S power. Play after an attack, spell, or blessing that targets you resolves.</p>",
+      "name": "Urannons Hasty Relocation",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -68,7 +75,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>The capricious Winds of Magic whisk you away. At the end of the turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM’s choice as to where).</p>"
+            "description": "<p>The capricious Winds of Magic whisk you away. At the end of the turn, you are briefly snapped back into the turbulent winds and reappear somewhere within close range of your destination (GM\u2019s choice as to where).</p>"
           }
         ],
         "sigmarsComet": [
@@ -78,11 +85,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>S power. Play after an attack, spell, or blessing that targets you resolves.</p>"
-    }
+      "requirements": "<p>S power. Play after an attack, spell, or blessing that targets you resolves.</p>",
+      "name": "Urannons Hasty Relocation",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

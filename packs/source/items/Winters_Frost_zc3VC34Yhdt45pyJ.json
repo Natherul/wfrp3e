@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>6 power, target engagement or area within medium range. The ground grows icy and slick. While this spell is recharging, anyone attempting to move within the affected engagement must pass an Easy (1d) Coordination check or fall prone instead of moving.</p>"
+      "requirements": "<p>6 power, target engagement or area within medium range. The ground grows icy and slick. While this spell is recharging, anyone attempting to move within the affected engagement must pass an Easy (1d) Coordination check or fall prone instead of moving.</p>",
+      "name": "Winters Frost",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>6 power, target engagement or area within medium range.</p>"
-    }
+      "requirements": "<p>6 power, target engagement or area within medium range.</p>",
+      "name": "Winters Frost",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

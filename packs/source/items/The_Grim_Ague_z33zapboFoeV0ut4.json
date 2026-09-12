@@ -4,6 +4,9 @@
   "_id": "z33zapboFoeV0ut4",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>3+ Suffer 1 stress. The way your mind is racing, it’s hard to focus, let alone get anything done. Each DELIRIUM symptom counts as 1 stress.</p>"
+    "description": "<p>3+ Suffer 1 stress. The way your mind is racing, it\u2019s hard to focus, let alone get anything done. Each DELIRIUM symptom counts as 1 stress.</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

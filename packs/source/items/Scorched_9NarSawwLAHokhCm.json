@@ -4,6 +4,7 @@
   "_id": "9NarSawwLAHokhCm",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>Cancels Freezing During your End of Turn step, suffer 1 fatigue. If fatigued, suffer 1 wound instead.</p>"
+    "description": "<p>Cancels Freezing During your End of Turn step, suffer 1 fatigue. If fatigued, suffer 1 wound instead.</p>",
+    "duration": "brief"
   }
 }

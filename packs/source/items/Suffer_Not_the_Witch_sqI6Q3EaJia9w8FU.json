@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You lock wills with the witch and force her to confront Sigmar’s holy wrath. The target loses 2 power, and suffers 2 wounds, 2 fatigue, and 2 stress</p>"
+            "description": "<p>You lock wills with the witch and force her to confront Sigmar\u2019s holy wrath. The target loses 2 power, and suffers 2 wounds, 2 fatigue, and 2 stress</p>"
           },
           {
             "symbolAmount": 3,
@@ -33,22 +33,29 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>* N You may choose 1 of the target’s available spells that are not currently recharging. Add 3 recharge tokens to that spell</p>"
+            "description": "<p>* N You may choose 1 of the target\u2019s available spells that are not currently recharging. Add 3 recharge tokens to that spell</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 favour. Target spellcaster within medium range</p>"
+      "requirements": "<p>7 favour. Target spellcaster within medium range</p>",
+      "name": "Suffer Not the Witch",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You lock wills with the witch and force her to confront Sigmar’s holy wrath. The target loses 2 power, and suffers 2 wounds, 2 fatigue, and 2 stress</p>"
+            "description": "<p>You lock wills with the witch and force her to confront Sigmar\u2019s holy wrath. The target loses 2 power, and suffers 2 wounds, 2 fatigue, and 2 stress</p>"
           },
           {
             "symbolAmount": 3,
@@ -76,15 +83,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You may choose 1 of the target’s available spells that are not currently recharging. Add 3 recharge tokens to that spell</p>"
+            "description": "<p>You may choose 1 of the target\u2019s available spells that are not currently recharging. Add 3 recharge tokens to that spell</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>7 favour. Target spellcaster within medium range</p>"
-    }
+      "requirements": "<p>7 favour. Target spellcaster within medium range</p>",
+      "name": "Suffer Not the Witch",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

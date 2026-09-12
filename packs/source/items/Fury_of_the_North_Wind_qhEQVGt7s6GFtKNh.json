@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>8 power, must be outdoors or within long range of quantity of snow and ice. Target within long range Special: When you cast this spell, violent winds whip the area until your next turn, applying a MM penalty to any checks that would reasonably be affected</p>"
+      "requirements": "<p>8 power, must be outdoors or within long range of quantity of snow and ice. Target within long range Special: When you cast this spell, violent winds whip the area until your next turn, applying a MM penalty to any checks that would reasonably be affected</p>",
+      "name": "Fury of the North Wind",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "3c 1f",
-      "requirements": "<p>9 power, must be outdoors or within long range of quantity of snow and ice. Target engagement within long range Special: When you cast this spell, violent winds whip the area until your next turn, applying a penalty to any checks that would reasonably be affected</p>"
-    }
+      "requirements": "<p>9 power, must be outdoors or within long range of quantity of snow and ice. Target engagement within long range Special: When you cast this spell, violent winds whip the area until your next turn, applying a penalty to any checks that would reasonably be affected</p>",
+      "name": "Fury of the North Wind",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

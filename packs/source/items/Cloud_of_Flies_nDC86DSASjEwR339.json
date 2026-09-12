@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c 1b",
-      "requirements": "<p>4 power Effect: You are surrounded by a buzzing, foul cloud of flies. While this spell is recharging, you gain +1 Defence. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue [Df]</p>"
+      "requirements": "<p>4 power Effect: You are surrounded by a buzzing, foul cloud of flies. While this spell is recharging, you gain +1 Defence. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue [Df]</p>",
+      "name": "Cloud of Flies",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Effect: You are surrounded by a buzzing, foul cloud of flies. While this spell is recharging, you gain +1 Defence. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue [Dr]</p>"
-    }
+      "requirements": "<p>Effect: You are surrounded by a buzzing, foul cloud of flies. While this spell is recharging, you gain +1 Defence. Each time you remove a recharge token from this card, every enemy engaged with you suffers 1 fatigue [Dr]</p>",
+      "name": "Cloud of Flies",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

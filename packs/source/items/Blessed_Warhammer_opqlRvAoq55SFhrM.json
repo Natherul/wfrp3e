@@ -4,6 +4,13 @@
   "_id": "opqlRvAoq55SFhrM",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This warhammer was once wielded by a great hero of the Cult of Sigmar. A portion of his essence still lingers within the weapon and can be called upon in times of great need. Damage Rating: 7 Critical Rating: 2 Group: Great Weapon Qualities: Superior, Two-Handed Encumbrance: 6 This is a superior, blessed weapon, which adds {Df} to all attacks made wielding it. When wielded by a priest of Sigmar, all Melee Attacks using the Blessed Warhammer gain:</p> M M to the results pool. You may spend 3 favour to add"
+    "description": "<p>This warhammer was once wielded by a great hero of the Cult of Sigmar. A portion of his essence still lingers within the weapon and can be called upon in times of great need. Damage Rating: 7 Critical Rating: 2 Group: Great Weapon Qualities: Superior, Two-Handed Encumbrance: 6 This is a superior, blessed weapon, which adds {Df} to all attacks made wielding it. When wielded by a priest of Sigmar, all Melee Attacks using the Blessed Warhammer gain:</p> M M to the results pool. You may spend 3 favour to add",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

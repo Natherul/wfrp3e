@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>3 power, caster must be in a forested, swampy, or marshy environment and sucking muck surrounds you. While this card is recharging, within close of enemies' range, you suffer 1 fatigue to move.</p>"
+      "requirements": "<p>3 power, caster must be in a forested, swampy, or marshy environment and sucking muck surrounds you. While this card is recharging, within close of enemies' range, you suffer 1 fatigue to move.</p>",
+      "name": "Grasp of the Oberslecht",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>3 power, caster must be in a swampy or marshy environment. You must suffer 1 fatigue to move.</p>"
-    }
+      "requirements": "<p>3 power, caster must be in a swampy or marshy environment. You must suffer 1 fatigue to move.</p>",
+      "name": "Grasp of the Oberslecht",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

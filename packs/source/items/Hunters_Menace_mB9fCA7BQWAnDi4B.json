@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Hunters Menace",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -41,11 +58,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>4 favour, must be awe 1lth of growing thmp Effect Taal, in his aspect as the lord of the hunt, endows the natural world around you with an aura of menace. While this blessing is recharging, enemies within close range of you who suffer stress suffer 1 additional stress</p>"
-    }
+      "requirements": "<p>4 favour, must be awe 1lth of growing thmp Effect Taal, in his aspect as the lord of the hunt, endows the natural world around you with an aura of menace. While this blessing is recharging, enemies within close range of you who suffer stress suffer 1 additional stress</p>",
+      "name": "Hunters Menace",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

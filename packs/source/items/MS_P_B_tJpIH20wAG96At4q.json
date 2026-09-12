@@ -37,7 +37,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You hit the target for normal damage. After you have been declared the ™ ‘Effect: After you have been declared a</p>"
+            "description": "<p>You hit the target for normal damage. After you have been declared the \u2122 \u2018Effect: After you have been declared a</p>"
           },
           {
             "symbolAmount": 3,
@@ -53,7 +53,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Add an additional {Dc} to the action’s dice pool.</p>"
+            "description": "<p>Add an additional {Dc} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 2,
@@ -78,11 +78,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Remove {Dc} from the action’s dice pool.</p>"
+            "description": "<p>Remove {Dc} from the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>Remove an additional {Dc} from the action’s dice pool.</p>"
+            "description": "<p>Remove an additional {Dc} from the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 1,
@@ -104,10 +104,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "MS P B",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -142,7 +150,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You hit the target for normal damage. After you have been declared the ™ ‘Effect: After you have been declared a</p>"
+            "description": "<p>You hit the target for normal damage. After you have been declared the \u2122 \u2018Effect: After you have been declared a</p>"
           },
           {
             "symbolAmount": 3,
@@ -158,7 +166,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Add an additional {Dr} to the action’s dice pool.</p>"
+            "description": "<p>Add an additional {Dr} to the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 2,
@@ -183,11 +191,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Remove {Dr} from the action’s dice pool.</p>"
+            "description": "<p>Remove {Dr} from the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>Remove an additional {Dr} from the action’s dice pool.</p>"
+            "description": "<p>Remove an additional {Dr} from the action\u2019s dice pool.</p>"
           },
           {
             "symbolAmount": 1,
@@ -209,10 +217,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "MS P B",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

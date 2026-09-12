@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Black powder weapon, disengaged from target. If the target is trained in Discipline, add {Dc} to your dice pool</p>"
+      "requirements": "<p>Black powder weapon, disengaged from target. If the target is trained in Discipline, add {Dc} to your dice pool</p>",
+      "name": "Thundering Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Black powder weapon, disengaged from target. If the target is trained in Discipline, add {Dc} to your dice pool</p>"
-    }
+      "requirements": "<p>Black powder weapon, disengaged from target. If the target is trained in Discipline, add {Dc} to your dice pool</p>",
+      "name": "Thundering Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

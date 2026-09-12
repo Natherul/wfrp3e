@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>Melee weapon equipped, engaged with the target. Special: This attack may be played when melee you are declared the target of an attack. This attack resolves before that attack takes place.</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with the target. Special: This attack may be played when melee you are declared the target of an attack. This attack resolves before that attack takes place.</p>",
+      "name": "Assassins Strike",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -68,11 +75,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>Special: This attack may be played when you are declared the target of an attack. This attack resolves before that attack takes place.</p>"
-    }
+      "requirements": "<p>Special: This attack may be played when you are declared the target of an attack. This attack resolves before that attack takes place.</p>",
+      "name": "Assassins Strike",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

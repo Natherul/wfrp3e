@@ -32,18 +32,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>'WEAPON SKILL (ST) vs. TARGET DEFENCE</p>"
+      "requirements": "<p>'WEAPON SKILL (ST) vs. TARGET DEFENCE</p>",
+      "name": "Trail of Devastation",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>:@ You hit the target for normal damage, § then disengage and repeat this action against a new target with your other weapon (limit two attacks total).</p>"
+            "description": "<p>:@ You hit the target for normal damage, \u00a7 then disengage and repeat this action against a new target with your other weapon (limit two attacks total).</p>"
           },
           {
             "symbolAmount": 2,
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon in each hand, target within close range. Special: Nominate one of your weapons as your primary weapon. Its traits and values apply to this attack. As part of this attack, you move to engaged with your target.</p>"
-    }
+      "requirements": "<p>Melee weapon in each hand, target within close range. Special: Nominate one of your weapons as your primary weapon. Its traits and values apply to this attack. As part of this attack, you move to engaged with your target.</p>",
+      "name": "Trail of Devastation",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

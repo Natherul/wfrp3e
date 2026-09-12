@@ -46,11 +46,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c 1f 1b",
-      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able. You must target the highest Defence among your engagement.</p>"
+      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able. You must target the highest Defence among your engagement.</p>",
+      "name": "Wrath of Uzuhl",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -98,11 +105,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1f 1b",
-      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able.</p>"
-    }
+      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able.</p>",
+      "name": "Wrath of Uzuhl",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

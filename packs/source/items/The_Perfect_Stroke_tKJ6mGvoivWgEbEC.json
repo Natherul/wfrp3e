@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>With a swift slash and thrust of the blade, you find the perfect place in your opponent’s armour, driving the blade into the flesh. You hit for +7 damage [Dm]</p>"
+            "description": "<p>With a swift slash and thrust of the blade, you find the perfect place in your opponent\u2019s armour, driving the blade into the flesh. You hit for +7 damage [Dm]</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,18 +32,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>Bladed weapon equipped, you must be engaged with your target</p>"
+      "requirements": "<p>Bladed weapon equipped, you must be engaged with your target</p>",
+      "name": "The Perfect Stroke",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>With a swift slash and thrust of the blade, you find the perfect place in your opponent’s armour, driving the blade deep into the flesh. You hit for +3 damage</p>"
+            "description": "<p>With a swift slash and thrust of the blade, you find the perfect place in your opponent\u2019s armour, driving the blade deep into the flesh. You hit for +3 damage</p>"
           }
         ],
         "righteousSuccess": [],
@@ -60,7 +67,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>® Add 1 recharge token to this card</p>"
+            "description": "<p>\u00ae Add 1 recharge token to this card</p>"
           }
         ],
         "chaosStar": [
@@ -72,15 +79,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Ignore the target’s armour soak value</p>"
+            "description": "<p>Ignore the target\u2019s armour soak value</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>Bladed weapon equipped, you must be engaged with your target</p>"
-    }
+      "requirements": "<p>Bladed weapon equipped, you must be engaged with your target</p>",
+      "name": "The Perfect Stroke",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

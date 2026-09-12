@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Effect: You fortify your hammer with Sigmar’s holy might. Assuming this blessing is successfully invoked, your next .</p>"
+            "description": "<p>Effect: You fortify your hammer with Sigmar\u2019s holy might. Assuming this blessing is successfully invoked, your next .</p>"
           },
           {
             "symbolAmount": 1,
@@ -40,10 +40,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c"
+      "name": "Hammer of God",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -98,11 +106,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>8 favour, hammer or glaive with Sigmar equipped. Effect: You fortify your hammer with Sigmar’s holy might. Assuming this blessing is successfully invoked, your next successful melee attack with your hammer this encounter gains the bonuses noted below</p>"
-    }
+      "requirements": "<p>8 favour, hammer or glaive with Sigmar equipped. Effect: You fortify your hammer with Sigmar\u2019s holy might. Assuming this blessing is successfully invoked, your next successful melee attack with your hammer this encounter gains the bonuses noted below</p>",
+      "name": "Hammer of God",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Hunters Fury",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -23,11 +40,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Sufficient favour (see below), an enemy within close range takes damage. Special: When an enemy within close range of you takes damage, you may call upon Taal’s fury to destroy him. You may spend an amount of favour up to your character rank and place twice as many recharge tokens on this card. Increase the damage dealt by the amount of favour spent.</p>"
-    }
+      "requirements": "<p>Sufficient favour (see below), an enemy within close range takes damage. Special: When an enemy within close range of you takes damage, you may call upon Taal\u2019s fury to destroy him. You may spend an amount of favour up to your character rank and place twice as many recharge tokens on this card. Increase the damage dealt by the amount of favour spent.</p>",
+      "name": "Hunters Fury",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -33,11 +33,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>For favour. You may target any number of characters within close range who can hear you speak, including yourself. For each target, add {Dco} to your dice pool</p>"
+      "requirements": "<p>For favour. You may target any number of characters within close range who can hear you speak, including yourself. For each target, add {Dco} to your dice pool</p>",
+      "name": "Hopeful Prayer",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -68,11 +75,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>For favour. You may target any number of characters within close range who can hear you speak, including yourself. For each target beyond the first, remove {Dco} from your dice pool</p>"
-    }
+      "requirements": "<p>For favour. You may target any number of characters within close range who can hear you speak, including yourself. For each target beyond the first, remove {Dco} from your dice pool</p>",
+      "name": "Hopeful Prayer",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

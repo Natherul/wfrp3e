@@ -23,11 +23,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 1f",
-      "requirements": "<p>10 power. You must have a clear view of the night sky to cast this spell. Special: If you have instruments for celestial observation and an accurate map marking the direction and distance to your destination, and you spend at least a half-hour using them, remove {Dc} from the dice pool. If your map is inaccurate, or you have no map, add {Dm} instead. This spell recharges at sunset.</p>"
+      "requirements": "<p>10 power. You must have a clear view of the night sky to cast this spell. Special: If you have instruments for celestial observation and an accurate map marking the direction and distance to your destination, and you spend at least a half-hour using them, remove {Dc} from the dice pool. If your map is inaccurate, or you have no map, add {Dm} instead. This spell recharges at sunset.</p>",
+      "name": "Transposition",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -48,11 +55,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 1f",
-      "requirements": "<p>10 power. You must have a clear view of the night sky to cast this spell. Special: If you have instruments for celestial observation and an accurate map marking the direction and distance to your destination, and you spend at least a half-hour using them, remove {Dr} from the dice pool. If your map is inaccurate, or you have no map, add {Dm} instead. This spell recharges at sunset.</p>"
-    }
+      "requirements": "<p>10 power. You must have a clear view of the night sky to cast this spell. Special: If you have instruments for celestial observation and an accurate map marking the direction and distance to your destination, and you spend at least a half-hour using them, remove {Dr} from the dice pool. If your map is inaccurate, or you have no map, add {Dm} instead. This spell recharges at sunset.</p>",
+      "name": "Transposition",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

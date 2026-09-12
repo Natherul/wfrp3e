@@ -28,18 +28,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 21,
-      "difficulty": "",
-      "requirements": "<p>Unanswerable riddle</p>"
+      "requirements": "<p>Unanswerable riddle</p>",
+      "name": "Conundrum",
+      "rechargeRating": 21,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4{Dc} You may add 1 recharge token to any one of your target’s currently-recharging abilities (except Ongoing abilities). If he has no abilities recharging, place 1 recharge token on one of his Active Defence abilities</p>"
+            "description": "<p>4{Dc} You may add 1 recharge token to any one of your target\u2019s currently-recharging abilities (except Ongoing abilities). If he has no abilities recharging, place 1 recharge token on one of his Active Defence abilities</p>"
           },
           {
             "symbolAmount": 3,
@@ -67,11 +74,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Target can hear and understand you. Effect: You delay your target with an unanswerable riddle</p>"
-    }
+      "requirements": "<p>Target can hear and understand you. Effect: You delay your target with an unanswerable riddle</p>",
+      "name": "Conundrum",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

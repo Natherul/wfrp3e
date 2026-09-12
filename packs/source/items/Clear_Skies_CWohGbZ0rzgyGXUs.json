@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster’s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
+            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster\u2019s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Special: This spell recharges at sundown</p>"
+      "requirements": "<p>Special: This spell recharges at sundown</p>",
+      "name": "Clear Skies",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -47,7 +54,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster’s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
+            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster\u2019s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
           }
         ],
         "righteousSuccess": [],
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>3 power. You must be exposed to the open sky. Special: This spell recharges at sundown.</p>"
-    }
+      "requirements": "<p>3 power. You must be exposed to the open sky. Special: This spell recharges at sundown.</p>",
+      "name": "Clear Skies",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

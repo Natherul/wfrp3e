@@ -31,11 +31,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "",
-      "requirements": "<p>et must be within close range Effect: You use some dirty, underhanded trick to give your ally an advantage, such as acting as a distraction or slipping him a hidden note Special: When making this check, Skulduggery (Ag) is opposed by the ighest Observation (Int) amongst enemies in the encounter</p>"
+      "requirements": "<p>et must be within close range Effect: You use some dirty, underhanded trick to give your ally an advantage, such as acting as a distraction or slipping him a hidden note Special: When making this check, Skulduggery (Ag) is opposed by the ighest Observation (Int) amongst enemies in the encounter</p>",
+      "name": "Devious Manoeuvre",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,7 +53,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>é The target adds {Dm} to his next action during this encounter</p>"
+            "description": "<p>\u00e9 The target adds {Dm} to his next action during this encounter</p>"
           },
           {
             "symbolAmount": 1,
@@ -64,11 +71,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>Target must be within close range Effect: You use some dirty, underhanded f trick to impair your enemy, such as throwing mud in his eyes or hiding his ® journal Special: When making this check, Skulduggery (Ag) is opposed by the highest Observation (Int) amongst enemiesin the encounter</p>"
-    }
+      "requirements": "<p>Target must be within close range Effect: You use some dirty, underhanded f trick to impair your enemy, such as throwing mud in his eyes or hiding his \u00ae journal Special: When making this check, Skulduggery (Ag) is opposed by the highest Observation (Int) amongst enemiesin the encounter</p>",
+      "name": "Devious Manoeuvre",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

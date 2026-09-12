@@ -41,11 +41,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 13,
-      "difficulty": "1b",
-      "requirements": "<p>BALLISTIC SKILL (AG) vs. DEFENCE TARGET Target within medium range. You use {Dc} the warpstone for attack. Special: Mis Add to this action if the target is beyond close range. Add {Dm} to this action if you are engaged with an enemy</p>"
+      "requirements": "<p>BALLISTIC SKILL (AG) vs. DEFENCE TARGET Target within medium range. You use {Dc} the warpstone for attack. Special: Mis Add to this action if the target is beyond close range. Add {Dm} to this action if you are engaged with an enemy</p>",
+      "name": "Warpstone Throwing Stars",
+      "rechargeRating": 13,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -88,11 +95,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>edBy: € lJn }:shin Skaven Target within medium range. Special: Add B to this action if the target is beyond close range. Add {Dm} to this action if the attacker is engaged with an enemy</p>"
-    }
+      "requirements": "<p>edBy: \u20ac lJn }:shin Skaven Target within medium range. Special: Add B to this action if the target is beyond close range. Add {Dm} to this action if the attacker is engaged with an enemy</p>",
+      "name": "Warpstone Throwing Stars",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

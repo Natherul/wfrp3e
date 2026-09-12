@@ -27,11 +27,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S Power, target within close range. If you are engaged with an enemy, add € to your dice pool</p>"
+      "requirements": "<p>S Power, target within close range. If you are engaged with an enemy, add \u20ac to your dice pool</p>",
+      "name": "Feral Fire",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -42,11 +49,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>S Power, targets within close range. If you are engaged with an enemy, add {Dm} to your dice pool. A rat-shaped flame leaps from your hand, scurries across the battlefield, and climbs its way up the target's leg and under his armor. The target suffers 1 wound each time you remove a recharge token from this spell. As above, but there are two rats that &8 can effect separate targets or both attack a single target. Each time you remove a recharge token from this card, suffer 1 fatigue as one of your own rats menaces you.</p>"
-    }
+      "requirements": "<p>S Power, targets within close range. If you are engaged with an enemy, add {Dm} to your dice pool. A rat-shaped flame leaps from your hand, scurries across the battlefield, and climbs its way up the target's leg and under his armor. The target suffers 1 wound each time you remove a recharge token from this spell. As above, but there are two rats that &8 can effect separate targets or both attack a single target. Each time you remove a recharge token from this card, suffer 1 fatigue as one of your own rats menaces you.</p>",
+      "name": "Feral Fire",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

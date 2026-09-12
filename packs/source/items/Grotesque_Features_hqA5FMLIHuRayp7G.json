@@ -4,6 +4,7 @@
   "_id": "hqA5FMLIHuRayp7G",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>Your facial features are distended to unnatural proportions. Add 1€ to all Social checks. Perhaps your face has been completely rearranged, with your mouth above your eyes. Perhaps you're just incredibly ugly.</p>"
+    "description": "<p>Your facial features are distended to unnatural proportions. Add 1\u20ac to all Social checks. Perhaps your face has been completely rearranged, with your mouth above your eyes. Perhaps you're just incredibly ugly.</p>",
+    "severityRating": 1
   }
 }

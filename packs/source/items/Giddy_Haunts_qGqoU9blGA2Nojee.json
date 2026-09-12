@@ -4,6 +4,9 @@
   "_id": "qGqoU9blGA2Nojee",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>: 2 3 Move 1 space towards a neutral stance. If you are already in a neutral stance, suffer 1 stress and 1 fatigue. The world keeps spinning the wrong way and you tell up from down. Each DELIRIUM symptom counts as 1 stress.</p>"
+    "description": "<p>: 2 3 Move 1 space towards a neutral stance. If you are already in a neutral stance, suffer 1 stress and 1 fatigue. The world keeps spinning the wrong way and you tell up from down. Each DELIRIUM symptom counts as 1 stress.</p>",
+    "severityRating": 1,
+    "symptom": "fever",
+    "traits": ""
   }
 }

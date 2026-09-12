@@ -37,10 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": ""
+      "name": "Skitterleap",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -71,15 +79,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>The active player’s turn ends</p>"
+            "description": "<p>The active player\u2019s turn ends</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "",
-      "requirements": "<p>Special: You may either play this action as a reaction when an enemy enters your engagement, or as an action on your turn</p>"
-    }
+      "requirements": "<p>Special: You may either play this action as a reaction when an enemy enters your engagement, or as an action on your turn</p>",
+      "name": "Skitterleap",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

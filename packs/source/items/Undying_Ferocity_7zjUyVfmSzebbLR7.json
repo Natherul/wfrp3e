@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target This action is performed immediately after the attack that dealt the killing blow is resolved, before any other manoeuvres or effects. Undying Ferocity interrupts the active player’s turn until the resolved action has been</p>"
+      "requirements": "<p>Engaged with target This action is performed immediately after the attack that dealt the killing blow is resolved, before any other manoeuvres or effects. Undying Ferocity interrupts the active player\u2019s turn until the resolved action has been</p>",
+      "name": "Undying Ferocity",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon, engaged with target, received a killing blow Special: This action is performed immediately after the attack that dealt the killing blow is resolved, before any other manoeuvres or effects. Undying Ferocity interrupts the active player’s turn until this action has been resolved</p>"
-    }
+      "requirements": "<p>Melee weapon, engaged with target, received a killing blow Special: This action is performed immediately after the attack that dealt the killing blow is resolved, before any other manoeuvres or effects. Undying Ferocity interrupts the active player\u2019s turn until this action has been resolved</p>",
+      "name": "Undying Ferocity",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

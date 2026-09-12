@@ -28,11 +28,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 2f",
-      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>"
+      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>",
+      "name": "Transformation of Kadon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 2f",
-      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>"
-    }
+      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>",
+      "name": "Transformation of Kadon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

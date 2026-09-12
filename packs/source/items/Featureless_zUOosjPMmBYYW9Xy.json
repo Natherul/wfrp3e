@@ -4,6 +4,7 @@
   "_id": "zUOosjPMmBYYW9Xy",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>Add € to Charm checks, to Guile checks, and {Dc} to Intimidate checks for all who can see your mutation. Your face becomes a blank, featureless mask; no eyes, no nose, no mouth. You speak with a voice from nowhere.</p>"
+    "description": "<p>Add \u20ac to Charm checks, to Guile checks, and {Dc} to Intimidate checks for all who can see your mutation. Your face becomes a blank, featureless mask; no eyes, no nose, no mouth. You speak with a voice from nowhere.</p>",
+    "severityRating": 1
   }
 }

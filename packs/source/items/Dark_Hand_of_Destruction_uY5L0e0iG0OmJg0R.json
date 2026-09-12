@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dc}</p>"
+      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dc}</p>",
+      "name": "Dark Hand of Destruction",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -70,11 +77,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "",
-      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dr}</p>"
-    }
+      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dr}</p>",
+      "name": "Dark Hand of Destruction",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

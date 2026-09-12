@@ -4,6 +4,7 @@
   "_id": "HAM7rqJfGQlRCB2b",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Each time you pass a physical check, suffer 1 fatigue. You feel great! There’s no challenge that you can’t handle! You can't sit still; you must keep moving!</p>"
+    "description": "<p>Each time you pass a physical check, suffer 1 fatigue. You feel great! There\u2019s no challenge that you can\u2019t handle! You can't sit still; you must keep moving!</p>",
+    "cooldown": false
   }
 }

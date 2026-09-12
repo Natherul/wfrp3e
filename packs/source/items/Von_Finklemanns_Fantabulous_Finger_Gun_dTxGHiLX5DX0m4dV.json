@@ -4,6 +4,13 @@
   "_id": "dTxGHiLX5DX0m4dV",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>Only an Imperial engineer could be so ingenious as to build a firearm into so cunning a prosthetic! Careful when shaking hands. Damage Rating: 5 Critical Rating: 2 Group: Black Powder Qualities: Pierce 1, Reload, Unreliable 2 Range: Close Encumbrance: 4 The Finger-gun also functions as a prosthetic, allowing the wearer to act as if he had two hands with a @ penalty to actions of greater than Trivial (0d) difficulty.</p>"
+    "description": "<p>Only an Imperial engineer could be so ingenious as to build a firearm into so cunning a prosthetic! Careful when shaking hands. Damage Rating: 5 Critical Rating: 2 Group: Black Powder Qualities: Pierce 1, Reload, Unreliable 2 Range: Close Encumbrance: 4 The Finger-gun also functions as a prosthetic, allowing the wearer to act as if he had two hands with a @ penalty to actions of greater than Trivial (0d) difficulty.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

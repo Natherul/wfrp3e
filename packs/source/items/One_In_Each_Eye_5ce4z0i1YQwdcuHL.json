@@ -30,7 +30,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Suffer 1 défnage per attack.</p>"
+            "description": "<p>Suffer 1 d\u00e9fnage per attack.</p>"
           }
         ],
         "chaosStar": [],
@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3f",
-      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action targets 1 or 2 characters; use the higher defense score between them.</p>"
+      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action targets 1 or 2 characters; use the higher defense score between them.</p>",
+      "name": "One In Each Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3f",
-      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action may target 1 or 2 characters; use the higher defense score between them.</p>"
-    }
+      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action may target 1 or 2 characters; use the higher defense score between them.</p>",
+      "name": "One In Each Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

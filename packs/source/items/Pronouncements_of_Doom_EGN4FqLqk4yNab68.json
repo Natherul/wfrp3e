@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3b",
-      "requirements": "<p>vs TarGET Targets must be within medium range and able to hear and understand you. Special: This action is opposed by the highest Willpower amongst its targets. Each target with Discipline trained adds {De} to the dice pool. Effect: You threaten the targets by painting a vision of their eventual wretched fates, confounding them and bolstering the courage of your allies. While this card is recharging, all affected targets gain the Demoralised condition.</p>"
+      "requirements": "<p>vs TarGET Targets must be within medium range and able to hear and understand you. Special: This action is opposed by the highest Willpower amongst its targets. Each target with Discipline trained adds {De} to the dice pool. Effect: You threaten the targets by painting a vision of their eventual wretched fates, confounding them and bolstering the courage of your allies. While this card is recharging, all affected targets gain the Demoralised condition.</p>",
+      "name": "Pronouncements of Doom",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "3b",
-      "requirements": "<p>Targets must be within medium range and able to hear and understand you. Special: This action is opposed by the highest Willpower amongst its targets. Each target with Discipline trained adds {De} to the dice pool. Effect: You threaten the targets by painting a vision of their eventual wretched fates, confounding them and bolstering the courage of your allies. While this card is recharging, all affected targets gain the Demoralised condition.</p>"
-    }
+      "requirements": "<p>Targets must be within medium range and able to hear and understand you. Special: This action is opposed by the highest Willpower amongst its targets. Each target with Discipline trained adds {De} to the dice pool. Effect: You threaten the targets by painting a vision of their eventual wretched fates, confounding them and bolstering the courage of your allies. While this card is recharging, all affected targets gain the Demoralised condition.</p>",
+      "name": "Pronouncements of Doom",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

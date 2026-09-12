@@ -4,6 +4,7 @@
   "_id": "tXVnWBAZRyRjGbNn",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Aggression</p>"
+    "description": "<p>Aggression</p>",
+    "cooldown": false
   }
 }

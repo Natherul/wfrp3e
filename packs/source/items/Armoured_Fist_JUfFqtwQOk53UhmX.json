@@ -20,7 +20,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>Right in the head! The target gains the ® Overwhelmed condition for 2 rounds ¥</p>"
+            "description": "<p>Right in the head! The target gains the \u00ae Overwhelmed condition for 2 rounds \u00a5</p>"
           }
         ],
         "bane": [
@@ -38,15 +38,22 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>¥ You catch your opponent with a sharp bit! Deal extra damage equal to your armour’s soak value</p>"
+            "description": "<p>\u00a5 You catch your opponent with a sharp bit! Deal extra damage equal to your armour\u2019s soak value</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>Must be wearing armour with a soak value of at least 2, engaged with target. Special: If your armour’s soak value is higher, you deal +2 damage with this attack</p>"
+      "requirements": "<p>Must be wearing armour with a soak value of at least 2, engaged with target. Special: If your armour\u2019s soak value is higher, you deal +2 damage with this attack</p>",
+      "name": "Armoured Fist",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -61,7 +68,7 @@
           },
           {
             "symbolAmount": 5,
-            "description": "<p>You hit the target for +2 unarmed damage, plus additional damage equal to your armour’s defence value</p>"
+            "description": "<p>You hit the target for +2 unarmed damage, plus additional damage equal to your armour\u2019s defence value</p>"
           },
           {
             "symbolAmount": 1,
@@ -72,7 +79,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>Right in the head! The target can’t use any stance dice for its next action</p>"
+            "description": "<p>Right in the head! The target can\u2019t use any stance dice for its next action</p>"
           }
         ],
         "bane": [
@@ -98,11 +105,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Must be wearing armour with a soak value of at least 2, engaged with target. Special: If your armour’s soak value is higher, you deal +2 damage with this attack</p>"
-    }
+      "requirements": "<p>Must be wearing armour with a soak value of at least 2, engaged with target. Special: If your armour\u2019s soak value is higher, you deal +2 damage with this attack</p>",
+      "name": "Armoured Fist",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

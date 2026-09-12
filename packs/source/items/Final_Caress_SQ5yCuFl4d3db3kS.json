@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, and your touch invades the target’s mind as well, inflicting additional damage equal to the number of stress the target suffers from</p>"
+            "description": "<p>As above, and your touch invades the target\u2019s mind as well, inflicting additional damage equal to the number of stress the target suffers from</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Strength for the attack roll L</p>"
+      "requirements": "<p>Strength for the attack roll L</p>",
+      "name": "Final Caress",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -47,7 +54,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and the attack inflicts critical damage if any of the target’s mental characteristics are distressed or physical characteristics are fatigued</p>"
+            "description": "<p>As above, and the attack inflicts critical damage if any of the target\u2019s mental characteristics are distressed or physical characteristics are fatigued</p>"
           }
         ],
         "righteousSuccess": [],
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>You must be engaged with your target. Special: This attack uses Agility instead for the attack roll</p>"
-    }
+      "requirements": "<p>You must be engaged with your target. Special: This attack uses Agility instead for the attack roll</p>",
+      "name": "Final Caress",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

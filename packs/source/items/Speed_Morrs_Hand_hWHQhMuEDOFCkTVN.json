@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Speed Morrs Hand",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -18,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Favour equal to the critical wound’s severity (see below) Effect: When a character within close range suffers a critical wound, you may immediately spend favour equal to the critical wound’s severity value and place an equal number of recharge tokens on this card. If you do, the target suffers extra {Dm} damage equal to the critical wound’s severity value. Special: This extra damage is part of the same effect that generated the critical. Soak and Toughness values are only applied to the total damage potential, including the extra damage from this blessing.</p>"
-    }
+      "requirements": "<p>Favour equal to the critical wound\u2019s severity (see below) Effect: When a character within close range suffers a critical wound, you may immediately spend favour equal to the critical wound\u2019s severity value and place an equal number of recharge tokens on this card. If you do, the target suffers extra {Dm} damage equal to the critical wound\u2019s severity value. Special: This extra damage is part of the same effect that generated the critical. Soak and Toughness values are only applied to the total damage potential, including the extra damage from this blessing.</p>",
+      "name": "Speed Morrs Hand",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

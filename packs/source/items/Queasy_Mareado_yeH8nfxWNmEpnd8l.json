@@ -4,6 +4,7 @@
   "_id": "yeH8nfxWNmEpnd8l",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>Add to all checks. Regain 1 less fatigue, stress, and wound from rest and recovery.</p>"
+    "description": "<p>Add to all checks. Regain 1 less fatigue, stress, and wound from rest and recovery.</p>",
+    "duration": "brief"
   }
 }

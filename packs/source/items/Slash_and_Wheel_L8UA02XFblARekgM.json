@@ -45,10 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b"
+      "name": "Slash and Wheel",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -59,7 +67,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>but your steed’s sudden wheel also knocks him prone and you or your steed gains a free manoeuvre [Dc]</p>"
+            "description": "<p>but your steed\u2019s sudden wheel also knocks him prone and you or your steed gains a free manoeuvre [Dc]</p>"
           }
         ],
         "righteousSuccess": [],
@@ -87,11 +95,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 25,
-      "difficulty": "1b",
-      "requirements": "<p>Mounted, melee weapon equipped, engage with target</p>"
-    }
+      "requirements": "<p>Mounted, melee weapon equipped, engage with target</p>",
+      "name": "Slash and Wheel",
+      "rechargeRating": 25,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

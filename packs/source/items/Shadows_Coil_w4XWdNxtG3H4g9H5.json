@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>One or more Ritual Dance cards recharging effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dc} to the action’s dice pool equal to your depth in the Conservative stance</p>"
+            "description": "<p>One or more Ritual Dance cards recharging effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dc} to the action\u2019s dice pool equal to your depth in the Conservative stance</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>to the action’s dice pool equal to your depth in the Conservative stance</p>"
+            "description": "<p>to the action\u2019s dice pool equal to your depth in the Conservative stance</p>"
           },
           {
             "symbolAmount": 1,
@@ -26,21 +26,29 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "Shadows Coil",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>{Dr} to the action’s dice pool equal to your depth in the Reckless stance Special: You may adjust your stance to 1 deep in Conservative. If you do, add {Dc} to the action’s dice pool</p>"
+            "description": "<p>{Dr} to the action\u2019s dice pool equal to your depth in the Reckless stance Special: You may adjust your stance to 1 deep in Conservative. If you do, add {Dc} to the action\u2019s dice pool</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>deep in Conservative. If you do, add {Dc} to the action’s dice pool</p>"
+            "description": "<p>deep in Conservative. If you do, add {Dc} to the action\u2019s dice pool</p>"
           }
         ],
         "righteousSuccess": [],
@@ -49,11 +57,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dr} to the action’s dice pool equal to your depth in the Reckless stance</p>"
-    }
+      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dr} to the action\u2019s dice pool equal to your depth in the Reckless stance</p>",
+      "name": "Shadows Coil",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>3 power enhance your presence with the power of fire. While this card is recharging, you gain +1 on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>"
+      "requirements": "<p>3 power enhance your presence with the power of fire. While this card is recharging, you gain +1 on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>",
+      "name": "Glamour of Fire",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: You enhance your presence with the recharging power of fire. While this card is recharging, you gain {Dc} on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>"
-    }
+      "requirements": "<p>Effect: You enhance your presence with the recharging power of fire. While this card is recharging, you gain {Dc} on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>",
+      "name": "Glamour of Fire",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

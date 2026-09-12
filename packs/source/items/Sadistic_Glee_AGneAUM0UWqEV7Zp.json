@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>A character within close range suffers 1 or more critical wounds or is knocked unconscious, either via wounds, fatigue, stress, or similar. Special: When a character (friend or foe) within close range suffers 1 or more critical wounds or is knocked unconscious, you may add 4 recharge tokens to this card and make an Average (2{Dc}) Spellcraft (Int) check. If successful, you gain power equal to the highest severity critical wound amongst those the target is suffering (assuming he is suffering any), or his Toughness score, whichever is higher.</p>"
+      "requirements": "<p>A character within close range suffers 1 or more critical wounds or is knocked unconscious, either via wounds, fatigue, stress, or similar. Special: When a character (friend or foe) within close range suffers 1 or more critical wounds or is knocked unconscious, you may add 4 recharge tokens to this card and make an Average (2{Dc}) Spellcraft (Int) check. If successful, you gain power equal to the highest severity critical wound amongst those the target is suffering (assuming he is suffering any), or his Toughness score, whichever is higher.</p>",
+      "name": "Sadistic Glee",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "2c",
-      "requirements": "<p>A character within close range suffers 1 or more critical wounds or is knocked unconscious, either via wounds, fatigue, stress, or similar. Special: When a character (friend or foe) within close range suffers 1 or more critical wounds or is knocked unconscious, you may add 4 recharge tokens to this card and make an Average (2{Dc}) Spellcraft (Int) check. If successful, you gain power equal to the highest severity critical wound amongst those the target is suffering (assuming he is suffering any), or his Toughness score, whichever is higher.</p>"
-    }
+      "requirements": "<p>A character within close range suffers 1 or more critical wounds or is knocked unconscious, either via wounds, fatigue, stress, or similar. Special: When a character (friend or foe) within close range suffers 1 or more critical wounds or is knocked unconscious, you may add 4 recharge tokens to this card and make an Average (2{Dc}) Spellcraft (Int) check. If successful, you gain power equal to the highest severity critical wound amongst those the target is suffering (assuming he is suffering any), or his Toughness score, whichever is higher.</p>",
+      "name": "Sadistic Glee",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

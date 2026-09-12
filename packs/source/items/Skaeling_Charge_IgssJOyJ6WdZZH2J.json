@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, target within medium range, not engaged with an enemy</p>"
+      "requirements": "<p>Melee weapon equipped, target within medium range, not engaged with an enemy</p>",
+      "name": "Skaeling Charge",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Melee weapon equipped, target within medium range, not engaged with an enemy. Special: As part of this action, you move to engaged with the target</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, target within medium range, not engaged with an enemy. Special: As part of this action, you move to engaged with the target</p>",
+      "name": "Skaeling Charge",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

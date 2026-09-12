@@ -28,18 +28,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Target within long range; you must be able to clearly see and study the target.</p>"
+      "requirements": "<p>Target within long range; you must be able to clearly see and study the target.</p>",
+      "name": "The Hunters Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A You successfully spot your target’s weakness.</p>"
+            "description": "<p>A You successfully spot your target\u2019s weakness.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Target within long range; you must be able to clearly see and study the target. Effect: Your keen eye discerns your opponent’s weakness, and you point it out to your allies. While this card is recharging, {Df} attacks you and your allies gain to all attacks against the target, equal to your ranks of training in Observation.</p>"
-    }
+      "requirements": "<p>Target within long range; you must be able to clearly see and study the target. Effect: Your keen eye discerns your opponent\u2019s weakness, and you point it out to your allies. While this card is recharging, {Df} attacks you and your allies gain to all attacks against the target, equal to your ranks of training in Observation.</p>",
+      "name": "The Hunters Eye",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

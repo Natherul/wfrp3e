@@ -33,11 +33,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>6 power. Your target must be the corpse of a creature that had a soul (e.g., it cannot be a daemon or undead). The target must have died within close range of you during this encounter.</p>"
+      "requirements": "<p>6 power. Your target must be the corpse of a creature that had a soul (e.g., it cannot be a daemon or undead). The target must have died within close range of you during this encounter.</p>",
+      "name": "Final Words",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -73,11 +80,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>6 power. Your target must be the corpse of a creature that had a soul (e.g., it cannot be a daemon or undead). The target must have died within close range of you during this encounter.</p>"
-    }
+      "requirements": "<p>6 power. Your target must be the corpse of a creature that had a soul (e.g., it cannot be a daemon or undead). The target must have died within close range of you during this encounter.</p>",
+      "name": "Final Words",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

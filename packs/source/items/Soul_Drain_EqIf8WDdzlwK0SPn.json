@@ -45,11 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the you and the target, then streak back to you, invigorating you. You recover as much fatigue as you inflict with this spell. If you have no fatigue, you may gain power instead.</p>"
+      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the you and the target, then streak back to you, invigorating you. You recover as much fatigue as you inflict with this spell. If you have no fatigue, you may gain power instead.</p>",
+      "name": "Soul Drain",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -92,11 +99,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the target, then streak back to you, invigorating you. You recover as many wounds as you inflict with this spell (that is, damage that is not canceled by Toughness or soak values). If you have no wounds, you may gain power.</p>"
-    }
+      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the target, then streak back to you, invigorating you. You recover as many wounds as you inflict with this spell (that is, damage that is not canceled by Toughness or soak values). If you have no wounds, you may gain power.</p>",
+      "name": "Soul Drain",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

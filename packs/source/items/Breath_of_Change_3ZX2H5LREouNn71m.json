@@ -50,11 +50,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2b",
-      "requirements": "<p>Target within medium range ‘Special This attack uses Willpower of Agility. Add {Dc} to the dice pool for each rank of training in Coordination the target has</p>"
+      "requirements": "<p>Target within medium range \u2018Special This attack uses Willpower of Agility. Add {Dc} to the dice pool for each rank of training in Coordination the target has</p>",
+      "name": "Breath of Change",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -102,11 +109,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Target within medium range Special This attack uses Willpower</p>"
-    }
+      "requirements": "<p>Target within medium range Special This attack uses Willpower</p>",
+      "name": "Breath of Change",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

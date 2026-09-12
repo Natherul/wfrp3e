@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>Melee weapon equipped, engaged with the target and not engaged with any other characters</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with the target and not engaged with any other characters</p>",
+      "name": "Duelists Strike",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,15 +87,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>+2 damage and reduce the target’s soak value by 2 against this attack</p>"
+            "description": "<p>+2 damage and reduce the target\u2019s soak value by 2 against this attack</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Melee weapon equipped, engaged with the target and not engaged with any other characters</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with the target and not engaged with any other characters</p>",
+      "name": "Duelists Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

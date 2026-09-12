@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your LQJ\\EIGSH attacks hamble your enemy’s actions. You hit for -2 damage and roll 1 {Dc} to up to two of the target’s recharging actions.</p>"
+            "description": "<p>Your LQJ\\EIGSH attacks hamble your enemy\u2019s actions. You hit for -2 damage and roll 1 {Dc} to up to two of the target\u2019s recharging actions.</p>"
           },
           {
             "symbolAmount": 2,
@@ -32,18 +32,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target</p>"
+      "requirements": "<p>Engaged with target</p>",
+      "name": "Inhibiting Attack",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your ceaseless attacks inhibit your enemy’s actions. You hit for -2 damage and the target gains the Demoralized condition for 2 rounds.</p>"
+            "description": "<p>Your ceaseless attacks inhibit your enemy\u2019s actions. You hit for -2 damage and the target gains the Demoralized condition for 2 rounds.</p>"
           },
           {
             "symbolAmount": 2,
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target</p>"
-    }
+      "requirements": "<p>Engaged with target</p>",
+      "name": "Inhibiting Attack",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

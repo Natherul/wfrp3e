@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 9,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target, suffering 1 or more wounds</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with target, suffering 1 or more wounds</p>",
+      "name": "Wrath of Morgrim",
+      "rechargeRating": 9,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -60,7 +67,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® Add 2 additional {Dc} to this card</p>"
+            "description": "<p>\u00ae Add 2 additional {Dc} to this card</p>"
           }
         ],
         "chaosStar": [
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped</p>"
-    }
+      "requirements": "<p>Melee weapon equipped</p>",
+      "name": "Wrath of Morgrim",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,13 @@
   "_id": "irqEKvsSKiFfzhcb",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>Journeyed glories of the gods. N 5 Once per session the wearer of the armour may ignore a critical wound of severity equal or less than the severity rating of the Curse of Khaine afflicting him.</p>"
+    "description": "<p>Journeyed glories of the gods. N 5 Once per session the wearer of the armour may ignore a critical wound of severity equal or less than the severity rating of the Curse of Khaine afflicting him.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

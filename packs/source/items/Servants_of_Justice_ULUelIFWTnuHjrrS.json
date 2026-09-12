@@ -4,6 +4,7 @@
   "_id": "ULUelIFWTnuHjrrS",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>OF JUSTICE</p> PARTY, REPUTABLE, IDEALISTIC PARTY TENSION METER All party members suffer 1 fatigue All party members suffer 2 str and 2 fatigue, then tension resets FORTUNE to zero X POOL RIGHT WINGS MADE of this party may suffer stress and 1 fatigue to add {Df} damage to a Ranged Attack or Melee Attack action. They may choose to do this after the roll, and may use ability more than once with each attack."
+    "description": "<p>OF JUSTICE</p> PARTY, REPUTABLE, IDEALISTIC PARTY TENSION METER All party members suffer 1 fatigue All party members suffer 2 str and 2 fatigue, then tension resets FORTUNE to zero X POOL RIGHT WINGS MADE of this party may suffer stress and 1 fatigue to add {Df} damage to a Ranged Attack or Melee Attack action. They may choose to do this after the roll, and may use ability more than once with each attack.",
+    "cooldown": false
   }
 }

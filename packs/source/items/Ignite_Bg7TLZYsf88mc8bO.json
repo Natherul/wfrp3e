@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>S power. Target within medium range effect: Each time you remove a recharge token from this card, the target suffers 1 wound. While this spell is recharging, the ¥ target suffers 1 additional {Dm} from spells or other fiery attacks.</p>"
+            "description": "<p>S power. Target within medium range effect: Each time you remove a recharge token from this card, the target suffers 1 wound. While this spell is recharging, the \u00a5 target suffers 1 additional {Dm} from spells or other fiery attacks.</p>"
           },
           {
             "symbolAmount": 1,
@@ -36,10 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
+      "name": "Ignite",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -73,10 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
-    }
+      "name": "Ignite",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

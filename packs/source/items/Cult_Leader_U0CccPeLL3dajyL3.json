@@ -4,6 +4,7 @@
   "_id": "U0CccPeLL3dajyL3",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Venomous Lies: Cult leaders have Guile and Intimidate trained. AGGRESSION CUNNING</p>"
+    "description": "<p>Venomous Lies: Cult leaders have Guile and Intimidate trained. AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

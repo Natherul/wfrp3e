@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Toughness 4+, Shield equipped, Resilience Mastery</p>"
+      "requirements": "<p>Toughness 4+, Shield equipped, Resilience Mastery</p>",
+      "name": "Advanced Block",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -32,17 +39,26 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>1 X 1 to the action's dice pool: If the incoming attack misses you, add 1 recharge token to one of your opponent’s attack actions. If added to the action that missed you, add 1 additional recharge token. Advanced Improved Block in your action deck and counts as Block for all effects that reference it</p>"
+            "description": "<p>1 X 1 to the action's dice pool: If the incoming attack misses you, add 1 recharge token to one of your opponent\u2019s attack actions. If added to the action that missed you, add 1 additional recharge token. Advanced Improved Block in your action deck and counts as Block for all effects that reference it</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Toughness 4+, Shield equipped, Resilience Mastery after you have been declared target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add</p>"
-    }
+      "requirements": "<p>Toughness 4+, Shield equipped, Resilience Mastery after you have been declared target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add</p>",
+      "name": "Advanced Block",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

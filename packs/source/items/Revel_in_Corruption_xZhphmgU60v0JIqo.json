@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target. You must be a mutant or totally corrupted. Choose one of your mutations (or draw at random) to use in this attack</p>"
+      "requirements": "<p>Engaged with target. You must be a mutant or totally corrupted. Choose one of your mutations (or draw at random) to use in this attack</p>",
+      "name": "Revel in Corruption",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +78,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Cult Mutant. With target modifier & reduce the difficulty to M. If the Cult Mutant is critically wounded, the attack gains {Dm}</p>"
-    }
+      "requirements": "<p>Used By: Cult Mutant. With target modifier & reduce the difficulty to M. If the Cult Mutant is critically wounded, the attack gains {Dm}</p>",
+      "name": "Revel in Corruption",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

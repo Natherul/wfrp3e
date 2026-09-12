@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>’Sliécial As of the attacker part action, may perform a free manoeuvre to its target</p>"
+      "requirements": "<p>\u2019Sli\u00e9cial As of the attacker part action, may perform a free manoeuvre to its target</p>",
+      "name": "Ruinous Attack",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>Used By: Marauder, Chaos Warrior Melee weapon, target within close range Special: As part of the action, the attacker may perform a free manoeuvre to engage its target</p>"
-    }
+      "requirements": "<p>Used By: Marauder, Chaos Warrior Melee weapon, target within close range Special: As part of the action, the attacker may perform a free manoeuvre to engage its target</p>",
+      "name": "Ruinous Attack",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -21,7 +21,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® Remove 1 recharge token from this card.</p>"
+            "description": "<p>\u00ae Remove 1 recharge token from this card.</p>"
           }
         ],
         "chaosStar": [
@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 1f",
-      "requirements": "<p>Play in response to an ally dying within medium range. Effect: Play when an ally within medium range dies. He does not die, instead. While this spell is recharging, he is alive and cannot be killed or KO’d by damage or injury. When the spell recharges, he dies. This spell does not recharge following normal rules; instead, remove 1 recharge token from it each time the target rolls {Dc}.</p>"
+      "requirements": "<p>Play in response to an ally dying within medium range. Effect: Play when an ally within medium range dies. He does not die, instead. While this spell is recharging, he is alive and cannot be killed or KO\u2019d by damage or injury. When the spell recharges, he dies. This spell does not recharge following normal rules; instead, remove 1 recharge token from it each time the target rolls {Dc}.</p>",
+      "name": "One Foot in the Grave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 1f",
-      "requirements": "<p>Play in response to an ally dying within medium range. Effect: Play when an ally within medium range dies. He does not die, instead. While this spell is recharging, he is alive and cannot be killed or KO’d by damage or injury. When the spell recharges, he dies. This spell does not recharge following normal rules; instead, remove 1 recharge token from it each time the target rolls {Dc}.</p>"
-    }
+      "requirements": "<p>Play in response to an ally dying within medium range. Effect: Play when an ally within medium range dies. He does not die, instead. While this spell is recharging, he is alive and cannot be killed or KO\u2019d by damage or injury. When the spell recharges, he dies. This spell does not recharge following normal rules; instead, remove 1 recharge token from it each time the target rolls {Dc}.</p>",
+      "name": "One Foot in the Grave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

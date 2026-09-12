@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Ranged weapon equipped, close range or engaged with target. Add {Dm} to your dice pool for each engaged with enemy you</p>"
+      "requirements": "<p>Ranged weapon equipped, close range or engaged with target. Add {Dm} to your dice pool for each engaged with enemy you</p>",
+      "name": "Close Quarters Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Ranged weapon equipped, close range or engaged with target. Add {Dm} to your dice pool for each enemy engaged with you</p>"
-    }
+      "requirements": "<p>Ranged weapon equipped, close range or engaged with target. Add {Dm} to your dice pool for each enemy engaged with you</p>",
+      "name": "Close Quarters Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -40,11 +40,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>engaged enemy</p>"
+      "requirements": "<p>engaged enemy</p>",
+      "name": "Dangerous when Cornered",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -78,11 +85,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2b",
-      "requirements": "<p>Used By: Boar, Giant W Eng u,td w 1th 2 or more enemies Specnal This attack gains {Dm} for engaged enemy.</p>"
-    }
+      "requirements": "<p>Used By: Boar, Giant W Eng u,td w 1th 2 or more enemies Specnal This attack gains {Dm} for engaged enemy.</p>",
+      "name": "Dangerous when Cornered",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

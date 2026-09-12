@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>A few hours of shopping in a commercial district of the target’s social tier. You spend S coins of the target’s social tier, then present the gift to the target. LxM is the final arbiter.</p>"
+      "requirements": "<p>A few hours of shopping in a commercial district of the target\u2019s social tier. You spend S coins of the target\u2019s social tier, then present the gift to the target. LxM is the final arbiter.</p>",
+      "name": "Perfect Gift",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -60,7 +67,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>You match the target’s tastes perfectly... and get him something he already has.</p>"
+            "description": "<p>You match the target\u2019s tastes perfectly... and get him something he already has.</p>"
           }
         ],
         "chaosStar": [],
@@ -71,11 +78,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>A few hours of shopping in a commercial district of the target’s social tier. You spend 5 coins of the target’s social tier, then present the gift to the target. Special: You can’t play the same target with gifts more than about once a week. Your GM is the final arbiter.</p>"
-    }
+      "requirements": "<p>A few hours of shopping in a commercial district of the target\u2019s social tier. You spend 5 coins of the target\u2019s social tier, then present the gift to the target. Special: You can\u2019t play the same target with gifts more than about once a week. Your GM is the final arbiter.</p>",
+      "name": "Perfect Gift",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon equipped, engaged with at least one target</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with at least one target</p>",
+      "name": "Whirldwind",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,7 +63,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit your target and each enemy in your engagement for -2{Dm} damage, plus your secondary weapon’s DR</p>"
+            "description": "<p>You hit your target and each enemy in your engagement for -2{Dm} damage, plus your secondary weapon\u2019s DR</p>"
           }
         ],
         "righteousSuccess": [],
@@ -85,11 +92,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon in each hand, engaged with at least one target with your primary weapon. Its traits and values apply to this attack</p>"
-    }
+      "requirements": "<p>Melee weapon in each hand, engaged with at least one target with your primary weapon. Its traits and values apply to this attack</p>",
+      "name": "Whirldwind",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

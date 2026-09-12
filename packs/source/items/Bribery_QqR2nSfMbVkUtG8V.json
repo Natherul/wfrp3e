@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You determine whether or not the target is willing to accept a bribe, and how much the bribe will cost you (usually measured in coins of the target’s social tier). If the target is willing and you pay the requisite amount, influence the target. If the target is not willing, you successfully disengage from the conversation without actually offering the bribe</p>"
+            "description": "<p>You determine whether or not the target is willing to accept a bribe, and how much the bribe will cost you (usually measured in coins of the target\u2019s social tier). If the target is willing and you pay the requisite amount, influence the target. If the target is not willing, you successfully disengage from the conversation without actually offering the bribe</p>"
           }
         ],
         "righteousSuccess": [],
@@ -17,7 +17,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® You come off as uncouth and a little</p>"
+            "description": "<p>\u00ae You come off as uncouth and a little</p>"
           },
           {
             "symbolAmount": 1,
@@ -27,23 +27,30 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>“Are you offering me a bribe?” If the F check failed, the target knows you just tried to bribe him. If there are witnesses, things could get interesting...</p>"
+            "description": "<p>\u201cAre you offering me a bribe?\u201d If the F check failed, the target knows you just tried to bribe him. If there are witnesses, things could get interesting...</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>You must engage the target in discussion for a few minutes</p>"
+      "requirements": "<p>You must engage the target in discussion for a few minutes</p>",
+      "name": "Bribery",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>® You determine whether or not the target is willing to accept a bribe, and how much the bribe will cost you (usually measured in coins of the target’s social tier). If the target is willing and you pay the requisite amount, influence the target. If the target is not willing, you successfully disengage from the conversation without actually offering the bribe</p>"
+            "description": "<p>\u00ae You determine whether or not the target is willing to accept a bribe, and how much the bribe will cost you (usually measured in coins of the target\u2019s social tier). If the target is willing and you pay the requisite amount, influence the target. If the target is not willing, you successfully disengage from the conversation without actually offering the bribe</p>"
           }
         ],
         "righteousSuccess": [],
@@ -51,7 +58,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>® You come off as uncouth and a little</p>"
+            "description": "<p>\u00ae You come off as uncouth and a little</p>"
           },
           {
             "symbolAmount": 1,
@@ -61,16 +68,25 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>“Are you offering me a bribe?” If the check failed, the target knows you just tried to bribe him. If there are witnesses, things could get interesting...</p>"
+            "description": "<p>\u201cAre you offering me a bribe?\u201d If the check failed, the target knows you just tried to bribe him. If there are witnesses, things could get interesting...</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>You must engage in conversation for a few minutes</p>"
-    }
+      "requirements": "<p>You must engage in conversation for a few minutes</p>",
+      "name": "Bribery",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

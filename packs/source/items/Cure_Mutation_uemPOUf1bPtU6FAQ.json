@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>44 Shallya’s divine mercy is made manifest and the target’s flesh re-knits itself to mend the mutation. The mutation is cured permanently, but the process is excruciating for both you and the target. You suffer fatigue and stress equal to the mutation’s severity. The target’s wound threshold is reduced by the mutation’s severity permanently.</p>"
+            "description": "<p>44 Shallya\u2019s divine mercy is made manifest and the target\u2019s flesh re-knits itself to mend the mutation. The mutation is cured permanently, but the process is excruciating for both you and the target. You suffer fatigue and stress equal to the mutation\u2019s severity. The target\u2019s wound threshold is reduced by the mutation\u2019s severity permanently.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -24,22 +24,29 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target’s wound threshold is reduced by 1 less (to a minimum of 1)</p>"
+            "description": "<p>The target\u2019s wound threshold is reduced by 1 less (to a minimum of 1)</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>9 favour, engaged with target, target suffering from at least one mutation. The difficulty of this check is equal to the severity of the target mutation. This recharges at sunrise.</p>"
+      "requirements": "<p>9 favour, engaged with target, target suffering from at least one mutation. The difficulty of this check is equal to the severity of the target mutation. This recharges at sunrise.</p>",
+      "name": "Cure Mutation",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>44 Shallya’s divine mercy is made manifest and the target’s flesh re-knits itself to mend the mutation. The mutation is cured permanently, but the process is excruciating for both you and the target. You suffer fatigue and stress equal to the mutation’s severity. The target’s wound threshold is reduced by the mutation’s severity permanently.</p>"
+            "description": "<p>44 Shallya\u2019s divine mercy is made manifest and the target\u2019s flesh re-knits itself to mend the mutation. The mutation is cured permanently, but the process is excruciating for both you and the target. You suffer fatigue and stress equal to the mutation\u2019s severity. The target\u2019s wound threshold is reduced by the mutation\u2019s severity permanently.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -54,15 +61,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>The target’s wound threshold is reduced by 1 less (to a minimum of 1)</p>"
+            "description": "<p>The target\u2019s wound threshold is reduced by 1 less (to a minimum of 1)</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>9 favour, engaged with target, target suffering from at least one mutation. Special: The difficulty of this check is equal to the severity of the target mutation. This action recharges at sunrise.</p>"
-    }
+      "requirements": "<p>9 favour, engaged with target, target suffering from at least one mutation. Special: The difficulty of this check is equal to the severity of the target mutation. This action recharges at sunrise.</p>",
+      "name": "Cure Mutation",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -33,11 +33,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>7 power, not engaged with target, target within T close range. Add {Dc} to your dice pool for each enemy in the target’s engagement after the first</p>"
+      "requirements": "<p>7 power, not engaged with target, target within T close range. Add {Dc} to your dice pool for each enemy in the target\u2019s engagement after the first</p>",
+      "name": "Great Fires of UZhul",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -77,11 +84,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>7 power, not engaged with target, target within close range. Add {Dm} to your dice pool for each enemy in the target’s engagement after the first</p>"
-    }
+      "requirements": "<p>7 power, not engaged with target, target within close range. Add {Dm} to your dice pool for each enemy in the target\u2019s engagement after the first</p>",
+      "name": "Great Fires of UZhul",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

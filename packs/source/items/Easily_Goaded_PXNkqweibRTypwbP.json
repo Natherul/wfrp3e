@@ -4,6 +4,7 @@
   "_id": "PXNkqweibRTypwbP",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Each time you suffer 1 or more stress, move the tracking token one step deeper into the reckless side of your stance meter. Beg pardon, sirrah... what did you just call me?</p>"
+    "description": "<p>Each time you suffer 1 or more stress, move the tracking token one step deeper into the reckless side of your stance meter. Beg pardon, sirrah... what did you just call me?</p>",
+    "cooldown": false
   }
 }

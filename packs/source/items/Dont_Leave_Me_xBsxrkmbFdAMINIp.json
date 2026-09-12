@@ -4,6 +4,7 @@
   "_id": "xBsxrkmbFdAMINIp",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>If you end your turn with no allies within close range, suffer 1 stress. The most terrifying thing in the world is being alone. You must never be separated from your friends and allies!</p>"
+    "description": "<p>If you end your turn with no allies within close range, suffer 1 stress. The most terrifying thing in the world is being alone. You must never be separated from your friends and allies!</p>",
+    "cooldown": false
   }
 }

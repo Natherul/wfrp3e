@@ -4,6 +4,7 @@
   "_id": "Fzblv1IIFxJw7AaB",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>At the end of each encounter, or after a full night’s rest, you recover 1 less stress and 1 less fatigue than normal. When you sleep, you see awful visions, terrifying things that should not and cannot be...</p>"
+    "description": "<p>At the end of each encounter, or after a full night\u2019s rest, you recover 1 less stress and 1 less fatigue than normal. When you sleep, you see awful visions, terrifying things that should not and cannot be...</p>",
+    "cooldown": false
   }
 }

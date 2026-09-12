@@ -4,6 +4,7 @@
   "_id": "DRaopaeiTPfaY2jS",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Dead Earnest, Fear (1/2), Night Vision Shambling: Cannot voluntarily suffer fatigue (or wounds) for extra movement unless there is a controlling force within long range. That force may suffer stress to grant additional manoeuvres. AGGRESSION CUNNING EXPERTISE S 0 2</p>"
+    "description": "<p>Dead Earnest, Fear (1/2), Night Vision Shambling: Cannot voluntarily suffer fatigue (or wounds) for extra movement unless there is a controlling force within long range. That force may suffer stress to grant additional manoeuvres. AGGRESSION CUNNING EXPERTISE S 0 2</p>",
+    "cooldown": false
   }
 }

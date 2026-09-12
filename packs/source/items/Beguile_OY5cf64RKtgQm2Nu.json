@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Eye contact with target within close range. Add if you are engaged with another enemy. Effect: While this card is in play, you may make a request of the target as a manoeuvre. The target may make a Discipline (WP) check to resist. If he fails, he must attempt to comply with your request through any means that he deems reasonable. If he succeeds, this card recharges immediately. The difficulty of the check is determined by the nature of the request, from Daunting (4{Dc}) for trivial and reasonable requests, to Easy (1{Dc}) for dangerous and difficult ones.</p>"
+      "requirements": "<p>Eye contact with target within close range. Add if you are engaged with another enemy. Effect: While this card is in play, you may make a request of the target as a manoeuvre. The target may make a Discipline (WP) check to resist. If he fails, he must attempt to comply with your request through any means that he deems reasonable. If he succeeds, this card recharges immediately. The difficulty of the check is determined by the nature of the request, from Daunting (4{Dc}) for trivial and reasonable requests, to Easy (1{Dc}) for dangerous and difficult ones.</p>",
+      "name": "Beguile",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -85,11 +92,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "",
-      "requirements": "<p>Eye contact with target within close range. Add if you are engaged with another enemy.</p>"
-    }
+      "requirements": "<p>Eye contact with target within close range. Add if you are engaged with another enemy.</p>",
+      "name": "Beguile",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

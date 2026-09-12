@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 Your mount lashes out, hitting the target for damage equal to your mount’s St + 4</p>"
+            "description": "<p>4 Your mount lashes out, hitting the target for damage equal to your mount\u2019s St + 4</p>"
           },
           {
             "symbolAmount": 3,
@@ -42,10 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b"
+      "name": "Kick and Bite",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -56,7 +64,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Your mount lashes out, hitting the target for damage equal to your mount’s St + 4</p>"
+            "description": "<p>Your mount lashes out, hitting the target for damage equal to your mount\u2019s St + 4</p>"
           },
           {
             "symbolAmount": 2,
@@ -77,7 +85,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>{Dm} Your mount loses wind £ 1</p>"
+            "description": "<p>{Dm} Your mount loses wind \u00a3 1</p>"
           }
         ],
         "chaosStar": [
@@ -93,10 +101,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c"
-    }
+      "name": "Kick and Bite",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

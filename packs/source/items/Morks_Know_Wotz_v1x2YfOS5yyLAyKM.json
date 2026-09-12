@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>You appeal to Mork to provide you with some of the benefits of his vast 'knowledge'. This card is recharging you</p>"
+      "requirements": "<p>You appeal to Mork to provide you with some of the benefits of his vast 'knowledge'. This card is recharging you</p>",
+      "name": "Morks Know Wotz",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -67,11 +74,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>4 power Effect: You appeal to Mork to provide you with some of the benefits of his vast knowledge. While this card is recharging you may benefit from 4 extra cunning {Dc} and 2 extra expertise {De} dice</p>"
-    }
+      "requirements": "<p>4 power Effect: You appeal to Mork to provide you with some of the benefits of his vast knowledge. While this card is recharging you may benefit from 4 extra cunning {Dc} and 2 extra expertise {De} dice</p>",
+      "name": "Morks Know Wotz",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

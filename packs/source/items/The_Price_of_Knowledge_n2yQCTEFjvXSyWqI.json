@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The Cult members use their unfathomable insights to confuse, rattle, and impair their opponents. The target moves 1 space toward a neutral stance, and whenever a recharge token is removed from this power, the GM places it on one of the target’s actions</p>"
+            "description": "<p>The Cult members use their unfathomable insights to confuse, rattle, and impair their opponents. The target moves 1 space toward a neutral stance, and whenever a recharge token is removed from this power, the GM places it on one of the target\u2019s actions</p>"
           },
           {
             "symbolAmount": 2,
@@ -37,18 +37,25 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c",
-      "requirements": "<p>Broken Wheel is engaged with the target to reduce the difficulty</p>"
+      "requirements": "<p>Broken Wheel is engaged with the target to reduce the difficulty</p>",
+      "name": "The Price of Knowledge",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You use your unfathomable insights to confuse, rattle, and impair your opponent. The target moves 1 space toward a neutral stance, and whenever a recharge token is removed from this power, the GM places it on one of the target’s actions</p>"
+            "description": "<p>You use your unfathomable insights to confuse, rattle, and impair your opponent. The target moves 1 space toward a neutral stance, and whenever a recharge token is removed from this power, the GM places it on one of the target\u2019s actions</p>"
           },
           {
             "symbolAmount": 3,
@@ -76,11 +83,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Within close range of the target allies, if you are engaged with one of the target, reduce the difficulty modifier</p>"
-    }
+      "requirements": "<p>Within close range of the target allies, if you are engaged with one of the target, reduce the difficulty modifier</p>",
+      "name": "The Price of Knowledge",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

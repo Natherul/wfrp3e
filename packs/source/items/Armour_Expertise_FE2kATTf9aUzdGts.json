@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>B Effect: When you are hit by a Melee or Ranged Attack, you may add 6 recharge tokens to this card to turn and catch the blow on your armour and shield. Add your Defence value to your Soak value against this attack.</p>"
+      "requirements": "<p>B Effect: When you are hit by a Melee or Ranged Attack, you may add 6 recharge tokens to this card to turn and catch the blow on your armour and shield. Add your Defence value to your Soak value against this attack.</p>",
+      "name": "Armour Expertise",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -33,11 +40,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: When you are hit by a Melee or Ranged Attack, you may add 6 recharge tokens to this card to turn and catch the blow on your armour and shield. Add your Defence value to your Soak value against this attack.</p>"
-    }
+      "requirements": "<p>Effect: When you are hit by a Melee or Ranged Attack, you may add 6 recharge tokens to this card to turn and catch the blow on your armour and shield. Add your Defence value to your Soak value against this attack.</p>",
+      "name": "Armour Expertise",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

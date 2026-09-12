@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 BL damage and all attacks Pierce 2 to that hit.</p>"
+      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 BL damage and all attacks Pierce 2 to that hit.</p>",
+      "name": "Radiant Weapon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 damage and Pierce 2 to all attacks that hit.</p>"
-    }
+      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 damage and Pierce 2 to all attacks that hit.</p>",
+      "name": "Radiant Weapon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

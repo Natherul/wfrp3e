@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>44 Calling upon Lamehk’s the Slavemaster of the Third Hell, the wizard takes control of the foe’s thoughts. While this card is recharging, each target must suffer 1 fatigue and 1 stress before attempting any action.</p>"
+            "description": "<p>44 Calling upon Lamehk\u2019s the Slavemaster of the Third Hell, the wizard takes control of the foe\u2019s thoughts. While this card is recharging, each target must suffer 1 fatigue and 1 stress before attempting any action.</p>"
           },
           {
             "symbolAmount": 3,
@@ -32,18 +32,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>9 power, target living creature within medium range Special: You can cast Lamehk’s Dominion against multiple targets. For each target beyond the first, add 1 to the check.</p>"
+      "requirements": "<p>9 power, target living creature within medium range Special: You can cast Lamehk\u2019s Dominion against multiple targets. For each target beyond the first, add 1 to the check.</p>",
+      "name": "Lamehks Dominion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A Calling upon Lamehk’s the Slavemaster of the Third Hell, the wizard takes control of the foe’s thoughts. The target immediately performs one of his available actions of your choice. You make all the relevant decisions for the target, such as who to target or how to spend boons. You can’t force the target to spend fortune, or suffer fatigue, stress, or wounds as part of the requirements of playing the action, nor do something obviously suicidal.</p>"
+            "description": "<p>A Calling upon Lamehk\u2019s the Slavemaster of the Third Hell, the wizard takes control of the foe\u2019s thoughts. The target immediately performs one of his available actions of your choice. You make all the relevant decisions for the target, such as who to target or how to spend boons. You can\u2019t force the target to spend fortune, or suffer fatigue, stress, or wounds as part of the requirements of playing the action, nor do something obviously suicidal.</p>"
           },
           {
             "symbolAmount": 3,
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>9 power, target living creature within medium range</p>"
-    }
+      "requirements": "<p>9 power, target living creature within medium range</p>",
+      "name": "Lamehks Dominion",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

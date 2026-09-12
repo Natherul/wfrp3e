@@ -4,6 +4,7 @@
   "_id": "H7rOmNExZG49dH8L",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Swift, Ambush, Fear 3, Unruly Bloodgreed: After killing an opponent, perform a manoeuvre to heal 1 wound and gain 1 Aggression, otherwise lose 1 Bloodlust: +1 damage against critically wounded targets AGGRESSION CUNNING 6 2</p>"
+    "description": "<p>Swift, Ambush, Fear 3, Unruly Bloodgreed: After killing an opponent, perform a manoeuvre to heal 1 wound and gain 1 Aggression, otherwise lose 1 Bloodlust: +1 damage against critically wounded targets AGGRESSION CUNNING 6 2</p>",
+    "cooldown": false
   }
 }

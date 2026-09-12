@@ -32,17 +32,25 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c"
+      "name": "Corps a Corps",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>44 You hook your weapon into your opponent’s knee, knocking him prone. He must spend a manoeuvre to stand up.</p>"
+            "description": "<p>44 You hook your weapon into your opponent\u2019s knee, knocking him prone. He must spend a manoeuvre to stand up.</p>"
           },
           {
             "symbolAmount": 3,
@@ -74,11 +82,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>Special: If your target’s armour soak value is 3 or greater, add {Dm} to the dice pool.</p>"
-    }
+      "requirements": "<p>Special: If your target\u2019s armour soak value is 3 or greater, add {Dm} to the dice pool.</p>",
+      "name": "Corps a Corps",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

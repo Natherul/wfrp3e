@@ -4,6 +4,7 @@
   "_id": "VGBu36YGH4LE4VSU",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Full night’s rest: recover from normal wounds and fatigue equal to Toughness, plus recover stress equal to Willpower. End of episode or encounter is just fatigue (Tou) & (WP).</p>"
+    "description": "<p>Full night\u2019s rest: recover from normal wounds and fatigue equal to Toughness, plus recover stress equal to Willpower. End of episode or encounter is just fatigue (Tou) & (WP).</p>",
+    "cooldown": false
   }
 }

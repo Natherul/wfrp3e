@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Your prayers to Verena reveal an insight into the item’s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
+            "description": "<p>Your prayers to Verena reveal an insight into the item\u2019s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
           },
           {
             "symbolAmount": 2,
@@ -31,11 +31,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Items of great antiquity or very specific queries may increase the difficulty</p>"
+      "requirements": "<p>Items of great antiquity or very specific queries may increase the difficulty</p>",
+      "name": "The Past Revealed",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,11 +53,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Your prayers to Verena reveal insight into the item’s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
+            "description": "<p>Your prayers to Verena reveal insight into the item\u2019s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, but the information is of superior quality or quantity, sufficient to grant {Da} to future Education, Folklore, Intuition, or Observation checks where the object’s past is relevant (at GM discretion)</p>"
+            "description": "<p>As above, but the information is of superior quality or quantity, sufficient to grant {Da} to future Education, Folklore, Intuition, or Observation checks where the object\u2019s past is relevant (at GM discretion)</p>"
           }
         ],
         "righteousSuccess": [],
@@ -68,11 +75,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>In favour, engaged with target item. Special: Items of great antiquity or very specific queries may increase the difficulty</p>"
-    }
+      "requirements": "<p>In favour, engaged with target item. Special: Items of great antiquity or very specific queries may increase the difficulty</p>",
+      "name": "The Past Revealed",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

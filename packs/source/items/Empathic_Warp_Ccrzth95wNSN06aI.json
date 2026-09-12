@@ -45,11 +45,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>4 power, target within long range. If you are engaged with an enemy, add 0 to the dice pool</p>"
+      "requirements": "<p>4 power, target within long range. If you are engaged with an enemy, add 0 to the dice pool</p>",
+      "name": "Empathic Warp",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -92,11 +99,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>4 power, target within long range. If you are unsteady with an enemy, add 0 to the dice pool</p>"
-    }
+      "requirements": "<p>4 power, target within long range. If you are unsteady with an enemy, add 0 to the dice pool</p>",
+      "name": "Empathic Warp",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

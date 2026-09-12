@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Chanty of the Wild Waves",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -25,7 +42,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>Add an additional {Df} to the blessing’s effect</p>"
+            "description": "<p>Add an additional {Df} to the blessing\u2019s effect</p>"
           }
         ],
         "bane": [
@@ -37,11 +54,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>3 or more favour, must be able to sing or play a musical instrument. Special: Add {Dm} to the dice pool for each target. Add 1 recharge token to this card for every 3 favour spent. You may continue to spend favour to add tokens to this card as a manoeuvre while it is recharging. Effect: You sing a cheerful tune, a favourite of sailors. While this blessing is recharging, all allies within close range add {Df} to the dice pool of all Willpower checks</p>"
-    }
+      "requirements": "<p>3 or more favour, must be able to sing or play a musical instrument. Special: Add {Dm} to the dice pool for each target. Add 1 recharge token to this card for every 3 favour spent. You may continue to spend favour to add tokens to this card as a manoeuvre while it is recharging. Effect: You sing a cheerful tune, a favourite of sailors. While this blessing is recharging, all allies within close range add {Df} to the dice pool of all Willpower checks</p>",
+      "name": "Chanty of the Wild Waves",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

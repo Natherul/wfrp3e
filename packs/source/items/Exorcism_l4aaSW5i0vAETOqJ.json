@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>7 power, daemon or possessed target and a light source within close range. If you are with an enemy, add 1 to the dice pool. Effect: You attempt to banish a daemon or evil force. While this spell is recharging, you and the target must engage in a battle of wills during each of your respective Beginning of Turn phases. This requires Discipline (WP) vs. Discipline (WP) opposed check. A character who fails this check may not act on his turn. A success by either competitor with or wins the battle. If you win, the target is banished effectively kills it. If the target wins if this spell recharges with the battle unresolved, you lose S power and gain the Rattled condition for S turns</p>"
+      "requirements": "<p>7 power, daemon or possessed target and a light source within close range. If you are with an enemy, add 1 to the dice pool. Effect: You attempt to banish a daemon or evil force. While this spell is recharging, you and the target must engage in a battle of wills during each of your respective Beginning of Turn phases. This requires Discipline (WP) vs. Discipline (WP) opposed check. A character who fails this check may not act on his turn. A success by either competitor with or wins the battle. If you win, the target is banished effectively kills it. If the target wins if this spell recharges with the battle unresolved, you lose S power and gain the Rattled condition for S turns</p>",
+      "name": "Exorcism",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>7 power, daemon or possessed target and a light source within close range. If you are with an enemy, add 1 to the dice pool. Effect: You attempt to banish a daemon or evil force. While this spell is recharging, you and the target must engage in a battle of wills during each of your respective Beginning of Turn phases. This requires Discipline (WP) vs. Discipline (WP) opposed check. A character who fails this check may not act on his turn. A success by either competitor with or wins the battle. If you win, the target is banished which effectively kills it. If the target wins or if this spell recharges with the battle unresolved, you lose S power and gain the Rattled condition for S turns</p>"
-    }
+      "requirements": "<p>7 power, daemon or possessed target and a light source within close range. If you are with an enemy, add 1 to the dice pool. Effect: You attempt to banish a daemon or evil force. While this spell is recharging, you and the target must engage in a battle of wills during each of your respective Beginning of Turn phases. This requires Discipline (WP) vs. Discipline (WP) opposed check. A character who fails this check may not act on his turn. A success by either competitor with or wins the battle. If you win, the target is banished which effectively kills it. If the target wins or if this spell recharges with the battle unresolved, you lose S power and gain the Rattled condition for S turns</p>",
+      "name": "Exorcism",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

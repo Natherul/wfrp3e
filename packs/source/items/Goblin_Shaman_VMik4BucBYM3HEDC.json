@@ -4,6 +4,7 @@
   "_id": "VMik4BucBYM3HEDC",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Waaagh! Shaman: Has Channel Power, Fire of Mork and Vindictive Glare actions. Gathers and uses POW as a Spellcaster. CUNNING</p>"
+    "description": "<p>Waaagh! Shaman: Has Channel Power, Fire of Mork and Vindictive Glare actions. Gathers and uses POW as a Spellcaster. CUNNING</p>",
+    "cooldown": false
   }
 }

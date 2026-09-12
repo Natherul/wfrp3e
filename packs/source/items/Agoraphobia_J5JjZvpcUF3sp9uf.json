@@ -4,6 +4,7 @@
   "_id": "J5JjZvpcUF3sp9uf",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>If you end your turn in an engagement with S or more characters, suffer 1 stress. The stinking mass of humanity pressing around you... You have to get someplace quiet and safe!</p>"
+    "description": "<p>If you end your turn in an engagement with S or more characters, suffer 1 stress. The stinking mass of humanity pressing around you... You have to get someplace quiet and safe!</p>",
+    "cooldown": false
   }
 }

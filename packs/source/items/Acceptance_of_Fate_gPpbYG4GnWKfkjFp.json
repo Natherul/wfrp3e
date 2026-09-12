@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>A target within medium range generates a fear or terror effect while you have sufficient power (see below). Special: When a target within medium range generates a fear or terror effect, you may spend any amount of power. The severity rating of a fear effect is reduced by one for each point of power spent, and may be reduced to 0 (in which case it is ignored). The severity rating of a terror effect is reduced by one for every two points of power spent, and may be reduced to 0 (in which case it is ignored).</p>"
+      "requirements": "<p>A target within medium range generates a fear or terror effect while you have sufficient power (see below). Special: When a target within medium range generates a fear or terror effect, you may spend any amount of power. The severity rating of a fear effect is reduced by one for each point of power spent, and may be reduced to 0 (in which case it is ignored). The severity rating of a terror effect is reduced by one for every two points of power spent, and may be reduced to 0 (in which case it is ignored).</p>",
+      "name": "Acceptance of Fate",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>A target within medium range generates a fear or terror effect while you have sufficient power (see below). Special: When a target within medium range generates a fear or terror effect, you may spend any amount of power. The severity rating of a fear effect is reduced by one for each point of power spent, and may be reduced to 0 (in which case it is ignored). The severity rating of a terror effect is reduced by one for every two points of power spent, and may be reduced to 0 (in which case it is ignored).</p>"
-    }
+      "requirements": "<p>A target within medium range generates a fear or terror effect while you have sufficient power (see below). Special: When a target within medium range generates a fear or terror effect, you may spend any amount of power. The severity rating of a fear effect is reduced by one for each point of power spent, and may be reduced to 0 (in which case it is ignored). The severity rating of a terror effect is reduced by one for every two points of power spent, and may be reduced to 0 (in which case it is ignored).</p>",
+      "name": "Acceptance of Fate",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

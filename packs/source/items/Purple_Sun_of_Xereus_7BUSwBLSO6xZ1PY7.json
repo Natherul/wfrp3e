@@ -23,11 +23,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c 2f",
-      "requirements": "<p>12 power, target area or engagement within long range. Must perform the prepare manoeuvre before casting. Special: This spell uses WP rather than forits Spellcraft check</p>"
+      "requirements": "<p>12 power, target area or engagement within long range. Must perform the prepare manoeuvre before casting. Special: This spell uses WP rather than forits Spellcraft check</p>",
+      "name": "Purple Sun of Xereus",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -48,11 +55,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>12 power, target area or engagement within long range. Must perform the prepare manoeuvre before casting. Special: This spell uses WP rather than In%; for its Spellcraft check:</p>"
-    }
+      "requirements": "<p>12 power, target area or engagement within long range. Must perform the prepare manoeuvre before casting. Special: This spell uses WP rather than In%; for its Spellcraft check:</p>",
+      "name": "Purple Sun of Xereus",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

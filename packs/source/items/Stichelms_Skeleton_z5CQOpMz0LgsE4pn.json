@@ -4,6 +4,7 @@
   "_id": "z5CQOpMz0LgsE4pn",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Sword of the Hero: {Dm} to all Melee Attacks. Weapon Skill trained Marble Shield: If hit with a Melee Attack after a Block, the attacker suffers 1 wound on a @ result. Attackers suffer 1 wound, hit or miss, if they AGGRESSION CUNNING EXPERTISE S {Dm} 2</p>"
+    "description": "<p>Sword of the Hero: {Dm} to all Melee Attacks. Weapon Skill trained Marble Shield: If hit with a Melee Attack after a Block, the attacker suffers 1 wound on a @ result. Attackers suffer 1 wound, hit or miss, if they AGGRESSION CUNNING EXPERTISE S {Dm} 2</p>",
+    "cooldown": false
   }
 }

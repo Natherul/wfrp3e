@@ -36,16 +36,42 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c 1b",
-      "requirements": "<p>& Special; Reduce the difficulty modifier by {Dc} if under open sky. You may target as many enemies as you like with this although each additional target beyond the first adds {Dc} to the dice pool</p>"
+      "requirements": "<p>& Special; Reduce the difficulty modifier by {Dc} if under open sky. You may target as many enemies as you like with this although each additional target beyond the first adds {Dc} to the dice pool</p>",
+      "name": "Conjure Wind Spirit",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Conjure Wind Spirit",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

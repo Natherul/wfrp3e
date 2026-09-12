@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>4 available favour, Strength 3+, Agility 3+. Must be hidden from the enemy. When you and your allies are hidden from the enemy, you may add {Dc} to you and your allies’ dice pools when rolling for initiative.</p>"
+      "requirements": "<p>4 available favour, Strength 3+, Agility 3+. Must be hidden from the enemy. When you and your allies are hidden from the enemy, you may add {Dc} to you and your allies\u2019 dice pools when rolling for initiative.</p>",
+      "name": "Wolfs Cunning",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -43,11 +50,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>If you and your allies are hidden from the enemy when you roll initiative at the beginning of an encounter, you may spend 4 favour to play this card. When you and all allies within close range who are hidden from the enemy roll for initiative, you may add {Dm} to you and your allies’ dice pools, and your initiative checks gain:</p>"
-    }
+      "requirements": "<p>If you and your allies are hidden from the enemy when you roll initiative at the beginning of an encounter, you may spend 4 favour to play this card. When you and all allies within close range who are hidden from the enemy roll for initiative, you may add {Dm} to you and your allies\u2019 dice pools, and your initiative checks gain:</p>",
+      "name": "Wolfs Cunning",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

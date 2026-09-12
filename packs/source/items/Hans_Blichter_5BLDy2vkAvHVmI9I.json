@@ -4,6 +4,7 @@
   "_id": "5BLDy2vkAvHVmI9I",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Aggression Cunning</p>"
+    "description": "<p>Aggression Cunning</p>",
+    "cooldown": false
   }
 }

@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "2b",
-      "requirements": "<p>Ranged weapon equipped, not engaged with target. At least one ally must be engaged with the target. If you perform the prepare manoeuvre, remove [Dm] from your dice pool</p>"
+      "requirements": "<p>Ranged weapon equipped, not engaged with target. At least one ally must be engaged with the target. If you perform the prepare manoeuvre, remove [Dm] from your dice pool</p>",
+      "name": "Threading the Needle",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Ranged weapon equipped, not engaged with target. At least one ally must be engaged with the target. If you perform the prepare manoeuvre, remove [Dm] from your dice pool</p>"
-    }
+      "requirements": "<p>Ranged weapon equipped, not engaged with target. At least one ally must be engaged with the target. If you perform the prepare manoeuvre, remove [Dm] from your dice pool</p>",
+      "name": "Threading the Needle",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

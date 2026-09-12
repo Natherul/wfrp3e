@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 2b",
-      "requirements": "<p>S power. If you are engaged with an enemy, the dice pool you conjure a number of silver arrows into the air around you. When this spell recharges completely, they streak out and strike your enemies as detailed below</p>"
+      "requirements": "<p>S power. If you are engaged with an enemy, the dice pool you conjure a number of silver arrows into the air around you. When this spell recharges completely, they streak out and strike your enemies as detailed below</p>",
+      "name": "Silver Arrows of Arha",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>S power. If you are engaged with an enemy, add {Dj} to the dice pool. Effect: You conjure a number of silver arrows into the air around you. When this spell recharges completely, they streak out and strike your enemies as detailed below</p>"
-    }
+      "requirements": "<p>S power. If you are engaged with an enemy, add {Dj} to the dice pool. Effect: You conjure a number of silver arrows into the air around you. When this spell recharges completely, they streak out and strike your enemies as detailed below</p>",
+      "name": "Silver Arrows of Arha",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

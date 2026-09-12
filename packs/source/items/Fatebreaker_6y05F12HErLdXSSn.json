@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You focus your master’s inscrutable powers into a formidable attack, inflicting normal damage</p>"
+            "description": "<p>You focus your master\u2019s inscrutable powers into a formidable attack, inflicting normal damage</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>above, and the target’s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption.</p>"
+            "description": "<p>above, and the target\u2019s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -28,26 +28,33 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Move the target’s activation token so that it is at an extreme end of its stance track (your choice of which). Then the target suffers fatigue equal to its depth in that stance. The target may perform a free manoeuvre.</p>"
+            "description": "<p>Move the target\u2019s activation token so that it is at an extreme end of its stance track (your choice of which). Then the target suffers fatigue equal to its depth in that stance. The target may perform a free manoeuvre.</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>"
+      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>",
+      "name": "Fatebreaker",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 Tzeentch’s servant focuses its master’s inscrutable powers into a formidable attack, inflicting normal damage</p>"
+            "description": "<p>4 Tzeentch\u2019s servant focuses its master\u2019s inscrutable powers into a formidable attack, inflicting normal damage</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>The attack inflicts critical damage, and the target’s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption. The target may perform a free manoeuvre.</p>"
+            "description": "<p>The attack inflicts critical damage, and the target\u2019s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption. The target may perform a free manoeuvre.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -61,11 +68,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>"
-    }
+      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>",
+      "name": "Fatebreaker",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

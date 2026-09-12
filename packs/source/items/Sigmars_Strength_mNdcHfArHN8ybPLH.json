@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "2b",
-      "requirements": "<p>7 favour affect While this card is recharging, you are imbued with the strength and fortitude of Sigmar! You and all your allies within close range gain 1 Strength ind</p>"
+      "requirements": "<p>7 favour affect While this card is recharging, you are imbued with the strength and fortitude of Sigmar! You and all your allies within close range gain 1 Strength ind</p>",
+      "name": "Sigmars Strength",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>7 favour Effect: While this card is recharging, you are imbued with the strength and fortitude of Sigmar! You and all your allies within close range gain 1 Strength and 1 Toughness</p>"
-    }
+      "requirements": "<p>7 favour Effect: While this card is recharging, you are imbued with the strength and fortitude of Sigmar! You and all your allies within close range gain 1 Strength and 1 Toughness</p>",
+      "name": "Sigmars Strength",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

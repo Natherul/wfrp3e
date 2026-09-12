@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You primp and preen. Place any 2 dice from the pool onto this card, preserving the rolled face of each. At any time, when you or an enemy within close range makes a check that includes a die of a type you have on this card, you may take the die on this card and place it in the results pool instead of rolling that particular die. Both dice can be spent on the same check, or used on different checks. This card doesn’t recharge until both dice are spent.</p>"
+            "description": "<p>You primp and preen. Place any 2 dice from the pool onto this card, preserving the rolled face of each. At any time, when you or an enemy within close range makes a check that includes a die of a type you have on this card, you may take the die on this card and place it in the results pool instead of rolling that particular die. Both dice can be spent on the same check, or used on different checks. This card doesn\u2019t recharge until both dice are spent.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -33,17 +33,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b"
+      "name": "Favoured Son",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You primp and preen. Place any 2 dice from the pool onto this card, preserving the rolled face of each. At any time, when you make a check that includes a die of a type you have on this card, you may take the die on this card and place it in the results pool instead of rolling that particular die. Both dice can be spent on the same check, or used on different checks. This card doesn’t recharge until both dice are spent.</p>"
+            "description": "<p>You primp and preen. Place any 2 dice from the pool onto this card, preserving the rolled face of each. At any time, when you make a check that includes a die of a type you have on this card, you may take the die on this card and place it in the results pool instead of rolling that particular die. Both dice can be spent on the same check, or used on different checks. This card doesn\u2019t recharge until both dice are spent.</p>"
           },
           {
             "symbolAmount": 3,
@@ -71,10 +79,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c 1b"
-    }
+      "name": "Favoured Son",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

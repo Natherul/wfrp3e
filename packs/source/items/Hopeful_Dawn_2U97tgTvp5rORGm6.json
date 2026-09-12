@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>As dawn breaks, you cry out to Shallya in hope and praise. All characters within long range gain {Dc} on their Resilience check to recover wounds after this past night’s rest.</p>"
+            "description": "<p>As dawn breaks, you cry out to Shallya in hope and praise. All characters within long range gain {Dc} on their Resilience check to recover wounds after this past night\u2019s rest.</p>"
           },
           {
             "symbolAmount": 4,
@@ -28,7 +28,7 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>In addition, those checks gain: Turn a critical wound facedown”</p>"
+            "description": "<p>In addition, those checks gain: Turn a critical wound facedown\u201d</p>"
           },
           {
             "symbolAmount": 1,
@@ -36,18 +36,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2b",
-      "requirements": "<p>You must invoke this blessing at sunrise</p>"
+      "requirements": "<p>You must invoke this blessing at sunrise</p>",
+      "name": "Hopeful Dawn",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>As dawn breaks, you cry out to Shallya in hope and praise. All characters within long range gain {Dm} on their Resilience check to recover wounds after this past night’s rest.</p>"
+            "description": "<p>As dawn breaks, you cry out to Shallya in hope and praise. All characters within long range gain {Dm} on their Resilience check to recover wounds after this past night\u2019s rest.</p>"
           },
           {
             "symbolAmount": 4,
@@ -70,7 +77,7 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>In addition, those checks gain: Turn a critical wound facedown”</p>"
+            "description": "<p>In addition, those checks gain: Turn a critical wound facedown\u201d</p>"
           },
           {
             "symbolAmount": 1,
@@ -78,10 +85,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "2c 2b"
-    }
+      "name": "Hopeful Dawn",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

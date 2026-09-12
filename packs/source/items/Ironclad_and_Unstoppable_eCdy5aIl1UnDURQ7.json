@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Two-handed weapon equipped, engaged with target. If your armour soak value is 3 or greater, add {Dc} to the dice pool. Effect: You use the weight and momentum of your weapon and armour to smash your enemies. While this action is recharging, you may disengage from enemies for free (effectively moving as if you were not engaged with them) and your Melee Attacks deal +1 damage per Zweihander card you have recharging.</p>"
+      "requirements": "<p>Two-handed weapon equipped, engaged with target. If your armour soak value is 3 or greater, add {Dc} to the dice pool. Effect: You use the weight and momentum of your weapon and armour to smash your enemies. While this action is recharging, you may disengage from enemies for free (effectively moving as if you were not engaged with them) and your Melee Attacks deal +1 damage per Zweihander card you have recharging.</p>",
+      "name": "Ironclad and Unstoppable",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Two-handed weapon equipped, engaged with target. Special: If your target’s armour soak value is 3 or greater, add {Dc} to the dice pool. Effect: You use the weight and momentum of your weapon and armour to smash through your enemies. While this action is recharging, you may disengage from enemies for free (effectively moving as if you were not engaged with them) and your Melee Attacks deal +1 damage per Zweihander card you have recharging.</p>"
-    }
+      "requirements": "<p>Two-handed weapon equipped, engaged with target. Special: If your target\u2019s armour soak value is 3 or greater, add {Dc} to the dice pool. Effect: You use the weight and momentum of your weapon and armour to smash through your enemies. While this action is recharging, you may disengage from enemies for free (effectively moving as if you were not engaged with them) and your Melee Attacks deal +1 damage per Zweihander card you have recharging.</p>",
+      "name": "Ironclad and Unstoppable",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

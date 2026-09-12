@@ -31,11 +31,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1f",
-      "requirements": "<p>7 favour Special: This blessing is opposed by the highest Intelligence amongst characters (non-party members) who can see you. Each additional character who can see you and has Observation trained adds {Dc} to the dice pool, unless you have Stealth Mastery. Effect: You are invisible while this blessing recharges. Anyone who tries to target you is</p>"
+      "requirements": "<p>7 favour Special: This blessing is opposed by the highest Intelligence amongst characters (non-party members) who can see you. Each additional character who can see you and has Observation trained adds {Dc} to the dice pool, unless you have Stealth Mastery. Effect: You are invisible while this blessing recharges. Anyone who tries to target you is</p>",
+      "name": "Vanishment",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -64,11 +71,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1f",
-      "requirements": "<p>opposed by the highest Intelligence amongst characters (non-party members) who can see you. Each additional character who can see you and has Observation trained adds {Dc} to the dice pool, unless you have Stealth Mastery. Effect: You are invisible while this blessing recharges. Anyone who tries to target you is</p>"
-    }
+      "requirements": "<p>opposed by the highest Intelligence amongst characters (non-party members) who can see you. Each additional character who can see you and has Observation trained adds {Dc} to the dice pool, unless you have Stealth Mastery. Effect: You are invisible while this blessing recharges. Anyone who tries to target you is</p>",
+      "name": "Vanishment",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

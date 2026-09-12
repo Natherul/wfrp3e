@@ -4,6 +4,7 @@
   "_id": "CZ7UYyRbegLQBwyN",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Bouncing Ball o' Death: If a Squig performs a move manoeuvre during its turn, it receives +2 defence until its next action. AGGRESSION CUNNING</p>"
+    "description": "<p>Bouncing Ball o' Death: If a Squig performs a move manoeuvre during its turn, it receives +2 defence until its next action. AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

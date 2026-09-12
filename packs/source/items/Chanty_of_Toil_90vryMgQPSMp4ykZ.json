@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>3 or more favour, allies in an engagement within medium range effect: You sing a light work of tasks. While this card is recharging, all affected targets gain {Dc} to their dice pools for physical actions</p>"
+      "requirements": "<p>3 or more favour, allies in an engagement within medium range effect: You sing a light work of tasks. While this card is recharging, all affected targets gain {Dc} to their dice pools for physical actions</p>",
+      "name": "Chanty of Toil",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -51,7 +58,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>§ 194 add an admonation {Dm} to physical actions</p>"
+            "description": "<p>\u00a7 194 add an admonation {Dm} to physical actions</p>"
           }
         ],
         "righteousSuccess": [],
@@ -82,11 +89,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>in an engagement within medium range</p>"
-    }
+      "requirements": "<p>in an engagement within medium range</p>",
+      "name": "Chanty of Toil",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

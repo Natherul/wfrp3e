@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, your dice pool</p>"
+      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, your dice pool</p>",
+      "name": "Pestilent Breath",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: A cloud of poisonous green gas spews forth from your open jaws, affecting all creatures (friend and enemy) other than you within close range.</p>"
-    }
+      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: A cloud of poisonous green gas spews forth from your open jaws, affecting all creatures (friend and enemy) other than you within close range.</p>",
+      "name": "Pestilent Breath",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

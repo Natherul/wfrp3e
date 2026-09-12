@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Play when you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic. Effect: When you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic, you may place 6 tokens on this card to immediately gain favour equal to your character rank</p>"
+      "requirements": "<p>Play when you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic. Effect: When you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic, you may place 6 tokens on this card to immediately gain favour equal to your character rank</p>",
+      "name": "Sigmars Benediction",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>Play when you or an ally within close range critically wounds a creature of Chaos or a Heretic. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank</p>"
-    }
+      "requirements": "<p>Play when you or an ally within close range critically wounds a creature of Chaos or a Heretic. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When you or an ally within close range KOs or critically wounds a creature of Chaos or a Heretic, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank</p>",
+      "name": "Sigmars Benediction",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

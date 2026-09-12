@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target than Strength, If you have to your dice pool</p>"
+      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target than Strength, If you have to your dice pool</p>",
+      "name": "Insulting Blow",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -75,11 +82,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target Special: This attack uses Fellowship rather than Strength. If you have Guile trained, add {De} to your dice pool</p>"
-    }
+      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target Special: This attack uses Fellowship rather than Strength. If you have Guile trained, add {De} to your dice pool</p>",
+      "name": "Insulting Blow",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

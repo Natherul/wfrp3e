@@ -28,11 +28,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c 1f 1b",
-      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of your Order spell (you may target character rank). If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>"
+      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of your Order spell (you may target character rank). If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>",
+      "name": "Bridge of Shadows",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1f 1b",
-      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of a Grey Order spell (you may target yourself). Special: You may affect 1 target per character rank. If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>"
-    }
+      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of a Grey Order spell (you may target yourself). Special: You may affect 1 target per character rank. If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>",
+      "name": "Bridge of Shadows",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

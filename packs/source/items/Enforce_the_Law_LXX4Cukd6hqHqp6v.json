@@ -22,11 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "",
-      "requirements": "<p>8 favour, be within jurisdiction. To invoke this blessing, you must have a complete listing of all the laws of the target jurisdiction in written format and must read all of it. Special: The difficulty is dependent on the scope and size of the target jurisdiction: Small hamlet Easy (1Df); Modest village (2Df); Sizable town (3Df); Average town - city (4Df); Whole city - state such as Altdorf (5Df). Effect: Verena casts her eye down and enforces the law. Anyone who breaks any law within the jurisdiction immediately suffers 1 fatigue and 1 stress, regardless of whether they are observed or prosecuted.</p>"
+      "requirements": "<p>8 favour, be within jurisdiction. To invoke this blessing, you must have a complete listing of all the laws of the target jurisdiction in written format and must read all of it. Special: The difficulty is dependent on the scope and size of the target jurisdiction: Small hamlet Easy (1Df); Modest village (2Df); Sizable town (3Df); Average town - city (4Df); Whole city - state such as Altdorf (5Df). Effect: Verena casts her eye down and enforces the law. Anyone who breaks any law within the jurisdiction immediately suffers 1 fatigue and 1 stress, regardless of whether they are observed or prosecuted.</p>",
+      "name": "Enforce the Law",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -37,7 +44,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and you can spot the characteristic flinch of a lawbreaker suffering Verena’s punishment. You know if anyone in your line of sight suffers the penalty of this blessing.</p>"
+            "description": "<p>As above, and you can spot the characteristic flinch of a lawbreaker suffering Verena\u2019s punishment. You know if anyone in your line of sight suffers the penalty of this blessing.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -46,11 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "",
-      "requirements": "<p>8 favour, be within jurisdiction. To invoke this blessing, you must have a complete listing of all the laws of the target jurisdiction in written format and must read all of it. Special: The difficulty is dependent on the scope and size of the target jurisdiction: Small hamlet Easy (1Dr); Modest village (2Dr); Sizable town (3Dr); Average town - city (4Dr); Whole city - state such as Altdorf (5Dr). Effect: Verena casts her eye down and enforces the law. Anyone who breaks any law within the jurisdiction immediately suffers 1 fatigue and 1 stress, regardless of whether they are observed or prosecuted.</p>"
-    }
+      "requirements": "<p>8 favour, be within jurisdiction. To invoke this blessing, you must have a complete listing of all the laws of the target jurisdiction in written format and must read all of it. Special: The difficulty is dependent on the scope and size of the target jurisdiction: Small hamlet Easy (1Dr); Modest village (2Dr); Sizable town (3Dr); Average town - city (4Dr); Whole city - state such as Altdorf (5Dr). Effect: Verena casts her eye down and enforces the law. Anyone who breaks any law within the jurisdiction immediately suffers 1 fatigue and 1 stress, regardless of whether they are observed or prosecuted.</p>",
+      "name": "Enforce the Law",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

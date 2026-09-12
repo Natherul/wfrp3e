@@ -4,6 +4,7 @@
   "_id": "UYGwqZVrAdmHlMsO",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Terror 1 Swift: A Juggernaut may perform 1 free movement manoeuvre on each of its turns. AGGRESSION CUNNING 6 0</p>"
+    "description": "<p>Terror 1 Swift: A Juggernaut may perform 1 free movement manoeuvre on each of its turns. AGGRESSION CUNNING 6 0</p>",
+    "cooldown": false
   }
 }

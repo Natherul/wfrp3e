@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>14 A cloud of razor sharp shards flies your target’s body and mind. You hit the target for 6 + Int damage</p>"
+            "description": "<p>14 A cloud of razor sharp shards flies your target\u2019s body and mind. You hit the target for 6 + Int damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -37,18 +37,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>6 power, target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>"
+      "requirements": "<p>6 power, target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>",
+      "name": "Shards of Slaanesh",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A cloud of razor sharp shards flies your target’s body and mind. You hit the target for 6 + Int damage</p>"
+            "description": "<p>A cloud of razor sharp shards flies your target\u2019s body and mind. You hit the target for 6 + Int damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -85,11 +92,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>Target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>"
-    }
+      "requirements": "<p>Target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>",
+      "name": "Shards of Slaanesh",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "cWhOnn4T4YZBRAyY",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Add M to your dice pool on all actions that target characters aside from yourself. You're no longer convinced that anything besides yourself truly exists.</p>"
+    "description": "<p>Add M to your dice pool on all actions that target characters aside from yourself. You're no longer convinced that anything besides yourself truly exists.</p>",
+    "cooldown": false
   }
 }

@@ -21,17 +21,24 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your prayers cause the living to fall into a slumber and call the dead back into Morr’s realm. While this blessing is recharging, all living and dead targets in the engagement gain the Sluggish condition. This blessing has no effect on creatures that are neither living nor dead (i.e. daemons).</p>"
+            "description": "<p>Your prayers cause the living to fall into a slumber and call the dead back into Morr\u2019s realm. While this blessing is recharging, all living and dead targets in the engagement gain the Sluggish condition. This blessing has no effect on creatures that are neither living nor dead (i.e. daemons).</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>4 favour, +1 favour per character in target engagement within medium range. Must perform the prepare manoeuvre</p>"
+      "requirements": "<p>4 favour, +1 favour per character in target engagement within medium range. Must perform the prepare manoeuvre</p>",
+      "name": "The Sleep of Morr",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -50,7 +57,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>Special: Add +1 to the dice pool for each target in the engagement you wish to be unaffected by this blessing. Effect: Your prayers cause the living to fall into a slumber and call the dead back into Morr’s realm. While this blessing is recharging, all living and dead targets in the engagement gain the Sluggish condition. This blessing has no effect on creatures that are neither living nor dead (i.e. daemons).</p>"
+            "description": "<p>Special: Add +1 to the dice pool for each target in the engagement you wish to be unaffected by this blessing. Effect: Your prayers cause the living to fall into a slumber and call the dead back into Morr\u2019s realm. While this blessing is recharging, all living and dead targets in the engagement gain the Sluggish condition. This blessing has no effect on creatures that are neither living nor dead (i.e. daemons).</p>"
           },
           {
             "symbolAmount": 1,
@@ -60,11 +67,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>4 favour, +1 favour per character in target engagement within medium range. Must perform the prepare manoeuvre</p>"
-    }
+      "requirements": "<p>4 favour, +1 favour per character in target engagement within medium range. Must perform the prepare manoeuvre</p>",
+      "name": "The Sleep of Morr",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

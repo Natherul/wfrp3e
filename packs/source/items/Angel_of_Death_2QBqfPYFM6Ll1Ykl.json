@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>?A’. You summon an angel of death, which appears within medium range of you</p>"
+            "description": "<p>?A\u2019. You summon an angel of death, which appears within medium range of you</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and your allies are immune to the angel of death’s Fear or Terror</p>"
+            "description": "<p>As above, and your allies are immune to the angel of death\u2019s Fear or Terror</p>"
           }
         ],
         "righteousSuccess": [],
@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>8 favour Effect: A grim apparition of Morr, his aspect as the Reaper, appears. The apparition causes Fear 3 (to everyone but you) and may perform a single manoeuvre on your turn</p>"
+      "requirements": "<p>8 favour Effect: A grim apparition of Morr, his aspect as the Reaper, appears. The apparition causes Fear 3 (to everyone but you) and may perform a single manoeuvre on your turn</p>",
+      "name": "Angel of Death",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +78,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3c",
-      "requirements": "<p>8 favour Special If a character becomes unconscious due to stress inflicted by the angel of death, he dies instead Effect: A grim apparition of Morr, in his aspect as the Reaper, appears. The apparition causes Fear 3 (to everyone but you) and may perform a single manoeuvre on your turn</p>"
-    }
+      "requirements": "<p>8 favour Special If a character becomes unconscious due to stress inflicted by the angel of death, he dies instead Effect: A grim apparition of Morr, in his aspect as the Reaper, appears. The apparition causes Fear 3 (to everyone but you) and may perform a single manoeuvre on your turn</p>",
+      "name": "Angel of Death",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "Y8pWqKHKU5PaXvJy",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Whenever your group’s Party Tension increases, you must spend 1 fortune point or the group’s Party Tension increases by 1. You've read between the lines. You know what's going on. Your friends are traitors, out to get you. But you'll show them...</p>"
+    "description": "<p>Whenever your group\u2019s Party Tension increases, you must spend 1 fortune point or the group\u2019s Party Tension increases by 1. You've read between the lines. You know what's going on. Your friends are traitors, out to get you. But you'll show them...</p>",
+    "cooldown": false
   }
 }

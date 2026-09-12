@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Bl 6rth You deliver a blow of Sigai‘. i{nself! You hit the target for +3 damage.</p>"
+            "description": "<p>Bl 6rth You deliver a blow of Sigai\u2018. i{nself! You hit the target for +3 damage.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 favour without needing to Curry Favour, hammer or great hammer equipped</p>"
+      "requirements": "<p>3 favour without needing to Curry Favour, hammer or great hammer equipped</p>",
+      "name": "Sigmars Hammer",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -72,11 +79,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 favour without needing to Curry Favour, hammer or great hammer equipped Special: This action is both a Blessing and a Melee Attack</p>"
-    }
+      "requirements": "<p>3 favour without needing to Curry Favour, hammer or great hammer equipped Special: This action is both a Blessing and a Melee Attack</p>",
+      "name": "Sigmars Hammer",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

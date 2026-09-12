@@ -41,11 +41,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Must be equipped with a smoke bomb or similar device. Special: Add {Dc} to this action for each opponent you attempt to hide from. This check is opposed by the highest Intelligence observing score amongst enemies you</p>"
+      "requirements": "<p>Must be equipped with a smoke bomb or similar device. Special: Add {Dc} to this action for each opponent you attempt to hide from. This check is opposed by the highest Intelligence observing score amongst enemies you</p>",
+      "name": "Run Run",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1c",
-      "requirements": "<p>Used By an enemy unprepared with a smoke bomb. Special: Add {Dr} to this action for each opponent the attacker attempts to hide from</p>"
-    }
+      "requirements": "<p>Used By an enemy unprepared with a smoke bomb. Special: Add {Dr} to this action for each opponent the attacker attempts to hide from</p>",
+      "name": "Run Run",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

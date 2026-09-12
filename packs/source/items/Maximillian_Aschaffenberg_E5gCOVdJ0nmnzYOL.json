@@ -4,6 +4,7 @@
   "_id": "E5gCOVdJ0nmnzYOL",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Condescending: All of Maximillian’s Social actions gain:</p> The target suffers 1 stress {Dm} AGGRESSION CUNNING 2 4"
+    "description": "<p>Condescending: All of Maximillian\u2019s Social actions gain:</p> The target suffers 1 stress {Dm} AGGRESSION CUNNING 2 4",
+    "cooldown": false
   }
 }

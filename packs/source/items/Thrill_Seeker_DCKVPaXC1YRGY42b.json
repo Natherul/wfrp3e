@@ -4,6 +4,7 @@
   "_id": "DCKVPaXC1YRGY42b",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>checks All gain:</p> @8 Recover 1 stress and suffer 1 fatigue. You just can’t get enough... The more dangerous the better! Once you get a taste, you need more and more to keep you sated."
+    "description": "<p>checks All gain:</p> @8 Recover 1 stress and suffer 1 fatigue. You just can\u2019t get enough... The more dangerous the better! Once you get a taste, you need more and more to keep you sated.",
+    "cooldown": false
   }
 }

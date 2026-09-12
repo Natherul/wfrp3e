@@ -20,7 +20,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p># Your target’s soak value is reduced by 3</p>"
+            "description": "<p># Your target\u2019s soak value is reduced by 3</p>"
           }
         ],
         "bane": [
@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon equipped, engaged with the target to your thedc</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with the target to your thedc</p>",
+      "name": "High King Gotreks Justice",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -54,7 +61,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>L Your target’s soak value is reduced by 3</p>"
+            "description": "<p>L Your target\u2019s soak value is reduced by 3</p>"
           }
         ],
         "bane": [
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 9,
-      "difficulty": "2b",
-      "requirements": "<p>Melee weapon equipped, engaged with the target Special: If your target has wronged you or your clan, or is a Greenskin or Elf, gain {Df} to your check</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with the target Special: If your target has wronged you or your clan, or is a Greenskin or Elf, gain {Df} to your check</p>",
+      "name": "High King Gotreks Justice",
+      "rechargeRating": 9,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

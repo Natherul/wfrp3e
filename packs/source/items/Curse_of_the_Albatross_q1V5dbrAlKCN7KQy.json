@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1f",
-      "requirements": "<p>6 favour, target within long range. Target must have broken one of Manann’s many and ever-changing strictures, which certainly includes offending or attacking a priest of Manann</p>"
+      "requirements": "<p>6 favour, target within long range. Target must have broken one of Manann\u2019s many and ever-changing strictures, which certainly includes offending or attacking a priest of Manann</p>",
+      "name": "Curse of the Albatross",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1f",
-      "requirements": "<p>6 favour, target(s) within long range. The target(s) must have broken one of Manann’s many strictures, which certainly includes offending or attacking a priest of Manann. Each target with Discipline trained adds {Dc} to the dice</p>"
-    }
+      "requirements": "<p>6 favour, target(s) within long range. The target(s) must have broken one of Manann\u2019s many strictures, which certainly includes offending or attacking a priest of Manann. Each target with Discipline trained adds {Dc} to the dice</p>",
+      "name": "Curse of the Albatross",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

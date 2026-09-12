@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>"
+      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>",
+      "name": "Flaming Sword of Rhuin",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. Attacks you make with the sword gain +1. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>"
-    }
+      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. Attacks you make with the sword gain +1. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>",
+      "name": "Flaming Sword of Rhuin",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

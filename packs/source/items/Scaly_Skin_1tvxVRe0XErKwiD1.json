@@ -4,6 +4,7 @@
   "_id": "1tvxVRe0XErKwiD1",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>You gain +1 Soak. Add @ to all checks to interact with people who can see your mutation. Your skin flakes, peels, and sloughs off, revealing gleaming-hard scales beneath.</p>"
+    "description": "<p>You gain +1 Soak. Add @ to all checks to interact with people who can see your mutation. Your skin flakes, peels, and sloughs off, revealing gleaming-hard scales beneath.</p>",
+    "severityRating": 1
   }
 }

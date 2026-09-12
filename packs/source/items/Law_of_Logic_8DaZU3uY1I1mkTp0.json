@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dc} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>"
+      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dc} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>",
+      "name": "Law of Logic",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dr} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>"
-    }
+      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dr} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>",
+      "name": "Law of Logic",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

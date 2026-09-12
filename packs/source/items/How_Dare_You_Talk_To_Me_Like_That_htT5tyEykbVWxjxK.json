@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus’s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
+            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus\u2019s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>"
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>",
+      "name": "How Dare You Talk To Me Like That",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -47,7 +54,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus’s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
+            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus\u2019s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "",
-      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>"
-    }
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>",
+      "name": "How Dare You Talk To Me Like That",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

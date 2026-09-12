@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Special: You can only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, allies with whom you are engaged may not be targeted by any hostile effect that could target you instead</p>"
+      "requirements": "<p>Special: You can only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, allies with whom you are engaged may not be targeted by any hostile effect that could target you instead</p>",
+      "name": "Saga of Grungni",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, enemies with whom you are engaged may not take an action on the turn in which they disengage from you</p>"
-    }
+      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, enemies with whom you are engaged may not take an action on the turn in which they disengage from you</p>",
+      "name": "Saga of Grungni",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

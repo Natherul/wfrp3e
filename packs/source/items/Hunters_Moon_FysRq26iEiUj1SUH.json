@@ -27,11 +27,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Requires S power. When you cast this spell, you how the moon (at least 1 moon must be in the sky). The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 11-50 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df}{Df} to checks described below.</p>"
+      "requirements": "<p>Requires S power. When you cast this spell, you how the moon (at least 1 moon must be in the sky). The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 11-50 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df}{Df} to checks described below.</p>",
+      "name": "Hunters Moon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,11 +63,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Special: The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 6-10 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df} to checks as described below.</p>"
-    }
+      "requirements": "<p>Special: The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 6-10 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df} to checks as described below.</p>",
+      "name": "Hunters Moon",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

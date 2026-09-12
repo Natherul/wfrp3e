@@ -4,6 +4,7 @@
   "_id": "T466iRkWXszPOPO2",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>While suffering from a disease, gain +1 Defence for each disease or symptom card you have. Add {Df} to all Fellowship checks. A stinking, bilious miasma of swirling, mite-infested putrescence envelops your body.</p>"
+    "description": "<p>While suffering from a disease, gain +1 Defence for each disease or symptom card you have. Add {Df} to all Fellowship checks. A stinking, bilious miasma of swirling, mite-infested putrescence envelops your body.</p>",
+    "severityRating": 1
   }
 }

@@ -17,7 +17,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>As above, and the target gains 1 § the Supernatural temporary insanity with or Chaos trait</p>"
+            "description": "<p>As above, and the target gains 1 \u00a7 the Supernatural temporary insanity with or Chaos trait</p>"
           }
         ],
         "righteousSuccess": [],
@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>Target within close range Special: If the target is suffering from corruption, add {Dm} to this check</p>"
+      "requirements": "<p>Target within close range Special: If the target is suffering from corruption, add {Dm} to this check</p>",
+      "name": "Unravel Reality",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,7 +63,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>The target suffers stress equal to the target’s stance depth</p>"
+            "description": "<p>The target suffers stress equal to the target\u2019s stance depth</p>"
           },
           {
             "symbolAmount": 3,
@@ -88,11 +95,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1b",
-      "requirements": "<p>Used By: Coloured Fiends, get within close range Special: If the target is suffering from corruption, add {Dm} to this check</p>"
-    }
+      "requirements": "<p>Used By: Coloured Fiends, get within close range Special: If the target is suffering from corruption, add {Dm} to this check</p>",
+      "name": "Unravel Reality",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

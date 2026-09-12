@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Hit by a Melee Attack or Ranged Attack, or a Spell or Blessing that targets your defence, add 2 recharge tokens to this card to damage and effects resulting</p>"
+      "requirements": "<p>Hit by a Melee Attack or Ranged Attack, or a Spell or Blessing that targets your defence, add 2 recharge tokens to this card to damage and effects resulting</p>",
+      "name": "Blessing of the Horned Rat",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "",
-      "requirements": "<p>Target ally within medium range Effect: After you have been successfully hit by a Melee Attack or Ranged Attack, or a Spell or Blessing that targets your defence, add 2 recharge tokens to this card to shunt any damage and effects resulting from the attack onto your target instead Special: If your target survives the attack, you may immediately perform a free manoeuvre</p>"
-    }
+      "requirements": "<p>Target ally within medium range Effect: After you have been successfully hit by a Melee Attack or Ranged Attack, or a Spell or Blessing that targets your defence, add 2 recharge tokens to this card to shunt any damage and effects resulting from the attack onto your target instead Special: If your target survives the attack, you may immediately perform a free manoeuvre</p>",
+      "name": "Blessing of the Horned Rat",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

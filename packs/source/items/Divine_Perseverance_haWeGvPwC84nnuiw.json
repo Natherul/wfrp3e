@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "3b",
-      "requirements": "<p>4 favour. Reduce the difficulty modifier by for each critical wound you are suffering from. Effect: While this card is écing, you and any allies within close range add {Dc} to all Intelligence and Willpower checks</p>"
+      "requirements": "<p>4 favour. Reduce the difficulty modifier by for each critical wound you are suffering from. Effect: While this card is \u00e9cing, you and any allies within close range add {Dc} to all Intelligence and Willpower checks</p>",
+      "name": "Divine Perseverance",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "3b",
-      "requirements": "<p>Ultity modi in your engagement. Effect: While this card is recharging, you and any allies within close range add {Dr} to all Intelligence and Willpower checks</p>"
-    }
+      "requirements": "<p>Ultity modi in your engagement. Effect: While this card is recharging, you and any allies within close range add {Dr} to all Intelligence and Willpower checks</p>",
+      "name": "Divine Perseverance",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

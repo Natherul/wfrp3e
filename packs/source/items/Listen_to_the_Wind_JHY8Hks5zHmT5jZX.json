@@ -42,11 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>Add {Dc} to the dice pool if Engaged with an enemy</p>"
+      "requirements": "<p>Add {Dc} to the dice pool if Engaged with an enemy</p>",
+      "name": "Listen to the Wind",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -94,11 +101,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Add {Dm} to the dice pool if Engaged with an enemy</p>"
-    }
+      "requirements": "<p>Add {Dm} to the dice pool if Engaged with an enemy</p>",
+      "name": "Listen to the Wind",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

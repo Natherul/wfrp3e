@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2b",
-      "requirements": "<p>Bow or Crossbow equipped, an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character’s turn and shoot him as described below. If as you use it is recharging, it recharges completely</p>"
+      "requirements": "<p>Bow or Crossbow equipped, an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character\u2019s turn and shoot him as described below. If as you use it is recharging, it recharges completely</p>",
+      "name": "The Full Draw",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2b",
-      "requirements": "<p>Bow equipped, not engaged with an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character’s turn and shoot him as described below. If you use your bow for anything else while this action is recharging, it recharges completely</p>"
-    }
+      "requirements": "<p>Bow equipped, not engaged with an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character\u2019s turn and shoot him as described below. If you use your bow for anything else while this action is recharging, it recharges completely</p>",
+      "name": "The Full Draw",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

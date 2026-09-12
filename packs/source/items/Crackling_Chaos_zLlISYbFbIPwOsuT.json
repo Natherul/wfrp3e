@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>S power, target within medium range. If you are engaged with an enemy, add 1Dm to your dice pool</p>"
+      "requirements": "<p>S power, target within medium range. If you are engaged with an enemy, add 1Dm to your dice pool</p>",
+      "name": "Crackling Chaos",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -70,11 +77,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "1c",
-      "requirements": "<p>Special: If the target's Willpower is distressed, add 1Dr to your dice pool</p>"
-    }
+      "requirements": "<p>Special: If the target's Willpower is distressed, add 1Dr to your dice pool</p>",
+      "name": "Crackling Chaos",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -16,7 +16,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>You can whisper advice to commanders or warriors participating in the battle. Whenever such a character performs an action, you may remove 1 recharge token from this blessing to add {Df} or {De} to that action’s dice pool</p>"
+            "description": "<p>You can whisper advice to commanders or warriors participating in the battle. Whenever such a character performs an action, you may remove 1 recharge token from this blessing to add {Df} or {De} to that action\u2019s dice pool</p>"
           }
         ],
         "bane": [
@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>6 favour. Targets a battle happening right now within about 100 miles. Specials: If the blessing is successfully invoked, but the target battle is over or has not happened yet, you know this and regain your spent favour. If the battle is over, you know who won. Effect: While this blessing is recharging, you observe the target battle as if you were a keen-eyed eagle flying above it</p>"
+      "requirements": "<p>6 favour. Targets a battle happening right now within about 100 miles. Specials: If the blessing is successfully invoked, but the target battle is over or has not happened yet, you know this and regain your spent favour. If the battle is over, you know who won. Effect: While this blessing is recharging, you observe the target battle as if you were a keen-eyed eagle flying above it</p>",
+      "name": "Clarity of Eagles",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,7 +53,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>& You can whisper advice to commanders or warriors participating in the battle. Whenever such a character performs an action, you may remove 1 recharge token from this blessing to add {Df} or {De} to that action’s dice pool</p>"
+            "description": "<p>& You can whisper advice to commanders or warriors participating in the battle. Whenever such a character performs an action, you may remove 1 recharge token from this blessing to add {Df} or {De} to that action\u2019s dice pool</p>"
           }
         ],
         "bane": [
@@ -58,11 +65,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>6 favour. Targets a battle happening right now within about 100 miles. Special: If the blessing is successfully invoked, but the target battle is over or has not happened yet, you know this and regain all your spent favour. If the battle is over, you know who won. Effect: While this blessing is recharging, you observe the target battle as if you were a keen-eyed eagle flying above it</p>"
-    }
+      "requirements": "<p>6 favour. Targets a battle happening right now within about 100 miles. Special: If the blessing is successfully invoked, but the target battle is over or has not happened yet, you know this and regain all your spent favour. If the battle is over, you know who won. Effect: While this blessing is recharging, you observe the target battle as if you were a keen-eyed eagle flying above it</p>",
+      "name": "Clarity of Eagles",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

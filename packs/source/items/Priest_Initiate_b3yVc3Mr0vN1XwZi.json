@@ -4,6 +4,7 @@
   "_id": "b3yVc3Mr0vN1XwZi",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Priest education: Intuition, and Piety trained</p>"
+    "description": "<p>Priest education: Intuition, and Piety trained</p>",
+    "cooldown": false
   }
 }

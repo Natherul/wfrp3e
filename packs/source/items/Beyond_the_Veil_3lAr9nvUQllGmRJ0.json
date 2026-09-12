@@ -36,18 +36,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c",
-      "requirements": "<p>4 favour. You must perform the prepare manoeuvre before invoking this blessing Morr’s - peace of realm. While blessing is recharging, you and your allies within range may ignore any conditions with a Brief duration currently affecting you.</p>"
+      "requirements": "<p>4 favour. You must perform the prepare manoeuvre before invoking this blessing Morr\u2019s - peace of realm. While blessing is recharging, you and your allies within range may ignore any conditions with a Brief duration currently affecting you.</p>",
+      "name": "Beyond the Veil",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A You reveal a glimpse of Morr’s realm. You cause Terror 1 to the target and all other enemies within close range of him.</p>"
+            "description": "<p>A You reveal a glimpse of Morr\u2019s realm. You cause Terror 1 to the target and all other enemies within close range of him.</p>"
           },
           {
             "symbolAmount": 3,
@@ -75,11 +82,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 9,
-      "difficulty": "2c",
-      "requirements": "<p>4 favour, target within medium range, must perform the prepare manoeuvre before invoking this blessing.</p>"
-    }
+      "requirements": "<p>4 favour, target within medium range, must perform the prepare manoeuvre before invoking this blessing.</p>",
+      "name": "Beyond the Veil",
+      "rechargeRating": 9,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

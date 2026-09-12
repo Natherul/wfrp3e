@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>44 You grab your instrument and smash it hand over your target’s head. Treat it as a weapon. You hit for -1 damage.</p>"
+            "description": "<p>44 You grab your instrument and smash it hand over your target\u2019s head. Treat it as a weapon. You hit for -1 damage.</p>"
           },
           {
             "symbolAmount": 2,
@@ -46,18 +46,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>Engaged with large must possess a musical instrument of sufficient mass (GM discretion) to inflict injury. Special: If you have Coordination trained, you add to the dice pool.</p>"
+      "requirements": "<p>Engaged with large must possess a musical instrument of sufficient mass (GM discretion) to inflict injury. Special: If you have Coordination trained, you add to the dice pool.</p>",
+      "name": "Smash Instrument",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 You grab your instrument and smash it over your target’s head. Treat it as a hand weapon. You hit for +1 damage.</p>"
+            "description": "<p>4 You grab your instrument and smash it over your target\u2019s head. Treat it as a hand weapon. You hit for +1 damage.</p>"
           },
           {
             "symbolAmount": 3,
@@ -94,11 +101,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>Musical instrument of sufficient mass (GM discretion) to inflict injury. Special: If you have Coordination trained, you add to the dice pool.</p>"
-    }
+      "requirements": "<p>Musical instrument of sufficient mass (GM discretion) to inflict injury. Special: If you have Coordination trained, you add to the dice pool.</p>",
+      "name": "Smash Instrument",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

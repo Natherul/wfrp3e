@@ -4,6 +4,7 @@
   "_id": "GMums93jkk6d86VQ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>At the end of any round of combat you are involved in, if you did not attack an ally or enemy within close range, suffer 1 stress Blood for the Blood God! Skulls for the Skulls, was he saying?</p>"
+    "description": "<p>At the end of any round of combat you are involved in, if you did not attack an ally or enemy within close range, suffer 1 stress Blood for the Blood God! Skulls for the Skulls, was he saying?</p>",
+    "cooldown": false
   }
 }

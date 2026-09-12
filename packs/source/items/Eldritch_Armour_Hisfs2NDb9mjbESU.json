@@ -4,6 +4,13 @@
   "_id": "Hisfs2NDb9mjbESU",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>Rating: 1 Soak Value: 3 Encumbrance: 5 The Eldritch armour does not Channelling impose any penalty on Spellcraft checks for High Elves Spellcasters.</p>"
+    "description": "<p>Rating: 1 Soak Value: 3 Encumbrance: 5 The Eldritch armour does not Channelling impose any penalty on Spellcraft checks for High Elves Spellcasters.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

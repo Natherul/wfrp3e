@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Ranged weapon equipped, disengaged from target. If you perform the prepare manoeuvre before taking this action, remove [Dm] from your dice pool</p>"
+      "requirements": "<p>Ranged weapon equipped, disengaged from target. If you perform the prepare manoeuvre before taking this action, remove [Dm] from your dice pool</p>",
+      "name": "Extreme Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -71,11 +78,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>Ranged weapon equipped, disengaged from target. If you perform the prepare manoeuvre before taking this action, exchange one [Dm] for [Dm] in your dice pool. Special: You may attack a target up to one range increment beyond the usual maximum range of your weapon</p>"
-    }
+      "requirements": "<p>Ranged weapon equipped, disengaged from target. If you perform the prepare manoeuvre before taking this action, exchange one [Dm] for [Dm] in your dice pool. Special: You may attack a target up to one range increment beyond the usual maximum range of your weapon</p>",
+      "name": "Extreme Shot",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

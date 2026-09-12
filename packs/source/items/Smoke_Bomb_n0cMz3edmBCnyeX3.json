@@ -4,6 +4,13 @@
   "_id": "n0cMz3edmBCnyeX3",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This small globe breaks when thrown to the floor, flooding the area with thick, black smoke. Encumbrance: 1 All lines of sight into and through the area affected by the smoke bomb are broken for 1 turn. Taking action through the smoke adds {Dc} {Dc} to any checks that rely on the sense of sight. A smoke bomb can be thrown within close range. No check is necessary to throw the smoke bomb, but roll a single {Dc}. On a {Dc}, the throw goes astray and lands somewhere inconvenient, such as at your feet, determined by the GM.</p>"
+    "description": "<p>This small globe breaks when thrown to the floor, flooding the area with thick, black smoke. Encumbrance: 1 All lines of sight into and through the area affected by the smoke bomb are broken for 1 turn. Taking action through the smoke adds {Dc} {Dc} to any checks that rely on the sense of sight. A smoke bomb can be thrown within close range. No check is necessary to throw the smoke bomb, but roll a single {Dc}. On a {Dc}, the throw goes astray and lands somewhere inconvenient, such as at your feet, determined by the GM.</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

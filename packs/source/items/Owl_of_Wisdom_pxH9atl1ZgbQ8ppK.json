@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>A radiant owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl’s wisdom adds {Dc} to Education, Intuition, Folklore, and Observation checks.</p>"
+            "description": "<p>A radiant owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl\u2019s wisdom adds {Dc} to Education, Intuition, Folklore, and Observation checks.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -27,17 +27,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
+      "name": "Owl of Wisdom",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A radiant owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl’s wisdom adds {Dc} to Education, Intuition, Folklore, and Observation checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
+            "description": "<p>A radiant owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl\u2019s wisdom adds {Dc} to Education, Intuition, Folklore, and Observation checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -56,11 +64,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Special: This card recharges at sunrise.</p>"
-    }
+      "requirements": "<p>Special: This card recharges at sunrise.</p>",
+      "name": "Owl of Wisdom",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

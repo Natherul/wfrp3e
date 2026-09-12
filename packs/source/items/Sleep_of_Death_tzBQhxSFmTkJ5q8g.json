@@ -27,11 +27,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "2c 1f",
-      "requirements": "<p>6 favour, must perform the prepare manoeuvre ...and get your body into a safe place! All: The sleep granted by this blessing counts as normal sleep for effects (such as a Morr blessing that is invoked when going to sleep) that reference it. A priest may invoke this blessing and 1 other blessing that keys off of sleep at the same time</p>"
+      "requirements": "<p>6 favour, must perform the prepare manoeuvre ...and get your body into a safe place! All: The sleep granted by this blessing counts as normal sleep for effects (such as a Morr blessing that is invoked when going to sleep) that reference it. A priest may invoke this blessing and 1 other blessing that keys off of sleep at the same time</p>",
+      "name": "Sleep of Death",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -56,11 +63,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 10,
-      "difficulty": "2c 1f",
-      "requirements": "<p>normal sleep for effects (such . counts as Morr blessing that is invoked when going to sleep) that reference it. A priest may invoke this blessing and 1 other blessing that keys off of sleep at the same time</p>"
-    }
+      "requirements": "<p>normal sleep for effects (such . counts as Morr blessing that is invoked when going to sleep) that reference it. A priest may invoke this blessing and 1 other blessing that keys off of sleep at the same time</p>",
+      "name": "Sleep of Death",
+      "rechargeRating": 10,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

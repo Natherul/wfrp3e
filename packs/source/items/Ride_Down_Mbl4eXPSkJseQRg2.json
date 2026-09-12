@@ -24,7 +24,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>§ All enemies in the engagement suffer 1 fatigue</p>"
+            "description": "<p>\u00a7 All enemies in the engagement suffer 1 fatigue</p>"
           }
         ],
         "bane": [
@@ -36,16 +36,23 @@
         "chaosStar": [
           {
             "symbolAmount": 2,
-            "description": "<p>of You fall off your mount in the middle of the target’s engagement</p>"
+            "description": "<p>of You fall off your mount in the middle of the target\u2019s engagement</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy</p>"
+      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy</p>",
+      "name": "Ride Down",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -67,7 +74,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>All enemies in the target’s engagement suffer 1 fatigue</p>"
+            "description": "<p>All enemies in the target\u2019s engagement suffer 1 fatigue</p>"
           }
         ],
         "bane": [
@@ -85,15 +92,24 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>~ You may use your mount’s Strength rather than your own to determine damage for this attack</p>"
+            "description": "<p>~ You may use your mount\u2019s Strength rather than your own to determine damage for this attack</p>"
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy Special: As part of this action, you move through the target’s engagement and end somewhere within close range of that engagement</p>"
-    }
+      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy Special: As part of this action, you move through the target\u2019s engagement and end somewhere within close range of that engagement</p>",
+      "name": "Ride Down",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

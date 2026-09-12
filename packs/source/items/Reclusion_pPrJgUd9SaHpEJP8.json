@@ -4,6 +4,7 @@
   "_id": "pPrJgUd9SaHpEJP8",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>You cannot benefit from the Assist manoeuvre or from fortune dice provided by allies. Performing the Assist manoeuvre to aid another character causes 1 stress. Do it by myself. I don’t need your help. I don't need help.</p>"
+    "description": "<p>You cannot benefit from the Assist manoeuvre or from fortune dice provided by allies. Performing the Assist manoeuvre to aid another character causes 1 stress. Do it by myself. I don\u2019t need your help. I don't need help.</p>",
+    "cooldown": false
   }
 }

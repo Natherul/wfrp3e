@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Any ally within medium range is injured as described below. Effect: Where suffers 2 or more wounds, suffers a critical wound, or acquires an insanity, a disease, or a new symptom, you may place 6 recharge tokens on this card to immediately gain {Dc}.</p>"
+      "requirements": "<p>Any ally within medium range is injured as described below. Effect: Where suffers 2 or more wounds, suffers a critical wound, or acquires an insanity, a disease, or a new symptom, you may place 6 recharge tokens on this card to immediately gain {Dc}.</p>",
+      "name": "Benediction of Shallya",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -33,11 +40,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>An ally within medium range is injured as described below. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When an ally within medium range suffers 2 or more wounds, suffers a critical wound, or acquires an insanity, a disease, or a new symptom, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank.</p>"
-    }
+      "requirements": "<p>An ally within medium range is injured as described below. Special: If you have Piety Mastery, gain 1 additional favour. Effect: When an ally within medium range suffers 2 or more wounds, suffers a critical wound, or acquires an insanity, a disease, or a new symptom, you may place 6 recharge tokens on this card to immediately gain favour equal to your character rank.</p>",
+      "name": "Benediction of Shallya",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "faRimWEESKpC6qBs",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Braggart: When Tomas spends at least 1 Cunning, he gains one additional {Df}. AGGRESSION CUNNING</p>"
+    "description": "<p>Braggart: When Tomas spends at least 1 Cunning, he gains one additional {Df}. AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

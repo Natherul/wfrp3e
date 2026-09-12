@@ -4,6 +4,7 @@
   "_id": "f5y5neOnCYxisrem",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Pit Fighting: Pit Fighter Cultists have 1 rank of Weapon Skill trained. AGGRESSION CUNNING</p>"
+    "description": "<p>Pit Fighting: Pit Fighter Cultists have 1 rank of Weapon Skill trained. AGGRESSION CUNNING</p>",
+    "cooldown": false
   }
 }

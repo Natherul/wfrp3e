@@ -4,6 +4,7 @@
   "_id": "6ayzA0WVVYJIW7Ih",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Whenever you suffer 1 or more stress, suffer 1 additional stress. Mercy! Oh gods, we're all going to die and I'm going to die last! I'm going to have to watch you all die!</p>"
+    "description": "<p>Whenever you suffer 1 or more stress, suffer 1 additional stress. Mercy! Oh gods, we're all going to die and I'm going to die last! I'm going to have to watch you all die!</p>",
+    "cooldown": false
   }
 }

@@ -46,22 +46,29 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>Mounted, lance, sabre or spear equipped, not engaged with an enemy, target within medium range</p>"
+      "requirements": "<p>Mounted, lance, sabre or spear equipped, not engaged with an enemy, target within medium range</p>",
+      "name": "Mounted Charge",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>§ You hit for normal damage + 3</p>"
+            "description": "<p>\u00a7 You hit for normal damage + 3</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit for normal damage, plus your mount’s St score</p>"
+            "description": "<p>You hit for normal damage, plus your mount\u2019s St score</p>"
           }
         ],
         "righteousSuccess": [],
@@ -78,13 +85,13 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>§ your mount loses 1 wind</p>"
+            "description": "<p>\u00a7 your mount loses 1 wind</p>"
           }
         ],
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>You must make a Hard (3{Dc}) Ride (Ag) check or fall off mount. £ your “</p>"
+            "description": "<p>You must make a Hard (3{Dc}) Ride (Ag) check or fall off mount. \u00a3 your \u201c</p>"
           }
         ],
         "sigmarsComet": [
@@ -94,11 +101,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Mounted, lance, sabre or spear equipped, not engaged with an enemy, target within medium range, move you to engaged with the target</p>"
-    }
+      "requirements": "<p>Mounted, lance, sabre or spear equipped, not engaged with an enemy, target within medium range, move you to engaged with the target</p>",
+      "name": "Mounted Charge",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "dyPLknF30x3x7exI",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>Add {Dc} to all checks to interact with people who can see your mutation. A fleshy tentacle erupts from your body. Perhaps it is strong and muscular and replaces your arm, or perhaps it’s a cluster of weak tentacles of no use to anyone.</p>"
+    "description": "<p>Add {Dc} to all checks to interact with people who can see your mutation. A fleshy tentacle erupts from your body. Perhaps it is strong and muscular and replaces your arm, or perhaps it\u2019s a cluster of weak tentacles of no use to anyone.</p>",
+    "severityRating": 1
   }
 }

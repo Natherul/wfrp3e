@@ -32,11 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Melee weapon equipped, engaged with target. Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with target. Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>",
+      "name": "Avenging Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>"
-    }
+      "requirements": "<p>Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>",
+      "name": "Avenging Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

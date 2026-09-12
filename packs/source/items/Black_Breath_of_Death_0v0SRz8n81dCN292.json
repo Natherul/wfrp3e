@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>p;dal- If the target's fatigue is fatigued, the difficulty modifier for this action is ignored</p>"
+      "requirements": "<p>p;dal- If the target's fatigue is fatigued, the difficulty modifier for this action is ignored</p>",
+      "name": "Black Breath of Death",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>1 power, target within medium range Special: If the target's Toughness is fatigued, the difficulty modifier for this action is ignored</p>"
-    }
+      "requirements": "<p>1 power, target within medium range Special: If the target's Toughness is fatigued, the difficulty modifier for this action is ignored</p>",
+      "name": "Black Breath of Death",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

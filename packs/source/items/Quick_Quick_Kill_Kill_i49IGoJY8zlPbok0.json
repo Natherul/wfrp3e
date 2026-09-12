@@ -20,7 +20,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>The attacker may immediately § completed § an manoeuvre after this action is</p>"
+            "description": "<p>The attacker may immediately \u00a7 completed \u00a7 an manoeuvre after this action is</p>"
           }
         ],
         "bane": [
@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>Special: Add W to this attack for opponent engaged with the attacker</p>"
+      "requirements": "<p>Special: Add W to this attack for opponent engaged with the attacker</p>",
+      "name": "Quick Quick Kill Kill",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -76,11 +83,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "2b",
-      "requirements": "<p>Ranged weapon equipped, target within range. Special: Add B to this attack for each opponent engaged with the attacker. If the opponent uses any Active Defences against this attack, add 1 additional recharge token to those actions</p>"
-    }
+      "requirements": "<p>Ranged weapon equipped, target within range. Special: Add B to this attack for each opponent engaged with the attacker. If the opponent uses any Active Defences against this attack, add 1 additional recharge token to those actions</p>",
+      "name": "Quick Quick Kill Kill",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

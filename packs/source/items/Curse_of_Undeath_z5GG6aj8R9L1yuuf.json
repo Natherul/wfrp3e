@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>4 power, living target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+      "requirements": "<p>4 power, living target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>",
+      "name": "Curse of Undeath",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>4 power, living target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool. Effect: Any creature slain by this spell rises again as a zombie under your control in the next round</p>"
-    }
+      "requirements": "<p>4 power, living target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool. Effect: Any creature slain by this spell rises again as a zombie under your control in the next round</p>",
+      "name": "Curse of Undeath",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

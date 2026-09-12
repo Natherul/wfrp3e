@@ -18,17 +18,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "Me First",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Agility 4+, Coordination trained, a character you can see has just declared an action and you have not yet activated in the current round. Special: This card recharges at the next rally step. Effect: You interrupt the character’s action, becoming the active player, and you take your turn. When you have completed your End of Turn Phase, the interrupted character resumes his turn (if possible). Skip the last hero token in the initiative order.</p>"
+            "description": "<p>Agility 4+, Coordination trained, a character you can see has just declared an action and you have not yet activated in the current round. Special: This card recharges at the next rally step. Effect: You interrupt the character\u2019s action, becoming the active player, and you take your turn. When you have completed your End of Turn Phase, the interrupted character resumes his turn (if possible). Skip the last hero token in the initiative order.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -37,10 +45,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "Me First",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

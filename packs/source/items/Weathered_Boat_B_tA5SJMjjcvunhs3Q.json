@@ -4,6 +4,7 @@
   "_id": "tA5SJMjjcvunhs3Q",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Weathered Boat</p>"
+    "description": "<p>Weathered Boat</p>",
+    "cooldown": false
   }
 }

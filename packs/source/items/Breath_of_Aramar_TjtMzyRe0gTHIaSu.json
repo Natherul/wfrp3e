@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Breath of Aramar",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -18,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 Power, within close range of If you are engaged with an enemy, add {Dm} to your dice pool. Opening your mouth, a swarm of dozy gnats flies forth, affecting the target 2. As above, target 2 suffers 1 stress and 1 fatigue. #8 Suffer 1 stress and 1 fatigue. 4 Oh-no! If you close your mouth now, you'll swallow all creatures, including you, in close range, gaining the Blinded condition for 2 rounds.</p>"
-    }
+      "requirements": "<p>3 Power, within close range of If you are engaged with an enemy, add {Dm} to your dice pool. Opening your mouth, a swarm of dozy gnats flies forth, affecting the target 2. As above, target 2 suffers 1 stress and 1 fatigue. #8 Suffer 1 stress and 1 fatigue. 4 Oh-no! If you close your mouth now, you'll swallow all creatures, including you, in close range, gaining the Blinded condition for 2 rounds.</p>",
+      "name": "Breath of Aramar",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

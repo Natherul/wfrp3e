@@ -41,26 +41,33 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>4 favour per severity, engaged with target, must perform a prepare manoeuvre. May only attempt this blessing once per critical wound. Special: The difficulty of this action is equal to the severity of the critical wound.</p>"
+      "requirements": "<p>4 favour per severity, engaged with target, must perform a prepare manoeuvre. May only attempt this blessing once per critical wound. Special: The difficulty of this action is equal to the severity of the critical wound.</p>",
+      "name": "Cure Critical Wound",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Turn 1 of the target’s critical wounds facedown.</p>"
+            "description": "<p>Turn 1 of the target\u2019s critical wounds facedown.</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>Turn 2 of the target’s critical wounds facedown.</p>"
+            "description": "<p>Turn 2 of the target\u2019s critical wounds facedown.</p>"
           },
           {
             "symbolAmount": 5,
-            "description": "<p>Turn 3 of the target’s critical wounds facedown.</p>"
+            "description": "<p>Turn 3 of the target\u2019s critical wounds facedown.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -91,16 +98,25 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Move 1 of the target’s critical wounds to another location.</p>"
+            "description": "<p>Move 1 of the target\u2019s critical wounds to another location.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2b",
-      "requirements": "<p>8 favour, engaged with target, must perform a manoeuvre. Special: The difficulty of this action is equal to the highest severity amongst critical wounds the target is suffering from.</p>"
-    }
+      "requirements": "<p>8 favour, engaged with target, must perform a manoeuvre. Special: The difficulty of this action is equal to the highest severity amongst critical wounds the target is suffering from.</p>",
+      "name": "Cure Critical Wound",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -36,10 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c"
+      "name": "Fires of Faith",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -50,7 +58,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>M Your threatening and intimidating rayers to Sigmar influence the target as if you’d successfully used the Intimidate skill.</p>"
+            "description": "<p>M Your threatening and intimidating rayers to Sigmar influence the target as if you\u2019d successfully used the Intimidate skill.</p>"
           },
           {
             "symbolAmount": 3,
@@ -78,10 +86,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b"
-    }
+      "name": "Fires of Faith",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

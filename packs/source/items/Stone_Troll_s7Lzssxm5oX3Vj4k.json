@@ -4,6 +4,7 @@
   "_id": "s7Lzssxm5oX3Vj4k",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Fear 2, Swift Magic Resistance: Targeted Spell actions gain Regeneration: Recovers one normal wound in End of Turn phase, except during a round in which it was harmed by fire. AGGRESSION CUNNING EXPERTISE</p>"
+    "description": "<p>Fear 2, Swift Magic Resistance: Targeted Spell actions gain Regeneration: Recovers one normal wound in End of Turn phase, except during a round in which it was harmed by fire. AGGRESSION CUNNING EXPERTISE</p>",
+    "cooldown": false
   }
 }

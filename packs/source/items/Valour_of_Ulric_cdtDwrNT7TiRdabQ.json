@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c",
-      "requirements": "<p>You and your pack offer one another strength and comfort. While this action is recharging, you and all allies within close range gain {Dc} to Discipline (WP) checks</p>"
+      "requirements": "<p>You and your pack offer one another strength and comfort. While this action is recharging, you and all allies within close range gain {Dc} to Discipline (WP) checks</p>",
+      "name": "Valour of Ulric",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: You and your pack offer one another strength and comfort. While this action is recharging, you and all allies within close range gain {Dm} to Discipline (WP) checks</p>"
-    }
+      "requirements": "<p>Effect: You and your pack offer one another strength and comfort. While this action is recharging, you and all allies within close range gain {Dm} to Discipline (WP) checks</p>",
+      "name": "Valour of Ulric",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

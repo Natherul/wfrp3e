@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>You may use Fellowship or Agility for this action. Your Guile is opposed by the highest Willpower score amongst targets in range. Effect: You radically change your appearance while this card is recharging, becoming a beautiful maiden, an entrancing light, or some other beautiful and mysterious image appropriate to your size and environment. You cannot affect specific people, animals, or objects, and the change is only an illusion. You do not Fear or Terror while you wear the disguise, but when the visage drops your Fear or Terror rating (if any) increases by 1 for 1 round. You may recharge this action, completely as a manoeuvre, and change your form.</p>"
+      "requirements": "<p>You may use Fellowship or Agility for this action. Your Guile is opposed by the highest Willpower score amongst targets in range. Effect: You radically change your appearance while this card is recharging, becoming a beautiful maiden, an entrancing light, or some other beautiful and mysterious image appropriate to your size and environment. You cannot affect specific people, animals, or objects, and the change is only an illusion. You do not Fear or Terror while you wear the disguise, but when the visage drops your Fear or Terror rating (if any) increases by 1 for 1 round. You may recharge this action, completely as a manoeuvre, and change your form.</p>",
+      "name": "Enchanting Visage",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -33,10 +40,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "name": "Enchanting Visage",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

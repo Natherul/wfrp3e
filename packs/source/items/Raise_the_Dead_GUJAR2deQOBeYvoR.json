@@ -39,11 +39,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Corpses within range. Add to your dice pool if you are engaged with an enemy. You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons.</p>"
+      "requirements": "<p>Corpses within range. Add to your dice pool if you are engaged with an enemy. You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons.</p>",
+      "name": "Raise the Dead",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -77,11 +84,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Corpses within range. Add {Dm} to your dice pool if you are engaged with an enemy. Effect: You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons. For each success and each boon you can raise one undead creature.</p>"
-    }
+      "requirements": "<p>Corpses within range. Add {Dm} to your dice pool if you are engaged with an enemy. Effect: You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons. For each success and each boon you can raise one undead creature.</p>",
+      "name": "Raise the Dead",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

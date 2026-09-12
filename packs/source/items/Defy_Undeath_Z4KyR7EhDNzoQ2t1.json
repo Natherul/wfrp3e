@@ -45,11 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 favour manoeuvre. Effect: A chanted prayer to Morr weakens the undead in the area. While this card is recharging, undead within close range of you suffer 1 to all checks, undead</p>"
+      "requirements": "<p>7 favour manoeuvre. Effect: A chanted prayer to Morr weakens the undead in the area. While this card is recharging, undead within close range of you suffer 1 to all checks, undead</p>",
+      "name": "Defy Undeath",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 favour. You must prepare a manoeuvre before invoking this blessing. Effect: A chanted prayer to Morr weakens the undead. Each time you remove a Recharge token from this card, each undead within close range of you suffers 1 wound (ignoring Toughness and armour)</p>"
-    }
+      "requirements": "<p>7 favour. You must prepare a manoeuvre before invoking this blessing. Effect: A chanted prayer to Morr weakens the undead. Each time you remove a Recharge token from this card, each undead within close range of you suffers 1 wound (ignoring Toughness and armour)</p>",
+      "name": "Defy Undeath",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

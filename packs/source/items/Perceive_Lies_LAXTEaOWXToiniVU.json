@@ -28,11 +28,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>5 favour, target within close range. If you are engaged with an enemy, add 1 to the dice pool. While this blessing is recharging, you will know if the target lies. You will not</p>"
+      "requirements": "<p>5 favour, target within close range. If you are engaged with an enemy, add 1 to the dice pool. While this blessing is recharging, you will know if the target lies. You will not</p>",
+      "name": "Perceive Lies",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -58,11 +65,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Effect: You discern truth from falsehood. While this blessing is recharging, you will know if the target lies. You will not know what the truth is, nor can you detect it if a person unwittingly speaks untrue information. The liar must be consciously attempting to deceive.</p>"
-    }
+      "requirements": "<p>Effect: You discern truth from falsehood. While this blessing is recharging, you will know if the target lies. You will not know what the truth is, nor can you detect it if a person unwittingly speaks untrue information. The liar must be consciously attempting to deceive.</p>",
+      "name": "Perceive Lies",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

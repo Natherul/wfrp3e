@@ -4,6 +4,7 @@
   "_id": "spmcoJYyPfXnDTWZ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Ambush: Initiative. [Dm] against characters who have not acted yet. Unruly: When critically wounded, remove one Aggression, Cunning, and Expertise die from that group’s allotment. AGGRESSION CUNNING EXPERTISE 3 3 1</p>"
+    "description": "<p>Ambush: Initiative. [Dm] against characters who have not acted yet. Unruly: When critically wounded, remove one Aggression, Cunning, and Expertise die from that group\u2019s allotment. AGGRESSION CUNNING EXPERTISE 3 3 1</p>",
+    "cooldown": false
   }
 }

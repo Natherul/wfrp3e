@@ -32,11 +32,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2f 1b",
-      "requirements": "<p>In favour. You and/or the target intone an oath over a symbol of law, authority, or Verena. This requires a prepare manoeuvre. Special: The target may voluntarily agree to take the oath. If so, then do not roll for this action: it is automatically successful.</p>"
+      "requirements": "<p>In favour. You and/or the target intone an oath over a symbol of law, authority, or Verena. This requires a prepare manoeuvre. Special: The target may voluntarily agree to take the oath. If so, then do not roll for this action: it is automatically successful.</p>",
+      "name": "Oath of Truth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2f 2b",
-      "requirements": "<p>In favour. You and/or the target intone an oath over a symbol of law, authority, or Verena. This requires a prepare manoeuvre. Special: The target may voluntarily agree to take the oath. If so, then do not roll for this action: it is automatically successful.</p>"
-    }
+      "requirements": "<p>In favour. You and/or the target intone an oath over a symbol of law, authority, or Verena. This requires a prepare manoeuvre. Special: The target may voluntarily agree to take the oath. If so, then do not roll for this action: it is automatically successful.</p>",
+      "name": "Oath of Truth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

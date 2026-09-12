@@ -23,11 +23,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>You may target any number of characters who you and hear you speak. Plans md ‘Vl\\.}\\td mf 0 either Black (,0\\ on reuhargee at the end of</p>"
+      "requirements": "<p>You may target any number of characters who you and hear you speak. Plans md \u2018Vl\\.}\\td mf 0 either Black (,0\\ on reuhargee at the end of</p>",
+      "name": "Villainous Monologue",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -48,11 +55,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2b",
-      "requirements": "<p>You may target any number of characters who can see you and hear you speak. Special: As part of this action, you deliver a monologue that gloats about your despicable plans and wicked intent. If you are socketed to either the Black Cowl or Mastermind epic threat sheet, remove {Dm} from the check. This action recharges at the end of the encounter</p>"
-    }
+      "requirements": "<p>You may target any number of characters who can see you and hear you speak. Special: As part of this action, you deliver a monologue that gloats about your despicable plans and wicked intent. If you are socketed to either the Black Cowl or Mastermind epic threat sheet, remove {Dm} from the check. This action recharges at the end of the encounter</p>",
+      "name": "Villainous Monologue",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

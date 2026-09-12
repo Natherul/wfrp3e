@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You glow brighter and brighter with light, until it bursts forth from your ¢ outstretched hand or holy symbol as a {Da} crackling flame. The fiery blast strikes</p>"
+            "description": "<p>You glow brighter and brighter with light, until it bursts forth from your \u00a2 outstretched hand or holy symbol as a {Da} crackling flame. The fiery blast strikes</p>"
           },
           {
             "symbolAmount": 3,
@@ -45,11 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Target within medium range. Add {Dc} to the dice pool if you are engaged with an enemy between £ Special: This blessing requires § and 10 favour to resolve; you may choose to resolve it during your turn when it has favour within that range. X is the amount of favour invested in the blessing when it resolves</p>"
+      "requirements": "<p>Target within medium range. Add {Dc} to the dice pool if you are engaged with an enemy between \u00a3 Special: This blessing requires \u00a7 and 10 favour to resolve; you may choose to resolve it during your turn when it has favour within that range. X is the amount of favour invested in the blessing when it resolves</p>",
+      "name": "Sigmars Smite",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -88,11 +95,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Special This blessing requires between 5 and 10 favour to resolve; you may choose to resolve it during your turn when it has favour within that range. X is the amount of favour invested in the blessing when it resolves</p>"
-    }
+      "requirements": "<p>Special This blessing requires between 5 and 10 favour to resolve; you may choose to resolve it during your turn when it has favour within that range. X is the amount of favour invested in the blessing when it resolves</p>",
+      "name": "Sigmars Smite",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

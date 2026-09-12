@@ -40,11 +40,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Whip equipped, not engaged with an enemy, target within close range</p>"
+      "requirements": "<p>Whip equipped, not engaged with an enemy, target within close range</p>",
+      "name": "Whip Strike",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,13 +73,13 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>You catch your opponent completely off-guard. He may not use reactions to this attack and his shield’s soak value is ignored</p>"
+            "description": "<p>You catch your opponent completely off-guard. He may not use reactions to this attack and his shield\u2019s soak value is ignored</p>"
           }
         ],
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>You inflict a wound on an ally within close range (GM’s choice)</p>"
+            "description": "<p>You inflict a wound on an ally within close range (GM\u2019s choice)</p>"
           },
           {
             "symbolAmount": 2,
@@ -82,11 +89,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Whip equipped, not engaged with target within close range</p>"
-    }
+      "requirements": "<p>Whip equipped, not engaged with target within close range</p>",
+      "name": "Whip Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

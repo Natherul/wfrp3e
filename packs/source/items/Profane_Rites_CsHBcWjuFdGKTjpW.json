@@ -42,11 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target, equipped with a shuriken dagger or similar weapon (preferably a sacrificial Special). If at least two other cultists are engaged with the target, reduce difficulty modifier to {Dc} 1.</p>"
+      "requirements": "<p>Engaged with target, equipped with a shuriken dagger or similar weapon (preferably a sacrificial Special). If at least two other cultists are engaged with the target, reduce difficulty modifier to {Dc} 1.</p>",
+      "name": "Profane Rites",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -81,11 +88,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Cult Follower, Cult Leader. Engaged with target. Special: If the attacker is within close range of at least three other cultists, reduce the difficulty modifier to {Dc} 1.</p>"
-    }
+      "requirements": "<p>Used By: Cult Follower, Cult Leader. Engaged with target. Special: If the attacker is within close range of at least three other cultists, reduce the difficulty modifier to {Dc} 1.</p>",
+      "name": "Profane Rites",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

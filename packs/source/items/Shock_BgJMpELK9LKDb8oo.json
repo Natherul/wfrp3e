@@ -4,6 +4,7 @@
   "_id": "BgJMpELK9LKDb8oo",
   "folder": "qs7i88Ln5pifkvJM",
   "system": {
-    "description": "<p>You may not recover stress while in Shock.</p>"
+    "description": "<p>You may not recover stress while in Shock.</p>",
+    "duration": "brief"
   }
 }

@@ -18,10 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": ""
+      "name": "Leaf Fall",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -37,11 +45,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>3 power, must be outdoors or within close range of leafy plants. Effect: A flurry of leaves surrounds you or your ally, hiding you from view. When you or an ally within close range of you are targeted by a Ranged Attack or an Observation (Int) check or other skill to detect you, you may spend 3 power and place 4 recharge tokens on this card to add {Dm} to the dice pool.</p>"
-    }
+      "requirements": "<p>3 power, must be outdoors or within close range of leafy plants. Effect: A flurry of leaves surrounds you or your ally, hiding you from view. When you or an ally within close range of you are targeted by a Ranged Attack or an Observation (Int) check or other skill to detect you, you may spend 3 power and place 4 recharge tokens on this card to add {Dm} to the dice pool.</p>",
+      "name": "Leaf Fall",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

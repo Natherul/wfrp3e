@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 2,
-            "description": "<p>If the check relied on a mental A. Your target may disengage from you. Check L on a mental 88. One opponent within close range of you stress engaged with is not an opponent may k. If the check relied on a physical A. Engage you. Inhe\\he«k.</p>"
+            "description": "<p>If the check relied on a mental A. Your target may disengage from you. Check L on a mental 88. One opponent within close range of you stress engaged with is not an opponent may k. If the check relied on a physical A. Engage you. Inhe\\he\u00abk.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -18,18 +18,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Specific action card weapon, engaged with target. Decform the action as intended. You perform the action incredibly. You hit the target for normal damage. May perform a free manoeuvre. Hit the target for normal damage. You hit the target for +2 damage. If the check relied on a physical A. You hit the target for +2 damage. A4 Perform a for characteristic, recover 1 fatigue. If the M Perform for free.</p>"
+      "requirements": "<p>Specific action card weapon, engaged with target. Decform the action as intended. You perform the action incredibly. You hit the target for normal damage. May perform a free manoeuvre. Hit the target for normal damage. You hit the target for +2 damage. If the check relied on a physical A. You hit the target for +2 damage. A4 Perform a for characteristic, recover 1 fatigue. If the M Perform for free.</p>",
+      "name": "MS PaS RS",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 2,
-            "description": "<p>If the check relied on a mental A. Your target may disengage from you. Check L on a mental 88. One opponent within close range of you stress engaged with is not an opponent may k. If the check relied on a physical A. Engage you. Inhe\\he«k.</p>"
+            "description": "<p>If the check relied on a mental A. Your target may disengage from you. Check L on a mental 88. One opponent within close range of you stress engaged with is not an opponent may k. If the check relied on a physical A. Engage you. Inhe\\he\u00abk.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -38,11 +45,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Specific action card weapon, engaged with target. Decform the action as intended. You perform the action incredibly. You hit the target for normal damage. May perform a free manoeuvre. Hit the target for normal damage. You hit the target for +2 damage. If the check relied on a physical A. You hit the target for +2 damage. A4 Perform a for characteristic, recover 1 fatigue. If the M Perform for free.</p>"
-    }
+      "requirements": "<p>Specific action card weapon, engaged with target. Decform the action as intended. You perform the action incredibly. You hit the target for normal damage. May perform a free manoeuvre. Hit the target for normal damage. You hit the target for +2 damage. If the check relied on a physical A. You hit the target for +2 damage. A4 Perform a for characteristic, recover 1 fatigue. If the M Perform for free.</p>",
+      "name": "MS PaS RS",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

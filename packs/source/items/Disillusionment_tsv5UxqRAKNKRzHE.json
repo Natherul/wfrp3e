@@ -37,11 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 favour</p>"
+      "requirements": "<p>7 favour</p>",
+      "name": "Disillusionment",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>7 favour Special: This action is either opposed by the target’s Guile (Fel), or in case of illusions created by an enemy, has its difficulty set by the GM based on complexity of the illusion. This is usually Hard (3{Dc}). Use the difficulty within medium range to set the baseline.</p>"
-    }
+      "requirements": "<p>7 favour Special: This action is either opposed by the target\u2019s Guile (Fel), or in case of illusions created by an enemy, has its difficulty set by the GM based on complexity of the illusion. This is usually Hard (3{Dc}). Use the difficulty within medium range to set the baseline.</p>",
+      "name": "Disillusionment",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

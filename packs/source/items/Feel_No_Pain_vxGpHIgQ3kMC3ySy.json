@@ -33,18 +33,25 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Must be Intoxicated. Play when you suffer a non-Severe Injury critical wound</p>"
+      "requirements": "<p>Must be Intoxicated. Play when you suffer a non-Severe Injury critical wound</p>",
+      "name": "Feel No Pain",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4{Dc} Fortified by good spirits, you don’t even notice the injury! Ignore the ill effects of the injury until you sober up (use a tracking token to mark it as ignored)</p>"
+            "description": "<p>4{Dc} Fortified by good spirits, you don\u2019t even notice the injury! Ignore the ill effects of the injury until you sober up (use a tracking token to mark it as ignored)</p>"
           },
           {
             "symbolAmount": 1,
@@ -72,11 +79,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>You suffer intoxication \\mLmd Specnal The difficulty of this check is the severity of the critical wound you suffer</p>"
-    }
+      "requirements": "<p>You suffer intoxication \\mLmd Specnal The difficulty of this check is the severity of the critical wound you suffer</p>",
+      "name": "Feel No Pain",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

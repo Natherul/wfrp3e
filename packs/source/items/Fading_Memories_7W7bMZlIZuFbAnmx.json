@@ -4,6 +4,7 @@
   "_id": "7W7bMZlIZuFbAnmx",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Intelligence Addmto checks Mercifully, you find it difficult to remember the precise details of that awful event. Unfortunately, you find it difficult to remember much of anything.</p>"
+    "description": "<p>Intelligence Addmto checks Mercifully, you find it difficult to remember the precise details of that awful event. Unfortunately, you find it difficult to remember much of anything.</p>",
+    "cooldown": false
   }
 }

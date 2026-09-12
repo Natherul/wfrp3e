@@ -4,6 +4,7 @@
   "_id": "fffaLCUFvY6lFccF",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Melee, EaaHq</p>"
+    "description": "<p>Melee, EaaHq</p>",
+    "cooldown": false
   }
 }

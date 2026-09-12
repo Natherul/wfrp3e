@@ -4,6 +4,13 @@
   "_id": "JoH1cZy1D3SOYhkZ",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>will ever or trade such a masterful weapon double-bladed all swords are always best and add +0 to it can be wielded with two hands in which case increase the DR by +1. Chancy lone to two hands wielding costs one : Attacks made with this weapon : Place one fewer recharge token on this weapon</p>"
+    "description": "<p>will ever or trade such a masterful weapon double-bladed all swords are always best and add +0 to it can be wielded with two hands in which case increase the DR by +1. Chancy lone to two hands wielding costs one : Attacks made with this weapon : Place one fewer recharge token on this weapon</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

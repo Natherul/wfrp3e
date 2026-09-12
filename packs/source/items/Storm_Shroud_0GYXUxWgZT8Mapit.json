@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "3b",
-      "requirements": "<p>Used By: Niklas Schulmann 4 power +1 power for each enemy engaged with Schulmann Special: Reduce the difficulty modifier by a number of misfortune M dice equal to the stage the Stromdorf Storm Tracker is on. £ Effect: Winds swirl around Schulmann, protecting him while keeping his enemies at bay</p>"
+      "requirements": "<p>Used By: Niklas Schulmann 4 power +1 power for each enemy engaged with Schulmann Special: Reduce the difficulty modifier by a number of misfortune M dice equal to the stage the Stromdorf Storm Tracker is on. \u00a3 Effect: Winds swirl around Schulmann, protecting him while keeping his enemies at bay</p>",
+      "name": "Storm Shroud",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "3b",
-      "requirements": "<p>4 power, +1 power per rank of expertise. If you are engaged with an enemy, add {Dm} to the dice pool for each misfortune die in the weather (more {Dm} for fierce or stormy weather, from {Dm} for high winds or rain, up to {Dm} for cataclysmic storms). Effect: Winds swirl around you, protecting you while keeping your enemies at bay. While this action is recharging, your Soak and Defence values are increased by your expertise rating (regardless of how many expertise dice you have remaining)</p>"
-    }
+      "requirements": "<p>4 power, +1 power per rank of expertise. If you are engaged with an enemy, add {Dm} to the dice pool for each misfortune die in the weather (more {Dm} for fierce or stormy weather, from {Dm} for high winds or rain, up to {Dm} for cataclysmic storms). Effect: Winds swirl around you, protecting you while keeping your enemies at bay. While this action is recharging, your Soak and Defence values are increased by your expertise rating (regardless of how many expertise dice you have remaining)</p>",
+      "name": "Storm Shroud",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

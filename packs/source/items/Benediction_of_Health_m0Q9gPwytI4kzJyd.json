@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "1c",
-      "requirements": "<p>(FEL) 3 favour per ally to be protected, all targets within medium range other threats to health at bay. While this blessing is recharging, all targets may</p>"
+      "requirements": "<p>(FEL) 3 favour per ally to be protected, all targets within medium range other threats to health at bay. While this blessing is recharging, all targets may</p>",
+      "name": "Benediction of Health",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -80,11 +87,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "3c",
-      "requirements": "<p>3 favour per ally to be protected, all targets within medium range. Effect: Shallya keeps diseases, poisons, and other threats to health at bay. While this blessing is recharging, all targets may add {Dc} to checks to resist disease, corruption, poison, or similar effects</p>"
-    }
+      "requirements": "<p>3 favour per ally to be protected, all targets within medium range. Effect: Shallya keeps diseases, poisons, and other threats to health at bay. While this blessing is recharging, all targets may add {Dc} to checks to resist disease, corruption, poison, or similar effects</p>",
+      "name": "Benediction of Health",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

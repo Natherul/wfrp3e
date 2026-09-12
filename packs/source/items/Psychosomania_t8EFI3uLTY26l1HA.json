@@ -4,6 +4,7 @@
   "_id": "t8EFI3uLTY26l1HA",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>You believe in your & health so fervently it becomes a self-fulfilling prophecy! The severity rating of all your critical wound, disease, and insanity cards is increased by one.</p>No, really, I'm sick! It's only getting worse!</p>"
+    "description": "<p>You believe in your & health so fervently it becomes a self-fulfilling prophecy! The severity rating of all your critical wound, disease, and insanity cards is increased by one.</p>No, really, I'm sick! It's only getting worse!</p>",
+    "cooldown": false
   }
 }

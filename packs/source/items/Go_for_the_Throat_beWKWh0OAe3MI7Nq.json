@@ -41,11 +41,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target Special: If the target is critically wounded, add {Dc} to the dice pool equal to the highest severity rating among the target's critical wounds</p>"
+      "requirements": "<p>Engaged with target Special: If the target is critically wounded, add {Dc} to the dice pool equal to the highest severity rating among the target's critical wounds</p>",
+      "name": "Go for the Throat",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -84,11 +91,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Used By: Flesh Hounds Engaged with target Special: If the target is critically wounded, the flesh hound adds {Dc} to its dice pool equal to the highest severity rating among the target's critical wounds</p>"
-    }
+      "requirements": "<p>Used By: Flesh Hounds Engaged with target Special: If the target is critically wounded, the flesh hound adds {Dc} to its dice pool equal to the highest severity rating among the target's critical wounds</p>",
+      "name": "Go for the Throat",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

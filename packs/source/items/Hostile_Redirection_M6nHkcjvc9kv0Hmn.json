@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>¥</p>"
+            "description": "<p>\u00a5</p>"
           }
         ],
         "righteousSuccess": [],
@@ -50,11 +50,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Agility 4+, you have just been missed by an attack that you have used the Dodge action against. Engaged with target; target cannot be the attacker</p>"
+      "requirements": "<p>Agility 4+, you have just been missed by an attack that you have used the Dodge action against. Engaged with target; target cannot be the attacker</p>",
+      "name": "Hostile Redirection",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -96,7 +103,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>An ally engaged with you (GM’s choice) wounds</p>"
+            "description": "<p>An ally engaged with you (GM\u2019s choice) wounds</p>"
           }
         ],
         "sigmarsComet": [
@@ -106,11 +113,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Agility 4+, you have just been missed by an attack that you have used the Dodge action against. Engaged with target; target cannot be the attacker Special: May not be used if the incoming attack is a Teamwork action. For each ally</p>"
-    }
+      "requirements": "<p>Agility 4+, you have just been missed by an attack that you have used the Dodge action against. Engaged with target; target cannot be the attacker Special: May not be used if the incoming attack is a Teamwork action. For each ally</p>",
+      "name": "Hostile Redirection",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

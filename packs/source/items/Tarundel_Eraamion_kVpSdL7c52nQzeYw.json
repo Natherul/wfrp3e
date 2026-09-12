@@ -4,6 +4,7 @@
   "_id": "kVpSdL7c52nQzeYw",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>High Elf (Saphery) Wl 1 N @ Archmage: Tarundel has mastery in Channelling, Education, Magical Sight and Spellcraft. He has enough power to cast one spell per turn. Can cast spells from High Magic or any Order. Aggression: 4, Cunning: 9</p>"
+    "description": "<p>High Elf (Saphery) Wl 1 N @ Archmage: Tarundel has mastery in Channelling, Education, Magical Sight and Spellcraft. He has enough power to cast one spell per turn. Can cast spells from High Magic or any Order. Aggression: 4, Cunning: 9</p>",
+    "cooldown": false
   }
 }

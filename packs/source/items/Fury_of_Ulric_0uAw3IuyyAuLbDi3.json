@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 2,
-      "difficulty": "2c",
-      "requirements": "<p>3 favour available immediately. Play this blessing when you are struck by a Melee Attack, before damage is applied. Special: If the attack would deal a critical wound, reduce the difficulty modifier by {Dc}</p>"
+      "requirements": "<p>3 favour available immediately. Play this blessing when you are struck by a Melee Attack, before damage is applied. Special: If the attack would deal a critical wound, reduce the difficulty modifier by {Dc}</p>",
+      "name": "Fury of Ulric",
+      "rechargeRating": 2,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -89,11 +96,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2c",
-      "requirements": "<p>3 favour available immediately. Play this blessing when you hit with a Melee Attack, before damage is applied.</p>"
-    }
+      "requirements": "<p>3 favour available immediately. Play this blessing when you hit with a Melee Attack, before damage is applied.</p>",
+      "name": "Fury of Ulric",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

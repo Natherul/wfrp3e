@@ -4,6 +4,7 @@
   "_id": "39vsfUZ2yXGLvErq",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>- HEROIC EXPLORERS PARTY, EPIC, ADVENTURERS, IDEALISTIC PARTY TENSION METER Each party member suffers and must add 2 recharge tokens to one of his action cards. Each party member suffers 2 fatigue, exhausts all talents of this party may spend fortune points from their personal supply on the other members of this party. Each member may only spend one fortune point per REPUTATION TACTIC</p>"
+    "description": "<p>- HEROIC EXPLORERS PARTY, EPIC, ADVENTURERS, IDEALISTIC PARTY TENSION METER Each party member suffers and must add 2 recharge tokens to one of his action cards. Each party member suffers 2 fatigue, exhausts all talents of this party may spend fortune points from their personal supply on the other members of this party. Each member may only spend one fortune point per REPUTATION TACTIC</p>",
+    "cooldown": false
   }
 }

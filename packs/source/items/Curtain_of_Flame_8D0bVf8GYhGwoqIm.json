@@ -31,11 +31,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2c 2b",
-      "requirements": "<p>10 power. If you are engaged with an enemy, add {Dc} dice pool to your Effect: You conjure a curtain of flames and smoke that is roughly ten feet tall and “hangs” in a straight line between any two points as described below. The curtain effectively blocks line of sight and adds at least {Dc} to any checks that target anything on the far side. A creature that passes through the curtain suffers wounds equal to your character rank. The curtain won't set fire to the floor or any walls that it is “anchored” to, but otherwise any combustible materials nearby may ignite.</p>"
+      "requirements": "<p>10 power. If you are engaged with an enemy, add {Dc} dice pool to your Effect: You conjure a curtain of flames and smoke that is roughly ten feet tall and \u201changs\u201d in a straight line between any two points as described below. The curtain effectively blocks line of sight and adds at least {Dc} to any checks that target anything on the far side. A creature that passes through the curtain suffers wounds equal to your character rank. The curtain won't set fire to the floor or any walls that it is \u201canchored\u201d to, but otherwise any combustible materials nearby may ignite.</p>",
+      "name": "Curtain of Flame",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -59,7 +66,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>B blocks line of sight and adds at least {Dm} to any checks that target anything on the far side. Any creature that passes through the curtain suffers wounds equal to your character rank plus your WP score. The curtain won't set fire to the floor or any walls that it is “anchored” to, but otherwise any combustible materials nearby may ignite.</p>"
+            "description": "<p>B blocks line of sight and adds at least {Dm} to any checks that target anything on the far side. Any creature that passes through the curtain suffers wounds equal to your character rank plus your WP score. The curtain won't set fire to the floor or any walls that it is \u201canchored\u201d to, but otherwise any combustible materials nearby may ignite.</p>"
           }
         ],
         "chaosStar": [
@@ -70,11 +77,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 2b",
-      "requirements": "<p>2 power. If you are engaged with an enemy, add {Dm} dice pool to your Effect: You conjure a curtain of flames and smoke that is roughly ten feet tall and “hangs” in a straight line between any two points as described below. The curtain effectively blocks line of sight and adds at least {Dm} to any checks that target anything on the far side. A creature that passes through the curtain suffers wounds equal to your character rank plus your WP score. The curtain won't set fire to the floor or any walls that it is “anchored” to, but otherwise any combustible materials nearby may ignite.</p>"
-    }
+      "requirements": "<p>2 power. If you are engaged with an enemy, add {Dm} dice pool to your Effect: You conjure a curtain of flames and smoke that is roughly ten feet tall and \u201changs\u201d in a straight line between any two points as described below. The curtain effectively blocks line of sight and adds at least {Dm} to any checks that target anything on the far side. A creature that passes through the curtain suffers wounds equal to your character rank plus your WP score. The curtain won't set fire to the floor or any walls that it is \u201canchored\u201d to, but otherwise any combustible materials nearby may ignite.</p>",
+      "name": "Curtain of Flame",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

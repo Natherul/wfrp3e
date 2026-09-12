@@ -33,11 +33,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target, place 2 recharge tokens on one of your Active Defences when you use this action</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with target, place 2 recharge tokens on one of your Active Defences when you use this action</p>",
+      "name": "Reckless Cleave",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -77,11 +84,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target, place 2 recharge tokens on one of your Active Defences when you use this action</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with target, place 2 recharge tokens on one of your Active Defences when you use this action</p>",
+      "name": "Reckless Cleave",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

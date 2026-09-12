@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "4c",
-      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area is attacked, between 1 and [Df] doves (your choice) flutter up to protect him. That creature’s soak value is increased by a like amount, and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>"
+      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area is attacked, between 1 and [Df] doves (your choice) flutter up to protect him. That creature\u2019s soak value is increased by a like amount, and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>",
+      "name": "Cloud of Doves",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -88,11 +95,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "4c",
-      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area performs an attack, between 1 and [Dm] doves (your choice) flutter up to distract him. That creature suffers a like amount of fatigue and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>"
-    }
+      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area performs an attack, between 1 and [Dm] doves (your choice) flutter up to distract him. That creature suffers a like amount of fatigue and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>",
+      "name": "Cloud of Doves",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -4,6 +4,7 @@
   "_id": "vHmzt7WeslcJi5JG",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Plans Within Plans: Once per session, a mastermind may remove one {Dm} from the dice pool of his actions, instead placing it with the face of his choice directly into the results pool. Confounding: All Social actions targeting a Mastermind gain:</p> 8@ Suffer 1 stress"
+    "description": "<p>Plans Within Plans: Once per session, a mastermind may remove one {Dm} from the dice pool of his actions, instead placing it with the face of his choice directly into the results pool. Confounding: All Social actions targeting a Mastermind gain:</p> 8@ Suffer 1 stress",
+    "cooldown": false
   }
 }

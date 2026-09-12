@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S favour effect: A ghostly raven appears above the battlefield, casting its shadow down around you. While this card is recharging all enemies within close range of you have their Toughness and Willpower</p>"
+      "requirements": "<p>S favour effect: A ghostly raven appears above the battlefield, casting its shadow down around you. While this card is recharging all enemies within close range of you have their Toughness and Willpower</p>",
+      "name": "Sign of the Raven",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>S favour effect: A ghostly raven appears above the battlefield, casting its shadow down around you. While this card is recharging, all enemies within close range of you have their Toughness and Willpower characteristics reduced by 1</p>"
-    }
+      "requirements": "<p>S favour effect: A ghostly raven appears above the battlefield, casting its shadow down around you. While this card is recharging, all enemies within close range of you have their Toughness and Willpower characteristics reduced by 1</p>",
+      "name": "Sign of the Raven",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

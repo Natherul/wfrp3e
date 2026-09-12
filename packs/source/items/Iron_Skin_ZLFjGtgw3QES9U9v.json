@@ -4,6 +4,7 @@
   "_id": "ZLFjGtgw3QES9U9v",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>You gain Soak and lose 1 Agility. Add {Dc} to checks to interact with people who can see your skin. Your skin hardens and becomes like unto iron, brass, or bronze.</p>"
+    "description": "<p>You gain Soak and lose 1 Agility. Add {Dc} to checks to interact with people who can see your skin. Your skin hardens and becomes like unto iron, brass, or bronze.</p>",
+    "severityRating": 1
   }
 }

@@ -4,6 +4,13 @@
   "_id": "CoKtAN2JrtBoKT3Z",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This devotional seal to Sigmar is formed from a blob of wax, impressed with a holy sigil, and used to attach a prayer strip to the person to be so marked. This large and impressive seal is not currently affixed to anything, but meant to be carried as a reminder of Sigmar’s teachings and ward off dark powers. Encumbrance: 1 The bearer of this seal may add {Df} to checks to resist corruption or disease. When spending fortune points on such checks, the bearer may add {Df} to the dice pool rather</p>"
+    "description": "<p>This devotional seal to Sigmar is formed from a blob of wax, impressed with a holy sigil, and used to attach a prayer strip to the person to be so marked. This large and impressive seal is not currently affixed to anything, but meant to be carried as a reminder of Sigmar\u2019s teachings and ward off dark powers. Encumbrance: 1 The bearer of this seal may add {Df} to checks to resist corruption or disease. When spending fortune points on such checks, the bearer may add {Df} to the dice pool rather</p>",
+    "cost": {
+      "brass": 0,
+      "silver": 0,
+      "gold": 0
+    },
+    "encumbrance": 0,
+    "rarity": "abundant"
   }
 }

@@ -4,6 +4,7 @@
   "_id": "gtI62jZ8nJppsi5X",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>AGGRESSION CUNNING EXPERTISE 4 2</p>"
+    "description": "<p>AGGRESSION CUNNING EXPERTISE 4 2</p>",
+    "cooldown": false
   }
 }

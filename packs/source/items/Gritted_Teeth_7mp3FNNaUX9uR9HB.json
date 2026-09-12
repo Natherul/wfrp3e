@@ -13,11 +13,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>"
+      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>",
+      "name": "Gritted Teeth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -28,11 +35,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>"
-    }
+      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>",
+      "name": "Gritted Teeth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

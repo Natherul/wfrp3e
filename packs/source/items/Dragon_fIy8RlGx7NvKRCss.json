@@ -4,6 +4,7 @@
   "_id": "fIy8RlGx7NvKRCss",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Flight, Instinctive, Terror 3 Flaming Retribution: Attacks from characters engaged with or within close range of a dragon gain:</p> wound per @ AGGRESSION CUNNING EXPERTISE 8 6 {Dc} Suffer 1 wound, plus 1 additional {Dc} wound"
+    "description": "<p>Flight, Instinctive, Terror 3 Flaming Retribution: Attacks from characters engaged with or within close range of a dragon gain:</p> wound per @ AGGRESSION CUNNING EXPERTISE 8 6 {Dc} Suffer 1 wound, plus 1 additional {Dc} wound",
+    "cooldown": false
   }
 }

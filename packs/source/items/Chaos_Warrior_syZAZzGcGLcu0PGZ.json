@@ -4,6 +4,7 @@
   "_id": "syZAZzGcGLcu0PGZ",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and 1 rank of Parry trained. AGGRESSION CUNNING EXPERTISE 6 2 9</p>"
+    "description": "<p>Masters of Warfare: Chaos Warriors have 1 rank of Weapon Skill and 1 rank of Parry trained. AGGRESSION CUNNING EXPERTISE 6 2 9</p>",
+    "cooldown": false
   }
 }

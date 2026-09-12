@@ -27,11 +27,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 1,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: When you play this action, you may add 2 recharge tokens to any of your Active Defences, either in your hand or currently recharging. X is the total recharge tokens added in this way.</p>"
+      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: When you play this action, you may add 2 recharge tokens to any of your Active Defences, either in your hand or currently recharging. X is the total recharge tokens added in this way.</p>",
+      "name": "Giant Feller Strike",
+      "rechargeRating": 1,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -61,11 +68,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: When you play this action, you may add 2 recharge tokens to any of your Active Defences, either in your hand or currently recharging. X is the total recharge tokens added in this way.</p>"
-    }
+      "requirements": "<p>Melee weapon equipped, engaged with target. You must be outnumbered or facing a physically larger opponent. Add as many {Dc} to the dice pool as the effective armour level you are wearing. Special: When you play this action, you may add 2 recharge tokens to any of your Active Defences, either in your hand or currently recharging. X is the total recharge tokens added in this way.</p>",
+      "name": "Giant Feller Strike",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

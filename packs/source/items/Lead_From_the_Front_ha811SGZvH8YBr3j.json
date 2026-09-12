@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>‘N You hit for normal damage plus damage equal to your Noble Rank</p>"
+            "description": "<p>\u2018N You hit for normal damage plus damage equal to your Noble Rank</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, and you increase your soa ‘value by an amount equal to your Noble</p>"
+            "description": "<p>As above, and you increase your soa \u2018value by an amount equal to your Noble</p>"
           }
         ],
         "righteousSuccess": [],
@@ -41,16 +41,42 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "3b",
-      "requirements": "<p>Engaged with target, reduce the difficulty mndlher by {Dc} for each Noble Rank you have</p>"
+      "requirements": "<p>Engaged with target, reduce the difficulty mndlher by {Dc} for each Noble Rank you have</p>",
+      "name": "Lead From the Front",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
-    }
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Lead From the Front",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

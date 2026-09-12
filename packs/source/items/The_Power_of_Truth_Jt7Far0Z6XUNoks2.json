@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>4‘414‘ As above, and all who hear you speak recover 1 stress</p>"
+            "description": "<p>4\u2018414\u2018 As above, and all who hear you speak recover 1 stress</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c",
-      "requirements": "<p>S power. You must speak a truth unknown to most of your audience in words that owe their truth, 3 hold the self-evident to all who hear them. While this spell is recharging, you gain +1 to all Social actions and Fellowship checks except +F{Df} for Guile checks. This spell is only effective as long as every word you speak is true. If you speak ¥ an untruth while under the effect of this spell, you lose all remaining power and suffer 1 stress as the spell's effect ends (but does not recharge)</p>"
+      "requirements": "<p>S power. You must speak a truth unknown to most of your audience in words that owe their truth, 3 hold the self-evident to all who hear them. While this spell is recharging, you gain +1 to all Social actions and Fellowship checks except +F{Df} for Guile checks. This spell is only effective as long as every word you speak is true. If you speak \u00a5 an untruth while under the effect of this spell, you lose all remaining power and suffer 1 stress as the spell's effect ends (but does not recharge)</p>",
+      "name": "The Power of Truth",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -67,11 +74,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1c",
-      "requirements": "<p>6 power, target within medium range. You must speak a truth unknown to the target. Effect: The light of truth shines down on the target. While this spell is recharging, if the target speaks any word that is not true, tell them that they are lying. You must only speak the truth while this spell is recharging; if you speak an untruth, the spell's effect ends (but does not recharge)</p>"
-    }
+      "requirements": "<p>6 power, target within medium range. You must speak a truth unknown to the target. Effect: The light of truth shines down on the target. While this spell is recharging, if the target speaks any word that is not true, tell them that they are lying. You must only speak the truth while this spell is recharging; if you speak an untruth, the spell's effect ends (but does not recharge)</p>",
+      "name": "The Power of Truth",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

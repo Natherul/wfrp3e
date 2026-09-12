@@ -4,6 +4,7 @@
   "_id": "qWeGSnzIV2X6FiEN",
   "folder": "e5j6kQTmQhtfkpVB",
   "system": {
-    "description": "<p>When you suffer or recover wounds, fatigue, or stress, suffer or recover one additional wound, fatigue, or stress. You feel everything more acutely. Each soft touch is sensational and every scratch is excruciating.</p>"
+    "description": "<p>When you suffer or recover wounds, fatigue, or stress, suffer or recover one additional wound, fatigue, or stress. You feel everything more acutely. Each soft touch is sensational and every scratch is excruciating.</p>",
+    "severityRating": 1
   }
 }

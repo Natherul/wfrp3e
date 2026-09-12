@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Target within close range. Not visibly armed or target does not suspect you of being an enemy. This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>"
+      "requirements": "<p>Target within close range. Not visibly armed or target does not suspect you of being an enemy. This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>",
+      "name": "Sudden Knife",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -74,11 +81,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Target within close range. Not visibly armed or target does not suspect you of being an enemy. Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>"
-    }
+      "requirements": "<p>Target within close range. Not visibly armed or target does not suspect you of being an enemy. Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>",
+      "name": "Sudden Knife",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

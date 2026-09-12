@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose—relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
+            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose\u2014relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
           },
           {
             "symbolAmount": 2,
@@ -41,18 +41,25 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>One-handed melee weapon equipped, one free hand, engaged with target</p>"
+      "requirements": "<p>One-handed melee weapon equipped, one free hand, engaged with target</p>",
+      "name": "Pilfering Strike",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose—relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
+            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose\u2014relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
           },
           {
             "symbolAmount": 3,
@@ -84,11 +91,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c",
-      "requirements": "<p>Special This attack uses Agility instead of Strength for both the attack roll and damage dealt</p>"
-    }
+      "requirements": "<p>Special This attack uses Agility instead of Strength for both the attack roll and damage dealt</p>",
+      "name": "Pilfering Strike",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

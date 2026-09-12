@@ -23,11 +23,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Shield equipped, Toughness 4+, Resilience trained effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>"
+      "requirements": "<p>Shield equipped, Toughness 4+, Resilience trained effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>",
+      "name": "Ward",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -37,21 +44,30 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>add 4 recharge tokens to this card to add {Dm} to the action’s dice pool equal to your ranks of training in Resilience Special: If you have the Block Specialisation, add one additional {Dm} to the action’s dice pool</p>"
+            "description": "<p>add 4 recharge tokens to this card to add {Dm} to the action\u2019s dice pool equal to your ranks of training in Resilience Special: If you have the Block Specialisation, add one additional {Dm} to the action\u2019s dice pool</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>Special: If you have the Block Specialisation, add one additional {Dm} to the action’s dice pool</p>"
+            "description": "<p>Special: If you have the Block Specialisation, add one additional {Dm} to the action\u2019s dice pool</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Shield equipped, Toughness 4+, Resilience trained effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>"
-    }
+      "requirements": "<p>Shield equipped, Toughness 4+, Resilience trained effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>",
+      "name": "Ward",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

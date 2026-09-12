@@ -36,11 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
+      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>",
+      "name": "Summers Heat",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -78,11 +85,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "1b",
-      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
-    }
+      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>",
+      "name": "Summers Heat",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

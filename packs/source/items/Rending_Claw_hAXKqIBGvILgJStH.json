@@ -5,16 +5,33 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Rending Claw",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A spectral beast’s claw rends the target for 2 wounds</p>"
+            "description": "<p>A spectral beast\u2019s claw rends the target for 2 wounds</p>"
           },
           {
             "symbolAmount": 2,
@@ -39,7 +56,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>£ ® You suffer 1 stress and 1 fatigue</p>"
+            "description": "<p>\u00a3 \u00ae You suffer 1 stress and 1 fatigue</p>"
           }
         ],
         "chaosStar": [],
@@ -50,11 +67,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>6 favour, target within close range Special: If you are engaged with the target,</p>"
-    }
+      "requirements": "<p>6 favour, target within close range Special: If you are engaged with the target,</p>",
+      "name": "Rending Claw",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

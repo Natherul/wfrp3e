@@ -62,11 +62,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "1c 1b",
-      "requirements": "<p>SPFLLCR{Dc} (6 power, target within close range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+      "requirements": "<p>SPFLLCR{Dc} (6 power, target within close range. If you are engaged with an enemy, add {Dm} to your dice pool</p>",
+      "name": "Bolt of Aqshy",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -126,11 +133,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>6 power, target within close range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
-    }
+      "requirements": "<p>6 power, target within close range. If you are engaged with an enemy, add {Dm} to your dice pool</p>",
+      "name": "Bolt of Aqshy",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

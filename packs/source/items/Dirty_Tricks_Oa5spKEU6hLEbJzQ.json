@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M to his dice pool as you use a dirty trick — such as pulling his hood over his eyes to — foil his attempt.</p>"
+            "description": "<p>M to his dice pool as you use a dirty trick \u2014 such as pulling his hood over his eyes to \u2014 foil his attempt.</p>"
           },
           {
             "symbolAmount": 1,
@@ -22,11 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>A character with which you are engaged attempts an action. Effect: When a character with which you are engaged attempts an action, you may place 3 recharge tokens on this card to add {Dc} to his dice pool as you use a dirty trick — such as pulling his hood over his eyes to — foil his attempt.</p>"
+      "requirements": "<p>A character with which you are engaged attempts an action. Effect: When a character with which you are engaged attempts an action, you may place 3 recharge tokens on this card to add {Dc} to his dice pool as you use a dirty trick \u2014 such as pulling his hood over his eyes to \u2014 foil his attempt.</p>",
+      "name": "Dirty Tricks",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -46,11 +53,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>A character with which you are engaged attempts an action. Effect: When a character with which you are engaged attempts an action, you may place 3 recharge tokens on this card to add {Dr} to his dice pool as you use a dirty trick - such as pulling his hood over his eyes to foil his attempt.</p>"
-    }
+      "requirements": "<p>A character with which you are engaged attempts an action. Effect: When a character with which you are engaged attempts an action, you may place 3 recharge tokens on this card to add {Dr} to his dice pool as you use a dirty trick - such as pulling his hood over his eyes to foil his attempt.</p>",
+      "name": "Dirty Tricks",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

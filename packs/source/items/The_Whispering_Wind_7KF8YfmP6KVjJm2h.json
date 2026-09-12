@@ -18,11 +18,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "",
-      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>"
+      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>",
+      "name": "The Whispering Wind",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -38,11 +45,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "",
-      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins as Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>"
-    }
+      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins as Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>",
+      "name": "The Whispering Wind",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

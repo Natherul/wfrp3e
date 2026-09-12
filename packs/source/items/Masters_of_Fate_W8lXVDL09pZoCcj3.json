@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The attack inflicts critical damage, and the target’s stance is moved one space toward a neutral stance</p>"
+            "description": "<p>The attack inflicts critical damage, and the target\u2019s stance is moved one space toward a neutral stance</p>"
           },
           {
             "symbolAmount": 2,
@@ -46,22 +46,29 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target, capable of rolling stance dice of both types simultaneously</p>"
+      "requirements": "<p>Engaged with target, capable of rolling stance dice of both types simultaneously</p>",
+      "name": "Masters of Fate",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The attack inflicts critical damage, and the target’s stance is moved one space toward a neutral stance</p>"
+            "description": "<p>The attack inflicts critical damage, and the target\u2019s stance is moved one space toward a neutral stance</p>"
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, then collect all the target’s wounds (including critical wounds), turn them face down, shuffle them, and deal out a new set of critical wounds equal in number to the critical wounds the target was suffering from. Return the remaining wounds to the target as normal wounds</p>"
+            "description": "<p>As above, then collect all the target\u2019s wounds (including critical wounds), turn them face down, shuffle them, and deal out a new set of critical wounds equal in number to the critical wounds the target was suffering from. Return the remaining wounds to the target as normal wounds</p>"
           }
         ],
         "righteousSuccess": [],
@@ -98,11 +105,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target</p>"
-    }
+      "requirements": "<p>Engaged with target</p>",
+      "name": "Masters of Fate",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

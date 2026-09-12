@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>SKILL (ST) vs. TARGET DEFENCE</p>"
+      "requirements": "<p>SKILL (ST) vs. TARGET DEFENCE</p>",
+      "name": "A Bone to Pick",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -81,11 +88,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 7,
-      "difficulty": "1b",
-      "requirements": "<p>Engaged with target at least 1 of you Special: If you are engaged with the target, remove the difficulty modifier from this attack. If you outnumber opponents in the engagement, add {Dc} to the attack</p>"
-    }
+      "requirements": "<p>Engaged with target at least 1 of you Special: If you are engaged with the target, remove the difficulty modifier from this attack. If you outnumber opponents in the engagement, add {Dc} to the attack</p>",
+      "name": "A Bone to Pick",
+      "rechargeRating": 7,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

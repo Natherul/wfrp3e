@@ -33,11 +33,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>2 power, living target within close range. If you are engaged with an enemy add 0 to your dice pool. Effect: You siphon vital essence from the target. For each wound you inflict, you may heal 1 wound or gain 1 power.</p>"
+      "requirements": "<p>2 power, living target within close range. If you are engaged with an enemy add 0 to your dice pool. Effect: You siphon vital essence from the target. For each wound you inflict, you may heal 1 wound or gain 1 power.</p>",
+      "name": "Drain Life",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -72,11 +79,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>2 power, living target within close range. If you are engaged with an enemy add 1 to your dice pool. Effect: You siphon vital essence from the target. For each target you affect, you may heal 2 wounds or gain 2 power.</p>"
-    }
+      "requirements": "<p>2 power, living target within close range. If you are engaged with an enemy add 1 to your dice pool. Effect: You siphon vital essence from the target. For each target you affect, you may heal 2 wounds or gain 2 power.</p>",
+      "name": "Drain Life",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

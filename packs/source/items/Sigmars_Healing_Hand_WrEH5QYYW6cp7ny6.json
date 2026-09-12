@@ -37,11 +37,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c",
-      "requirements": "<p>Engaged with target. Clear and present danger must threaten the target or the priest. This action gains {Df} if the target is a devout Sigmarite.</p>"
+      "requirements": "<p>Engaged with target. Clear and present danger must threaten the target or the priest. This action gains {Df} if the target is a devout Sigmarite.</p>",
+      "name": "Sigmars Healing Hand",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -52,7 +59,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The target is healed of 3 wounds, or one critical wound of severity 3 or less is converted into a normal wound. While this action is recharging, the target’s Soak value is increased by 1.</p>"
+            "description": "<p>The target is healed of 3 wounds, or one critical wound of severity 3 or less is converted into a normal wound. While this action is recharging, the target\u2019s Soak value is increased by 1.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -66,11 +73,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>Used by: Magnus Gottchalk. Engaged with target, currently in a combat scene. Special: This action gains {Df} if the target is a devout Sigmarite.</p>"
-    }
+      "requirements": "<p>Used by: Magnus Gottchalk. Engaged with target, currently in a combat scene. Special: This action gains {Df} if the target is a devout Sigmarite.</p>",
+      "name": "Sigmars Healing Hand",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

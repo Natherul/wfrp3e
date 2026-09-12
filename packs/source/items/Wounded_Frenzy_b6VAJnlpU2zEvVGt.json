@@ -36,18 +36,25 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>WFAPON SKILL (ST) TARGET DFFFNCF Melee weapon equipped, suffering from at least three wounds</p>"
+      "requirements": "<p>WFAPON SKILL (ST) TARGET DFFFNCF Melee weapon equipped, suffering from at least three wounds</p>",
+      "name": "Wounded Frenzy",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>¢ The attack hits for normal damage</p>"
+            "description": "<p>\u00a2 The attack hits for normal damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -79,11 +86,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 6,
-      "difficulty": "1b",
-      "requirements": "<p>== . _& Melee weapon equipped, suffering from at least three wounds</p>"
-    }
+      "requirements": "<p>== . _& Melee weapon equipped, suffering from at least three wounds</p>",
+      "name": "Wounded Frenzy",
+      "rechargeRating": 6,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

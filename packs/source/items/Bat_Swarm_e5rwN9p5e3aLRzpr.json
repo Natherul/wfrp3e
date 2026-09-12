@@ -4,6 +4,7 @@
   "_id": "e5rwN9p5e3aLRzpr",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Implacable Horde, Fear 1, Swift Flight, Night Vision, Swarm Vulnerabilities, Tiny Creatures Overwhelming: Melee Attacks by swarms gain: target must make a Willpower check against Fear 1 AGGRESSION CUNNING 4 2</p>"
+    "description": "<p>Implacable Horde, Fear 1, Swift Flight, Night Vision, Swarm Vulnerabilities, Tiny Creatures Overwhelming: Melee Attacks by swarms gain: target must make a Willpower check against Fear 1 AGGRESSION CUNNING 4 2</p>",
+    "cooldown": false
   }
 }

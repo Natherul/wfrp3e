@@ -45,11 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b",
-      "requirements": "<p>A weapon in each hand, engaged with target. Special action uses Agility rather than Strength. Effect: In a blur of motion you strike your target with a flurry of slashing blades. Each hit inflicts normal damage to your target. Apply the target's Toughness and Soak separately for each successful hit. You may hit your target a maximum number of times equal to your Agility + {Dc}.</p>"
+      "requirements": "<p>A weapon in each hand, engaged with target. Special action uses Agility rather than Strength. Effect: In a blur of motion you strike your target with a flurry of slashing blades. Each hit inflicts normal damage to your target. Apply the target's Toughness and Soak separately for each successful hit. You may hit your target a maximum number of times equal to your Agility + {Dc}.</p>",
+      "name": "Blur of Red Ruin",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -91,11 +98,20 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "2c 1b",
-      "requirements": "<p>Agility 5+, melee weapon in each hand, engaged with target(s). Special: This action uses Agility rather than Strength. Effect: In a blur of motion you strike your target(s) multiple times. Each hit inflicts -2 damage to your target(s). Determine damage and apply the target's Toughness and Soak separately for each successful hit. You may hit your target(s) a maximum number of times equal to your Agility + {Dm}.</p>"
-    }
+      "requirements": "<p>Agility 5+, melee weapon in each hand, engaged with target(s). Special: This action uses Agility rather than Strength. Effect: In a blur of motion you strike your target(s) multiple times. Each hit inflicts -2 damage to your target(s). Determine damage and apply the target's Toughness and Soak separately for each successful hit. You may hit your target(s) a maximum number of times equal to your Agility + {Dm}.</p>",
+      "name": "Blur of Red Ruin",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

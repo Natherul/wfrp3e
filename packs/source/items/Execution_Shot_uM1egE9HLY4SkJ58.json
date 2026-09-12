@@ -28,11 +28,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 8,
-      "difficulty": "",
-      "requirements": "<p>Pistol or handgun equipped, engaged with target</p>"
+      "requirements": "<p>Pistol or handgun equipped, engaged with target</p>",
+      "name": "Execution Shot",
+      "rechargeRating": 8,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -50,7 +57,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>M Your target’s soak value is reduced by 2 until the end of the round</p>"
+            "description": "<p>M Your target\u2019s soak value is reduced by 2 until the end of the round</p>"
           }
         ],
         "bane": [
@@ -62,11 +69,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "1c",
-      "requirements": "<p>Pistol or handgun equipped, engaged with target. You may add {Dc} dice pool. If you do, you may make perform the Melee Strike Basic action immediately after resolving this action</p>"
-    }
+      "requirements": "<p>Pistol or handgun equipped, engaged with target. You may add {Dc} dice pool. If you do, you may make perform the Melee Strike Basic action immediately after resolving this action</p>",
+      "name": "Execution Shot",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

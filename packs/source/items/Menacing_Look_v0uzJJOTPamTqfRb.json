@@ -5,9 +5,26 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {},
-      "recharge": 0,
-      "difficulty": ""
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": [],
+        "challenge": []
+      },
+      "name": "Menacing Look",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": "",
+      "requirements": ""
     },
     "reckless": {
       "effects": {
@@ -37,11 +54,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 4,
-      "difficulty": "",
-      "requirements": "<p>Your companion just sits in one place looking menacingly at your target, making it feel uncomfortable. While this card is recharging, you may spend your 4 companion Obedience to increase the difficulty of social tests your target performs. For each Obedience spent,</p>"
-    }
+      "requirements": "<p>Your companion just sits in one place looking menacingly at your target, making it feel uncomfortable. While this card is recharging, you may spend your 4 companion Obedience to increase the difficulty of social tests your target performs. For each Obedience spent,</p>",
+      "name": "Menacing Look",
+      "rechargeRating": 4,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -41,11 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 5,
-      "difficulty": "2b",
-      "requirements": "<p>Two-handed weapon equipped, engaged with target</p>"
+      "requirements": "<p>Two-handed weapon equipped, engaged with target</p>",
+      "name": "Mighty Swing",
+      "rechargeRating": 5,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -97,11 +104,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 3,
-      "difficulty": "2b",
-      "requirements": "<p>Two-handed weapon equipped, engaged with target Special: Against targets with a soak of 3 or more, this attack gains Pierce</p>"
-    }
+      "requirements": "<p>Two-handed weapon equipped, engaged with target Special: Against targets with a soak of 3 or more, this attack gains Pierce</p>",
+      "name": "Mighty Swing",
+      "rechargeRating": 3,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 You crash into the target, inflicting ¢{Dc} damage</p>"
+            "description": "<p>4 You crash into the target, inflicting \u00a2{Dc} damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Not engaged with an enemy, target within close range</p>"
+      "requirements": "<p>Not engaged with an enemy, target within close range</p>",
+      "name": "Unstoppable Rush",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1b",
-      "requirements": "<p>Not engaged with an enemy, target within medium range. Special: As part of this action, you move to engaged with the target. If the target is closer than close range, add {Df} to your dice.</p>"
-    }
+      "requirements": "<p>Not engaged with an enemy, target within medium range. Special: As part of this action, you move to engaged with the target. If the target is closer than close range, add {Df} to your dice.</p>",
+      "name": "Unstoppable Rush",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

@@ -32,11 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Target within hearing distance, can understand. Special: allies outnumber the target's, add {Dc} to the dice pool. Effect: You honorably challenge your target, demanding he meet you in combat.</p>"
+      "requirements": "<p>Target within hearing distance, can understand. Special: allies outnumber the target's, add {Dc} to the dice pool. Effect: You honorably challenge your target, demanding he meet you in combat.</p>",
+      "name": "Come Face Me",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -66,11 +73,20 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "1c 1b",
-      "requirements": "<p>Target within hearing distance, can understand. Special: If your allies outnumber the target's, add {Dc} to the dice pool. Effect: You taunt and ridicule your target, demanding he meet you in combat.</p>"
-    }
+      "requirements": "<p>Target within hearing distance, can understand. Special: If your allies outnumber the target's, add {Dc} to the dice pool. Effect: You taunt and ridicule your target, demanding he meet you in combat.</p>",
+      "name": "Come Face Me",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }

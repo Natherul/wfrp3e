@@ -18,11 +18,18 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>check</p>"
+      "requirements": "<p>check</p>",
+      "name": "Tricksters Luck",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
     },
     "reckless": {
       "effects": {
@@ -38,11 +45,20 @@
           }
         ],
         "delay": [],
-        "exertion": []
+        "exertion": [],
+        "challenge": []
       },
-      "recharge": 0,
-      "difficulty": "",
-      "requirements": "<p>2 favour. Play when a hero rolls a {Dm} on any check. Special: This card recharges when party fortune refreshes</p>"
-    }
+      "requirements": "<p>2 favour. Play when a hero rolls a {Dm} on any check. Special: This card recharges when party fortune refreshes</p>",
+      "name": "Tricksters Luck",
+      "rechargeRating": 0,
+      "difficultyModifiers": {
+        "challengeDice": 0,
+        "misfortuneDice": 0
+      },
+      "check": "",
+      "traits": ""
+    },
+    "type": "melee",
+    "rechargeTokens": 0
   }
 }
