@@ -41,18 +41,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Plaguebearers Engaged with target</p>",
-      "name": "Leprous Blow",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Plaguebearers Engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -70,7 +63,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>\u00ae 12 damage</p>"
+            "description": "<p>® 12 damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -91,20 +84,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target; must be suffering from a disease or be a servant of Nurgle</p>",
-      "name": "Leprous Blow",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target; must be suffering from a disease or be a servant of Nurgle</p>"
+    }
   }
 }

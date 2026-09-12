@@ -37,18 +37,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Sword and Board",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 2,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -68,7 +60,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>#\u00ae Your opponent may disengage for free</p>"
+            "description": "<p>#® Your opponent may disengage for free</p>"
           }
         ],
         "chaosStar": [
@@ -79,20 +71,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Shield equipped, engaged with target</p>",
-      "name": "Sword and Board",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "",
+      "requirements": "<p>Shield equipped, engaged with target</p>"
+    }
   }
 }

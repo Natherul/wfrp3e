@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>While this card is recharging, shame threshold is affected by !</p>",
-      "name": "Bolster",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>While this card is recharging, shame threshold is affected by !</p>"
     },
     "reckless": {
       "effects": {
@@ -59,7 +52,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>As above, but the target\u2019s shame threshold is increased by 2 instead</p>"
+            "description": "<p>As above, but the target’s shame threshold is increased by 2 instead</p>"
           }
         ],
         "righteousSuccess": [],
@@ -78,20 +71,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: While this card is recharging, target\u2019s shame threshold is increased by 1</p>",
-      "name": "Bolster",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Effect: While this card is recharging, target’s shame threshold is increased by 1</p>"
+    }
   }
 }

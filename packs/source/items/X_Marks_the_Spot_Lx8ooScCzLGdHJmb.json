@@ -49,18 +49,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour. You must have a clear description or image of the object you are trying to find, or an item linked to it in some way on your person</p>",
-      "name": "X Marks the Spot",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>3 favour. You must have a clear description or image of the object you are trying to find, or an item linked to it in some way on your person</p>"
     },
     "reckless": {
       "effects": {
@@ -111,20 +104,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour. You must have a clear description or image of the object you are trying to find, or an item linked to it in some way on your person. Special: If you possess a map of the area in which the item may be found, reduce the</p>",
-      "name": "X Marks the Spot",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c 1b",
+      "requirements": "<p>3 favour. You must have a clear description or image of the object you are trying to find, or an item linked to it in some way on your person. Special: If you possess a map of the area in which the item may be found, reduce the</p>"
+    }
   }
 }

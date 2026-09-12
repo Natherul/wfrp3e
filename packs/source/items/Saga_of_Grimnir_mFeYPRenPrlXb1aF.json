@@ -26,24 +26,17 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Add 1 less recharge token to this card.</p>"
+            "description": "<p>® Add 1 less recharge token to this card.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: You can only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you will gain 1 more wound. Whenever you remove a recharge token from it, inflict 1 fatigue on an enemy engaged with you.</p>",
-      "name": "Saga of Grimnir",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Special: You can only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you will gain 1 more wound. Whenever you remove a recharge token from it, inflict 1 fatigue on an enemy engaged with you.</p>"
     },
     "reckless": {
       "effects": {
@@ -63,26 +56,17 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Add 1 less recharge token to this card.</p>"
+            "description": "<p>® Add 1 less recharge token to this card.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, add 1 recharge token to it each time you suffer 1 wounds. When hit with Melee or more you a Attack, you may remove any number of recharge tokens from this card to increase the damage dealt by that amount.</p>",
-      "name": "Saga of Grimnir",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "2c",
+      "requirements": "<p>of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, add 1 recharge token to it each time you suffer 1 wounds. When hit with Melee or more you a Attack, you may remove any number of recharge tokens from this card to increase the damage dealt by that amount.</p>"
+    }
   }
 }

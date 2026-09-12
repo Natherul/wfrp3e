@@ -37,18 +37,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Jeer n Jab",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 6,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -78,25 +70,15 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Uh oh, now 'e\u2019s angry! Th' target gets +2 damage on his next attack against you i</p>"
+            "description": "<p>Uh oh, now 'e’s angry! Th' target gets +2 damage on his next attack against you i</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Jeer n Jab",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c"
+    }
   }
 }

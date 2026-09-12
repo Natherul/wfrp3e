@@ -37,22 +37,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00a7 With flourish, snatch the target\u2019s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
+            "description": "<p>§ With flourish, snatch the target’s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Agility (your choice)</p>",
-      "name": "Disarm",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Agility (your choice)</p>"
     },
     "reckless": {
       "effects": {
@@ -87,24 +80,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>N With flourish, snatch the target\u2019s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
+            "description": "<p>N With flourish, snatch the target’s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engage with target Special This attack uses either Strength or Agility (your choice)</p>",
-      "name": "Disarm",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon equipped, engage with target Special This attack uses either Strength or Agility (your choice)</p>"
+    }
   }
 }

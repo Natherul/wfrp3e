@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>If you hungrily seek to prey upon the target\u2019s maimed body. The attack inflicts normal damage</p>"
+            "description": "<p>If you hungrily seek to prey upon the target’s maimed body. The attack inflicts normal damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -35,25 +35,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with Target, and willing and able to feast upon its still-living flesh. Special: You may convert one additional characteristic die into</p>",
-      "name": "Seized by Bloodlust",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with Target, and willing and able to feast upon its still-living flesh. Special: You may convert one additional characteristic die into</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>{Dw} The savage crypt ghoul hungrily seeks to prey upon the target\u2019s maimed body. The attack inflicts normal damage</p>"
+            "description": "<p>{Dw} The savage crypt ghoul hungrily seeks to prey upon the target’s maimed body. The attack inflicts normal damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -84,20 +77,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Crypt Ghoul. Engaged with target. Special: The attacker may convert one additional \u20ac characteristic die into 2 @ reckless die for each critical wound the target is suffering from.</p>",
-      "name": "Seized by Bloodlust",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Crypt Ghoul. Engaged with target. Special: The attacker may convert one additional € characteristic die into 2 @ reckless die for each critical wound the target is suffering from.</p>"
+    }
   }
 }

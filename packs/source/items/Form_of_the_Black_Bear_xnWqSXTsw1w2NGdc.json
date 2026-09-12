@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You assume the form of a bear. Place the Black Bear Beastform card on your character sheet. You can only use the physical characteristics and skills shown in bear form when knocked \u00a5 resume you are unconscious or killed, or when the act ends or you voluntarily end the spell as a manoeuvre. In any case, this card will not recharge until the end of the act.</p>"
+            "description": "<p>You assume the form of a bear. Place the Black Bear Beastform card on your character sheet. You can only use the physical characteristics and skills shown in bear form when knocked ¥ resume you are unconscious or killed, or when the act ends or you voluntarily end the spell as a manoeuvre. In any case, this card will not recharge until the end of the act.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -22,7 +22,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Suffer 1 stress and 1 fatigue</p>"
+            "description": "<p>® Suffer 1 stress and 1 fatigue</p>"
           },
           {
             "symbolAmount": 1,
@@ -37,42 +37,15 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Form of the Black Bear",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": "2c"
     },
     "reckless": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Form of the Black Bear",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

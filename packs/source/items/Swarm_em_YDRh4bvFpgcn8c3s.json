@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Snotlings, Goblins Multiple Greenskins must be engaged with the target \u00a7 Special: The greenskin suffering from the fewest wounds makes the attack. Every other goblin in the engagement contributes {Dc} to the check. Every other snotling in the engagement contributes {Dc} to the</p>",
-      "name": "Swarm em",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Snotlings, Goblins Multiple Greenskins must be engaged with the target § Special: The greenskin suffering from the fewest wounds makes the attack. Every other goblin in the engagement contributes {Dc} to the check. Every other snotling in the engagement contributes {Dc} to the</p>"
     },
     "reckless": {
       "effects": {
@@ -92,20 +85,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You and at least one ally must be engaged with the target \u00a7 Special: Every ally in the engagement contributes {Dm} to the check. (Henchmen only contribute {Dm} to the check)</p>",
-      "name": "Swarm em",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>You and at least one ally must be engaged with the target § Special: Every ally in the engagement contributes {Dm} to the check. (Henchmen only contribute {Dm} to the check)</p>"
+    }
   }
 }

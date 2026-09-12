@@ -42,18 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within medium range Special: If within close range or you are at least three other cultists, reduce the difficulty modifier to</p>",
-      "name": "Blasphemous Litany",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Target within medium range Special: If within close range or you are at least three other cultists, reduce the difficulty modifier to</p>"
     },
     "reckless": {
       "effects": {
@@ -93,20 +86,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Cult Leader Target within medium range Special: If the cult leader is within close range of at least three other cultists, reduce the difficulty modifier to</p>",
-      "name": "Blasphemous Litany",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Cult Leader Target within medium range Special: If the cult leader is within close range of at least three other cultists, reduce the difficulty modifier to</p>"
+    }
   }
 }

@@ -44,18 +44,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Burning Gaze",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 8,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -97,20 +89,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Burning Gaze",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

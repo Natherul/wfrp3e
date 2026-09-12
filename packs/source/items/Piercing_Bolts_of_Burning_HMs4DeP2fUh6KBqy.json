@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 Bolts of scintillating flame lance from your outstretched hand or staff, striking your target for 6+Int damage, ignoring the soak value of the target\u2019s armour.</p>"
+            "description": "<p>4 Bolts of scintillating flame lance from your outstretched hand or staff, striking your target for 6+Int damage, ignoring the soak value of the target’s armour.</p>"
           },
           {
             "symbolAmount": 3,
@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool. Special: If KO with this you an enemy spell, you may strike an additional enemy in the same engagement for the same effect. You may do this only once.</p>",
-      "name": "Piercing Bolts of Burning",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1c 1f",
+      "requirements": "<p>8 power. Target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool. Special: If KO with this you an enemy spell, you may strike an additional enemy in the same engagement for the same effect. You may do this only once.</p>"
     },
     "reckless": {
       "effects": {
@@ -70,7 +63,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>Ignore the soak value of the target\u2019s armour.</p>"
+            "description": "<p>Ignore the soak value of the target’s armour.</p>"
           },
           {
             "symbolAmount": 3,
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool. Special: If KO with this you an enemy spell, you may strike an additional enemy in the same engagement for the same effect but -2 damage; you may keep doing this (taking -2 damage each time) until you fail to KO an enemy or there are no enemies remaining in the engagement.</p>",
-      "name": "Piercing Bolts of Burning",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>8 power. Target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool. Special: If KO with this you an enemy spell, you may strike an additional enemy in the same engagement for the same effect but -2 damage; you may keep doing this (taking -2 damage each time) until you fail to KO an enemy or there are no enemies remaining in the engagement.</p>"
+    }
   }
 }

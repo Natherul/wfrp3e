@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target. The target or one of his allies must have rolled a # on a die in your presence previously during this encounter. Special: This attack targets one enemy in the current engagement. If the attack hits, another enemy in the engagement may suffer the effects, as well.</p>",
-      "name": "Rampaging Mutation",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target. The target or one of his allies must have rolled a # on a die in your presence previously during this encounter. Special: This attack targets one enemy in the current engagement. If the attack hits, another enemy in the engagement may suffer the effects, as well.</p>"
     },
     "reckless": {
       "effects": {
@@ -78,20 +71,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used by a Chaos Spawn, Chaos Lord, or Engaged with target, a Chaos enemy must have rolled 3Dc during a previous Melee Attack this encounter. Special: This attack targets one enemy in the current engagement. If the attack hits, two other enemies in the engagement suffer the effects, as well.</p>",
-      "name": "Rampaging Mutation",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": "1c",
+      "requirements": "<p>Used by a Chaos Spawn, Chaos Lord, or Engaged with target, a Chaos enemy must have rolled 3Dc during a previous Melee Attack this encounter. Special: This attack targets one enemy in the current engagement. If the attack hits, two other enemies in the engagement suffer the effects, as well.</p>"
+    }
   }
 }

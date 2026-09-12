@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>must have just received a critical wound due to the target\u2019s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound just inflicted</p>",
-      "name": "One Last Blow",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>must have just received a critical wound due to the target’s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound just inflicted</p>"
     },
     "reckless": {
       "effects": {
@@ -92,20 +85,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target, must have just received a critical wound due to the target\u2019s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound</p>",
-      "name": "One Last Blow",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "3b",
+      "requirements": "<p>Melee weapon equipped, engaged with target, must have just received a critical wound due to the target’s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound</p>"
+    }
   }
 }

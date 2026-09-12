@@ -32,18 +32,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power Effect: Your hands and feet become tacky, adhering to any face you touch. You can climb virtually any surface, no matter how sheer or smooth it is. You may remove up to {Dc} {Dc} from any Athletics check associated with climbing. If the difficulty falls below Easy (0d) you do not need to roll.</p>",
-      "name": "Climb",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>3 power Effect: Your hands and feet become tacky, adhering to any face you touch. You can climb virtually any surface, no matter how sheer or smooth it is. You may remove up to {Dc} {Dc} from any Athletics check associated with climbing. If the difficulty falls below Easy (0d) you do not need to roll.</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power Effect: Your hands and feet become tacky, adhering to any face you touch. You can climb virtually any surface, no matter how sheer or smooth it is. You may remove up to {Dr} {Dr} from any Athletics check associated with climbing. If the difficulty falls below Easy (0d) you do not need to roll.</p>",
-      "name": "Climb",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>3 power Effect: Your hands and feet become tacky, adhering to any face you touch. You can climb virtually any surface, no matter how sheer or smooth it is. You may remove up to {Dr} {Dr} from any Athletics check associated with climbing. If the difficulty falls below Easy (0d) you do not need to roll.</p>"
+    }
   }
 }

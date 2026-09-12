@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped; target within close range</p>",
-      "name": "Mines Bigger",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped; target within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped; target within close range Special: If your weapon\u2019s DR is greater than your opponent\u2019s DR, add {De} to your dice pool</p>",
-      "name": "Mines Bigger",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped; target within close range Special: If your weapon’s DR is greater than your opponent’s DR, add {De} to your dice pool</p>"
+    }
   }
 }

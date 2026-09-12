@@ -38,18 +38,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intuition trained special: If you have Observation trained, add {Dc} to the check</p>",
-      "name": "Feel for the Moment",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Intuition trained special: If you have Observation trained, add {Dc} to the check</p>"
     },
     "reckless": {
       "effects": {
@@ -85,20 +78,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: If you have Observation trained, add {Dr} to the check</p>",
-      "name": "Feel for the Moment",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "4c 1b",
+      "requirements": "<p>Special: If you have Observation trained, add {Dr} to the check</p>"
+    }
   }
 }

@@ -37,42 +37,16 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, you must be significantly shorter than the target. Special: If you successfully hit with this attack, you count as being engaged with the target while this card is recharging, and the target loses his free manoeuvre. Each time you fully recharge this card, you may take an action, or automatically inflict 1 wound on the target. If you perform any manoeuvre, immediately fully recharge this card.</p>",
-      "name": "Knee Biter",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target, you must be significantly shorter than the target. Special: If you successfully hit with this attack, you count as being engaged with the target while this card is recharging, and the target loses his free manoeuvre. Each time you fully recharge this card, you may take an action, or automatically inflict 1 wound on the target. If you perform any manoeuvre, immediately fully recharge this card.</p>"
     },
     "reckless": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Knee Biter",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

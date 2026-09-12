@@ -26,7 +26,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>Add 1 recharge token to your Block card if it is recharging or 2 rech tokens if it is not recharging \u00a2</p>"
+            "description": "<p>Add 1 recharge token to your Block card if it is recharging or 2 rech tokens if it is not recharging ¢</p>"
           }
         ],
         "chaosStar": [],
@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Shield equipped, engaged with target Special: If you have Weapon Skill trained, add {Df} to your dice pool</p>",
-      "name": "Shield Slam",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Shield equipped, engaged with target Special: If you have Weapon Skill trained, add {Df} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -68,7 +61,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Add 1 recharge token to your Block card if it is recharging or 2 tokens if it is not recharging Y</p>"
+            "description": "<p>® Add 1 recharge token to your Block card if it is recharging or 2 tokens if it is not recharging Y</p>"
           }
         ],
         "chaosStar": [],
@@ -79,20 +72,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Shield equipped, engaged with target Special: If you have Weapon Skill trained, add {Df} to your dice pool</p>",
-      "name": "Shield Slam",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Shield equipped, engaged with target Special: If you have Weapon Skill trained, add {Df} to your dice pool</p>"
+    }
   }
 }

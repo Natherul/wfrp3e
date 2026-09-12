@@ -4,7 +4,6 @@
   "_id": "xHsRD5ETPbuLKDSr",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Each party member suffers 1 fatigue and must adjust his stance to neutral. Each party member suffers 1 fatigue, 1 stress, and loses all remaining fortune points. Then tension resets. BELIEF IN A GREATER GOOD: If all three talent slots are socketed with active talents, members of the Righteous Paragons may spend 1 {Df} to ignore one 4 or {Dm} during a skill test. Members of the party must be at least Rank 2 to become Righteous Paragons. TACTIC</p>",
-    "cooldown": false
+    "description": "<p>Each party member suffers 1 fatigue and must adjust his stance to neutral. Each party member suffers 1 fatigue, 1 stress, and loses all remaining fortune points. Then tension resets. BELIEF IN A GREATER GOOD: If all three talent slots are socketed with active talents, members of the Righteous Paragons may spend 1 {Df} to ignore one 4 or {Dm} during a skill test. Members of the party must be at least Rank 2 to become Righteous Paragons. TACTIC</p>"
   }
 }

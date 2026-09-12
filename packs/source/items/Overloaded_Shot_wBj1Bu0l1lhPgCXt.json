@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Black Powder Weapon equipped, not engaged with target</p>",
-      "name": "Overloaded Shot",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Black Powder Weapon equipped, not engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: The Unreliable rating of your weapon is worsened by 1 to a minimum of 1 as you load the weapon with far too much black powder.</p>",
-      "name": "Overloaded Shot",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: The Unreliable rating of your weapon is worsened by 1 to a minimum of 1 as you load the weapon with far too much black powder.</p>"
+    }
   }
 }

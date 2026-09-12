@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 You attempt to bestow Tzeentch\u2019s dark gifts upon the target. The attack inflicts 1 wound and the target suffers 1 corruption</p>"
+            "description": "<p>4 You attempt to bestow Tzeentch’s dark gifts upon the target. The attack inflicts 1 wound and the target suffers 1 corruption</p>"
           },
           {
             "symbolAmount": 4,
-            "description": "<p>The target suffers corruption equal to the target\u2019s depth in his current stance, and you suffer 1 wound</p>"
+            "description": "<p>The target suffers corruption equal to the target’s depth in his current stance, and you suffer 1 wound</p>"
           }
         ],
         "righteousSuccess": [],
@@ -41,29 +41,22 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Not engaged with target, target within close range</p>",
-      "name": "Tzeentchs Favour",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Not engaged with target, target within close range</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 The fiend attempts to bestow Tzeentch\u2019s dark gifts upon the target. The attack inflicts 1 wound, the target suffers 1 corruption, and the attacker suffers 1 wound</p>"
+            "description": "<p>4 The fiend attempts to bestow Tzeentch’s dark gifts upon the target. The attack inflicts 1 wound, the target suffers 1 corruption, and the attacker suffers 1 wound</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The attack inflicts 1 critical wound, the target suffers corruption equal to the target\u2019s stance depth, and the attacker suffers 1 wound</p>"
+            "description": "<p>The attack inflicts 1 critical wound, the target suffers corruption equal to the target’s stance depth, and the attacker suffers 1 wound</p>"
           }
         ],
         "righteousSuccess": [],
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Coloured Fiends, Bobo Not engaged with target, target within close range</p>",
-      "name": "Tzeentchs Favour",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Coloured Fiends, Bobo Not engaged with target, target within close range</p>"
+    }
   }
 }

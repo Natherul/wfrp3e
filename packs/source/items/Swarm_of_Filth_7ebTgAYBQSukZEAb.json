@@ -41,18 +41,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You and at least one filth-encrusted, disease-ridden ally must be engaged with the target. Each ally in the engagement adds {Dc} to the dice pool.</p>",
-      "name": "Swarm of Filth",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>You and at least one filth-encrusted, disease-ridden ally must be engaged with the target. Each ally in the engagement adds {Dc} to the dice pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Nurglings. Nurglings engaged with the target. The Nurgling suffering from the fewest wounds makes the attack. Each additional Nurgling in the engagement adds {Dc} to the dice pool.</p>",
-      "name": "Swarm of Filth",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Nurglings. Nurglings engaged with the target. The Nurgling suffering from the fewest wounds makes the attack. Each additional Nurgling in the engagement adds {Dc} to the dice pool.</p>"
+    }
   }
 }

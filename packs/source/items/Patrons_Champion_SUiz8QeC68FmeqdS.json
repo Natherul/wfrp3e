@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Damage plus d1m Rank equal to your patron\u2019s Noble Rank</p>"
+            "description": "<p>Damage plus d1m Rank equal to your patron’s Noble Rank</p>"
           },
           {
             "symbolAmount": 3,
@@ -45,29 +45,22 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target</p>",
-      "name": "Patrons Champion",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A You hit for normal damage plus damage equal to your patron\u2019s Noble Rank</p>"
+            "description": "<p>A You hit for normal damage plus damage equal to your patron’s Noble Rank</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit for normal damage plus damage equal to twice your patron\u2019s Noble Rank</p>"
+            "description": "<p>You hit for normal damage plus damage equal to twice your patron’s Noble Rank</p>"
           }
         ],
         "righteousSuccess": [],
@@ -100,20 +93,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: As part of the action, you select a patron within long range. This should be someone whose cause is the same as yours - or someone on whose behalf you are pmd to fight</p>",
-      "name": "Patrons Champion",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: As part of the action, you select a patron within long range. This should be someone whose cause is the same as yours - or someone on whose behalf you are pmd to fight</p>"
+    }
   }
 }

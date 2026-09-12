@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target object no larger than you within close range Special: The difficulty of this task is either set by the GM based on the size, craftsmanship, and durability of the item, or the check it opposed by the WP of the creature carrying the object. You reach out with your magic and degrade the form of the target item. It becomes brittle while this spell is recharging and may break. Attempts to break the item gain {Dc}</p>",
-      "name": "Fault of Form",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>4 power, target object no larger than you within close range Special: The difficulty of this task is either set by the GM based on the size, craftsmanship, and durability of the item, or the check it opposed by the WP of the creature carrying the object. You reach out with your magic and degrade the form of the target item. It becomes brittle while this spell is recharging and may break. Attempts to break the item gain {Dc}</p>"
     },
     "reckless": {
       "effects": {
@@ -74,20 +67,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>target object larger than you within close range Special: The difficulty of this task is either set by the GM based on the size, craftsmanship, and durability of the item, or the check opposed by the WP of the creature carrying or wearing the object. Effect: You reach out with your magic and degrade the form of the target item. It becomes brittle while this spell is recharging and may break. Attempts to break the item gain {Dc}</p>",
-      "name": "Fault of Form",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>target object larger than you within close range Special: The difficulty of this task is either set by the GM based on the size, craftsmanship, and durability of the item, or the check opposed by the WP of the creature carrying or wearing the object. Effect: You reach out with your magic and degrade the form of the target item. It becomes brittle while this spell is recharging and may break. Attempts to break the item gain {Dc}</p>"
+    }
   }
 }

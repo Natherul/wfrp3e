@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>INTIMIDATE (STR) Vs. TARGET DISCIPLINE (WP) Target engagement within close range</p>",
-      "name": "Bestial Howl",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>INTIMIDATE (STR) Vs. TARGET DISCIPLINE (WP) Target engagement within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: The beastman targets an engagement within close range. The check is opposed by the highest Willpower among enemies in the engagement. Each opponent in the engagement with Discipline trained adds one {Dm} to the dice pool</p>",
-      "name": "Bestial Howl",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: The beastman targets an engagement within close range. The check is opposed by the highest Willpower among enemies in the engagement. Each opponent in the engagement with Discipline trained adds one {Dm} to the dice pool</p>"
+    }
   }
 }

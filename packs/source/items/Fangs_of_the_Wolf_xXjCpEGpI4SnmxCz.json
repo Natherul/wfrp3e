@@ -36,18 +36,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, target within medium range, Strength 4+</p>",
-      "name": "Fangs of the Wolf",
-      "rechargeRating": 55,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 55,
+      "difficulty": "1f",
+      "requirements": "<p>6 favour, target within medium range, Strength 4+</p>"
     },
     "reckless": {
       "effects": {
@@ -58,7 +51,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>\u00ae As above, but 4 + WP + Str {Dm} damage instead</p>"
+            "description": "<p>® As above, but 4 + WP + Str {Dm} damage instead</p>"
           }
         ],
         "righteousSuccess": [],
@@ -86,20 +79,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, target within medium range, Strength 4+ special: If you have Spectral recharging, this spell gains +1 damage, critical -</p>",
-      "name": "Fangs of the Wolf",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1f",
+      "requirements": "<p>6 favour, target within medium range, Strength 4+ special: If you have Spectral recharging, this spell gains +1 damage, critical -</p>"
+    }
   }
 }

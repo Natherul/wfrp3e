@@ -46,18 +46,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, target within medium range</p>",
-      "name": "Flickering Fire of Tzeentch",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within medium range</p>"
     },
     "reckless": {
       "effects": {
@@ -97,20 +90,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, target within medium range</p>",
-      "name": "Flickering Fire of Tzeentch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within medium range</p>"
+    }
   }
 }

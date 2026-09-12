@@ -27,18 +27,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Requires Ethereal ability. You reach your target with a spectral hand, chilling him to the bone.</p>",
-      "name": "Chill Touch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Requires Ethereal ability. You reach your target with a spectral hand, chilling him to the bone.</p>"
     },
     "reckless": {
       "effects": {
@@ -63,20 +56,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You reach your target with a spectral hand, chilling him to the bone.</p>",
-      "name": "Chill Touch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>You reach your target with a spectral hand, chilling him to the bone.</p>"
+    }
   }
 }

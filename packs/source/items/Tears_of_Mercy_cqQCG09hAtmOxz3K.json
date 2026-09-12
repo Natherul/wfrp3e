@@ -23,7 +23,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p># One of the target\u2019s mutations, diseases, critical wounds, insanities, or injuries is transferred from the target to you (GM\u2019s choice as to which).</p>"
+            "description": "<p># One of the target’s mutations, diseases, critical wounds, insanities, or injuries is transferred from the target to you (GM’s choice as to which).</p>"
           }
         ],
         "sigmarsComet": [
@@ -33,18 +33,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>",
-      "name": "Tears of Mercy",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "3c",
+      "requirements": "<p>Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>"
     },
     "reckless": {
       "effects": {
@@ -65,7 +58,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>% One of the target\u2019s mutations, diseases, critical wounds, insanities, or severe injuries is transferred from the target to you (GM\u2019s choice as to which).</p>"
+            "description": "<p>% One of the target’s mutations, diseases, critical wounds, insanities, or severe injuries is transferred from the target to you (GM’s choice as to which).</p>"
           }
         ],
         "sigmarsComet": [
@@ -75,20 +68,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 favour, engaged with target Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>",
-      "name": "Tears of Mercy",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "4c",
+      "requirements": "<p>10 favour, engaged with target Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>"
+    }
   }
 }

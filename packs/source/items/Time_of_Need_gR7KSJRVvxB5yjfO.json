@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>An ally within close range suffers a critical wound. Special: When an ally within close range suffers a critical wound, you may play this card to move a number of recharge tokens equal to that wound\u2019s severity value from one of your recharging Shallya cards to</p>",
-      "name": "Time of Need",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>An ally within close range suffers a critical wound. Special: When an ally within close range suffers a critical wound, you may play this card to move a number of recharge tokens equal to that wound’s severity value from one of your recharging Shallya cards to</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>An ally within close range suffers a critical wound. Special: When an ally within close range suffers a critical wound, you may play this card to move a number of recharge tokens equal to that wound\u2019s severity value from one of your recharging Shallya cards to this</p>",
-      "name": "Time of Need",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>An ally within close range suffers a critical wound. Special: When an ally within close range suffers a critical wound, you may play this card to move a number of recharge tokens equal to that wound’s severity value from one of your recharging Shallya cards to this</p>"
+    }
   }
 }

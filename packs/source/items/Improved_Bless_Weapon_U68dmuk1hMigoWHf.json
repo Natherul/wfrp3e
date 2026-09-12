@@ -24,25 +24,18 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>While this blessing is recharging, the weapon\u2019s wielder may make a single Assist for free on each of his turns</p>"
+            "description": "<p>While this blessing is recharging, the weapon’s wielder may make a single Assist for free on each of his turns</p>"
           }
         ],
         "bane": [],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, WP 4+, Weapon Skill trained, and engaged with target weapon. Special: This blessing counts as Bless Weapon in all respects and replaces that card in your action deck. Effect: Myrmidia blesses your weapon. While this blessing is recharging, the weapon is considered an enchanted and blessed item of superior quality and adds {Dc} to the dice pool. It gains the Pierce 2 and Vicious qualities. Attacks with the affected weapon</p>",
-      "name": "Improved Bless Weapon",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 favour, WP 4+, Weapon Skill trained, and engaged with target weapon. Special: This blessing counts as Bless Weapon in all respects and replaces that card in your action deck. Effect: Myrmidia blesses your weapon. While this blessing is recharging, the weapon is considered an enchanted and blessed item of superior quality and adds {Dc} to the dice pool. It gains the Pierce 2 and Vicious qualities. Attacks with the affected weapon</p>"
     },
     "reckless": {
       "effects": {
@@ -71,20 +64,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, WP 4+, Weapon Skill trained, and engaged with target weapon. Special: This blessing counts as Bless Weapon in all respects and replaces that card in your action deck. Effect: Myrmidia blesses your weapon. While this blessing is recharging, the weapon is considered an enchanted and blessed item of superior quality and adds {Dc} to the dice pool. It gains the Pierce 2 and Vicious qualities. Attacks with the affected weapon</p>",
-      "name": "Improved Bless Weapon",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "3c",
+      "requirements": "<p>6 favour, WP 4+, Weapon Skill trained, and engaged with target weapon. Special: This blessing counts as Bless Weapon in all respects and replaces that card in your action deck. Effect: Myrmidia blesses your weapon. While this blessing is recharging, the weapon is considered an enchanted and blessed item of superior quality and adds {Dc} to the dice pool. It gains the Pierce 2 and Vicious qualities. Attacks with the affected weapon</p>"
+    }
   }
 }

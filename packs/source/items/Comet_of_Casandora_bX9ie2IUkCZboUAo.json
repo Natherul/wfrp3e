@@ -42,18 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 power You call down a mighty comet from the heavens, designating a point within long range of you. When this spell recharges completely, the comet crashes down at that point as described below</p>",
-      "name": "Comet of Casandora",
-      "rechargeRating": 10,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 10,
+      "difficulty": "3c 2f",
+      "requirements": "<p>10 power You call down a mighty comet from the heavens, designating a point within long range of you. When this spell recharges completely, the comet crashes down at that point as described below</p>"
     },
     "reckless": {
       "effects": {
@@ -93,20 +86,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power Effect: You call down a mighty comet from the heavens, designating a point within range of you. When this spell recharges completely, the comet crashes down at that point as described below</p>",
-      "name": "Comet of Casandora",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c 2f",
+      "requirements": "<p>8 power Effect: You call down a mighty comet from the heavens, designating a point within range of you. When this spell recharges completely, the comet crashes down at that point as described below</p>"
+    }
   }
 }

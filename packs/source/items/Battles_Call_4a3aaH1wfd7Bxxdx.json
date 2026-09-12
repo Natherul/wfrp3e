@@ -32,18 +32,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Battles Call",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 3,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -69,20 +61,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour - Effect: While this card is recharging, you may add {Dm} to your dice pool on each Melee Attack that you make</p>",
-      "name": "Battles Call",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 favour - Effect: While this card is recharging, you may add {Dm} to your dice pool on each Melee Attack that you make</p>"
+    }
   }
 }

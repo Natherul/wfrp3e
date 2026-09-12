@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>For favour, a free hand. Effect: While this card is recharging, your B hand is surrounded with a nimbus of deadly power. Treat it as a hand weapon with DR 6, CR Pierce 2. Whenever you land a blow with your hand, remove a recharge token from this card.</p>",
-      "name": "Morrs Touch",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>For favour, a free hand. Effect: While this card is recharging, your B hand is surrounded with a nimbus of deadly power. Treat it as a hand weapon with DR 6, CR Pierce 2. Whenever you land a blow with your hand, remove a recharge token from this card.</p>"
     },
     "reckless": {
       "effects": {
@@ -66,24 +59,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You may immediately make a \u201cMelee Strike\u201d action when this blessing resolves.</p>"
+            "description": "<p>You may immediately make a “Melee Strike” action when this blessing resolves.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>For favour, a free hand. Effect: While this card is recharging, your hand is surrounded with a nimbus of deadly power. Treat it as a hand weapon with DR 7, CR 2, and Pierce 2. Whenever you land a blow with your hand, remove a recharge token from this card.</p>",
-      "name": "Morrs Touch",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>For favour, a free hand. Effect: While this card is recharging, your hand is surrounded with a nimbus of deadly power. Treat it as a hand weapon with DR 7, CR 2, and Pierce 2. Whenever you land a blow with your hand, remove a recharge token from this card.</p>"
+    }
   }
 }

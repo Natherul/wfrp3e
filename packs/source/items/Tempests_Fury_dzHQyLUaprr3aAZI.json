@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Before making this check, you may remove up to 3 recharge tokens from your \u00a5 Ritual Dance cards. Reduce the modifier by M for each recharge token removed in this fashion</p>",
-      "name": "Tempests Fury",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3b",
+      "requirements": "<p>Before making this check, you may remove up to 3 recharge tokens from your ¥ Ritual Dance cards. Reduce the modifier by M for each recharge token removed in this fashion</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Before making this check, you may remove up to 3 recharge tokens from your Ritual Dance cards. Reduce the difficulty modifier by M for each recharge token removed in this fashion</p>",
-      "name": "Tempests Fury",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3b",
+      "requirements": "<p>Special: Before making this check, you may remove up to 3 recharge tokens from your Ritual Dance cards. Reduce the difficulty modifier by M for each recharge token removed in this fashion</p>"
+    }
   }
 }

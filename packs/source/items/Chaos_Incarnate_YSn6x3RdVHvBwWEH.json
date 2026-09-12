@@ -36,18 +36,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Daemons</p>",
-      "name": "Chaos Incarnate",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Daemons</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Chaos Incarnate",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 7,
+      "difficulty": "1c"
+    }
   }
 }

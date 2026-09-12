@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Play when you die. Target within medium range (you may not target yourself). When you die, you may use this action. As you die, you whisper a final prayer to Shallya with your dying breath. The target within medium range (you may not target yourself) is completely healed: he recovers all normal and critical wounds, all fatigue, and all stress.</p>",
-      "name": "Dying Breath",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Play when you die. Target within medium range (you may not target yourself). When you die, you may use this action. As you die, you whisper a final prayer to Shallya with your dying breath. The target within medium range (you may not target yourself) is completely healed: he recovers all normal and critical wounds, all fatigue, and all stress.</p>"
     },
     "reckless": {
       "effects": {
@@ -40,20 +33,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Play when you die. Target within medium range (you may not target yourself). Effect: When you die, you may use this action. As you die, you whisper a final prayer to Shallya with your dying breath. One target within medium range (you may not target yourself) is completely healed: he recovers all normal and critical wounds, all fatigue, and all stress.</p>",
-      "name": "Dying Breath",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Play when you die. Target within medium range (you may not target yourself). Effect: When you die, you may use this action. As you die, you whisper a final prayer to Shallya with your dying breath. One target within medium range (you may not target yourself) is completely healed: he recovers all normal and critical wounds, all fatigue, and all stress.</p>"
+    }
   }
 }

@@ -27,18 +27,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Doktor Festus Engaged with target Special: Reduce the difficulty modifier by {Dc} if the target is securely restrained. This action completely recharges as soon as Doktor Festus disengages from the target, makes an attack, or uses an Active Defence.</p>",
-      "name": "Dark Experiment",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Used By: Doktor Festus Engaged with target Special: Reduce the difficulty modifier by {Dc} if the target is securely restrained. This action completely recharges as soon as Doktor Festus disengages from the target, makes an attack, or uses an Active Defence.</p>"
     },
     "reckless": {
       "effects": {
@@ -68,20 +61,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target. You must have a variety of depraved tools at hand. Special: Reduce the difficulty modifier by {Dc} if the target is securely restrained. This action completely recharges as soon as you disengage from the target, make an attack, or use an Active Defence.</p>",
-      "name": "Dark Experiment",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Engaged with target. You must have a variety of depraved tools at hand. Special: Reduce the difficulty modifier by {Dc} if the target is securely restrained. This action completely recharges as soon as you disengage from the target, make an attack, or use an Active Defence.</p>"
+    }
   }
 }

@@ -45,18 +45,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
-      "name": "The Burning Head",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -95,20 +88,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dr} to your dice pool</p>",
-      "name": "The Burning Head",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dr} to your dice pool</p>"
+    }
   }
 }

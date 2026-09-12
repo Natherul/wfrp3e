@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A The priest offers a quick prayer to his god, his patron\u2019s favour. The action resolves successfully 5;</p>"
+            "description": "<p>A The priest offers a quick prayer to his god, his patron’s favour. The action resolves successfully 5;</p>"
           },
           {
             "symbolAmount": 2,
@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Priest Engaged with target Special: character within close range declares an action, the NPC may remove 1 recharge token from this action to add {Dc} or {Dm} to that action's dice pool = 8</p>",
-      "name": "Bendection",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Priest Engaged with target Special: character within close range declares an action, the NPC may remove 1 recharge token from this action to add {Dc} or {Dm} to that action's dice pool = 8</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: After character within close range declares an action, the NPC tokens - remove any number of recharge tokens from this action to add {Dr} to action's dice pool recharge token removed</p>",
-      "name": "Bendection",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: After character within close range declares an action, the NPC tokens - remove any number of recharge tokens from this action to add {Dr} to action's dice pool recharge token removed</p>"
+    }
   }
 }

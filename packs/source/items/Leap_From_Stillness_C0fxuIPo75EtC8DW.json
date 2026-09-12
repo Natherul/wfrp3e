@@ -33,42 +33,16 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>At least 2 units deep in Conservative stance, melee weapon equipped, target within close range</p>",
-      "name": "Leap From Stillness",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>At least 2 units deep in Conservative stance, melee weapon equipped, target within close range</p>"
     },
     "reckless": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Leap From Stillness",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

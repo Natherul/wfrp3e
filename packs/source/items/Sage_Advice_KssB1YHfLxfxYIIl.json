@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intelligence 4+, an ally within close range is assembling a dice pool for a Social action check. Effect: You cite an appropriate scrap of folk wisdom pertaining to the current situation.</p>",
-      "name": "Sage Advice",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Intelligence 4+, an ally within close range is assembling a dice pool for a Social action check. Effect: You cite an appropriate scrap of folk wisdom pertaining to the current situation.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intelligence 4+, an ally within close range is assembling a dice pool for a Social action check. Effect: You cite an appropriate scrap of folk wisdom pertaining to the current situation. When an ally within close range is assembling a dice pool for a Social action, you may add 4 recharge tokens to this card to add {Dc} to the dice pool. Special: If you have Folklore trained, add an additional {De} to the dice pool.</p>",
-      "name": "Sage Advice",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Intelligence 4+, an ally within close range is assembling a dice pool for a Social action check. Effect: You cite an appropriate scrap of folk wisdom pertaining to the current situation. When an ally within close range is assembling a dice pool for a Social action, you may add 4 recharge tokens to this card to add {Dc} to the dice pool. Special: If you have Folklore trained, add an additional {De} to the dice pool.</p>"
+    }
   }
 }

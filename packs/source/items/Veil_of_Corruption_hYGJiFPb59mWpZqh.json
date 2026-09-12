@@ -32,18 +32,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power, target engagement within long range Special: For each character in the target</p>",
-      "name": "Veil of Corruption",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>8 power, target engagement within long range Special: For each character in the target</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power, target engagement within long range Special: For each character in the target</p>",
-      "name": "Veil of Corruption",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>8 power, target engagement within long range Special: For each character in the target</p>"
+    }
   }
 }

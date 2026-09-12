@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 3+ Effect: After you have been declared the target of a Social action or Charm check that targets your Discipline (WP), add '+ targets your two recharge tokens to this card to add {Dc} to the action's dice pool. Special: If you have Charm trained, add an additional {Dc} to the action\u2019s dice pool.</p>",
-      "name": "Resist the Lure",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Willpower 3+ Effect: After you have been declared the target of a Social action or Charm check that targets your Discipline (WP), add '+ targets your two recharge tokens to this card to add {Dc} to the action's dice pool. Special: If you have Charm trained, add an additional {Dc} to the action’s dice pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -39,26 +32,16 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>recharge tokens to this card to add {Dm} to the action\u2019s dice pool. Special: If you have Charm trained, add an additional {Dm} to the action\u2019s dice pool.</p>"
+            "description": "<p>recharge tokens to this card to add {Dm} to the action’s dice pool. Special: If you have Charm trained, add an additional {Dm} to the action’s dice pool.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Resist the Lure",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": ""
+    }
   }
 }

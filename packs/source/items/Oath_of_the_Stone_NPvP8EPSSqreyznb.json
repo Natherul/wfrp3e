@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Dwarf only. An item or terrain feature of some cultural and personal significance, such as an ancestor\u2019s tomb or a specially-prepared oathstone, which you must engage with. Special: This card recharges at the end of the Act (unless you choose to renew it to defend the Oathstone) for the rest of your life. While you are engaged with the oathstone, you are immune to Fear and Terror and you gain +1 Defence.</p>",
-      "name": "Oath of the Stone",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Dwarf only. An item or terrain feature of some cultural and personal significance, such as an ancestor’s tomb or a specially-prepared oathstone, which you must engage with. Special: This card recharges at the end of the Act (unless you choose to renew it to defend the Oathstone) for the rest of your life. While you are engaged with the oathstone, you are immune to Fear and Terror and you gain +1 Defence.</p>"
     },
     "reckless": {
       "effects": {
@@ -55,20 +48,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Dwarf only. An item or terrain feature of some cultural and personal significance, such as an ancestor\u2019s tomb or a specially-prepared oathstone, which you must stay engaged with. Special: This card recharges at the end of the Act (unless you choose to renew it as your Rally action), or if you voluntarily disengage from the oathstone. If this card recharges while you still have foes to fight, you suffer 2 stress and 2 fatigue. Effect: While this card is recharging, you vow to defend the oathstone with your life. While you are engaged with the oathstone, you are immune to Fear and Terror and you gain +1 {Dm} to Melee Attacks.</p>",
-      "name": "Oath of the Stone",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Dwarf only. An item or terrain feature of some cultural and personal significance, such as an ancestor’s tomb or a specially-prepared oathstone, which you must stay engaged with. Special: This card recharges at the end of the Act (unless you choose to renew it as your Rally action), or if you voluntarily disengage from the oathstone. If this card recharges while you still have foes to fight, you suffer 2 stress and 2 fatigue. Effect: While this card is recharging, you vow to defend the oathstone with your life. While you are engaged with the oathstone, you are immune to Fear and Terror and you gain +1 {Dm} to Melee Attacks.</p>"
+    }
   }
 }

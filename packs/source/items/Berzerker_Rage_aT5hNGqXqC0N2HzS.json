@@ -18,18 +18,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Berzerker Rage",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "2b"
     },
     "reckless": {
       "effects": {
@@ -59,20 +51,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: While this card is recharging, your boundless rage explodes! Your Melee Attacks deal bonus damage equal to your B{Dc} depth in the Reckless stance, but your Defence is reduced by 1</p>",
-      "name": "Berzerker Rage",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: While this card is recharging, your boundless rage explodes! Your Melee Attacks deal bonus damage equal to your B{Dc} depth in the Reckless stance, but your Defence is reduced by 1</p>"
+    }
   }
 }

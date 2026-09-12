@@ -27,18 +27,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar\u2019s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar\u2019s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>",
-      "name": "Incite Righteous Mob",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1c 1f",
+      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar’s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar’s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>"
     },
     "reckless": {
       "effects": {
@@ -63,20 +56,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar\u2019s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar\u2019s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>",
-      "name": "Incite Righteous Mob",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1f",
+      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar’s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar’s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>"
+    }
   }
 }

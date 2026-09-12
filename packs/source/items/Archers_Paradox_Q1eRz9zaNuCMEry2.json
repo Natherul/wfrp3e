@@ -36,18 +36,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Bow or Crossbow equipped, not engaged with the target</p>",
-      "name": "Archers Paradox",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Bow or Crossbow equipped, not engaged with the target</p>"
     },
     "reckless": {
       "effects": {
@@ -82,20 +75,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Bow or Crossbow equipped, not engaged with the target. Special: If you are engaged with an enemy, add {Dm} to your dice pool</p>",
-      "name": "Archers Paradox",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Bow or Crossbow equipped, not engaged with the target. Special: If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
   }
 }

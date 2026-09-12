@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>6 power, target within medium range Effect: You call up an invisible magical force to bind an opponent\u2019s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
+            "description": "<p>6 power, target within medium range Effect: You call up an invisible magical force to bind an opponent’s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
           },
           {
             "symbolAmount": 1,
@@ -40,18 +40,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Bind",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -62,7 +54,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>6 power, target within medium range Effect: You call an invisible magical force to bind an opponent\u2019s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
+            "description": "<p>6 power, target within medium range Effect: You call an invisible magical force to bind an opponent’s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
           },
           {
             "symbolAmount": 1,
@@ -89,20 +81,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Bind",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": ""
+    }
   }
 }

@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>\u2018N\u2018N As above, +1 critical</p>"
+            "description": "<p>‘N‘N As above, +1 critical</p>"
           }
         ],
         "righteousSuccess": [],
@@ -41,25 +41,17 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Savage Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M The beastman\u2019s most common attack, it lashes out with fists, horns, claws, or weapons to pummel its foes. The target is struck for normal damage</p>"
+            "description": "<p>M The beastman’s most common attack, it lashes out with fists, horns, claws, or weapons to pummel its foes. The target is struck for normal damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -87,20 +79,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Beastmen Engaged with target</p>",
-      "name": "Savage Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: Beastmen Engaged with target</p>"
+    }
   }
 }

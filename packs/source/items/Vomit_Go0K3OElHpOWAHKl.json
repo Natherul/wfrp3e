@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>35 above, and the target gains the Filthy condition and must succeed at an Average (2d) Disease check or immediately suffer a disease with the Filth trait. Ignore the target\u2019s soak value for this attack. Damage: Toughness +2 {Dc}</p>"
+            "description": "<p>35 above, and the target gains the Filthy condition and must succeed at an Average (2d) Disease check or immediately suffer a disease with the Filth trait. Ignore the target’s soak value for this attack. Damage: Toughness +2 {Dc}</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,18 +32,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Vomit",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 6,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -73,20 +65,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Vomit",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

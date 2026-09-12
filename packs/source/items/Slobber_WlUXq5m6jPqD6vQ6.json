@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 You slobber all over your \u2018playmate\u2019 like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
+            "description": "<p>4 You slobber all over your ‘playmate’ like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -36,25 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: Ignore the target\u2019s soak armour \u00a7 value against this attack, as the corrosive slime oozes right through it</p>",
-      "name": "Slobber",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target Special: Ignore the target’s soak armour § value against this attack, as the corrosive slime oozes right through it</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>1 The Beast of Nurgle slobbers all over its \u2018playmate\u2019 like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
+            "description": "<p>1 The Beast of Nurgle slobbers all over its ‘playmate’ like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Ignore the target\u2019s armour soak value against this attack, as the slime oozes right through it</p>",
-      "name": "Slobber",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>Special: Ignore the target’s armour soak value against this attack, as the slime oozes right through it</p>"
+    }
   }
 }

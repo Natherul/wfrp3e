@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport yourself or your allies across vast distances. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to move yourself or an ally engaged with you to a Location card in play or any</p>",
-      "name": "Translocation",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport yourself or your allies across vast distances. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to move yourself or an ally engaged with you to a Location card in play or any</p>"
     },
     "reckless": {
       "effects": {
@@ -78,20 +71,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport enemies around the battlefield. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to immediately move an enemy up to 2 range increments from his current position</p>",
-      "name": "Translocation",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport enemies around the battlefield. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to immediately move an enemy up to 2 range increments from his current position</p>"
+    }
   }
 }

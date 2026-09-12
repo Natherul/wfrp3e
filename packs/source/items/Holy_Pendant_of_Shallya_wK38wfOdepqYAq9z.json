@@ -4,13 +4,6 @@
   "_id": "wK38wfOdepqYAq9z",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This simple pendant features a dove with spread wings and is imbued with the favour of the Maiden of Mercy. These rare tokens are usually granted as divine gifts to Shallya\u2019s most devoted servants. If worn by a priest of Shallya, the \u2018holy pendant\u2019 has the following effects: Your Equilibrium score is increased by 1. Blessing actions gain:</p> Immediately gain favour equal to your character rank.",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>This simple pendant features a dove with spread wings and is imbued with the favour of the Maiden of Mercy. These rare tokens are usually granted as divine gifts to Shallya’s most devoted servants. If worn by a priest of Shallya, the ‘holy pendant’ has the following effects: Your Equilibrium score is increased by 1. Blessing actions gain:</p> Immediately gain favour equal to your character rank."
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: While this recharging card is in play, add {Dc} to the dice pool of any Melee Attacks of which you are the target. After you have been declared the target of a Melee Attack, add 1 recharge token to this card to add {Dm} to the action's dice pool. During your next turn, you may</p>",
-      "name": "Cloack of Dragonscales",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: While this recharging card is in play, add {Dc} to the dice pool of any Melee Attacks of which you are the target. After you have been declared the target of a Melee Attack, add 1 recharge token to this card to add {Dm} to the action's dice pool. During your next turn, you may</p>"
     },
     "reckless": {
       "effects": {
@@ -40,20 +33,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: While this card is recharging,</p>",
-      "name": "Cloack of Dragonscales",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: While this card is recharging,</p>"
+    }
   }
 }

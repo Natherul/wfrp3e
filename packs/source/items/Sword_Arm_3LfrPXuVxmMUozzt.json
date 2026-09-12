@@ -4,13 +4,6 @@
   "_id": "3LfrPXuVxmMUozzt",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>As wielding a melee weapon. Damage Rating: 5 Critical Rating: 4 Group: Ordinary Qualities: Slow Encumbrance: 3</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>As wielding a melee weapon. Damage Rating: 5 Critical Rating: 4 Group: Ordinary Qualities: Slow Encumbrance: 3</p>"
   }
 }

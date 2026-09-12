@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>\" One-handed melee weapon equipped. Engaged with target and at least three other characters. You are hidden from the target</p>",
-      "name": "Knife in the Crowd",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c 1f 1b",
+      "requirements": "<p>\" One-handed melee weapon equipped. Engaged with target and at least three other characters. You are hidden from the target</p>"
     },
     "reckless": {
       "effects": {
@@ -92,20 +85,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>One-handed melee weapon equipped. Engaged with target and at least three other characters. You are hidden from the target. Special: Reduce the difficulty modifier by {Dc} if you have Stealth trained or by {Dc} if you have Stealth Mastery</p>",
-      "name": "Knife in the Crowd",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "1c 1f 1b",
+      "requirements": "<p>One-handed melee weapon equipped. Engaged with target and at least three other characters. You are hidden from the target. Special: Reduce the difficulty modifier by {Dc} if you have Stealth trained or by {Dc} if you have Stealth Mastery</p>"
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Toughness 4+, shield equipped, Resilience trained target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to</p>",
-      "name": "Improved Block",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 2,
+      "difficulty": "",
+      "requirements": "<p>Toughness 4+, shield equipped, Resilience trained target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add 4 to the action\u2019s dice pool. Special: After performing the Improved Block Active Defence, your Soak value is increased by +1 until the end of the round. Improved Block replaces Block in your action deck and counts as Block for all effects that reference it.</p>",
-      "name": "Improved Block",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add 4 to the action’s dice pool. Special: After performing the Improved Block Active Defence, your Soak value is increased by +1 until the end of the round. Improved Block replaces Block in your action deck and counts as Block for all effects that reference it.</p>"
+    }
   }
 }

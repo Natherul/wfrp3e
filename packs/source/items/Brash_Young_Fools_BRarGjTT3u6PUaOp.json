@@ -4,7 +4,6 @@
   "_id": "BRarGjTT3u6PUaOp",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>All party members suffer 1 stress. All party members suffer 1 fatigue, then tension resets to zero. FORTUNE FAVOURS THE BOLD Whenever the party\u2019s fortune pool is empty, immediately add 1 {Df} (Fortune Die).</p>",
-    "cooldown": false
+    "description": "<p>All party members suffer 1 stress. All party members suffer 1 fatigue, then tension resets to zero. FORTUNE FAVOURS THE BOLD Whenever the party’s fortune pool is empty, immediately add 1 {Df} (Fortune Die).</p>"
   }
 }

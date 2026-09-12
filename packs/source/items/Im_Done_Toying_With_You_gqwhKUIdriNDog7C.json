@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Fencing weapon, hand weapon, or dagger equipped, engaged with target. Weapon Skill & Coordination Trained</p>",
-      "name": "Im Done Toying With You",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Fencing weapon, hand weapon, or dagger equipped, engaged with target. Weapon Skill & Coordination Trained</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Fencing weapon, hand weapon, or dagger equipped, engaged with target. Weapon Skill & Coordination Trained</p>",
-      "name": "Im Done Toying With You",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Fencing weapon, hand weapon, or dagger equipped, engaged with target. Weapon Skill & Coordination Trained</p>"
+    }
   }
 }

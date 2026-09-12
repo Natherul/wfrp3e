@@ -24,7 +24,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>Turn one of the target\u2019s critical with a severity no greater than your WP facedown</p>"
+            "description": "<p>Turn one of the target’s critical with a severity no greater than your WP facedown</p>"
           }
         ],
         "bane": [],
@@ -36,18 +36,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour. Engaged with target. If you are engaged with an enemy, add 0 to your dice pool</p>",
-      "name": "Greater Healing",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2f",
+      "requirements": "<p>8 favour. Engaged with target. If you are engaged with an enemy, add 0 to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -85,20 +78,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour. Engaged with target. If you are engaged with an enemy, add 1 to your dice pool Special: This blessing recharges at</p>",
-      "name": "Greater Healing",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2f",
+      "requirements": "<p>8 favour. Engaged with target. If you are engaged with an enemy, add 1 to your dice pool Special: This blessing recharges at</p>"
+    }
   }
 }

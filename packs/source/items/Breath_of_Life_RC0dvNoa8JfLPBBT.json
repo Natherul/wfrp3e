@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target\u2019s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
+            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target’s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -33,29 +33,22 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>There\u2019s no need to wait an hour; the target\u2019s regeneration occurs almost instantaneously.</p>"
+            "description": "<p>There’s no need to wait an hour; the target’s regeneration occurs almost instantaneously.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>",
-      "name": "Breath of Life",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target\u2019s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
+            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target’s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -79,24 +72,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>There\u2019s no need to wait an hour; the target\u2019s regeneration occurs almost instantaneously.</p>"
+            "description": "<p>There’s no need to wait an hour; the target’s regeneration occurs almost instantaneously.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>",
-      "name": "Breath of Life",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>"
+    }
   }
 }

@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: Ulric favours the strong! While this blessing is recharging, you and all allies within close range gain +1 Strength and +1 Toughness</p>",
-      "name": "Ulrics Strength",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 2b",
+      "requirements": "<p>Effect: Ulric favours the strong! While this blessing is recharging, you and all allies within close range gain +1 Strength and +1 Toughness</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: Ulric favours the strong! While this blessing is recharging, you and all allies within close range gain +1 Strength and +1 Toughness</p>",
-      "name": "Ulrics Strength",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "1c 2b",
+      "requirements": "<p>Effect: Ulric favours the strong! While this blessing is recharging, you and all allies within close range gain +1 Strength and +1 Toughness</p>"
+    }
   }
 }

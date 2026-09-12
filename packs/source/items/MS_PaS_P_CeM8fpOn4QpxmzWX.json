@@ -61,7 +61,7 @@
           },
           {
             "symbolAmount": 13,
-            "description": "<p>tokens this card add the action\u2019s MM Perform a manoeuvre for free characteristic, recover 1 fatigue. to to M to</p>"
+            "description": "<p>tokens this card add the action’s MM Perform a manoeuvre for free characteristic, recover 1 fatigue. to to M to</p>"
           },
           {
             "symbolAmount": 4,
@@ -77,7 +77,7 @@
           },
           {
             "symbolAmount": 9,
-            "description": "<p>add additional M the action\u2019s exception @ If the check relied on a physical an to</p>"
+            "description": "<p>add additional M the action’s exception @ If the check relied on a physical an to</p>"
           },
           {
             "symbolAmount": 8,
@@ -91,18 +91,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "MS PaS P",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -161,7 +153,7 @@
           },
           {
             "symbolAmount": 13,
-            "description": "<p>tokens this card add the action\u2019s MM Perform a manoeuvre for free characteristic, recover 1 fatigue. to to M to</p>"
+            "description": "<p>tokens this card add the action’s MM Perform a manoeuvre for free characteristic, recover 1 fatigue. to to M to</p>"
           },
           {
             "symbolAmount": 4,
@@ -177,7 +169,7 @@
           },
           {
             "symbolAmount": 9,
-            "description": "<p>add additional M the action\u2019s exception @ If the check relied on a physical an to</p>"
+            "description": "<p>add additional M the action’s exception @ If the check relied on a physical an to</p>"
           },
           {
             "symbolAmount": 8,
@@ -191,20 +183,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "MS PaS P",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": ""
+    }
   }
 }

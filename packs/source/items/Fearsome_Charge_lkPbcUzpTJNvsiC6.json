@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You lower your sharp horns and charge into battle, looking to impale the target. \u00a5[Dc] The target is struck for +1 damage</p>"
+            "description": "<p>You lower your sharp horns and charge into battle, looking to impale the target. ¥[Dc] The target is struck for +1 damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Gor, Warboar Melee weapon, not engaged with target, target within close range Special: You perform a free manoeuvre as part of the action to engage the target</p>",
-      "name": "Fearsome Charge",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Gor, Warboar Melee weapon, not engaged with target, target within close range Special: You perform a free manoeuvre as part of the action to engage the target</p>"
     },
     "reckless": {
       "effects": {
@@ -78,20 +71,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon, not engaged with target, target within close range Special: The beastman performs a free manoeuvre as part of the action to engage the target</p>",
-      "name": "Fearsome Charge",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon, not engaged with target, target within close range Special: The beastman performs a free manoeuvre as part of the action to engage the target</p>"
+    }
   }
 }

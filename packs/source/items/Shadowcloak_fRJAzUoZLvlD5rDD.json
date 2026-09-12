@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>",
-      "name": "Shadowcloak",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -55,20 +48,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>",
-      "name": "Shadowcloak",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>"
+    }
   }
 }

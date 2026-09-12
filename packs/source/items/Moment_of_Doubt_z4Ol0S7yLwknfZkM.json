@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour. Target within medium range. You may not have a weapon in hand (aside from a walking stick)</p>",
-      "name": "Moment of Doubt",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 7,
+      "difficulty": "2b",
+      "requirements": "<p>6 favour. Target within medium range. You may not have a weapon in hand (aside from a walking stick)</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour. Target within medium range. You may not have a weapon in hand (aside from a walking stick)</p>",
-      "name": "Moment of Doubt",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour. Target within medium range. You may not have a weapon in hand (aside from a walking stick)</p>"
+    }
   }
 }

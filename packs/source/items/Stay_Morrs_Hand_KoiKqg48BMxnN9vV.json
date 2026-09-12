@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>1. The critical wound is cancelled. Place recharge tokens on this card equal to that critical wound\u2019s severity value</p>"
+            "description": "<p>1. The critical wound is cancelled. Place recharge tokens on this card equal to that critical wound’s severity value</p>"
           }
         ],
         "righteousSuccess": [],
@@ -22,48 +22,22 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>You suffer stress equal to the critical wound\u2019s severity value</p>"
+            "description": "<p>You suffer stress equal to the critical wound’s severity value</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Favour equal to the critical wound\u2019s severity (see below) special; When a character within Medium range is knocked unconscious, exceeding his wound threshold and receives a critical wound, you may immediately place a number of recharge tokens on this card equal to that critical wound\u2019s value. Then you may attempt to stay hand. Make a Piety (WP) check as noted above and spend favour equal to the critical wound\u2019s severity value</p>",
-      "name": "Stay Morrs Hand",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Favour equal to the critical wound’s severity (see below) special; When a character within Medium range is knocked unconscious, exceeding his wound threshold and receives a critical wound, you may immediately place a number of recharge tokens on this card equal to that critical wound’s value. Then you may attempt to stay hand. Make a Piety (WP) check as noted above and spend favour equal to the critical wound’s severity value</p>"
     },
     "reckless": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Stay Morrs Hand",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 3+, sufficient power (see below) \u2018Special: After an engaged ally - as a target of Ranged Attack, Melee Attack, or Spell action, you may place 3 recharge tokens on this card to add {Dc} to that action\u2019s dice pool. You may spend a Cunning die from your budget to add another {Dc} to the dice pool. You must spend 1 power per {Dc} added to the pool.</p>",
-      "name": "Quit Yer Yappin",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "",
+      "requirements": "<p>Willpower 3+, sufficient power (see below) ‘Special: After an engaged ally - as a target of Ranged Attack, Melee Attack, or Spell action, you may place 3 recharge tokens on this card to add {Dc} to that action’s dice pool. You may spend a Cunning die from your budget to add another {Dc} to the dice pool. You must spend 1 power per {Dc} added to the pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: After an engaged ally is declared as a target of a Ranged Attack, Melee Attack, or Spell action, you may place 3 recharge tokens on this card to add {Dm} to that action\u2019s dice pool. You may spend a Cunning die from your budget to add another {Dm} to the dice pool. You must spend 1 power per {Dm} added to the pool.</p>",
-      "name": "Quit Yer Yappin",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: After an engaged ally is declared as a target of a Ranged Attack, Melee Attack, or Spell action, you may place 3 recharge tokens on this card to add {Dm} to that action’s dice pool. You may spend a Cunning die from your budget to add another {Dm} to the dice pool. You must spend 1 power per {Dm} added to the pool.</p>"
+    }
   }
 }

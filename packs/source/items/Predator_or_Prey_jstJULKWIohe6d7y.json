@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Predator or Prey",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": "1b"
     },
     "reckless": {
       "effects": {
@@ -90,20 +82,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Increase the difficulty modifier of this action to {Dc} if it is performed in a setting</p>",
-      "name": "Predator or Prey",
-      "rechargeRating": 51,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 51,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Special: Increase the difficulty modifier of this action to {Dc} if it is performed in a setting</p>"
+    }
   }
 }

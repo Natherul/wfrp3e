@@ -5,26 +5,9 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "The All Father",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -40,25 +23,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>+ You must perform a service for Taal (GM\u2019s discretion) all your blessings</p>"
+            "description": "<p>+ You must perform a service for Taal (GM’s discretion) all your blessings</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>During, you killed wild beast recharges at the new moon Effect: You embody the god, Taal, becoming larger and impressively attractive. Natural wild beasts bow down before you and obey your commands. Plants grow or bend according to your whim. You may control the weather by adding up to {Dr} or {Dm} to checks as appropriate</p>",
-      "name": "The All Father",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "3c 2f",
+      "requirements": "<p>During, you killed wild beast recharges at the new moon Effect: You embody the god, Taal, becoming larger and impressively attractive. Natural wild beasts bow down before you and obey your commands. Plants grow or bend according to your whim. You may control the weather by adding up to {Dr} or {Dm} to checks as appropriate</p>"
+    }
   }
 }

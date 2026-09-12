@@ -5,26 +5,9 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Quickblight",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -35,20 +18,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>the GM what corrupting effect you wish to create. The GM will set the difficulty and of task based on the complexity and potency of the effect, ranging from Simple (0{Dc}) (a cup of milk in your hand) to Daunting (4{Dc}) to blight the crops of an entire village. Effect: You conjure an unearthly haze. It defiles all living matter it touches. Crops wither, milk spoils, and other minor B corruptive taint the area. You cast the spell. Every creature (including you) touched by the haze gains 1 corruption. The Ruinous Powers delight in your attempts to corrupt the land. You must pass a Hard (3{Dc}) Discipline (WP) test or be horrifically transformed into a Chaos Spawn!</p>",
-      "name": "Quickblight",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>the GM what corrupting effect you wish to create. The GM will set the difficulty and of task based on the complexity and potency of the effect, ranging from Simple (0{Dc}) (a cup of milk in your hand) to Daunting (4{Dc}) to blight the crops of an entire village. Effect: You conjure an unearthly haze. It defiles all living matter it touches. Crops wither, milk spoils, and other minor B corruptive taint the area. You cast the spell. Every creature (including you) touched by the haze gains 1 corruption. The Ruinous Powers delight in your attempts to corrupt the land. You must pass a Hard (3{Dc}) Discipline (WP) test or be horrifically transformed into a Chaos Spawn!</p>"
+    }
   }
 }

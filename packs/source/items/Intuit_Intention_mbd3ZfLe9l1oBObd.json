@@ -41,25 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within medium range</p>",
-      "name": "Intuit Intention",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Target within medium range</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You study your target very carefully, watching for \u201ctells\u201d that give away his true intentions.</p>"
+            "description": "<p>You study your target very carefully, watching for “tells” that give away his true intentions.</p>"
           },
           {
             "symbolAmount": 3,
@@ -96,20 +89,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within medium range Effect: While this card is recharging your target must add {Dm} to all Guile checks that include you as a target.</p>",
-      "name": "Intuit Intention",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Target within medium range Effect: While this card is recharging your target must add {Dm} to all Guile checks that include you as a target.</p>"
+    }
   }
 }

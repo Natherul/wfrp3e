@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit the target with both your primary and secondary weapon. Determine normal damage and apply the target\u2019s Toughness and Soak separately for each</p>"
+            "description": "<p>You hit the target with both your primary and secondary weapon. Determine normal damage and apply the target’s Toughness and Soak separately for each</p>"
           }
         ],
         "righteousSuccess": [],
@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon in each hand, engaged with target</p>",
-      "name": "Double Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon in each hand, engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -58,7 +51,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>You hit the target with both your primary and secondary weapon. Determine normal damage and apply the target\u2019s Toughness and Soak separately for each weapon.</p>"
+            "description": "<p>You hit the target with both your primary and secondary weapon. Determine normal damage and apply the target’s Toughness and Soak separately for each weapon.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -82,20 +75,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon in each hand, engaged with target</p>",
-      "name": "Double Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon in each hand, engaged with target</p>"
+    }
   }
 }

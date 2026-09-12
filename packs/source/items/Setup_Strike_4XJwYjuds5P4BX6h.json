@@ -32,18 +32,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>One-handed melee weapon equipped, with target</p>",
-      "name": "Setup Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>One-handed melee weapon equipped, with target</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>One-handed melee weapon equipped, engaged target</p>",
-      "name": "Setup Strike",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2b",
+      "requirements": "<p>One-handed melee weapon equipped, engaged target</p>"
+    }
   }
 }

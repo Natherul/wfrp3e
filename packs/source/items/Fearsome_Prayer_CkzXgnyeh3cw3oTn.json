@@ -41,18 +41,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Success on a favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
-      "name": "Fearsome Prayer",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Success on a favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Success on a favour. If you are engaged with an enemy, add {Dm} to your dice pool</p>",
-      "name": "Fearsome Prayer",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c",
+      "requirements": "<p>Success on a favour. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
   }
 }

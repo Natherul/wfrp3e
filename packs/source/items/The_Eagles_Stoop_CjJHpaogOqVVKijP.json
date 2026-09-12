@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range</p>",
-      "name": "The Eagles Stoop",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range Special This action is both a Blessing and a Melee Attack</p>",
-      "name": "The Eagles Stoop",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range Special This action is both a Blessing and a Melee Attack</p>"
+    }
   }
 }

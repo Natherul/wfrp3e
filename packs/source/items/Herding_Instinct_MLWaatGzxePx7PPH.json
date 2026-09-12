@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement.</p>",
-      "name": "Herding Instinct",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement.</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement except to engage your pet.</p>",
-      "name": "Herding Instinct",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement except to engage your pet.</p>"
+    }
   }
 }

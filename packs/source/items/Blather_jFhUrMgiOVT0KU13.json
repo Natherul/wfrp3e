@@ -33,18 +33,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with the target, target must be able to understand you. Effect: You flood your target with an endless stream of random chit-chat. While his card is recharging and the target is engaged with you, he adds {Dc} to all Social checks as he tries to get a word in edgeways. It costs one extra manoeuvre to disengage from you while this card is recharging.</p>",
-      "name": "Blather",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with the target, target must be able to understand you. Effect: You flood your target with an endless stream of random chit-chat. While his card is recharging and the target is engaged with you, he adds {Dc} to all Social checks as he tries to get a word in edgeways. It costs one extra manoeuvre to disengage from you while this card is recharging.</p>"
     },
     "reckless": {
       "effects": {
@@ -75,20 +68,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: perform another Social action while this card is recharging. Blather immediately recharges. Effect: You flood your target with an endless stream of random chit-chat. While this card is recharging and the target is engaged with you, he adds {Dc} to all Social checks as he tries to get a word in edgeways. It costs one extra manoeuvre for the target to disengage from you while this card is recharging.</p>",
-      "name": "Blather",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: perform another Social action while this card is recharging. Blather immediately recharges. Effect: You flood your target with an endless stream of random chit-chat. While this card is recharging and the target is engaged with you, he adds {Dc} to all Social checks as he tries to get a word in edgeways. It costs one extra manoeuvre for the target to disengage from you while this card is recharging.</p>"
+    }
   }
 }

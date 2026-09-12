@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, Strength 5+. You methodically sacrifice lesser minions to set up the target for a crippling blow. Each ally you sacrifice is automatically killed, but reduces the difficulty modifier of this attack by {Dc}. Each henchman ally sacrificed instead adds {Dc} to the dice pool. \u00a7F defenses</p>",
-      "name": "Da Big Smash",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "3c",
+      "requirements": "<p>Engaged with target, Strength 5+. You methodically sacrifice lesser minions to set up the target for a crippling blow. Each ally you sacrifice is automatically killed, but reduces the difficulty modifier of this attack by {Dc}. Each henchman ally sacrificed instead adds {Dc} to the dice pool. §F defenses</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Orcs. Engaged with target. Special: The GM may choose to kill any number of snotlings or goblins in the current engagement as the orc hacks through it. For each goblin killed, reduce the difficulty modifier by {Dc}. For each snotling killed, add {Dm} to the attack check.</p>",
-      "name": "Da Big Smash",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>Used By: Orcs. Engaged with target. Special: The GM may choose to kill any number of snotlings or goblins in the current engagement as the orc hacks through it. For each goblin killed, reduce the difficulty modifier by {Dc}. For each snotling killed, add {Dm} to the attack check.</p>"
+    }
   }
 }

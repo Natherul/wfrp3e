@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power</p>",
-      "name": "Stormcall",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power</p>"
     },
     "reckless": {
       "effects": {
@@ -54,7 +47,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, and ignore each target\u2019s soak value of armour.</p>"
+            "description": "<p>As above, and ignore each target’s soak value of armour.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -73,25 +66,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>3+ You are struck by Suffer \u201cYour own storm!\u201d 1 wound.</p>"
+            "description": "<p>3+ You are struck by Suffer “Your own storm!” 1 wound.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power</p>",
-      "name": "Stormcall",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power</p>"
+    }
   }
 }

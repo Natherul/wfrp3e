@@ -40,18 +40,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Add {Dc} to the check. This card recharges at the end of the encounter</p>",
-      "name": "Splints and Bandages",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Add {Dc} to the check. This card recharges at the end of the encounter</p>"
     },
     "reckless": {
       "effects": {
@@ -85,20 +78,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>First Aid trained, cautious with target. Special: If the target is critically wounded, add {Dm} to the check. This card recharges at the end of the encounter</p>",
-      "name": "Splints and Bandages",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>First Aid trained, cautious with target. Special: If the target is critically wounded, add {Dm} to the check. This card recharges at the end of the encounter</p>"
+    }
   }
 }

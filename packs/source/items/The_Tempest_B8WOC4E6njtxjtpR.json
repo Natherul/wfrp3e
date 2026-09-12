@@ -21,11 +21,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>\u2018\u201c the spell you cast</p>"
+            "description": "<p>‘“ the spell you cast</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>\u201c\u201c\u201c above but the becomes Hard (3{Dc}) as test X% X% A1 missile fire suffers an penalty mm Those failing the test fall prone and must spend a manoeuvre to</p>"
+            "description": "<p>“““ above but the becomes Hard (3{Dc}) as test X% X% A1 missile fire suffers an penalty mm Those failing the test fall prone and must spend a manoeuvre to</p>"
           }
         ],
         "righteousSuccess": [],
@@ -44,18 +44,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "The Tempest",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -98,20 +90,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "The Tempest",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

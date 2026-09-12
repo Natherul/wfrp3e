@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Add {Dc} to the action\u2019s dice pool equal to the number of Ancestor cards you have</p>"
+            "description": "<p>Add {Dc} to the action’s dice pool equal to the number of Ancestor cards you have</p>"
           }
         ],
         "righteousSuccess": [],
@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>",
-      "name": "Wall of Steel",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack,</p>"
     },
     "reckless": {
       "effects": {
@@ -44,7 +37,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>Add {Dm} to the action\u2019s dice pool equal to the number of Ancestor cards you have (including this one) Special: If you have Discipline trained, add</p>"
+            "description": "<p>Add {Dm} to the action’s dice pool equal to the number of Ancestor cards you have (including this one) Special: If you have Discipline trained, add</p>"
           },
           {
             "symbolAmount": 1,
@@ -54,20 +47,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Shield equipped Effect: After you have been declared the target of a Melee Attack or Ranged Attack, four recharge tokens to this card to</p>",
-      "name": "Wall of Steel",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Shield equipped Effect: After you have been declared the target of a Melee Attack or Ranged Attack, four recharge tokens to this card to</p>"
+    }
   }
 }

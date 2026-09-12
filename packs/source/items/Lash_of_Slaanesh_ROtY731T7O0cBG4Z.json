@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, target within close range</p>",
-      "name": "Lash of Slaanesh",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, target within close range</p>",
-      "name": "Lash of Slaanesh",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within close range</p>"
+    }
   }
 }

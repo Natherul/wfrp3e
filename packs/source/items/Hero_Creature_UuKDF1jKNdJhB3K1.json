@@ -4,7 +4,6 @@
   "_id": "UuKDF1jKNdJhB3K1",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Epic: Once per session, a Hero may add 4 {Da} to the results pool of an action after the dice are rolled.</p>",
-    "cooldown": false
+    "description": "<p>Epic: Once per session, a Hero may add 4 {Da} to the results pool of an action after the dice are rolled.</p>"
   }
 }

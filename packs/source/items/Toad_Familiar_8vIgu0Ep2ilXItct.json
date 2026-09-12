@@ -4,13 +4,6 @@
   "_id": "8vIgu0Ep2ilXItct",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This creature is about the size of a cat or small dog. It is clearly a toad, but it\u2019s somewhat misshapen and luridly coloured. In fact, is it even really a toad? Or is it some sort of daemonic creature? Encumbrance: 3 when carried, but fully capable of hopping along under its own power. While within close range, the Toad Familiar increases its master\u2019s Equilibrium score by 1. It\u2019s not clear how one acquires such a familiar, nor necessarily why one would want to.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>This creature is about the size of a cat or small dog. It is clearly a toad, but it’s somewhat misshapen and luridly coloured. In fact, is it even really a toad? Or is it some sort of daemonic creature? Encumbrance: 3 when carried, but fully capable of hopping along under its own power. While within close range, the Toad Familiar increases its master’s Equilibrium score by 1. It’s not clear how one acquires such a familiar, nor necessarily why one would want to.</p>"
   }
 }

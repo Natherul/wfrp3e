@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your razor sharp claw avages your target\u2019s armour. Reduce the soak value of the target\u2019s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
+            "description": "<p>Your razor sharp claw avages your target’s armour. Reduce the soak value of the target’s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
           },
           {
             "symbolAmount": 3,
@@ -31,25 +31,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must possess at least one claw, engaged with target</p>",
-      "name": "Swift Severity",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Must possess at least one claw, engaged with target</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your razor sharp claw ravages your target\u2019s armour. Reduce the soak value of your target\u2019s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
+            "description": "<p>Your razor sharp claw ravages your target’s armour. Reduce the soak value of your target’s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
           },
           {
             "symbolAmount": 3,
@@ -62,25 +55,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your claw lodges in the target\u2019s armor. While this card is recharging, all attacks targeting you gain {Dm}.</p>"
+            "description": "<p>Your claw lodges in the target’s armor. While this card is recharging, all attacks targeting you gain {Dm}.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must possess at least one claw, engaged with target. This Agility instead of Strength for the attack roll.</p>",
-      "name": "Swift Severity",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Must possess at least one claw, engaged with target. This Agility instead of Strength for the attack roll.</p>"
+    }
   }
 }

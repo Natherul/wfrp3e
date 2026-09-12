@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You defeat an enemy in melee combat; target enemies within close range</p>",
-      "name": "Bloodspatter",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>You defeat an enemy in melee combat; target enemies within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -86,20 +79,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You defeat an enemy in melee combat; target enemies within close range. This action is opposed by the highest Willpower amongst its targets; each</p>",
-      "name": "Bloodspatter",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "3c",
+      "requirements": "<p>You defeat an enemy in melee combat; target enemies within close range. This action is opposed by the highest Willpower amongst its targets; each</p>"
+    }
   }
 }

@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power. You must be exposed to the open sky. Effect: You twist your hands above your head, causing the winds to howl and the clouds to boil with anger. Any creature attempting to fly within extreme range of you between now and your next action must succeed on an Athletics {Dc} check opposed by Spellcraft (Int). If he fails, he is forced out of the sky and down to the ground; he must end his turn on the ground and cannot spend manoeuvres to do anything this turn.</p>",
-      "name": "Roiling Skies",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>6 power. You must be exposed to the open sky. Effect: You twist your hands above your head, causing the winds to howl and the clouds to boil with anger. Any creature attempting to fly within extreme range of you between now and your next action must succeed on an Athletics {Dc} check opposed by Spellcraft (Int). If he fails, he is forced out of the sky and down to the ground; he must end his turn on the ground and cannot spend manoeuvres to do anything this turn.</p>"
     },
     "reckless": {
       "effects": {
@@ -79,20 +72,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power. You must be exposed to the open sky. Effect: You throw your hands into the air and twist, causing the winds to rage and howl. The target is forced from the sky. If he was at close range from the ground, he suffers 1 wound; at medium range, 2 wounds; at long range, 3 wounds; at extreme range, 4 wounds.</p>",
-      "name": "Roiling Skies",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1b",
+      "requirements": "<p>6 power. You must be exposed to the open sky. Effect: You throw your hands into the air and twist, causing the winds to rage and howl. The target is forced from the sky. If he was at close range from the ground, he suffers 1 wound; at medium range, 2 wounds; at long range, 3 wounds; at extreme range, 4 wounds.</p>"
+    }
   }
 }

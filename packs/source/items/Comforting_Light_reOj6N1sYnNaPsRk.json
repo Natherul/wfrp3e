@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Be able to see your light and must be suffering from a temporary insanity. Special: This check's difficulty is the severity of the target insanity - i.e., if the target insanity has a severity of 2, the difficulty is Average (2{Dc})</p>",
-      "name": "Comforting Light",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 7,
+      "difficulty": "2b",
+      "requirements": "<p>Be able to see your light and must be suffering from a temporary insanity. Special: This check's difficulty is the severity of the target insanity - i.e., if the target insanity has a severity of 2, the difficulty is Average (2{Dc})</p>"
     },
     "reckless": {
       "effects": {
@@ -82,20 +75,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>1 power, target within close range. Target must be able to see your light and must be suffering from a temporary insanity. Special: This check's difficulty is the severity of the target insanity - i.e., if the target insanity has a severity of 2, the difficulty is Average (2{Dc})</p>",
-      "name": "Comforting Light",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>1 power, target within close range. Target must be able to see your light and must be suffering from a temporary insanity. Special: This check's difficulty is the severity of the target insanity - i.e., if the target insanity has a severity of 2, the difficulty is Average (2{Dc})</p>"
+    }
   }
 }

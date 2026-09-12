@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Requires a character rank of 4. Can only invoke in a tamed natural environment such as an orchard, farm, or park. You must personally mark the site, such as with your own blood or a unique sigil crafted by you.</p>",
-      "name": "Vigil of Nature",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Requires a character rank of 4. Can only invoke in a tamed natural environment such as an orchard, farm, or park. You must personally mark the site, such as with your own blood or a unique sigil crafted by you.</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Requires a character rank of 8. Can invoke in a wild natural environment such as a forest, hill, or grove. You must personally mark the site, such as with your own blood or a unique sigil crafted by you.</p>",
-      "name": "Vigil of Nature",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Requires a character rank of 8. Can invoke in a wild natural environment such as a forest, hill, or grove. You must personally mark the site, such as with your own blood or a unique sigil crafted by you.</p>"
+    }
   }
 }

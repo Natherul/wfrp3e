@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target this attack</p>",
-      "name": "Mighty Blow",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target this attack</p>"
     },
     "reckless": {
       "effects": {
@@ -79,24 +72,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You give \u2018em the one-two! You hit the target again for the same damage</p>"
+            "description": "<p>You give ‘em the one-two! You hit the target again for the same damage</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: The defence rating of any armour heavier than leather is increased by 1 against this attack</p>",
-      "name": "Mighty Blow",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Special: The defence rating of any armour heavier than leather is increased by 1 against this attack</p>"
+    }
   }
 }

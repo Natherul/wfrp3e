@@ -41,25 +41,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Leadership trained, ally engaged with you. If you are engaged with an enemy, add to your dice pool {Dc}</p>",
-      "name": "We Must Work Together",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Leadership trained, ally engaged with you. If you are engaged with an enemy, add to your dice pool {Dc}</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>tokens \u00a2 M Target ally may remove 2 recharge P from a Teamwork action card</p>"
+            "description": "<p>tokens ¢ M Target ally may remove 2 recharge P from a Teamwork action card</p>"
           },
           {
             "symbolAmount": 3,
@@ -87,24 +80,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Each ally engaged with you may choose [ to suffer 1 fatigue in order to move a hero \u00a5 token up one space on the initiative track. Each token can be moved only once with this action.</p>"
+            "description": "<p>Each ally engaged with you may choose [ to suffer 1 fatigue in order to move a hero ¥ token up one space on the initiative track. Each token can be moved only once with this action.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Leadership trained, ally engaged with you. If you are engaged with an enemy, add to your dice pool {Dr}</p>",
-      "name": "We Must Work Together",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Leadership trained, ally engaged with you. If you are engaged with an enemy, add to your dice pool {Dr}</p>"
+    }
   }
 }

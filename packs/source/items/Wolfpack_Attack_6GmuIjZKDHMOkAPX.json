@@ -46,18 +46,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack</p>",
-      "name": "Wolfpack Attack",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack</p>"
     },
     "reckless": {
       "effects": {
@@ -85,7 +78,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Suffer 1 stress {Dm}</p>"
+            "description": "<p>® Suffer 1 stress {Dm}</p>"
           }
         ],
         "chaosStar": [
@@ -101,20 +94,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack Special: This action uses Strength instead of Fellowship</p>",
-      "name": "Wolfpack Attack",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack Special: This action uses Strength instead of Fellowship</p>"
+    }
   }
 }

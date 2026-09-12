@@ -4,7 +4,6 @@
   "_id": "h6VUtweKEU93rxtw",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Party Tension Meter Each party member suffers 1 fatigue and 1 stress. Each party member loses all remaining fortune points, suffering 1 wound for each point lost in this way. Then, this party may suffer wounds equal to either the severity of or number of tokens on a temporary insanity card (whichever is lower) in addition to card that insanity bad into the deck.</p>",
-    "cooldown": false
+    "description": "<p>Party Tension Meter Each party member suffers 1 fatigue and 1 stress. Each party member loses all remaining fortune points, suffering 1 wound for each point lost in this way. Then, this party may suffer wounds equal to either the severity of or number of tokens on a temporary insanity card (whichever is lower) in addition to card that insanity bad into the deck.</p>"
   }
 }

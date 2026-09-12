@@ -49,18 +49,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Axe of Khorne equipped, engaged with target. If action generates severe injuries, the effect of the injury is severe and is applied immediately.</p>",
-      "name": "Axe of Khorne Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Axe of Khorne equipped, engaged with target. If action generates severe injuries, the effect of the injury is severe and is applied immediately.</p>"
     },
     "reckless": {
       "effects": {
@@ -107,20 +100,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Axe of Khorne equipped, engaged with target. Special: If this action generates any severe injuries, the severe effect of the injury is applied immediately.</p>",
-      "name": "Axe of Khorne Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Axe of Khorne equipped, engaged with target. Special: If this action generates any severe injuries, the severe effect of the injury is applied immediately.</p>"
+    }
   }
 }

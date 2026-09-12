@@ -26,24 +26,17 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Maybe a bad choice of subject material: Increase party tension by 1</p>"
+            "description": "<p>® Maybe a bad choice of subject material: Increase party tension by 1</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Your subjects must be able to see and hear you; the story takes several minutes to tell</p>",
-      "name": "Teller of Tales",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Your subjects must be able to see and hear you; the story takes several minutes to tell</p>"
     },
     "reckless": {
       "effects": {
@@ -69,7 +62,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u201cWhat did you just say?\u201d Your audience gains the Demoralised condition for the remainder of the Act</p>"
+            "description": "<p>“What did you just say?” Your audience gains the Demoralised condition for the remainder of the Act</p>"
           }
         ],
         "sigmarsComet": [
@@ -79,20 +72,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Your subjects must be able to see and hear you; the story takes several minutes to tell than Intelligence</p>",
-      "name": "Teller of Tales",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Your subjects must be able to see and hear you; the story takes several minutes to tell than Intelligence</p>"
+    }
   }
 }

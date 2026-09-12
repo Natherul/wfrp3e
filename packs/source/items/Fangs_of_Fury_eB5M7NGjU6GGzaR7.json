@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is a Melee Attack. If engaged with the target, s</p>",
-      "name": "Fangs of Fury",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is a Melee Attack. If engaged with the target, s</p>"
     },
     "reckless": {
       "effects": {
@@ -82,20 +75,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is both a Spell and a Melee Attack. If engaged with more than one enemy, add {Dm} to your dice pool</p>",
-      "name": "Fangs of Fury",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1b",
+      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is both a Spell and a Melee Attack. If engaged with more than one enemy, add {Dm} to your dice pool</p>"
+    }
   }
 }

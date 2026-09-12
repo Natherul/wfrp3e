@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>BALLISTIC SKILL A ranged weapon without the Reload quality and a ready supply of ammunition \u00a7 Effect: With a hail of well-placed fire, you keep your enemy\u2019s head down! Choose a terrain feature within medium or area range. While this card is recharging, any enemy that attempts to manoeuvre in or through the target area suffers 1 fatigue.</p>",
-      "name": "Covering Fire",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>BALLISTIC SKILL A ranged weapon without the Reload quality and a ready supply of ammunition § Effect: With a hail of well-placed fire, you keep your enemy’s head down! Choose a terrain feature within medium or area range. While this card is recharging, any enemy that attempts to manoeuvre in or through the target area suffers 1 fatigue.</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>A ranged weapon without the Reload quality and a ready supply of ammunition, target engagement within medium range</p>",
-      "name": "Covering Fire",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>A ranged weapon without the Reload quality and a ready supply of ammunition, target engagement within medium range</p>"
+    }
   }
 }

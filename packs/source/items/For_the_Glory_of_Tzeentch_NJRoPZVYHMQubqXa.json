@@ -27,18 +27,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: If another member of the Cult of the Broken Wheel is engaged with the target, add {Dc} to the dice pool</p>",
-      "name": "For the Glory of Tzeentch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target Special: If another member of the Cult of the Broken Wheel is engaged with the target, add {Dc} to the dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -68,20 +61,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: If an ally is engaged with the target, add {Dc} to the dice pool</p>",
-      "name": "For the Glory of Tzeentch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target Special: If an ally is engaged with the target, add {Dc} to the dice pool</p>"
+    }
   }
 }

@@ -26,7 +26,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>\u00ae One opponent engaged with you disengages.</p>"
+            "description": "<p>® One opponent engaged with you disengages.</p>"
           }
         ],
         "chaosStar": [
@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: When you remove a recharge token from this card, you may adjust your stance 1 step.</p>",
-      "name": "Woven Mist",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: When you remove a recharge token from this card, you may adjust your stance 1 step.</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>When you remove a recharge token from this card, you may adjust your stance 1 step.</p>",
-      "name": "Woven Mist",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>When you remove a recharge token from this card, you may adjust your stance 1 step.</p>"
+    }
   }
 }

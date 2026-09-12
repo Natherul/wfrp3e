@@ -6,7 +6,6 @@
   "system": {
     "description": "<p>You suffer a critical wound from a Melee Attack or Ranged Attack while engaged with your pet. After you suffer a critical wound from a Melee Attack or Ranged Attack, while engaged with your pet, you may place 4 recharge tokens on this card to cancel the critical wound. Your pet loses Obedience equal to the critical severity.</p>",
     "rechargeTokens": 0,
-    "socket": null,
-    "type": "focus"
+    "socket": null
   }
 }

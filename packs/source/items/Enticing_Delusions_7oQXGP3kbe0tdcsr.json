@@ -31,23 +31,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Suffer 1 wound per point of the target\u2019s current corruption</p>"
+            "description": "<p>Suffer 1 wound per point of the target’s current corruption</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S power, target within long range</p>",
-      "name": "Enticing Delusions",
-      "rechargeRating": 555,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 555,
+      "difficulty": "1b",
+      "requirements": "<p>S power, target within long range</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S power, target within long range</p>",
-      "name": "Enticing Delusions",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>S power, target within long range</p>"
+    }
   }
 }

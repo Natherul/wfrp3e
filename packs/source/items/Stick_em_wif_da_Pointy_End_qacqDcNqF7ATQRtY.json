@@ -36,25 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Sikboyz (mblm', hul spnc) Engaged with target</p>",
-      "name": "Stick em wif da Pointy End",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Sikboyz (mblm', hul spnc) Engaged with target</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Dis iz wot you do wif a weapon: stick 'em da end! dat! 'im \u20ac wif pointy Jus'like You'it for normal damage</p>"
+            "description": "<p>Dis iz wot you do wif a weapon: stick 'em da end! dat! 'im € wif pointy Jus'like You'it for normal damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -73,7 +66,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>Stik 'em where it \u2018urtz! +1 critical</p>"
+            "description": "<p>Stik 'em where it ‘urtz! +1 critical</p>"
           }
         ],
         "bane": [
@@ -90,20 +83,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: For each of the engagement, remove {Dc} from the dice (no matter the source of the )</p>",
-      "name": "Stick em wif da Pointy End",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target Special: For each of the engagement, remove {Dc} from the dice (no matter the source of the )</p>"
+    }
   }
 }

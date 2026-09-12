@@ -32,18 +32,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Strength 6+. Melee weapon equipped. Engaged with target or within close range. The attacker is physically larger than the targets. Special: Even if the attack fails, all enemies engaged with the attacker suffer 1 fatigue.</p>",
-      "name": "Devastating Swing",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>Strength 6+. Melee weapon equipped. Engaged with target or within close range. The attacker is physically larger than the targets. Special: Even if the attack fails, all enemies engaged with the attacker suffer 1 fatigue.</p>"
     },
     "reckless": {
       "effects": {
@@ -54,7 +47,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>{Dr} As above, and you deal +1 critical to each character you strike. You hit another character of the GM\u2019s choosing in the engagement. The targets suffer from the Staggered condition for 2 rounds.</p>"
+            "description": "<p>{Dr} As above, and you deal +1 critical to each character you strike. You hit another character of the GM’s choosing in the engagement. The targets suffer from the Staggered condition for 2 rounds.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Strength 6+. Melee weapon equipped. Engaged with target or within close range. The attacker is physically larger than the targets. Special: Even if the attack fails, all enemies engaged with the attacker suffer 1 fatigue.</p>",
-      "name": "Devastating Swing",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Strength 6+. Melee weapon equipped. Engaged with target or within close range. The attacker is physically larger than the targets. Special: Even if the attack fails, all enemies engaged with the attacker suffer 1 fatigue.</p>"
+    }
   }
 }

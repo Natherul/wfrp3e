@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Eduardo Rodrigues with tars, ct melee wc.lpon cqunppcd</p>",
-      "name": "Dazzling Display",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Eduardo Rodrigues with tars, ct melee wc.lpon cqunppcd</p>"
     },
     "reckless": {
       "effects": {
@@ -85,20 +78,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, rapier, hand weapon, or dagger</p>",
-      "name": "Dazzling Display",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target, rapier, hand weapon, or dagger</p>"
+    }
   }
 }

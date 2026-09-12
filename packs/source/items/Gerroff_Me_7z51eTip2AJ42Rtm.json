@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>ach \u00a2 h</p>"
+            "description": "<p>ach ¢ h</p>"
           },
           {
             "symbolAmount": 3,
@@ -36,25 +36,17 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Gerroff Me",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1c 1b"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>#\u00a2 Each enemy engaged with the shaman suffers 1 wound</p>"
+            "description": "<p>#¢ Each enemy engaged with the shaman suffers 1 wound</p>"
           },
           {
             "symbolAmount": 3,
@@ -82,20 +74,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power Effect: The Shaman screeches and in rage explodes with a burst of power, injuring nearby foes and knocking them back</p>",
-      "name": "Gerroff Me",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>3 power Effect: The Shaman screeches and in rage explodes with a burst of power, injuring nearby foes and knocking them back</p>"
+    }
   }
 }

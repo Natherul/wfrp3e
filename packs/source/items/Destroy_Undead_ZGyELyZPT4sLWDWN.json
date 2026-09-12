@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dc} to your dice pool</p>",
-      "name": "Destroy Undead",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dm} to your dice pool</p>",
-      "name": "Destroy Undead",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
   }
 }

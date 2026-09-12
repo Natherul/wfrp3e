@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Black powder weapon equipped; not engaged with an enemy</p>",
-      "name": "Mechanical Precision",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Black powder weapon equipped; not engaged with an enemy</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: The Unreliable rating of your weapon is improved (increased) by 1 for this attack. This action uses Agility, Intelligence</p>",
-      "name": "Mechanical Precision",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c",
+      "requirements": "<p>Special: The Unreliable rating of your weapon is improved (increased) by 1 for this attack. This action uses Agility, Intelligence</p>"
+    }
   }
 }

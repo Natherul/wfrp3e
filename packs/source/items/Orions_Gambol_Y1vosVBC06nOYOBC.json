@@ -42,18 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Melee Attack recharging, engaged with target</p>",
-      "name": "Orions Gambol",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Melee Attack recharging, engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -93,20 +86,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Attack recharging, engaged with target</p>",
-      "name": "Orions Gambol",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "2b",
+      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Attack recharging, engaged with target</p>"
+    }
   }
 }

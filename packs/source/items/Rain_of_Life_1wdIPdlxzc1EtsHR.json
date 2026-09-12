@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from each of your allies within medium range who recover 1 normal wound.</p>",
-      "name": "Rain of Life",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from each of your allies within medium range who recover 1 normal wound.</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from this card, each of your allies within medium range of you recovers 1 normal wound.</p>",
-      "name": "Rain of Life",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from this card, each of your allies within medium range of you recovers 1 normal wound.</p>"
+    }
   }
 }

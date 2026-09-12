@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target can hear and understand you. Influence the target by telling him exactly what he wants to hear. If appropriate, you can sway the target towards a reasonable argument or convince him to agree to a reasonable request.</p>",
-      "name": "Honeyed Words",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Target can hear and understand you. Influence the target by telling him exactly what he wants to hear. If appropriate, you can sway the target towards a reasonable argument or convince him to agree to a reasonable request.</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: You lie to your target. A lot. If fooled, you can sway the target towards your side of the story or convince him to agree to a reasonable request.</p>",
-      "name": "Honeyed Words",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>Special: You lie to your target. A lot. If fooled, you can sway the target towards your side of the story or convince him to agree to a reasonable request.</p>"
+    }
   }
 }

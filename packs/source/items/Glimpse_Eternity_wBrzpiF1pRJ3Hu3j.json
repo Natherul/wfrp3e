@@ -33,22 +33,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You may move recharge tokens to and from anyone\u2019s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
+            "description": "<p>You may move recharge tokens to and from anyone’s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>SPELLCRAFT (INT) 4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>",
-      "name": "Glimpse Eternity",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>SPELLCRAFT (INT) 4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>"
     },
     "reckless": {
       "effects": {
@@ -83,24 +76,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You may move recharge tokens to and from anyone\u2019s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
+            "description": "<p>You may move recharge tokens to and from anyone’s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>",
-      "name": "Glimpse Eternity",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>"
+    }
   }
 }

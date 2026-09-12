@@ -18,18 +18,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour. You must mark the area to be protected by this benediction with a dove\u2019s feather, scented candle, or other holy symbol. Special: If all intelligent beings in the area join you in invoking the benediction by spending a prepare manoeuvre on their turn immediately preceding your action, reduce the difficulty modifier by {Dc}. Effect: Shallya\u2019s peace descends on the area, which is defined by an existing boundary (such as the threshold of a building or a circle of stones) or is defined by you as you invoke the blessing (such as lighting a ring of candles or walking in a circle). While this blessing is recharging, anyone who commits a violent or hostile action in the area suffers 1 stress and 1 fatigue. This blessing recharges at sunrise.</p>",
-      "name": "Benediction of Peace",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour. You must mark the area to be protected by this benediction with a dove’s feather, scented candle, or other holy symbol. Special: If all intelligent beings in the area join you in invoking the benediction by spending a prepare manoeuvre on their turn immediately preceding your action, reduce the difficulty modifier by {Dc}. Effect: Shallya’s peace descends on the area, which is defined by an existing boundary (such as the threshold of a building or a circle of stones) or is defined by you as you invoke the blessing (such as lighting a ring of candles or walking in a circle). While this blessing is recharging, anyone who commits a violent or hostile action in the area suffers 1 stress and 1 fatigue. This blessing recharges at sunrise.</p>"
     },
     "reckless": {
       "effects": {
@@ -45,20 +38,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour. You must mark the area to be protected by this benediction with a dove\u2019s feather, scented candle, or other holy symbol. Special: If all intelligent beings in the area join you in invoking the benediction by spending a prepare manoeuvre on their turn immediately preceding your action, reduce the difficulty modifier by {Dc}. Effect: Shallya\u2019s peace descends on the area, which is defined by an existing boundary (such as the threshold of a building or a circle of stones) or is defined by you as you invoke the blessing (such as lighting a ring of candles or walking in a circle). While this blessing is recharging, anyone who commits a violent or hostile action in the area suffers 1 stress and 1 fatigue. This blessing recharges at sunrise.</p>",
-      "name": "Benediction of Peace",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "4c",
+      "requirements": "<p>8 favour. You must mark the area to be protected by this benediction with a dove’s feather, scented candle, or other holy symbol. Special: If all intelligent beings in the area join you in invoking the benediction by spending a prepare manoeuvre on their turn immediately preceding your action, reduce the difficulty modifier by {Dc}. Effect: Shallya’s peace descends on the area, which is defined by an existing boundary (such as the threshold of a building or a circle of stones) or is defined by you as you invoke the blessing (such as lighting a ring of candles or walking in a circle). While this blessing is recharging, anyone who commits a violent or hostile action in the area suffers 1 stress and 1 fatigue. This blessing recharges at sunrise.</p>"
+    }
   }
 }

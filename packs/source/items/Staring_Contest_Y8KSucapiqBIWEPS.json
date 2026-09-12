@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 4+</p>",
-      "name": "Staring Contest",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Willpower 4+</p>"
     },
     "reckless": {
       "effects": {
@@ -66,7 +59,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>add MM to your target\u2019s Willpower and Fellowship checks.</p>"
+            "description": "<p>add MM to your target’s Willpower and Fellowship checks.</p>"
           },
           {
             "symbolAmount": 1,
@@ -89,20 +82,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Staring Contest",
-      "rechargeRating": 9,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 9,
+      "difficulty": "1c"
+    }
   }
 }

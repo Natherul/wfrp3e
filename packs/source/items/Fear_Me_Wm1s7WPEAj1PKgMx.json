@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within close range or lock eyes with your foe and through a display of strength and steely resolve, scare the Sigmar out of him! While this card is recharging, you gain Fear 1</p>",
-      "name": "Fear Me",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Target within close range or lock eyes with your foe and through a display of strength and steely resolve, scare the Sigmar out of him! While this card is recharging, you gain Fear 1</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within close range. Effect: You lock eyes with your foe and through a display of strength and steely resolve, scare the Sigmar out of him! While this card is recharging, you gain Fear 1</p>",
-      "name": "Fear Me",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Target within close range. Effect: You lock eyes with your foe and through a display of strength and steely resolve, scare the Sigmar out of him! While this card is recharging, you gain Fear 1</p>"
+    }
   }
 }

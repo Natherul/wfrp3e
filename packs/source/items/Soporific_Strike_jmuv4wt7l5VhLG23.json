@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom</p>",
-      "name": "Soporific Strike",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom</p>"
     },
     "reckless": {
       "effects": {
@@ -79,24 +72,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>If the attack was successful, add 2 {Dc} recharge tokens to any two of the target\u2019s action cards.</p>"
+            "description": "<p>If the attack was successful, add 2 {Dc} recharge tokens to any two of the target’s action cards.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom Special: This attack uses Agility instead of Strength for the attack roll</p>",
-      "name": "Soporific Strike",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom Special: This attack uses Agility instead of Strength for the attack roll</p>"
+    }
   }
 }

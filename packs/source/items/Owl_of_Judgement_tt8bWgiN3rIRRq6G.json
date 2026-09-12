@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A shadowy owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl\u2019s observations add {Dc} to Charm, Discipline, Guile, Intimidate, and Leadership checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
+            "description": "<p>A shadowy owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl’s observations add {Dc} to Charm, Discipline, Guile, Intimidate, and Leadership checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
           },
           {
             "symbolAmount": 3,
@@ -27,25 +27,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour. You must have a piece of food an owl would like to eat. Sigils. This card recharges at sunrise.</p>",
-      "name": "Owl of Judgement",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour. You must have a piece of food an owl would like to eat. Sigils. This card recharges at sunrise.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A shadowy owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl\u2019s observations add {Dm} to Charm, Discipline, Guile, Intimidate, and Leadership checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
+            "description": "<p>A shadowy owl settles on your shoulder and proceeds to advise you in a voice that only you can hear. The owl’s observations add {Dm} to Charm, Discipline, Guile, Intimidate, and Leadership checks. The owl stays with you until the end of the episode or sunrise, whichever comes first.</p>"
           },
           {
             "symbolAmount": 3,
@@ -68,20 +61,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: This card recharges at sunrise.</p>",
-      "name": "Owl of Judgement",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>Special: This card recharges at sunrise.</p>"
+    }
   }
 }

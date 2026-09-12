@@ -46,18 +46,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must bear the Mark of Tzeentch or be a Servant of Tzeentch. 'll\\'qvt within medium range</p>",
-      "name": "Magic Rift",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Must bear the Mark of Tzeentch or be a Servant of Tzeentch. 'll\\'qvt within medium range</p>"
     },
     "reckless": {
       "effects": {
@@ -105,20 +98,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Orcerer of Tzeentch, Sorcerer Lord of Tzeentch. Target within medium range Special: Add {Dm} to the difficulty modifier for each enemy engaged with the Sorcerer of Tzeentch</p>",
-      "name": "Magic Rift",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>Orcerer of Tzeentch, Sorcerer Lord of Tzeentch. Target within medium range Special: Add {Dm} to the difficulty modifier for each enemy engaged with the Sorcerer of Tzeentch</p>"
+    }
   }
 }

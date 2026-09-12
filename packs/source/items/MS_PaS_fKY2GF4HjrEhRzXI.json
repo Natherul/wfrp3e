@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special; Use this action to apply a skill in a way, or to attempt a dramatic activity not covered by a specific action card. Melee weapon, engaged with target. A Perform the action as intended. 4444 You perform the action incredibly. You hit the target for normal damage * and may perform a free manoeuvre.</p>",
-      "name": "MS PaS",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special; Use this action to apply a skill in a way, or to attempt a dramatic activity not covered by a specific action card. Melee weapon, engaged with target. A Perform the action as intended. 4444 You perform the action incredibly. You hit the target for normal damage * and may perform a free manoeuvre.</p>"
     },
     "reckless": {
       "effects": {
@@ -55,20 +48,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special; Use this action to apply a skill in a way, or to attempt a dramatic activity not covered by a specific action card. Melee weapon, engaged with target. A Perform the action as intended. 4444 You perform the action incredibly. You hit the target for normal damage * and may perform a free manoeuvre.</p>",
-      "name": "MS PaS",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special; Use this action to apply a skill in a way, or to attempt a dramatic activity not covered by a specific action card. Melee weapon, engaged with target. A Perform the action as intended. 4444 You perform the action incredibly. You hit the target for normal damage * and may perform a free manoeuvre.</p>"
+    }
   }
 }

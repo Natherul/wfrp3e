@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Combat Focus",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "2b"
     },
     "reckless": {
       "effects": {
@@ -81,20 +73,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Before making this check, you may suffer up to 2 stress. Reduce the difficulty modifier of this action by 1 for each stress suffered.</p>",
-      "name": "Combat Focus",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Special: Before making this check, you may suffer up to 2 stress. Reduce the difficulty modifier of this action by 1 for each stress suffered.</p>"
+    }
   }
 }

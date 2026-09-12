@@ -49,18 +49,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour. Engaged with target (you may not target yourself)</p>",
-      "name": "Martyrs Touch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>4 favour. Engaged with target (you may not target yourself)</p>"
     },
     "reckless": {
       "effects": {
@@ -111,20 +104,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour. Engaged with target (you may not target yourself) Special: You must use the highest possible success line. (But you do not have to count</p>",
-      "name": "Martyrs Touch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>4 favour. Engaged with target (you may not target yourself) Special: You must use the highest possible success line. (But you do not have to count</p>"
+    }
   }
 }

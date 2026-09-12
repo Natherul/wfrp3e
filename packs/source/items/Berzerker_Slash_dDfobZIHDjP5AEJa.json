@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: You must spend at least one Aggression die to use this ability</p>",
-      "name": "Berzerker Slash",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Special: You must spend at least one Aggression die to use this ability</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Izka Madtooth Engaged with target, melee weapon equipped Special: Izka Madtooth must spend at least one Aggression die to use this ability</p>",
-      "name": "Berzerker Slash",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Izka Madtooth Engaged with target, melee weapon equipped Special: Izka Madtooth must spend at least one Aggression die to use this ability</p>"
+    }
   }
 }

@@ -45,18 +45,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 favour. Two targets, both of which must be within medium range (you can target yourself)</p>",
-      "name": "The Balanced Scales",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 favour. Two targets, both of which must be within medium range (you can target yourself)</p>"
     },
     "reckless": {
       "effects": {
@@ -103,20 +96,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>1 favour. Two targets, both of which must be within medium range (you can target yourself). Special: This action is opposed by the higher Willpower between your targets. If you target yourself, use the second target's Willpower.</p>",
-      "name": "The Balanced Scales",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>1 favour. Two targets, both of which must be within medium range (you can target yourself). Special: This action is opposed by the higher Willpower between your targets. If you target yourself, use the second target's Willpower.</p>"
+    }
   }
 }

@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The attack m\ufb02u.ts normal damage, and the target suffers 1 stress</p>"
+            "description": "<p>The attack mﬂu.ts normal damage, and the target suffers 1 stress</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Basic NPCs Engaged with target</p>",
-      "name": "Make a Stand",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Basic NPCs Engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -67,26 +60,17 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>\u00a3 Suffer 1 wound</p>"
+            "description": "<p>£ Suffer 1 wound</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: If the attack is successful, the suffers 1 fatigue for every 3 enemies engaged with him</p>",
-      "name": "Make a Stand",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target Special: If the attack is successful, the suffers 1 fatigue for every 3 enemies engaged with him</p>"
+    }
   }
 }

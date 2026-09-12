@@ -32,18 +32,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Shooting Star",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1b"
     },
     "reckless": {
       "effects": {
@@ -54,14 +46,14 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>M As above, and ignore the soak value of your target\u2019s armour</p>"
+            "description": "<p>M As above, and ignore the soak value of your target’s armour</p>"
           }
         ],
         "righteousSuccess": [],
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>+1 damage and add or remove 1 recharge token from one of your recharging \u00a7 Celestial Order cards</p>"
+            "description": "<p>+1 damage and add or remove 1 recharge token from one of your recharging § Celestial Order cards</p>"
           }
         ],
         "bane": [
@@ -73,20 +65,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power</p>",
-      "name": "Shooting Star",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "1b",
+      "requirements": "<p>4 power</p>"
+    }
   }
 }

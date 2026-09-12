@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and you may add a second {Dc} die from your pool to this card. This card doesn\u2019t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
+            "description": "<p>As above, and you may add a second {Dc} die from your pool to this card. This card doesn’t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -28,22 +28,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>For each spell you have recharging with \u201cPortent of Amul\u201d in its name, add 1 fortune point to the party fortune pool.</p>"
+            "description": "<p>For each spell you have recharging with “Portent of Amul” in its name, add 1 fortune point to the party fortune pool.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power</p>",
-      "name": "Fourth Portent of Amul",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 power</p>"
     },
     "reckless": {
       "effects": {
@@ -54,7 +47,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and you may add a second {Dr} die from your pool to this card. This card doesn\u2019t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
+            "description": "<p>As above, and you may add a second {Dr} die from your pool to this card. This card doesn’t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -69,24 +62,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>For each spell you have recharging \u201cPortent of Amul\u201d in its name, add 1 fortune point to the party fortune pool.</p>"
+            "description": "<p>For each spell you have recharging “Portent of Amul” in its name, add 1 fortune point to the party fortune pool.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power</p>",
-      "name": "Fourth Portent of Amul",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 power</p>"
+    }
   }
 }

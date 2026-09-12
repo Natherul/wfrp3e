@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 2,
-            "description": "<p>- Ranged weapon equipped, target within long range. Line of sight to the target is NOT required, although the target\u2019s location must be known and a path to the target must exist</p>"
+            "description": "<p>- Ranged weapon equipped, target within long range. Line of sight to the target is NOT required, although the target’s location must be known and a path to the target must exist</p>"
           },
           {
             "symbolAmount": 1,
@@ -24,37 +24,29 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>You catch your opponent completely off-guard. He may not use Reactions to this attack and his shield\u2019s soak value is ignored</p>"
+            "description": "<p>You catch your opponent completely off-guard. He may not use Reactions to this attack and his shield’s soak value is ignored</p>"
           }
         ],
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>| \u00ae You damage an item along the path to the target (GM\u2019s choice)</p>"
+            "description": "<p>| ® You damage an item along the path to the target (GM’s choice)</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Trick Shot",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 1,
+      "difficulty": "1c 1b"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Ranged weapon equipped, target within long range. Line of sight to the target is NOT required, although the target\u2019s location must be known and a path to the target must exist</p>"
+            "description": "<p>Ranged weapon equipped, target within long range. Line of sight to the target is NOT required, although the target’s location must be known and a path to the target must exist</p>"
           },
           {
             "symbolAmount": 1,
@@ -69,32 +61,22 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p># You catch your opponent completely off-guard. He may not use Reactions to this attack and his shield\u2019s soak value is ignored</p>"
+            "description": "<p># You catch your opponent completely off-guard. He may not use Reactions to this attack and his shield’s soak value is ignored</p>"
           }
         ],
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae You damage an item along the path to the target (GM\u2019s choice)</p>"
+            "description": "<p>® You damage an item along the path to the target (GM’s choice)</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Trick Shot",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b"
+    }
   }
 }

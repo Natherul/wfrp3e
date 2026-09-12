@@ -40,18 +40,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Runic item equipped. As part of this action, you strike the item with your hammer. If you are engaged with an enemy, add {Dm} to the dice pool. Effect: You strike your runic item, unleashing some of the power contained within the runes. The runes struck in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune you exhaust, enemies within close range suffer 1 wound, stress, and fatigue.</p>",
-      "name": "Runestrike",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Runic item equipped. As part of this action, you strike the item with your hammer. If you are engaged with an enemy, add {Dm} to the dice pool. Effect: You strike your runic item, unleashing some of the power contained within the runes. The runes struck in this way are exhausted (turned facedown) and will recharge with the next sunrise. For each rune you exhaust, enemies within close range suffer 1 wound, stress, and fatigue.</p>"
     },
     "reckless": {
       "effects": {
@@ -93,20 +86,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Runic item equipped. As part of this action, you strike the item with your hammer. If you are engaged with an enemy, add {Dm} to the dice pool. Effect: You strike your runic item, unleashing some of the power contained within the runes. All the runes on the item are exhausted (turned facedown) and will recharge with the next sunrise.</p>",
-      "name": "Runestrike",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Runic item equipped. As part of this action, you strike the item with your hammer. If you are engaged with an enemy, add {Dm} to the dice pool. Effect: You strike your runic item, unleashing some of the power contained within the runes. All the runes on the item are exhausted (turned facedown) and will recharge with the next sunrise.</p>"
+    }
   }
 }

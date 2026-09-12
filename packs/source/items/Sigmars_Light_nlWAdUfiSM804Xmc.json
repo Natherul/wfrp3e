@@ -20,7 +20,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>You gain an inkling of the direction to the closest, strongest source of corruption in the area, even if it\u2019s not in sight</p>"
+            "description": "<p>You gain an inkling of the direction to the closest, strongest source of corruption in the area, even if it’s not in sight</p>"
           }
         ],
         "bane": [],
@@ -32,18 +32,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour, must proudly hold forth a symbol of your faith</p>",
-      "name": "Sigmars Light",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>8 favour, must proudly hold forth a symbol of your faith</p>"
     },
     "reckless": {
       "effects": {
@@ -61,7 +54,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>You gain an inkling of the direction to the closest, strongest source of corruption in the area, even if it\u2019s not in sight</p>"
+            "description": "<p>You gain an inkling of the direction to the closest, strongest source of corruption in the area, even if it’s not in sight</p>"
           }
         ],
         "bane": [],
@@ -73,20 +66,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>must proudly hold forth a symbol of your faith</p>",
-      "name": "Sigmars Light",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>must proudly hold forth a symbol of your faith</p>"
+    }
   }
 }

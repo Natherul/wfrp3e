@@ -4,13 +4,6 @@
   "_id": "o1D1v9uRxzo5BC4u",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>The flask contains a vile, roiling green liquid. Surely something fetid would be released should the flask be unstoppered. But the label appears to be legitimate, so perhaps everything will be just fine... Encumbrance: 1 If this flask is opened or shattered, it floods the area, extending a vile green cloud out to medium range. The cloud lasts for 3 rounds. Anyone in the cloud gains the Blinded condition until the end of the encounter and must make a Disease {Dc}2 check or gain a disease with the Exposure trait.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>The flask contains a vile, roiling green liquid. Surely something fetid would be released should the flask be unstoppered. But the label appears to be legitimate, so perhaps everything will be just fine... Encumbrance: 1 If this flask is opened or shattered, it floods the area, extending a vile green cloud out to medium range. The cloud lasts for 3 rounds. Anyone in the cloud gains the Blinded condition until the end of the encounter and must make a Disease {Dc}2 check or gain a disease with the Exposure trait.</p>"
   }
 }

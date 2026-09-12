@@ -42,25 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour, Strength 4+, you and your allies must be outnumbered in battle</p>",
-      "name": "Spectral Wolf",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour, Strength 4+, you and your allies must be outnumbered in battle</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A huge white wolf appears in the engagement of your choice within medium range. The wolf counts as an ally and is under your control. On your turn, the wolf can make 1 manoeuvre for free, and can make additional manoeuvres by discarding tokens from this card. If the wolf is attacked, do not roll dice - simply discard a token from this card. When you make a Melee Attack, you may choose to do so as if you were in the wolf\u2019s position, rather than your own</p>"
+            "description": "<p>A huge white wolf appears in the engagement of your choice within medium range. The wolf counts as an ally and is under your control. On your turn, the wolf can make 1 manoeuvre for free, and can make additional manoeuvres by discarding tokens from this card. If the wolf is attacked, do not roll dice - simply discard a token from this card. When you make a Melee Attack, you may choose to do so as if you were in the wolf’s position, rather than your own</p>"
           }
         ],
         "righteousSuccess": [],
@@ -88,20 +81,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour, Strength 4+, you and your allies must be outnumbered in battle</p>",
-      "name": "Spectral Wolf",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour, Strength 4+, you and your allies must be outnumbered in battle</p>"
+    }
   }
 }

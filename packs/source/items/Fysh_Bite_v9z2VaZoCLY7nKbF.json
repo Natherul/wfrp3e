@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, must be able to see your target or be within range of the target</p>",
-      "name": "Fysh Bite",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, must be able to see your target or be within range of the target</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, must be able to see your target. Special: This attack uses Agility instead of Strength for both the attack roll and damage calculation. Increase the difficulty modifier by {Dc} for each increment of range you are away from the target.</p>",
-      "name": "Fysh Bite",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, must be able to see your target. Special: This attack uses Agility instead of Strength for both the attack roll and damage calculation. Increase the difficulty modifier by {Dc} for each increment of range you are away from the target.</p>"
+    }
   }
 }

@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power. You must have at least one other Bright 3 Order spell recharging. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>",
-      "name": "Inferno of Uzhul",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "3c 1f",
+      "requirements": "<p>6 power. You must have at least one other Bright 3 Order spell recharging. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power. You must have at least one other Bright 3 Order spell recharging. If you are engaged with an enemy, add 1 {Dr} to your dice pool.</p>",
-      "name": "Inferno of Uzhul",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "3c 1f",
+      "requirements": "<p>6 power. You must have at least one other Bright 3 Order spell recharging. If you are engaged with an enemy, add 1 {Dr} to your dice pool.</p>"
+    }
   }
 }

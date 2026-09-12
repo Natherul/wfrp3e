@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour, Strength 3+, target engagement within close range</p>",
-      "name": "Battle Howl",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>3 favour, Strength 3+, target engagement within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>engagement within close range Special: This check is opposed by the highest WP among enemies in the target engagement. Each enemy with Discipline adds {Dm} to the dice pool</p>",
-      "name": "Battle Howl",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>engagement within close range Special: This check is opposed by the highest WP among enemies in the target engagement. Each enemy with Discipline adds {Dm} to the dice pool</p>"
+    }
   }
 }

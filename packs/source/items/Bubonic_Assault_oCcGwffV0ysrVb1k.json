@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>41 As the daemon attacks, sores and lesions erupt all over the target\u2019s flesh, spitting vile ichor, inflicting normal damage</p>"
+            "description": "<p>41 As the daemon attacks, sores and lesions erupt all over the target’s flesh, spitting vile ichor, inflicting normal damage</p>"
           },
           {
             "symbolAmount": 4,
@@ -42,25 +42,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Greater Daemon Engaged with target Add [Dc] to the dice pool for every disease the target is afflicted by</p>",
-      "name": "Bubonic Assault",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Greater Daemon Engaged with target Add [Dc] to the dice pool for every disease the target is afflicted by</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M As you attack, sores and lesions erupt all over the target\u2019s flesh, spitting vile ichor, inflicting normal damage</p>"
+            "description": "<p>M As you attack, sores and lesions erupt all over the target’s flesh, spitting vile ichor, inflicting normal damage</p>"
           },
           {
             "symbolAmount": 4,
@@ -93,20 +86,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Add [Dm] to the dice pool for each disease the target is afflicted by</p>",
-      "name": "Bubonic Assault",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>Special: Add [Dm] to the dice pool for each disease the target is afflicted by</p>"
+    }
   }
 }

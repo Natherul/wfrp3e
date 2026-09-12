@@ -33,18 +33,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>",
-      "name": "Path of the Autumn Wind",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -75,20 +68,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>",
-      "name": "Path of the Autumn Wind",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>"
+    }
   }
 }

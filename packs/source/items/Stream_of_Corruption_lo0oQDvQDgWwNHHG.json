@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. This check is the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dc} to the dice pool.</p>",
-      "name": "Stream of Corruption",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. This check is the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dc} to the dice pool.</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. 3 Special: This is opposed by the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dm} to the dice pool.</p>",
-      "name": "Stream of Corruption",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. 3 Special: This is opposed by the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dm} to the dice pool.</p>"
+    }
   }
 }

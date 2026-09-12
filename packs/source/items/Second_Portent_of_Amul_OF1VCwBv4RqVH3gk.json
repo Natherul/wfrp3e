@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to your dice pool. When this card recharges completely, discard all fortune points remaining on it</p>",
-      "name": "Second Portent of Amul",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 7,
+      "difficulty": "3b",
+      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to your dice pool. When this card recharges completely, discard all fortune points remaining on it</p>"
     },
     "reckless": {
       "effects": {
@@ -84,20 +77,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to dice pool. When this card recharges completely, discard all fortune points remaining on it</p>",
-      "name": "Second Portent of Amul",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": "3b",
+      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to dice pool. When this card recharges completely, discard all fortune points remaining on it</p>"
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Charm, Guile, or Leadership Mastery. Enhances a Social action that uses one of those skills you have Mastery in. Special: Play this card when you perform a Social action. You may remove dice from your dice pool. If you do, you gain the bonuses listed this card for each die. You or your target recovers 1 stress. You or your target gains the Invigorated condition for 3 rounds. You and your target recover 1 stress. If both {Dm} and {Dc} have been invested in this Enhance, you both gain the Inspired condition for 3 rounds.</p>",
-      "name": "Carefully Chosen Wordst",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Charm, Guile, or Leadership Mastery. Enhances a Social action that uses one of those skills you have Mastery in. Special: Play this card when you perform a Social action. You may remove dice from your dice pool. If you do, you gain the bonuses listed this card for each die. You or your target recovers 1 stress. You or your target gains the Invigorated condition for 3 rounds. You and your target recover 1 stress. If both {Dm} and {Dc} have been invested in this Enhance, you both gain the Inspired condition for 3 rounds.</p>"
     },
     "reckless": {
       "effects": {
@@ -40,20 +33,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Persuade, Intimidate, or Skulduggery Mastery. Special: Play this card when you perform a Social action. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. Your target suffers 1 stress. Add 2 recharge tokens to one of the target's action cards. Then, the target suffers 1 stress per {Dm} invested in this Enhance.</p>",
-      "name": "Carefully Chosen Wordst",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Persuade, Intimidate, or Skulduggery Mastery. Special: Play this card when you perform a Social action. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. Your target suffers 1 stress. Add 2 recharge tokens to one of the target's action cards. Then, the target suffers 1 stress per {Dm} invested in this Enhance.</p>"
+    }
   }
 }

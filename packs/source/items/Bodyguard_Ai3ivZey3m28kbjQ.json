@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must have at least one Advanced Active Defence action card</p>",
-      "name": "Bodyguard",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 2,
+      "difficulty": "",
+      "requirements": "<p>Must have at least one Advanced Active Defence action card</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must have at least one Advanced Active Defence action card. After an engaged ally has been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dc} to the action\u2019s dice pool. Special: After performing the Bodyguard b Active Defence, the soak value of the defended ally is increased by +1 until the end of the round. If your defended ally is hit by the triggering attack anyway, you suffer 1 wound.</p>",
-      "name": "Bodyguard",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Must have at least one Advanced Active Defence action card. After an engaged ally has been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dc} to the action’s dice pool. Special: After performing the Bodyguard b Active Defence, the soak value of the defended ally is increased by +1 until the end of the round. If your defended ally is hit by the triggering attack anyway, you suffer 1 wound.</p>"
+    }
   }
 }

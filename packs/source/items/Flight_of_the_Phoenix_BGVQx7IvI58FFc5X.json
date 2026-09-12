@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>-~ {Dc} Sword or greatsword equipped, target within close range</p>",
-      "name": "Flight of the Phoenix",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 2,
+      "difficulty": "1b",
+      "requirements": "<p>-~ {Dc} Sword or greatsword equipped, target within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: You throw your sword at the target! This attack uses Strength instead of Agility both for the check and to determine {Dm} damage dealt. Don\u2019t forget to retrieve your sword</p>",
-      "name": "Flight of the Phoenix",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: You throw your sword at the target! This attack uses Strength instead of Agility both for the check and to determine {Dm} damage dealt. Don’t forget to retrieve your sword</p>"
+    }
   }
 }

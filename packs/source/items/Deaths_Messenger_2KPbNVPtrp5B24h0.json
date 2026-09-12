@@ -33,18 +33,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: You become a grim spectre of death. While this card is recharging, you can Fear 1 against enemies as a manoeuvre, or add {Dc} to all Intimidate (St) checks.</p>",
-      "name": "Deaths Messenger",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: You become a grim spectre of death. While this card is recharging, you can Fear 1 against enemies as a manoeuvre, or add {Dc} to all Intimidate (St) checks.</p>"
     },
     "reckless": {
       "effects": {
@@ -74,25 +67,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>You cause terror instead, but cannot do so selectively \u2014 you affect all creatures that see you, friend and foe alike.</p>"
+            "description": "<p>You cause terror instead, but cannot do so selectively — you affect all creatures that see you, friend and foe alike.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: You become a grim spectre of death. While this card is recharging, you can Fear 1 against enemies as a manoeuvre, and add {Dr} to all Intimidate (St) checks.</p>",
-      "name": "Deaths Messenger",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: You become a grim spectre of death. While this card is recharging, you can Fear 1 against enemies as a manoeuvre, and add {Dr} to all Intimidate (St) checks.</p>"
+    }
   }
 }

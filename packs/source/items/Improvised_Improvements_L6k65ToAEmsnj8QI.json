@@ -28,22 +28,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 2,
-            "description": "<p>alittle more permanence; they won\u2019t fail</p>"
+            "description": "<p>alittle more permanence; they won’t fail</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action</p>",
-      "name": "Improvised Improvements",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action</p>"
     },
     "reckless": {
       "effects": {
@@ -68,20 +61,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before forming this action. In all the time 3 Special action may more or be more difficult for particularly large or complex items. Effect: Your improvised enhancements mean that the item affected by this action card is Superior while this card is recharging.</p>",
-      "name": "Improvised Improvements",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "4c",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before forming this action. In all the time 3 Special action may more or be more difficult for particularly large or complex items. Effect: Your improvised enhancements mean that the item affected by this action card is Superior while this card is recharging.</p>"
+    }
   }
 }

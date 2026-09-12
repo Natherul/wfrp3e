@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: The weather responds to your command. While this spell is recharging, you can command the seasons as a manoeuvre, changing the current season to spring, summer, autumn, or winter. While it is spring, the weather is fine and clear. While it is autumn, a chill fog adds {Dc} to Observation checks, Ranged Attacks, and other checks that involve vision beyond close range. While it is winter, snow and ice add {Dc} to Athletics, Coordination, and other checks involving movement or balance. This spell recharges at the end of the encounter.</p>",
-      "name": "Master the Season",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Effect: The weather responds to your command. While this spell is recharging, you can command the seasons as a manoeuvre, changing the current season to spring, summer, autumn, or winter. While it is spring, the weather is fine and clear. While it is autumn, a chill fog adds {Dc} to Observation checks, Ranged Attacks, and other checks that involve vision beyond close range. While it is winter, snow and ice add {Dc} to Athletics, Coordination, and other checks involving movement or balance. This spell recharges at the end of the encounter.</p>"
     },
     "reckless": {
       "effects": {
@@ -55,20 +48,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>9 power, must be outdoors. Effect: The weather responds to your command. While this spell is recharging, you can command the seasons as a manoeuvre, changing the current season to spring, summer, autumn, or winter. While it is spring, the weather is fine and clear. While it is summer, the sweltering heat means that each time a character suffers fatigue, he suffers 1 additional fatigue. While it is autumn, a chill fog adds {Dc} to Observation checks, Ranged Attacks, and other checks that involve vision beyond close range. While it is winter, snow and ice add {Dc} to Athletics, Coordination, and other checks involving movement or balance. This spell recharges at the end of the encounter.</p>",
-      "name": "Master the Season",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>9 power, must be outdoors. Effect: The weather responds to your command. While this spell is recharging, you can command the seasons as a manoeuvre, changing the current season to spring, summer, autumn, or winter. While it is spring, the weather is fine and clear. While it is summer, the sweltering heat means that each time a character suffers fatigue, he suffers 1 additional fatigue. While it is autumn, a chill fog adds {Dc} to Observation checks, Ranged Attacks, and other checks that involve vision beyond close range. While it is winter, snow and ice add {Dc} to Athletics, Coordination, and other checks involving movement or balance. This spell recharges at the end of the encounter.</p>"
+    }
   }
 }

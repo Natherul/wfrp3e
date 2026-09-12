@@ -45,18 +45,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Chop",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1b"
     },
     "reckless": {
       "effects": {
@@ -91,20 +83,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>By: Greens Engaged with target Special: If greenskins outnumber other opponents in the engagement, ignore this attack\u2019s difficulty modifier</p>",
-      "name": "Chop",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 1,
+      "difficulty": "1b",
+      "requirements": "<p>By: Greens Engaged with target Special: If greenskins outnumber other opponents in the engagement, ignore this attack’s difficulty modifier</p>"
+    }
   }
 }

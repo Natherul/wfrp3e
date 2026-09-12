@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Lock Breaker",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -77,20 +69,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>With 4 favour, lock picking tool engaged with target lock Special: The difficulty of this action is based on the quality of the lock, exactly as if you were using Skulduggery (Ag) to open it</p>",
-      "name": "Lock Breaker",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>With 4 favour, lock picking tool engaged with target lock Special: The difficulty of this action is based on the quality of the lock, exactly as if you were using Skulduggery (Ag) to open it</p>"
+    }
   }
 }

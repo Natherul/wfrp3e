@@ -4,7 +4,6 @@
   "_id": "f40f9CRCJu9d9eVS",
   "folder": "YDWE56gwi0aZYn1y",
   "system": {
-    "description": "<p>Keen Senses Protective Gear: Gain {Dc} to checks to resist the effects of inhaled poisons, gases, or diseases. However, the gear is encumbering, and globadiers must add {Dm} to all Strength, Toughness, and Agility checks they make.</p>",
-    "cooldown": false
+    "description": "<p>Keen Senses Protective Gear: Gain {Dc} to checks to resist the effects of inhaled poisons, gases, or diseases. However, the gear is encumbering, and globadiers must add {Dm} to all Strength, Toughness, and Agility checks they make.</p>"
   }
 }

@@ -32,18 +32,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>",
-      "name": "Call Beast",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>"
     },
     "reckless": {
       "effects": {
@@ -78,20 +71,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>",
-      "name": "Call Beast",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>"
+    }
   }
 }

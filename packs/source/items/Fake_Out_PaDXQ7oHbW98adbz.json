@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, plus leave this card in play as if it were recharging. When an enemy performs a manoeuvre, you may recharge this card to interrupt him and perform a manoeuvre yourself. The enemy\u2019s turn then continues as normal.</p>"
+            "description": "<p>As above, plus leave this card in play as if it were recharging. When an enemy performs a manoeuvre, you may recharge this card to interrupt him and perform a manoeuvre yourself. The enemy’s turn then continues as normal.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: If you are trained in Skulduggery, add {Dc} to your dice pool</p>",
-      "name": "Fake Out",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "",
+      "requirements": "<p>Special: If you are trained in Skulduggery, add {Dc} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -54,7 +47,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>As above, plus leave this card in play as if it were recharging. When an enemy takes an action, you may recharge this card to interrupt him and take an action yourself. The enemy\u2019s turn then continues as normal</p>"
+            "description": "<p>As above, plus leave this card in play as if it were recharging. When an enemy takes an action, you may recharge this card to interrupt him and take an action yourself. The enemy’s turn then continues as normal</p>"
           }
         ],
         "righteousSuccess": [],
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: If you are trained in Skulduggery, add {Dr} to your dice pool</p>",
-      "name": "Fake Out",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: If you are trained in Skulduggery, add {Dr} to your dice pool</p>"
+    }
   }
 }

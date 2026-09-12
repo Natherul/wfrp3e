@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>SPELLCRAFT (INT) vs. TARGET INJURY LEVEL 4 {Dc}, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>",
-      "name": "The Beast Made Well",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>SPELLCRAFT (INT) vs. TARGET INJURY LEVEL 4 {Dc}, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -74,25 +67,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00a5 You suffer 2 wounds</p>"
+            "description": "<p>¥ You suffer 2 wounds</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>power, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>",
-      "name": "The Beast Made Well",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>power, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
   }
 }

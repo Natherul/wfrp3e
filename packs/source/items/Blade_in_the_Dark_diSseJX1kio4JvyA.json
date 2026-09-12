@@ -37,18 +37,10 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Blade in the Dark",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -75,24 +67,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Ignore your target\u2019s armour soak value</p>"
+            "description": "<p>Ignore your target’s armour soak value</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>SPELLCRAFT (INT) vs. TARGET DEFENCE 3 power, 1 hand must be free or wielding a sword, target within close range. Target must be in shadow (which adds M to your dice pool) or casting a shadow. If you are empty handed, conjure a sword made of shadow</p>",
-      "name": "Blade in the Dark",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>SPELLCRAFT (INT) vs. TARGET DEFENCE 3 power, 1 hand must be free or wielding a sword, target within close range. Target must be in shadow (which adds M to your dice pool) or casting a shadow. If you are empty handed, conjure a sword made of shadow</p>"
+    }
   }
 }

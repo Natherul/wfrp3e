@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Vs. TARGET Used By: Niklas Schulmann Target within medium range, target can understand you Effect: Schulmann uses his inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow.</p>",
-      "name": "Imperious Manner",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>Vs. TARGET Used By: Niklas Schulmann Target within medium range, target can understand you Effect: Schulmann uses his inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow.</p>"
     },
     "reckless": {
       "effects": {
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target within medium range, target can understand you. Effect: You use your inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow. While this action is recharging, Charm, Guile, and Intimidate checks that target you gain {Df}.</p>",
-      "name": "Imperious Manner",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Target within medium range, target can understand you. Effect: You use your inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow. While this action is recharging, Charm, Guile, and Intimidate checks that target you gain {Df}.</p>"
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Attacked by an enemy within medium range; see below. The Changeling must expend one Expertise from its budget to use this action. The Changeling performs this action on another character\u2019s turn, as a reaction to a Spell, Ranged Attack, or Melee Attack that cannot target the Changeling. The Changeling uses this reaction against Effect: Before rolling the incoming action\u2019s dice pool, add one {Dc} to the dice pool. If the action succeeds, the attacker suffers all effects and consequences of the action, equal to the effects the Changeling suffers.</p>",
-      "name": "The Grand Deception",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Attacked by an enemy within medium range; see below. The Changeling must expend one Expertise from its budget to use this action. The Changeling performs this action on another character’s turn, as a reaction to a Spell, Ranged Attack, or Melee Attack that cannot target the Changeling. The Changeling uses this reaction against Effect: Before rolling the incoming action’s dice pool, add one {Dc} to the dice pool. If the action succeeds, the attacker suffers all effects and consequences of the action, equal to the effects the Changeling suffers.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: The Changeling. Attacked by an enemy within medium range; see below. Special: The Changeling must expend one Expertise from its budget to use this action. The Changeling performs this action on another character\u2019s turn, as a reaction to a Spell, Ranged Attack, or Melee Attack targeting the Changeling. The Changeling cannot use this reaction against Blessings. Effect: Before rolling the incoming action\u2019s dice pool, add one {Dr} to the dice pool. If the action succeeds, the attacker suffers effects and consequences of the action, equal to the effects the Changeling suffers. If the action fails, remove one recharge token from The Grand Deception.</p>",
-      "name": "The Grand Deception",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: The Changeling. Attacked by an enemy within medium range; see below. Special: The Changeling must expend one Expertise from its budget to use this action. The Changeling performs this action on another character’s turn, as a reaction to a Spell, Ranged Attack, or Melee Attack targeting the Changeling. The Changeling cannot use this reaction against Blessings. Effect: Before rolling the incoming action’s dice pool, add one {Dr} to the dice pool. If the action succeeds, the attacker suffers effects and consequences of the action, equal to the effects the Changeling suffers. If the action fails, remove one recharge token from The Grand Deception.</p>"
+    }
   }
 }

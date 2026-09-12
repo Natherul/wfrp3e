@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You may only be under the effects of Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you reduce the difficulty of all Fear and Terror checks you make by 1.</p>",
-      "name": "Saga of Gazul",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>You may only be under the effects of Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you reduce the difficulty of all Fear and Terror checks you make by 1.</p>"
     },
     "reckless": {
       "effects": {
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: You may only be under the effect of one Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you suffer 1 less stress and 1 less fatigue from failed Fear and Terror checks, to a minimum of 0.</p>",
-      "name": "Saga of Gazul",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 2,
+      "difficulty": "3c",
+      "requirements": "<p>Special: You may only be under the effect of one Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you suffer 1 less stress and 1 less fatigue from failed Fear and Terror checks, to a minimum of 0.</p>"
+    }
   }
 }

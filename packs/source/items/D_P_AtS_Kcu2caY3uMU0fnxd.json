@@ -53,11 +53,11 @@
           },
           {
             "symbolAmount": 9,
-            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action\u2019s</p>"
+            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action’s</p>"
           },
           {
             "symbolAmount": 10,
-            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action\u2019s</p>"
+            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action’s</p>"
           },
           {
             "symbolAmount": 8,
@@ -83,18 +83,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "D P AtS",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "2b"
     },
     "reckless": {
       "effects": {
@@ -145,11 +137,11 @@
           },
           {
             "symbolAmount": 9,
-            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action\u2019s</p>"
+            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action’s</p>"
           },
           {
             "symbolAmount": 10,
-            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action\u2019s</p>"
+            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action’s</p>"
           },
           {
             "symbolAmount": 8,
@@ -175,20 +167,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "D P AtS",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b"
+    }
   }
 }

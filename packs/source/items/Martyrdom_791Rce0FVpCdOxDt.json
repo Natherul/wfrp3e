@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>+4 favour, close range to the target. If you are engaged with an enemy, add 1 {Dm} to your dice pool. When this card is recharging and you are within close range of the target, you suffer wounds in the target\u2019s stead. Use the target\u2019s Toughness, soak, and other values to reduce damage and then suffer the wounds (including any criticals) yourself.</p>"
+            "description": "<p>+4 favour, close range to the target. If you are engaged with an enemy, add 1 {Dm} to your dice pool. When this card is recharging and you are within close range of the target, you suffer wounds in the target’s stead. Use the target’s Toughness, soak, and other values to reduce damage and then suffer the wounds (including any criticals) yourself.</p>"
           },
           {
             "symbolAmount": 1,
@@ -32,18 +32,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Martyrdom",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -69,25 +61,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>Use your Toughness, soak, and other values instead of the target\u2019s!</p>"
+            "description": "<p>Use your Toughness, soak, and other values instead of the target’s!</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>+4 if you are engaged with an enemy, add 1 {Dm} to your dice pool. Effect: While this card is recharging and you are within close range of the target, you suffer wounds in the target\u2019s stead. Use the target\u2019s Toughness, soak, and other values to reduce damage and then suffer the wounds (including any criticals) yourself.</p>",
-      "name": "Martyrdom",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>+4 if you are engaged with an enemy, add 1 {Dm} to your dice pool. Effect: While this card is recharging and you are within close range of the target, you suffer wounds in the target’s stead. Use the target’s Toughness, soak, and other values to reduce damage and then suffer the wounds (including any criticals) yourself.</p>"
+    }
   }
 }

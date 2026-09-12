@@ -5,26 +5,9 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Outward Bound",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -63,20 +46,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour, must toss a coin into a body of water as you set out on a journey to a place you've never been before. Special: This card recharges when you reach your destination or when you set out on a new journey.</p>",
-      "name": "Outward Bound",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>3 favour, must toss a coin into a body of water as you set out on a journey to a place you've never been before. Special: This card recharges when you reach your destination or when you set out on a new journey.</p>"
+    }
   }
 }

@@ -32,18 +32,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Furies Not engaged; you must be within close range of a target, and get within melee range to initiate this attack. Then, manoeuvre if the attack is successful, the fury may perform a free manoeuvre</p>",
-      "name": "Strafing Talon Strike",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Furies Not engaged; you must be within close range of a target, and get within melee range to initiate this attack. Then, manoeuvre if the attack is successful, the fury may perform a free manoeuvre</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You must be able to fly, not be engaged with a target, and be within close range. If the attack is successful, you may perform a free manoeuvre</p>",
-      "name": "Strafing Talon Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>You must be able to fly, not be engaged with a target, and be within close range. If the attack is successful, you may perform a free manoeuvre</p>"
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: When a living creature within close range dies, you may play this card and make a Spellcraft (Int) check to prevent that creature from dying. The difficulty of the check is equal to the highest severity amongst the critical wounds by the creature or the number of normal wounds that the creature has in excess of its wound threshold, whichever is higher. The difficulty never exceeds Daunting (4{Dc}). Death's Door may only be this spell converts critical wounds into normal wounds (beginning with those with the lowest severity) until its total number of critical wounds is equal to its Toughness rating.</p>",
-      "name": "Deaths Door",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: When a living creature within close range dies, you may play this card and make a Spellcraft (Int) check to prevent that creature from dying. The difficulty of the check is equal to the highest severity amongst the critical wounds by the creature or the number of normal wounds that the creature has in excess of its wound threshold, whichever is higher. The difficulty never exceeds Daunting (4{Dc}). Death's Door may only be this spell converts critical wounds into normal wounds (beginning with those with the lowest severity) until its total number of critical wounds is equal to its Toughness rating.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: When a living creature within close range dies, you may play this card and make a Spellcraft (Int) check to prevent that creature from dying. The difficulty of the check is equal to the highest severity amongst the critical wounds suffered by the creature or the number of normal wounds that the creature has in excess of its wound threshold, whichever is higher. The difficulty never exceeds Daunting (4{Dc}). Death's Door may only be cast once per day. & Effect: A creature whose death is prevented by this spell converts critical wounds into normal wounds (beginning with those with the lowest severity) until its total number of critical wounds is equal to its Toughness rating.</p>",
-      "name": "Deaths Door",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: When a living creature within close range dies, you may play this card and make a Spellcraft (Int) check to prevent that creature from dying. The difficulty of the check is equal to the highest severity amongst the critical wounds suffered by the creature or the number of normal wounds that the creature has in excess of its wound threshold, whichever is higher. The difficulty never exceeds Daunting (4{Dc}). Death's Door may only be cast once per day. & Effect: A creature whose death is prevented by this spell converts critical wounds into normal wounds (beginning with those with the lowest severity) until its total number of critical wounds is equal to its Toughness rating.</p>"
+    }
   }
 }

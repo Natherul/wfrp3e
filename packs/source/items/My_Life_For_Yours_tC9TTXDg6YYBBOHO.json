@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, target must be willing to receive your protection. Effect: You devote defending one ally. While this card is recharging, you remain engaged with the ally and automatically move with him when he moves. If you leave your ally\u2019s engagement, this card completely recharges.</p>",
-      "name": "My Life For Yours",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c 3b",
+      "requirements": "<p>Engaged with target, target must be willing to receive your protection. Effect: You devote defending one ally. While this card is recharging, you remain engaged with the ally and automatically move with him when he moves. If you leave your ally’s engagement, this card completely recharges.</p>"
     },
     "reckless": {
       "effects": {
@@ -79,24 +72,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Your ally\u2019s Soak Value is increased by 1 while this card is recharging.</p>"
+            "description": "<p>Your ally’s Soak Value is increased by 1 while this card is recharging.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, target must be willing to receive your protection. Effect: You devote yourself to defending one ally. While this card is recharging, you remain engaged with the ally and automatically move with him when he moves. You suffer half of your ally\u2019s wounds after Toughness and Soak (in his stead). If you leave your ally\u2019s engagement, this card recharges completely.</p>",
-      "name": "My Life For Yours",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c 3b",
+      "requirements": "<p>Engaged with target, target must be willing to receive your protection. Effect: You devote yourself to defending one ally. While this card is recharging, you remain engaged with the ally and automatically move with him when he moves. You suffer half of your ally’s wounds after Toughness and Soak (in his stead). If you leave your ally’s engagement, this card recharges completely.</p>"
+    }
   }
 }

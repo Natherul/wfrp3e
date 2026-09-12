@@ -41,18 +41,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>wound in this encounter to use this</p>",
-      "name": "Bestial Frenzy",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "",
+      "requirements": "<p>wound in this encounter to use this</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target Special: You must have suffered at least one wound in this encounter to use this action</p>",
-      "name": "Bestial Frenzy",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 1,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target Special: You must have suffered at least one wound in this encounter to use this action</p>"
+    }
   }
 }

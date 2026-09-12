@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M The grey wind clouds the target\u2019s mind. He gains the Perplexed condition for 3 rounds &</p>"
+            "description": "<p>M The grey wind clouds the target’s mind. He gains the Perplexed condition for 3 rounds &</p>"
           },
           {
             "symbolAmount": 2,
@@ -32,25 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target within medium range</p>",
-      "name": "Bewilder",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>4 power, target within medium range</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>The grey wind clouds the target\u2019s mind. He gains the Overwhelmed condition for 2 rounds [Dc]</p>"
+            "description": "<p>The grey wind clouds the target’s mind. He gains the Overwhelmed condition for 2 rounds [Dc]</p>"
           },
           {
             "symbolAmount": 2,
@@ -78,20 +71,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target within medium range</p>",
-      "name": "Bewilder",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 8,
+      "difficulty": "2b",
+      "requirements": "<p>4 power, target within medium range</p>"
+    }
   }
 }

@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>you use an Active Defence, add the Action Die {Da} to the action\u2019s dice pool</p>"
+            "description": "<p>you use an Active Defence, add the Action Die {Da} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 1,
@@ -36,25 +36,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging,</p>",
-      "name": "Saga of Valaya",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging,</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>whenever you use an Active Defence, add the Reckless Die {Dr} to the action\u2019s dice pool</p>"
+            "description": "<p>whenever you use an Active Defence, add the Reckless Die {Dr} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 1,
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging,</p>",
-      "name": "Saga of Valaya",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>You may only be under the effects of one Saga at a time. When you play a Saga, return any other Saga cards you have in play to your hand. Effect: While this card is recharging,</p>"
+    }
   }
 }

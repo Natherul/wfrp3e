@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>SPELLCRAFT (INT) 6 power, a free hand Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>",
-      "name": "The Cerulean Shield",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>SPELLCRAFT (INT) 6 power, a free hand Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>"
     },
     "reckless": {
       "effects": {
@@ -74,20 +67,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>",
-      "name": "The Cerulean Shield",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>"
+    }
   }
 }

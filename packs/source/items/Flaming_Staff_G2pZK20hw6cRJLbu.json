@@ -4,13 +4,6 @@
   "_id": "G2pZK20hw6cRJLbu",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>A brazier sits at the top of a long wooden staff. Damage Rating: 4 Critical Rating: 4 Group: Staff Qualities: Attuned 2, Defensive, Magic Encumbrance: 4 The staff is attuned to the Wind of Agshy. Bright Wizards may add {Df} to Channelling and Spellcraft checks. Once per session, a Bright Order wizard wielding a flaming staff may remove a number of recharge tokens from his currently recharging Bright Order spells equal to his character rank.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>A brazier sits at the top of a long wooden staff. Damage Rating: 4 Critical Rating: 4 Group: Staff Qualities: Attuned 2, Defensive, Magic Encumbrance: 4 The staff is attuned to the Wind of Agshy. Bright Wizards may add {Df} to Channelling and Spellcraft checks. Once per session, a Bright Order wizard wielding a flaming staff may remove a number of recharge tokens from his currently recharging Bright Order spells equal to his character rank.</p>"
   }
 }

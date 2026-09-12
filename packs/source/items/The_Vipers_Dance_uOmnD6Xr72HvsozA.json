@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Coordination trained effect: While this card is recharging, you gain +1 defence for every Ritual Dance you have recharging with its Conservative face up</p>",
-      "name": "The Vipers Dance",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Coordination trained effect: While this card is recharging, you gain +1 defence for every Ritual Dance you have recharging with its Conservative face up</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Coordination trained effect: While this card is recharging, your Melee Attacks gain +1 damage for every Ritual Dance you have recharging with its Conservative face up</p>",
-      "name": "The Vipers Dance",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Coordination trained effect: While this card is recharging, your Melee Attacks gain +1 damage for every Ritual Dance you have recharging with its Conservative face up</p>"
+    }
   }
 }

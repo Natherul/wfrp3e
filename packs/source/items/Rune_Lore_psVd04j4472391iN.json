@@ -16,24 +16,16 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>this card to add {Dm} to that action\u2019s dice pool.</p>"
+            "description": "<p>this card to add {Dm} to that action’s dice pool.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Rune Lore",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -52,26 +44,17 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>this card to add {Dm} to that action\u2019s dice pool.</p>"
+            "description": "<p>this card to add {Dm} to that action’s dice pool.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 3+, a magic Rune on your person Special: You may exhaust a rune card attached to one of your items to enhance this action. If you do, add an additional</p>",
-      "name": "Rune Lore",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Willpower 3+, a magic Rune on your person Special: You may exhaust a rune card attached to one of your items to enhance this action. If you do, add an additional</p>"
+    }
   }
 }

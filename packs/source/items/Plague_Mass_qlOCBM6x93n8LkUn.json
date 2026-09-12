@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Add M to the dice pool for each engaged with you and {Dm} for each disease suffered by characters within long range. Any engagement within long range. All @ enemy characters in that engagement suffer {Dc}4 fatigue and 1 wound at the beginning of their turn, 3 gain the Overwhelmed condition</p>",
-      "name": "Plague Mass",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Special: Add M to the dice pool for each engaged with you and {Dm} for each disease suffered by characters within long range. Any engagement within long range. All @ enemy characters in that engagement suffer {Dc}4 fatigue and 1 wound at the beginning of their turn, 3 gain the Overwhelmed condition</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must be able to chant loudly and burn profane and disgusting substances as incense. Special: Add {Dm} to the dice pool for each enemy engaged with you and {Dm} for each disease suffered by characters within long range. Effect: You summon a swarm of flies: While this action is recharging, you can spend a manoeuvre to direct the swarm to envelop any engagement within long range. All characters in that engagement suffer 1 wound at the beginning of their turn</p>",
-      "name": "Plague Mass",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 8,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Must be able to chant loudly and burn profane and disgusting substances as incense. Special: Add {Dm} to the dice pool for each enemy engaged with you and {Dm} for each disease suffered by characters within long range. Effect: You summon a swarm of flies: While this action is recharging, you can spend a manoeuvre to direct the swarm to envelop any engagement within long range. All characters in that engagement suffer 1 wound at the beginning of their turn</p>"
+    }
   }
 }

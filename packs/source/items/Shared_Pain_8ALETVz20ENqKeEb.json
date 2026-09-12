@@ -30,18 +30,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a Special: X equal to your WP is to</p>",
-      "name": "Shared Pain",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1f",
+      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a Special: X equal to your WP is to</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a walking stick) Special: X is equal to</p>",
-      "name": "Shared Pain",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c 1f",
+      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a walking stick) Special: X is equal to</p>"
+    }
   }
 }

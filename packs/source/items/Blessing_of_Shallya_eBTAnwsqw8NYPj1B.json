@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour A spectral dove appears above the battlefield, casting its radiance down around you. While this card is recharging, all allies within close range of you have their Toughness and Willpower characteristics increased by 1</p>",
-      "name": "Blessing of Shallya",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour A spectral dove appears above the battlefield, casting its radiance down around you. While this card is recharging, all allies within close range of you have their Toughness and Willpower characteristics increased by 1</p>"
     },
     "reckless": {
       "effects": {
@@ -65,20 +58,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour Effect: A spectral dove appears above the battlefield, casting its radiance down around you. While this card is recharging, all allies within close range of you have their Toughness and Willpower characteristics</p>",
-      "name": "Blessing of Shallya",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>6 favour Effect: A spectral dove appears above the battlefield, casting its radiance down around you. While this card is recharging, all allies within close range of you have their Toughness and Willpower characteristics</p>"
+    }
   }
 }

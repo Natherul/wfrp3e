@@ -37,25 +37,17 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Seek Confession",
-      "rechargeRating": 2,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 2,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A You aim as much for flair as for effect; you hit the target for -1 damage and all the target\u2019s allies within close range suffer 1 stress</p>"
+            "description": "<p>A You aim as much for flair as for effect; you hit the target for -1 damage and all the target’s allies within close range suffer 1 stress</p>"
           },
           {
             "symbolAmount": 3,
@@ -91,20 +83,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Pistol or handgun equipped; target w range Special: If you are trained in Intimidation, add {Df} to your dice pool</p>",
-      "name": "Seek Confession",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Pistol or handgun equipped; target w range Special: If you are trained in Intimidation, add {Df} to your dice pool</p>"
+    }
   }
 }

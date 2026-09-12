@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S favour, sword or spear equipped effect: Myrmidia guides your hand. W1 this blessing is recharging, the CR of any weapon you wield is reduced by 1 to a minimum of {Dc}</p>",
-      "name": "Weapon Mastery",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S favour, sword or spear equipped effect: Myrmidia guides your hand. W1 this blessing is recharging, the CR of any weapon you wield is reduced by 1 to a minimum of {Dc}</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S favour, sword or spear equipped effect: Myrmidia guides your hand and strengthens your resolve. While this blessing is recharging, the DR of any weapon you wield is increased by 1</p>",
-      "name": "Weapon Mastery",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S favour, sword or spear equipped effect: Myrmidia guides your hand and strengthens your resolve. While this blessing is recharging, the DR of any weapon you wield is increased by 1</p>"
+    }
   }
 }

@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending our movement engaged to the target in the new location</p>",
-      "name": "Tenacious Hunt",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending our movement engaged to the target in the new location</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending your movement engaged to the target in the new location</p>",
-      "name": "Tenacious Hunt",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending your movement engaged to the target in the new location</p>"
+    }
   }
 }

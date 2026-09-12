@@ -16,7 +16,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>You recover 1 additional fatigue, stress, and wound during this night\u2019s rest (even exceeding your Toughness score).</p>"
+            "description": "<p>You recover 1 additional fatigue, stress, and wound during this night’s rest (even exceeding your Toughness score).</p>"
           }
         ],
         "bane": [
@@ -26,7 +26,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You recover 1 fewer fatigue, stress, and wound during this night\u2019s rest.</p>"
+            "description": "<p>You recover 1 fewer fatigue, stress, and wound during this night’s rest.</p>"
           }
         ],
         "chaosStar": [
@@ -37,18 +37,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Seek S favour. You must fall asleep as you use this action. It recharges at sundown each day. Effect: You ask Morr to send you a dream that offers wisdom or guidance for your course ahead. You make your check, and then the GM describes your dream. The better your results, the more information he may choose to give you (cryptic as it may be!). In addition, this blessing has other effects described below.</p>",
-      "name": "Guiding Dream",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Seek S favour. You must fall asleep as you use this action. It recharges at sundown each day. Effect: You ask Morr to send you a dream that offers wisdom or guidance for your course ahead. You make your check, and then the GM describes your dream. The better your results, the more information he may choose to give you (cryptic as it may be!). In addition, this blessing has other effects described below.</p>"
     },
     "reckless": {
       "effects": {
@@ -62,7 +55,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>You recover 1 additional fatigue, stress, and wound during this night\u2019s rest (even exceeding your Toughness score).</p>"
+            "description": "<p>You recover 1 additional fatigue, stress, and wound during this night’s rest (even exceeding your Toughness score).</p>"
           }
         ],
         "bane": [
@@ -72,7 +65,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You recover 1 fewer fatigue, stress, and wound during this night\u2019s rest.</p>"
+            "description": "<p>You recover 1 fewer fatigue, stress, and wound during this night’s rest.</p>"
           }
         ],
         "chaosStar": [
@@ -83,20 +76,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Seek S favour. You must fall asleep as you use this action. It recharges at sundown each day. Effect: You ask Morr to send you a dream that offers wisdom or guidance for your course ahead. You make your check, and then the GM describes your dream. The better your results, the more information he may choose to give you (cryptic as it may be!). In addition, this blessing has other effects described below.</p>",
-      "name": "Guiding Dream",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>Seek S favour. You must fall asleep as you use this action. It recharges at sundown each day. Effect: You ask Morr to send you a dream that offers wisdom or guidance for your course ahead. You make your check, and then the GM describes your dream. The better your results, the more information he may choose to give you (cryptic as it may be!). In addition, this blessing has other effects described below.</p>"
+    }
   }
 }

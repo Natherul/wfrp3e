@@ -4,13 +4,6 @@
   "_id": "fERMhYCXZ38zJIs8",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>Critical Damage Rating: 4 Qualities: Pierce | Group: Ordinary Encumbrance: 2 Whenever the attacker critically wounds with the Assassin\u2019s Blade, he may add a number of recharge tokens equal to the wound\u2019s severity rating to the target's actions</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>Critical Damage Rating: 4 Qualities: Pierce | Group: Ordinary Encumbrance: 2 Whenever the attacker critically wounds with the Assassin’s Blade, he may add a number of recharge tokens equal to the wound’s severity rating to the target's actions</p>"
   }
 }

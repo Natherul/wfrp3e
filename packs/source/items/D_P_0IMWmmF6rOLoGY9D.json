@@ -13,11 +13,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>4 If you have named \u2018d an additional {Dc} to the action\u2019s Spegml you Coordination</p>"
+            "description": "<p>4 If you have named ‘d an additional {Dc} to the action’s Spegml you Coordination</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>ddan addmoml {Dc} to the action\u2019s dice</p>"
+            "description": "<p>ddan addmoml {Dc} to the action’s dice</p>"
           }
         ],
         "righteousSuccess": [],
@@ -26,18 +26,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>\u2014\u2018me: you have been declared the add two redner e dice pool</p>",
-      "name": "D P",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>—‘me: you have been declared the add two redner e dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -48,11 +41,11 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>4 If you have named \u2018d an additional {Dr} to the action\u2019s Spegml you Coordination</p>"
+            "description": "<p>4 If you have named ‘d an additional {Dr} to the action’s Spegml you Coordination</p>"
           },
           {
             "symbolAmount": 1,
-            "description": "<p>ddan addmoml {Dr} to the action\u2019s dice</p>"
+            "description": "<p>ddan addmoml {Dr} to the action’s dice</p>"
           }
         ],
         "righteousSuccess": [],
@@ -61,20 +54,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>\u2014\u2018me: you have been declared the add two redner e dice pool</p>",
-      "name": "D P",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>—‘me: you have been declared the add two redner e dice pool</p>"
+    }
   }
 }

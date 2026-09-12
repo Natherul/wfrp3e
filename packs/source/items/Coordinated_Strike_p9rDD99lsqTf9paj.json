@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You hit the target using your weapon's damage rating but the coordinating ally\u2019s Strength to determine damage</p>"
+            "description": "<p>You hit the target using your weapon's damage rating but the coordinating ally’s Strength to determine damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -32,25 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>",
-      "name": "Coordinated Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You hit using your own Strength but the ally\u2019s weapon damage and critical ratings to determine damage</p>"
+            "description": "<p>You hit using your own Strength but the ally’s weapon damage and critical ratings to determine damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -65,7 +58,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>Add the coordinating ally\u2019s Strength to the damage inflicted</p>"
+            "description": "<p>Add the coordinating ally’s Strength to the damage inflicted</p>"
           }
         ],
         "bane": [
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>",
-      "name": "Coordinated Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>"
+    }
   }
 }

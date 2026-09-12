@@ -33,18 +33,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Weapon equipped, engaged with target and with henchman. 1 Obedience and if you are trained in skill, difficulty by 1</p>",
-      "name": "Brains   Brawn",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Weapon equipped, engaged with target and with henchman. 1 Obedience and if you are trained in skill, difficulty by 1</p>"
     },
     "reckless": {
       "effects": {
@@ -75,20 +68,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Weapon equipped, engaged with target and with henchman. 1 Obedience and if you are trained in skill, difficulty by 1</p>",
-      "name": "Brains   Brawn",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Weapon equipped, engaged with target and with henchman. 1 Obedience and if you are trained in skill, difficulty by 1</p>"
+    }
   }
 }

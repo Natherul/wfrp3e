@@ -22,29 +22,22 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00ae Your imitation is unkind. If the subject of your imitation observes you \u201cgetting in character\u201d, he suffers 1 stress and may react poorly</p>"
+            "description": "<p>® Your imitation is unkind. If the subject of your imitation observes you “getting in character”, he suffers 1 stress and may react poorly</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>! N Your likeness is uncanny. Gain Guile checks when your imitation is an & \u00a2 advantage while this card is recharging</p>"
+            "description": "<p>! N Your likeness is uncanny. Gain Guile checks when your imitation is an & ¢ advantage while this card is recharging</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Must have at least passing familiarity with the subject of your imitation mannerisms of either an individual or members of a class of people, such as \u201cdockworkers\u201d or \u201cnoble ladies\u201d. This can be comedic, but it also gives you a bonus \u00a5 subject of\u00a7 on Social actions dealing with the -'ymn' imitation while this card is recharging</p>",
-      "name": "Impersonate",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Must have at least passing familiarity with the subject of your imitation mannerisms of either an individual or members of a class of people, such as “dockworkers” or “noble ladies”. This can be comedic, but it also gives you a bonus ¥ subject of§ on Social actions dealing with the -'ymn' imitation while this card is recharging</p>"
     },
     "reckless": {
       "effects": {
@@ -82,25 +75,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u201cWho are you again?\u201d If the check failed,</p>"
+            "description": "<p>“Who are you again?” If the check failed,</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: You imitate the voice and mannerisms of a specific (perhaps invented) person with intent to deceive and pass yourself off as someone else. While this card is recharging, gain a {Df} bonus on all Guile checks</p>",
-      "name": "Impersonate",
-      "rechargeRating": 9,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 9,
+      "difficulty": "2c",
+      "requirements": "<p>Effect: You imitate the voice and mannerisms of a specific (perhaps invented) person with intent to deceive and pass yourself off as someone else. While this card is recharging, gain a {Df} bonus on all Guile checks</p>"
+    }
   }
 }

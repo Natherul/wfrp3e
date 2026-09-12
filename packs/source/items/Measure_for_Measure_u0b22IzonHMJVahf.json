@@ -32,18 +32,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour Effect: While this blessing is recharging, Verena administers justice on your behalf. Each time you suffer 1 or more wounds, fatigue, stress, corruption, critical wounds, or conditions, you suffer 1 less (a minimum of 1) and you may choose. That character suffers 1 wound, fatigue, critical wound, stress, corruption, or corresponding condition as appropriate.</p>",
-      "name": "Measure for Measure",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>6 favour Effect: While this blessing is recharging, Verena administers justice on your behalf. Each time you suffer 1 or more wounds, fatigue, stress, corruption, critical wounds, or conditions, you suffer 1 less (a minimum of 1) and you may choose. That character suffers 1 wound, fatigue, critical wound, stress, corruption, or corresponding condition as appropriate.</p>"
     },
     "reckless": {
       "effects": {
@@ -68,25 +61,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00a7 wound, fatigue, and You suffer 1 stress.</p>"
+            "description": "<p>§ wound, fatigue, and You suffer 1 stress.</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: While this blessing is recharging, Verena administers justice on your behalf. Each time you suffer 1 or more wounds, fatigue, stress, corruption, critical wounds, or conditions, you may choose another character within long range. That character suffers wounds, fatigue, stress, corruption, critical wounds, or corresponding conditions as appropriate and in equal measure to the injury you have suffered.</p>",
-      "name": "Measure for Measure",
-      "rechargeRating": 25,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 25,
+      "difficulty": "3c",
+      "requirements": "<p>Effect: While this blessing is recharging, Verena administers justice on your behalf. Each time you suffer 1 or more wounds, fatigue, stress, corruption, critical wounds, or conditions, you may choose another character within long range. That character suffers wounds, fatigue, stress, corruption, critical wounds, or corresponding conditions as appropriate and in equal measure to the injury you have suffered.</p>"
+    }
   }
 }

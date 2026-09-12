@@ -4,13 +4,6 @@
   "_id": "eny0rOMZDvDocW0E",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>The White Lion pelt confers protection to its wearer against cold and other harsh climatic conditions. Its wearer adds {Df} to the pool to any check to resist weather conditions like cold, snow, or rain. In combat, the pelt confers protection against ranged attacks. The wearer of the pelt adds 1 to any enemy dice pool targeting him with a ranged weapon.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>The White Lion pelt confers protection to its wearer against cold and other harsh climatic conditions. Its wearer adds {Df} to the pool to any check to resist weather conditions like cold, snow, or rain. In combat, the pelt confers protection against ranged attacks. The wearer of the pelt adds 1 to any enemy dice pool targeting him with a ranged weapon.</p>"
   }
 }

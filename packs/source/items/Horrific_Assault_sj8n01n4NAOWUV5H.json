@@ -27,25 +27,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target add 0 to this check</p>",
-      "name": "Horrific Assault",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target add 0 to this check</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M The fiend\u2019s tentacles and claws all extend & hurling their might wickedly, at one target and inflicting normal damage</p>"
+            "description": "<p>M The fiend’s tentacles and claws all extend & hurling their might wickedly, at one target and inflicting normal damage</p>"
           },
           {
             "symbolAmount": 2,
@@ -85,20 +78,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Horror o Engaged with target Special: If the target is suffering from add {Dm} to this check</p>",
-      "name": "Horrific Assault",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Horror o Engaged with target Special: If the target is suffering from add {Dm} to this check</p>"
+    }
   }
 }

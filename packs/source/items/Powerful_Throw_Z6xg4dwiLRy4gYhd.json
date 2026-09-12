@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy</p>",
-      "name": "Powerful Throw",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy</p>"
     },
     "reckless": {
       "effects": {
@@ -71,7 +64,7 @@
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>-1 modifier by {Dm} and add 1 additional recharge b \u00a5 token to this card per fatigue</p>"
+            "description": "<p>-1 modifier by {Dm} and add 1 additional recharge b ¥ token to this card per fatigue</p>"
           },
           {
             "symbolAmount": 1,
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy. Special: You may suffer up to 2 fatigue - before this action. Reduce the difficulty by {Dc}.</p>",
-      "name": "Powerful Throw",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy. Special: You may suffer up to 2 fatigue - before this action. Reduce the difficulty by {Dc}.</p>"
+    }
   }
 }

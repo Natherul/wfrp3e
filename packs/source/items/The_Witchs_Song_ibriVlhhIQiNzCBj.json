@@ -40,18 +40,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Current power less than twice Willpower. If you are engaged with an enemy, add {Dm} to the dice pool. Special: Your eerie song causes Fear 1. You can both sing and cast a spell in the same turn using the normal quick-casting rules as if The Witch's Song were Channel Power M.</p>",
-      "name": "The Witchs Song",
-      "rechargeRating": 20,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 20,
+      "difficulty": "1c",
+      "requirements": "<p>Current power less than twice Willpower. If you are engaged with an enemy, add {Dm} to the dice pool. Special: Your eerie song causes Fear 1. You can both sing and cast a spell in the same turn using the normal quick-casting rules as if The Witch's Song were Channel Power M.</p>"
     },
     "reckless": {
       "effects": {
@@ -62,20 +55,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: Your eerie song causes Fear 1. You can both sing and casta spell in the turn using the normal quick-casting rules as if The Witch's Song were Channel Power M Your song swells and ripples through the mists, calling the Winds of Magic to you. Gain 1 power 44 As above, but gain 3 power #4444 As above, but gain 4 power Gain 1 power = # Ifyou have \u00a7 Suffer 1 stress. more power than WP, suffer 1 additional stress your # pool % #8 Add to your results Suffer a miscast. It affects everyone within close & range</p>",
-      "name": "The Witchs Song",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: Your eerie song causes Fear 1. You can both sing and casta spell in the turn using the normal quick-casting rules as if The Witch's Song were Channel Power M Your song swells and ripples through the mists, calling the Winds of Magic to you. Gain 1 power 44 As above, but gain 3 power #4444 As above, but gain 4 power Gain 1 power = # Ifyou have § Suffer 1 stress. more power than WP, suffer 1 additional stress your # pool % #8 Add to your results Suffer a miscast. It affects everyone within close & range</p>"
+    }
   }
 }

@@ -49,18 +49,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 Power. No other currently recharging. If you are engaged with an enemy, add your dice pool. Effect: While this card is recharging, you may remove all recharge tokens from this spell to re-roll a number of dice from one of your skill checks up to the number of recharge tokens removed. Dice showing a {Dc} result cannot be re-rolled.</p>",
-      "name": "Shemteks Fortune",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 Power. No other currently recharging. If you are engaged with an enemy, add your dice pool. Effect: While this card is recharging, you may remove all recharge tokens from this spell to re-roll a number of dice from one of your skill checks up to the number of recharge tokens removed. Dice showing a {Dc} result cannot be re-rolled.</p>"
     },
     "reckless": {
       "effects": {
@@ -71,20 +64,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: While this card is recharging, you may remove all recharge tokens from this spell to immediately force an NPC within medium range to re-roll a number of dice from one of his skill checks up to the number of recharge tokens removed. Dice showing a {Dc} result cannot be re-rolled. When the last recharge token is removed, suffer 1 fatigue. # You cast the spell. 2 As above, and add 2 recharge tokens to this spell. & Suffer 1 fatigue. While this card is recharging, suffer 1 fatigue each time you roll a skill check that generates one or more {Dm}.</p>",
-      "name": "Shemteks Fortune",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Effect: While this card is recharging, you may remove all recharge tokens from this spell to immediately force an NPC within medium range to re-roll a number of dice from one of his skill checks up to the number of recharge tokens removed. Dice showing a {Dc} result cannot be re-rolled. When the last recharge token is removed, suffer 1 fatigue. # You cast the spell. 2 As above, and add 2 recharge tokens to this spell. & Suffer 1 fatigue. While this card is recharging, suffer 1 fatigue each time you roll a skill check that generates one or more {Dm}.</p>"
+    }
   }
 }

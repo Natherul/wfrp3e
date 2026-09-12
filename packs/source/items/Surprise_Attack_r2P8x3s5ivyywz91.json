@@ -26,24 +26,17 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>You leave yourself open for a counterattack! If your target\u2019s next action is to attack you, he adds {Dm} to his dice pool.</p>"
+            "description": "<p>You leave yourself open for a counterattack! If your target’s next action is to attack you, he adds {Dm} to his dice pool.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target, not visibly armed or target does not suspect you of being armed. This attack does not have recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, they will not fall for your trickery.</p>",
-      "name": "Surprise Attack",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target, not visibly armed or target does not suspect you of being armed. This attack does not have recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, they will not fall for your trickery.</p>"
     },
     "reckless": {
       "effects": {
@@ -54,7 +47,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>M4 As above, and reduce the target\u2019s armour soak value by 2 for this attack.</p>"
+            "description": "<p>M4 As above, and reduce the target’s armour soak value by 2 for this attack.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -67,26 +60,17 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>@8 You leave yourself open for a counterattack! If your target\u2019s next action is to attack you, he adds {Dm} to his dice pool.</p>"
+            "description": "<p>@8 You leave yourself open for a counterattack! If your target’s next action is to attack you, he adds {Dm} to his dice pool.</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>",
-      "name": "Surprise Attack",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>"
+    }
   }
 }

@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>4 Name one attribute, such as a characteristic, fatigue, health (wounds), mental health (insanity), purity (corruption), or fortune points. You \u201csteal\u201d 1 of that attribute from target. This effect lasts until the end of the encounter.</p>"
+            "description": "<p>4 Name one attribute, such as a characteristic, fatigue, health (wounds), mental health (insanity), purity (corruption), or fortune points. You “steal” 1 of that attribute from target. This effect lasts until the end of the encounter.</p>"
           },
           {
             "symbolAmount": 3,
@@ -22,7 +22,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>When the blessing\u2019s effect ends, you lose 1 of that attribute until the next sunset.</p>"
+            "description": "<p>When the blessing’s effect ends, you lose 1 of that attribute until the next sunset.</p>"
           }
         ],
         "sigmarsComet": [
@@ -32,29 +32,22 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour, target within medium range Special: When invoke this blessing \u201csteal\u201d from the target, you benefit and your target suffers. For example, if you steal a characteristic such as Agility, your target loses Agility and you gain Agility. If you steal fatigue, you recover fatigue and your target suffers fatigue.</p>",
-      "name": "Crime of the Century",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1f",
+      "requirements": "<p>8 favour, target within medium range Special: When invoke this blessing “steal” from the target, you benefit and your target suffers. For example, if you steal a characteristic such as Agility, your target loses Agility and you gain Agility. If you steal fatigue, you recover fatigue and your target suffers fatigue.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Name one attribute, such as a characteristic, fatigue, stress, health (wounds), mental health (insanity), purity (corruption), or fortune points. You \u201csteal\u201d 1 of that attribute from target. This effect lasts until the end of the encounter.</p>"
+            "description": "<p>Name one attribute, such as a characteristic, fatigue, stress, health (wounds), mental health (insanity), purity (corruption), or fortune points. You “steal” 1 of that attribute from target. This effect lasts until the end of the encounter.</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, but \u201csteal\u201d 2 of that attribute from your target instead</p>"
+            "description": "<p>As above, but “steal” 2 of that attribute from your target instead</p>"
           }
         ],
         "righteousSuccess": [],
@@ -63,7 +56,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>When the blessing\u2019s effect ends, you lose 1 of that attribute until the next sunset.</p>"
+            "description": "<p>When the blessing’s effect ends, you lose 1 of that attribute until the next sunset.</p>"
           }
         ],
         "sigmarsComet": [
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 favour, target within medium range Special: When you invoke this blessing and \u201csteal\u201d from the target, you benefit and your target suffers. For example, if you steal a characteristic such as Agility, your target loses Agility and you gain Agility. If you steal fatigue, you recover fatigue and your target suffers fatigue.</p>",
-      "name": "Crime of the Century",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1f 1b",
+      "requirements": "<p>8 favour, target within medium range Special: When you invoke this blessing and “steal” from the target, you benefit and your target suffers. For example, if you steal a characteristic such as Agility, your target loses Agility and you gain Agility. If you steal fatigue, you recover fatigue and your target suffers fatigue.</p>"
+    }
   }
 }

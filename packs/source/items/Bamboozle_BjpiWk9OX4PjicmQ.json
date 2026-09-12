@@ -18,18 +18,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak</p>",
-      "name": "Bamboozle",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak</p>"
     },
     "reckless": {
       "effects": {
@@ -50,20 +43,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak Special: If you have Guile trained, add {Dc} to the dice pool for each rank of Guile. When you invoke this blessing, you describe what effect you want it to have and the GM may modify the dice pool based on how dangerous or contrary to the target's nature the desired action is. Actions that are clearly self-harmful or flagrantly against the subject's nature will add at least {Dm} to the dice pool</p>",
-      "name": "Bamboozle",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak Special: If you have Guile trained, add {Dc} to the dice pool for each rank of Guile. When you invoke this blessing, you describe what effect you want it to have and the GM may modify the dice pool based on how dangerous or contrary to the target's nature the desired action is. Actions that are clearly self-harmful or flagrantly against the subject's nature will add at least {Dm} to the dice pool</p>"
+    }
   }
 }

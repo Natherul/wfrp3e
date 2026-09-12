@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>H I\u2019lage a number of D on th</p>"
+            "description": "<p>H I’lage a number of D on th</p>"
           },
           {
             "symbolAmount": 1,
@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Add \u00a7 to your dice pool if you are engaged with an enemy</p>",
-      "name": "Velvet Parlance",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Add § to your dice pool if you are engaged with an enemy</p>"
     },
     "reckless": {
       "effects": {
@@ -82,20 +75,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>pool if you are engaged with an enemy</p>",
-      "name": "Velvet Parlance",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c 1b",
+      "requirements": "<p>pool if you are engaged with an enemy</p>"
+    }
   }
 }

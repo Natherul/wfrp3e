@@ -4,13 +4,6 @@
   "_id": "0qr2oyEqAbDqo2KP",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>This blade is both old and Tilean, which gives it an exotic appearance. It is inlaid with the spear of Myrmidia and a single word in archaic Tilean: \\\"Acitus.\\\" Damage Rating: 6 Critical Rating: 3 (2 vs. goblins) Group: Hand Weapon Qualities: None Encumbrance: 3 Acitus has a special hatred for goblins. Failure to kill goblins when presented with the opportunity makes the wielder irritable and unpleasant, causing him to suffer 1 stress. If denied the opportunity to kill goblins by his comrades, the party tension meter may advance.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>This blade is both old and Tilean, which gives it an exotic appearance. It is inlaid with the spear of Myrmidia and a single word in archaic Tilean: \\\"Acitus.\\\" Damage Rating: 6 Critical Rating: 3 (2 vs. goblins) Group: Hand Weapon Qualities: None Encumbrance: 3 Acitus has a special hatred for goblins. Failure to kill goblins when presented with the opportunity makes the wielder irritable and unpleasant, causing him to suffer 1 stress. If denied the opportunity to kill goblins by his comrades, the party tension meter may advance.</p>"
   }
 }

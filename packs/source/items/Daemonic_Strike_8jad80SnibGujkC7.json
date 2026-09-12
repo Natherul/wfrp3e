@@ -21,7 +21,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>The attack inflicts +1 damage, and the target suffers 1 stress. The target\u2019s stance is moved one space towards a neutral stance. You lose 1 aggression die from your budget.</p>"
+            "description": "<p>The attack inflicts +1 damage, and the target suffers 1 stress. The target’s stance is moved one space towards a neutral stance. You lose 1 aggression die from your budget.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -35,18 +35,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Daemonic Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -65,7 +57,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>The attack inflicts +2 damage, and the target suffers 1 stress. The target\u2019s stance is moved one space towards a neutral stance. The attacker loses 1 aggression die from its budget.</p>"
+            "description": "<p>The attack inflicts +2 damage, and the target suffers 1 stress. The target’s stance is moved one space towards a neutral stance. The attacker loses 1 aggression die from its budget.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -79,20 +71,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Daemonic Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

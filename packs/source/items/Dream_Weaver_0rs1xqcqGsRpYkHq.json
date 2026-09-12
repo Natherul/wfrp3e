@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M You enter into the dreaming mind of a mortal creature anywhere in the world. While that mortal\u2019s dream, you may interact with him almost as if speaking face-to-face, although the entire experience is more surreal and less literal. You may use applicable social skills such as Charm or Guile to ask questions or influence the dreamer.</p>"
+            "description": "<p>M You enter into the dreaming mind of a mortal creature anywhere in the world. While that mortal’s dream, you may interact with him almost as if speaking face-to-face, although the entire experience is more surreal and less literal. You may use applicable social skills such as Charm or Guile to ask questions or influence the dreamer.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -33,25 +33,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Requires: As part of working this blessing, you fall asleep and remain so for at least 6 hours. You must have a connection to the target, a portrait, true name, or personal item.</p>",
-      "name": "Dream Weaver",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Requires: As part of working this blessing, you fall asleep and remain so for at least 6 hours. You must have a connection to the target, a portrait, true name, or personal item.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You enter into the dreaming mind of a mortal creature anywhere in the world. While in that mortal\u2019s dream, you may interact with him almost as if speaking face-to-face, although the entire experience is more surreal and less literal. You may use applicable social skills such as Charm or Guile to ask questions or influence the dreamer.</p>"
+            "description": "<p>You enter into the dreaming mind of a mortal creature anywhere in the world. While in that mortal’s dream, you may interact with him almost as if speaking face-to-face, although the entire experience is more surreal and less literal. You may use applicable social skills such as Charm or Guile to ask questions or influence the dreamer.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -79,20 +72,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Requires: As part of working this spell, you fall asleep and remain so for at least 6 hours. You must have a connection to the target, such as a portrait, true name, or personal item. Special: This blessing recharges at sundown.</p>",
-      "name": "Dream Weaver",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Requires: As part of working this spell, you fall asleep and remain so for at least 6 hours. You must have a connection to the target, such as a portrait, true name, or personal item. Special: This blessing recharges at sundown.</p>"
+    }
   }
 }

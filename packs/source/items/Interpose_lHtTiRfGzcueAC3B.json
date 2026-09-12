@@ -5,33 +5,16 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Interpose",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>card to add {Da} to the action\u2019s dice pool equal to your ranks in Ride. Your mount & wind 1</p>"
+            "description": "<p>card to add {Da} to the action’s dice pool equal to your ranks in Ride. Your mount & wind 1</p>"
           }
         ],
         "righteousSuccess": [],
@@ -40,20 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Mounted on a war-trained steed, trained in Ride, Agility 3+. Effect: When you are declared as the target of a Melee or Ranged Attack, Spell or Blessing to defence, you may manoeuvre your mount to block the attack. Add 4 additional recharge tokens to this card to add {Da} to the action\u2019s dice pool equal to your ranks in Ride. Your mount & wind 1</p>",
-      "name": "Interpose",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Mounted on a war-trained steed, trained in Ride, Agility 3+. Effect: When you are declared as the target of a Melee or Ranged Attack, Spell or Blessing to defence, you may manoeuvre your mount to block the attack. Add 4 additional recharge tokens to this card to add {Da} to the action’s dice pool equal to your ranks in Ride. Your mount & wind 1</p>"
+    }
   }
 }

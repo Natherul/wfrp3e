@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, play after successfully casting a Jade Order spell. If you successfully cast a Jade Order spell, spend 3 power and place 6 recharge tokens on this card to choose an ally within medium range. That character recovers 1 wound. If you have Mastery of Spellcraft, that character recovers 1 additional wound.</p>",
-      "name": "LifeBloom",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>3 power, play after successfully casting a Jade Order spell. If you successfully cast a Jade Order spell, spend 3 power and place 6 recharge tokens on this card to choose an ally within medium range. That character recovers 1 wound. If you have Mastery of Spellcraft, that character recovers 1 additional wound.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power, play after successfully casting a Jade Order spell. If the spell was a Spring or Summer spell, you recover 1 wound. Effect: After you successfully cast a Jade Order spell, spend 3 power and place 6 recharge tokens on this card to choose an ally within medium range or yourself. That character recovers 1 wound. If you have Mastery of Spellcraft, that character recovers 1 additional wound.</p>",
-      "name": "LifeBloom",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>3 power, play after successfully casting a Jade Order spell. If the spell was a Spring or Summer spell, you recover 1 wound. Effect: After you successfully cast a Jade Order spell, spend 3 power and place 6 recharge tokens on this card to choose an ally within medium range or yourself. That character recovers 1 wound. If you have Mastery of Spellcraft, that character recovers 1 additional wound.</p>"
+    }
   }
 }

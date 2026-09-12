@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target metal object within close range. Must spend 2 power per encumbrance of the target.</p>",
-      "name": "Transformation of Metal",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Target metal object within close range. Must spend 2 power per encumbrance of the target.</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target metal object within close range. Must spend 1 power per encumbrance of the target. Special: If the target object is carried by an enemy, add {Dm} to the dice pool. Unusually large or complex targets may add additional difficulty at the GM's discretion.</p>",
-      "name": "Transformation of Metal",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Target metal object within close range. Must spend 1 power per encumbrance of the target. Special: If the target object is carried by an enemy, add {Dm} to the dice pool. Unusually large or complex targets may add additional difficulty at the GM's discretion.</p>"
+    }
   }
 }

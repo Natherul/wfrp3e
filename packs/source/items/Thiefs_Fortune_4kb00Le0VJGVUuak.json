@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour Effect: While this card is recharging, if you spend a fortune point to add {Df} to a Stealth check\u2019s dice pool, add an additional {Dc} to the pool</p>",
-      "name": "Thiefs Fortune",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>3 favour Effect: While this card is recharging, if you spend a fortune point to add {Df} to a Stealth check’s dice pool, add an additional {Dc} to the pool</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour Effect: While this card is recharging, when you spend a fortune point to add {Df} to a Skulduggery check\u2019s dice pool, add an additional {Dm} to the pool</p>",
-      "name": "Thiefs Fortune",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>4 favour Effect: While this card is recharging, when you spend a fortune point to add {Df} to a Skulduggery check’s dice pool, add an additional {Dm} to the pool</p>"
+    }
   }
 }

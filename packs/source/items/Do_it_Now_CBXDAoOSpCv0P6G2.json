@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Leadership trained, an ally within medium range has just completed his turn</p>",
-      "name": "Do it Now",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Leadership trained, an ally within medium range has just completed his turn</p>"
     },
     "reckless": {
       "effects": {
@@ -45,20 +38,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intimidate trained Special: This action uses Fellowship rather than Strength</p>",
-      "name": "Do it Now",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>Intimidate trained Special: This action uses Fellowship rather than Strength</p>"
+    }
   }
 }

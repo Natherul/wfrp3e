@@ -28,18 +28,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 power. You toss a golden coin into the air as part of casting this spell. The coin is consumed.</p>",
-      "name": "Gehennas Golden Golem",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>10 power. You toss a golden coin into the air as part of casting this spell. The coin is consumed.</p>"
     },
     "reckless": {
       "effects": {
@@ -70,20 +63,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>10 power. You toss a coin into the air as part of casting this spell. The coin is consumed.</p>",
-      "name": "Gehennas Golden Golem",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>10 power. You toss a coin into the air as part of casting this spell. The coin is consumed.</p>"
+    }
   }
 }

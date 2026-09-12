@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, must bear the Mark of Tzeentch Effect: You call upon the Great Conspirator for his blessing, for the inscrutable brilliance and mastery of fate that is his domain. While this spell is recharging, you may remove a recharge token from this card to add {Dc} to your dice pool once per turn. If you do not do this on your turn during a given round, you may remove a recharge</p>",
-      "name": "Boon of Tzeentch",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>6 power, must bear the Mark of Tzeentch Effect: You call upon the Great Conspirator for his blessing, for the inscrutable brilliance and mastery of fate that is his domain. While this spell is recharging, you may remove a recharge token from this card to add {Dc} to your dice pool once per turn. If you do not do this on your turn during a given round, you may remove a recharge</p>"
     },
     "reckless": {
       "effects": {
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, must bear the Mark of Tzeentch Effect: You call upon the Great Conspirator for his blessing, for the inscrutable brilliance and mastery of fate that is his domain. While this spell is recharging, you may remove a recharge token from this card to add {Dr} to your dice pool once per turn. If you do not do this on your turn during a given round, you may remove a recharge</p>",
-      "name": "Boon of Tzeentch",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>6 power, must bear the Mark of Tzeentch Effect: You call upon the Great Conspirator for his blessing, for the inscrutable brilliance and mastery of fate that is his domain. While this spell is recharging, you may remove a recharge token from this card to add {Dr} to your dice pool once per turn. If you do not do this on your turn during a given round, you may remove a recharge</p>"
+    }
   }
 }

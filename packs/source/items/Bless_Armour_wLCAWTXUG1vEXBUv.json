@@ -20,25 +20,17 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>The armour\u2019s defence value is increased by 1.</p>"
+            "description": "<p>The armour’s defence value is increased by 1.</p>"
           }
         ],
         "bane": [],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Bless Armour",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -56,7 +48,7 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>The armour\u2019s wearer gains the Inspired condition while this blessing is recharging.</p>"
+            "description": "<p>The armour’s wearer gains the Inspired condition while this blessing is recharging.</p>"
           }
         ],
         "bane": [
@@ -68,20 +60,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Bless Armour",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c"
+    }
   }
 }

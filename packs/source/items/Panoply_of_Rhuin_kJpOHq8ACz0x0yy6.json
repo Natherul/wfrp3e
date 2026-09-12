@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If you are engaged with an enemy, add 1 {Dm} to the dice pool while this spell is recharging. The Panoply of Rhuin counts as a suit of armour with Soak 4 and Defence 2 that does not interfere with spellcasting</p>",
-      "name": "Panoply of Rhuin",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If you are engaged with an enemy, add 1 {Dm} to the dice pool while this spell is recharging. The Panoply of Rhuin counts as a suit of armour with Soak 4 and Defence 2 that does not interfere with spellcasting</p>"
     },
     "reckless": {
       "effects": {
@@ -79,20 +72,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: You are guided with a magical armour, protecting you from harm while this spell is recharging. The Panoply of Rhuin counts as a suit of armour with Soak 4 and Defence 2 that does not interfere with spellcasting. Furthermore, your Flaming Sword of Rhuin gains +1 DR and +1 Pierce</p>",
-      "name": "Panoply of Rhuin",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If you are engaged with an enemy, add 1 {Dm} to the dice pool. Effect: You are guided with a magical armour, protecting you from harm while this spell is recharging. The Panoply of Rhuin counts as a suit of armour with Soak 4 and Defence 2 that does not interfere with spellcasting. Furthermore, your Flaming Sword of Rhuin gains +1 DR and +1 Pierce</p>"
+    }
   }
 }

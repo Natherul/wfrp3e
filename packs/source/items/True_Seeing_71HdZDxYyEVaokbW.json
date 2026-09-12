@@ -32,18 +32,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power Effect: Everything is illuminated by Azyr\u2019s light, and you see through all falsehoods. While this spell is recharging, you can see the invisible and the immaterial and see through illusions; in short, you see things as they truly are.</p>",
-      "name": "True Seeing",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power Effect: Everything is illuminated by Azyr’s light, and you see through all falsehoods. While this spell is recharging, you can see the invisible and the immaterial and see through illusions; in short, you see things as they truly are.</p>"
     },
     "reckless": {
       "effects": {
@@ -79,20 +72,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power per target; all targets must be engaged with you (you may target yourself). Special: For each target beyond the first, add M to your dice pool. Effect: Everything is illuminated by Azyr\u2019s light, and the targets see through all falsehoods. While this spell is recharging, the targets can see the invisible and the immaterial and see through illusions; in short, they see things as they truly are.</p>",
-      "name": "True Seeing",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 power per target; all targets must be engaged with you (you may target yourself). Special: For each target beyond the first, add M to your dice pool. Effect: Everything is illuminated by Azyr’s light, and the targets see through all falsehoods. While this spell is recharging, the targets can see the invisible and the immaterial and see through illusions; in short, they see things as they truly are.</p>"
+    }
   }
 }

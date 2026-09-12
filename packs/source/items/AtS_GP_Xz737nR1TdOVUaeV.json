@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A Until the start of your next turn, Rokply \u00a9 Livied Attack Ranged Attack o 1986,2005, 2009, Rolply \u00a9 allies Limited ting you orany in Warbamoner Fanasy Rolelay,the foregoing marks' same engag\u00e9ment as you logosand all marks logo, Anengaged ally may remove # Recover ] fatigue and 1 stress. Until the and recharge token from any of his curreatly :}\u2018? of your next turn, add M to any Melee wegpons, units and insignia, producs and cards S fhstart Ranged Att from the World and Warbammer 1 or actions targeting \u00ae Suffer you Roleplay game , TM \u00a9 Worlshop 1986-2010, varably n At Remove 1 recharge token from one of the UK and the world. Thisedition your g publihed unde license to</p>"
+            "description": "<p>A Until the start of your next turn, Rokply © Livied Attack Ranged Attack o 1986,2005, 2009, Rolply © allies Limited ting you orany in Warbamoner Fanasy Rolelay,the foregoing marks' same engagément as you logosand all marks logo, Anengaged ally may remove # Recover ] fatigue and 1 stress. Until the and recharge token from any of his curreatly :}‘? of your next turn, add M to any Melee wegpons, units and insignia, producs and cards S fhstart Ranged Att from the World and Warbammer 1 or actions targeting ® Suffer you Roleplay game , TM © Worlshop 1986-2010, varably n At Remove 1 recharge token from one of the UK and the world. Thisedition your g publihed unde license to</p>"
           },
           {
             "symbolAmount": 1,
@@ -22,25 +22,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>d Attack actions engagementa</p>",
-      "name": "AtS GP",
-      "rechargeRating": 543,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 543,
+      "difficulty": "",
+      "requirements": "<p>d Attack actions engagementa</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A Until the start of your next turn, Rokply \u00a9 Livied Attack Ranged Attack o 1986,2005, 2009, Rolply \u00a9 allies Limited ting you orany in Warbamoner Fanasy Rolelay,the foregoing marks' same engag\u00e9ment as you logosand all marks logo, Anengaged ally may remove # Recover ] fatigue and 1 stress. Until the and recharge token from any of his curreatly :}\u2018? of your next turn, add M to any Melee wegpons, units and insignia, producs and cards S fhstart Ranged Att from the World and Warbammer 1 or actions targeting \u00ae Suffer you Roleplay game , TM \u00a9 Worlshop 1986-2010, varably n At Remove 1 recharge token from one of the UK and the world. Thisedition your g publihed unde license to</p>"
+            "description": "<p>A Until the start of your next turn, Rokply © Livied Attack Ranged Attack o 1986,2005, 2009, Rolply © allies Limited ting you orany in Warbamoner Fanasy Rolelay,the foregoing marks' same engagément as you logosand all marks logo, Anengaged ally may remove # Recover ] fatigue and 1 stress. Until the and recharge token from any of his curreatly :}‘? of your next turn, add M to any Melee wegpons, units and insignia, producs and cards S fhstart Ranged Att from the World and Warbammer 1 or actions targeting ® Suffer you Roleplay game , TM © Worlshop 1986-2010, varably n At Remove 1 recharge token from one of the UK and the world. Thisedition your g publihed unde license to</p>"
           },
           {
             "symbolAmount": 1,
@@ -53,20 +46,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>d Attack actions engagementa</p>",
-      "name": "AtS GP",
-      "rechargeRating": 543,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 543,
+      "difficulty": "",
+      "requirements": "<p>d Attack actions engagementa</p>"
+    }
   }
 }

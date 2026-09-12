@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target within medium range and wc;\\rmg metal armour person glow with burning heat. Each time you remove a recharge token from this card, plus his armour's soak value. His armour soak value is useless against this damage</p>",
-      "name": "Rule of Burning Iron",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range and wc;\\rmg metal armour person glow with burning heat. Each time you remove a recharge token from this card, plus his armour's soak value. His armour soak value is useless against this damage</p>"
     },
     "reckless": {
       "effects": {
@@ -64,20 +57,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target within medium range and an item. The item in the target's possession begins to glow with burning heat. Each time you remove a recharge token from this card, the target suffers damage as noted below, so long as he's holding the item. His armour soak value is of no effect against this damage</p>",
-      "name": "Rule of Burning Iron",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range and an item. The item in the target's possession begins to glow with burning heat. Each time you remove a recharge token from this card, the target suffers damage as noted below, so long as he's holding the item. His armour soak value is of no effect against this damage</p>"
+    }
   }
 }

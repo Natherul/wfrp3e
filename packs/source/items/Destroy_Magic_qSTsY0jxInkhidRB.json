@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target within close range. The target must be under the effect of a spell with the Ongoing trait, a brief condition granted by a spell, or a similar effect. Special: This spell is an opposed check vs. the Spellcraft of the character who wishes to destroy it. The difficulty is set by the GM.</p>",
-      "name": "Destroy Magic",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within close range. The target must be under the effect of a spell with the Ongoing trait, a brief condition granted by a spell, or a similar effect. Special: This spell is an opposed check vs. the Spellcraft of the character who wishes to destroy it. The difficulty is set by the GM.</p>"
     },
     "reckless": {
       "effects": {
@@ -77,20 +70,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target within close range. The target must be under the effects of a spell with the Ongoing trait, a brief condition granted by a spell, or a similar effect. Special: This spell is an opposed check vs. the Spellcraft of the character who generated the effect you wish to destroy. If the effect is 'naturally occurring,' then the difficulty is set by the GM.</p>",
-      "name": "Destroy Magic",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within close range. The target must be under the effects of a spell with the Ongoing trait, a brief condition granted by a spell, or a similar effect. Special: This spell is an opposed check vs. the Spellcraft of the character who generated the effect you wish to destroy. If the effect is 'naturally occurring,' then the difficulty is set by the GM.</p>"
+    }
   }
 }

@@ -32,18 +32,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>5 power You twist and warp the Winds of Magic to swirl about you, repelling the effects of mutation for a short time. While this spell is recharging you gain {Dc} to Resilience (To) checks in order to resist corruption.</p>",
-      "name": "Hand of God",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>5 power You twist and warp the Winds of Magic to swirl about you, repelling the effects of mutation for a short time. While this spell is recharging you gain {Dc} to Resilience (To) checks in order to resist corruption.</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>5 power You twist and warp the Winds of Magic to swirl about you, repelling the effects of mutation for a short time. While this spell is recharging you gain {Dr} to Resilience (To) checks in order to resist corruption.</p>",
-      "name": "Hand of God",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>5 power You twist and warp the Winds of Magic to swirl about you, repelling the effects of mutation for a short time. While this spell is recharging you gain {Dr} to Resilience (To) checks in order to resist corruption.</p>"
+    }
   }
 }

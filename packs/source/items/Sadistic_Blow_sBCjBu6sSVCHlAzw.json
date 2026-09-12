@@ -40,18 +40,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Sadistic Blow",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -85,25 +77,15 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>You leave yourself open for a counterattack! If an enemy\u2019s next action is to attack you, he adds a {Dc} to his dice pool</p>"
+            "description": "<p>You leave yourself open for a counterattack! If an enemy’s next action is to attack you, he adds a {Dc} to his dice pool</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Sadistic Blow",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c"
+    }
   }
 }

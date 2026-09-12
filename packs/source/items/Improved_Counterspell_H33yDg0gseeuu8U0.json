@@ -12,7 +12,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>add or {Dm} to that action\u2019s dice pool</p>"
+            "description": "<p>add or {Dm} to that action’s dice pool</p>"
           },
           {
             "symbolAmount": 1,
@@ -27,18 +27,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 4+, sufficient power (see below), Channelling trained. When an enemy within close range declares a Supernatural or Spell action, you may place 2 recharge tokens on this card to</p>",
-      "name": "Improved Counterspell",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Willpower 4+, sufficient power (see below), Channelling trained. When an enemy within close range declares a Supernatural or Spell action, you may place 2 recharge tokens on this card to</p>"
     },
     "reckless": {
       "effects": {
@@ -48,7 +41,7 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>add or {Dm} to that action\u2019s dice pool. You must spend 1 power per {Dm} added to the</p>"
+            "description": "<p>add or {Dm} to that action’s dice pool. You must spend 1 power per {Dm} added to the</p>"
           }
         ],
         "chaosStar": [
@@ -64,20 +57,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Willpower 4+, sufficient power (see below), Channelling trained. Special: After an enemy within close range declares a Supernatural or Spell action, you may place 2 recharge tokens on this card to</p>",
-      "name": "Improved Counterspell",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>Willpower 4+, sufficient power (see below), Channelling trained. Special: After an enemy within close range declares a Supernatural or Spell action, you may place 2 recharge tokens on this card to</p>"
+    }
   }
 }

@@ -27,18 +27,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Living targets within close range. Your wailing fills the living with dread and despair.</p>",
-      "name": "Aura of Despair",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 4,
+      "difficulty": "",
+      "requirements": "<p>Living targets within close range. Your wailing fills the living with dread and despair.</p>"
     },
     "reckless": {
       "effects": {
@@ -63,20 +56,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Your wailing fills the living with dread and despair.</p>",
-      "name": "Aura of Despair",
-      "rechargeRating": 4,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 4,
+      "difficulty": "",
+      "requirements": "<p>Your wailing fills the living with dread and despair.</p>"
+    }
   }
 }

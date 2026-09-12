@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>and all \u20184 While this card is recharging, you and all allies within medium range of you add {Dc} to all Discipline, Intuition, and Observation checks made in a wilderness setting</p>"
+            "description": "<p>and all ‘4 While this card is recharging, you and all allies within medium range of you add {Dc} to all Discipline, Intuition, and Observation checks made in a wilderness setting</p>"
           },
           {
             "symbolAmount": 3,
@@ -32,18 +32,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Call of the Wild",
-      "rechargeRating": 51,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 51,
+      "difficulty": "1b"
     },
     "reckless": {
       "effects": {
@@ -77,20 +69,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Call of the Wild",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b"
+    }
   }
 }

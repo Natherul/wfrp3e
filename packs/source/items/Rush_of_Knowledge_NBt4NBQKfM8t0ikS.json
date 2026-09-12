@@ -33,22 +33,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>~\u00bb You and the target both receive {Dc} to Education checks until the end of the encounter</p>"
+            "description": "<p>~» You and the target both receive {Dc} to Education checks until the end of the encounter</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intelligence 4+, S power, en Education trained</p>",
-      "name": "Rush of Knowledge",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>Intelligence 4+, S power, en Education trained</p>"
     },
     "reckless": {
       "effects": {
@@ -83,20 +76,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Intelligence 4+, 4 power per target, engaged with target, en Education trained</p>",
-      "name": "Rush of Knowledge",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Intelligence 4+, 4 power per target, engaged with target, en Education trained</p>"
+    }
   }
 }

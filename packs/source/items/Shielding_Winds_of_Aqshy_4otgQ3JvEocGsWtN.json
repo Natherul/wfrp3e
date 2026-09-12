@@ -32,18 +32,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power effect: You are wreathed in flickering orange flames that turn aside blows. While this card is recharging, your soak value is increased by your depth in the Conservative stance.</p>",
-      "name": "Shielding Winds of Aqshy",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>4 power effect: You are wreathed in flickering orange flames that turn aside blows. While this card is recharging, your soak value is increased by your depth in the Conservative stance.</p>"
     },
     "reckless": {
       "effects": {
@@ -73,20 +66,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: You are wreathed in flickering harmful orange flames that turn aside blows. While this card is recharging, your soak value is increased by your depth in the Reckless stance.</p>",
-      "name": "Shielding Winds of Aqshy",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: You are wreathed in flickering harmful orange flames that turn aside blows. While this card is recharging, your soak value is increased by your depth in the Reckless stance.</p>"
+    }
   }
 }

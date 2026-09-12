@@ -27,18 +27,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You must be within close range of and able to make eye contact with the target</p>",
-      "name": "Steely Gaze",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>You must be within close range of and able to make eye contact with the target</p>"
     },
     "reckless": {
       "effects": {
@@ -63,20 +56,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You must be within close range of and able to make eye contact with the target Special: This action uses Fellowship rather than Strength</p>",
-      "name": "Steely Gaze",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>You must be within close range of and able to make eye contact with the target Special: This action uses Fellowship rather than Strength</p>"
+    }
   }
 }

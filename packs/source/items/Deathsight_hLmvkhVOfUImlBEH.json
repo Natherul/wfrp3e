@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 power regaining, you can tell the status of a creature in your field of view: dead, or undead. You can also see invisible creatures such as ghosts</p>",
-      "name": "Deathsight",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>3 power regaining, you can tell the status of a creature in your field of view: dead, or undead. You can also see invisible creatures such as ghosts</p>"
     },
     "reckless": {
       "effects": {
@@ -65,20 +58,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>vision the wind of While this card is recharging, you can tell the status of any creature in your field of view: dead, or undead. You can also see ethereal spirits, such as ghosts</p>",
-      "name": "Deathsight",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "2c 1b",
+      "requirements": "<p>vision the wind of While this card is recharging, you can tell the status of any creature in your field of view: dead, or undead. You can also see ethereal spirits, such as ghosts</p>"
+    }
   }
 }

@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour, an incense burner (equal The difficulty of this check is + to the highest Fear or Terror rating amongst undead opponents, plus the modifier above. Effect: While this card is recharging, allies within medium range who can hear your and smell your incense treat all Fears and Terror ratings of undead as 1 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>",
-      "name": "Scent of the Black Rose",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 favour, an incense burner (equal The difficulty of this check is + to the highest Fear or Terror rating amongst undead opponents, plus the modifier above. Effect: While this card is recharging, allies within medium range who can hear your and smell your incense treat all Fears and Terror ratings of undead as 1 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour, Special: The difficulty of this check + to the highest Fear or Terror rating among undead opponents, plus the modifier above. Effect: While this card is recharging, allies within close range who can hear your prayers and smell your incense treat all Fear and Terror ratings of undead as 2 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>",
-      "name": "Scent of the Black Rose",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 favour, Special: The difficulty of this check + to the highest Fear or Terror rating among undead opponents, plus the modifier above. Effect: While this card is recharging, allies within close range who can hear your prayers and smell your incense treat all Fear and Terror ratings of undead as 2 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>"
+    }
   }
 }

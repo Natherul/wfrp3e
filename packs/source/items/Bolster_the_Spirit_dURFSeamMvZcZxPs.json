@@ -13,18 +13,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour (with no opportunity to curry additional favour). Play in response to yourself or an ally within medium range failing a Fear or Terror check. Special: If you have Leadership trained, this blessing affects yourself and all allies who have failed a Fear or Terror check from the same source. If you have Discipline trained, affected characters add {Dm} to the new Fear or Terror check. Effect: When you or an ally within medium range fails a Fear or Terror check, you may immediately spend 3 favour and place 4 recharge tokens on this card. That character may attempt the Fear or Terror check again.</p>",
-      "name": "Bolster the Spirit",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 favour (with no opportunity to curry additional favour). Play in response to yourself or an ally within medium range failing a Fear or Terror check. Special: If you have Leadership trained, this blessing affects yourself and all allies who have failed a Fear or Terror check from the same source. If you have Discipline trained, affected characters add {Dm} to the new Fear or Terror check. Effect: When you or an ally within medium range fails a Fear or Terror check, you may immediately spend 3 favour and place 4 recharge tokens on this card. That character may attempt the Fear or Terror check again.</p>"
     },
     "reckless": {
       "effects": {
@@ -35,20 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>3 favour (with no opportunity to curry additional favour). Play in response to yourself or an ally within medium range failing a Fear or Terror check. Special: If you have Leadership trained, this blessing affects yourself and all allies who have failed a Fear or Terror check from the same source. If you have Discipline trained, affected characters add {Dm} to the new Fear or Terror check. Effect: When you or an ally within medium range fails a Fear or Terror check, you may immediately spend 3 favour and place 4 recharge tokens on this card. That character may attempt the Fear or Terror check again.</p>",
-      "name": "Bolster the Spirit",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 favour (with no opportunity to curry additional favour). Play in response to yourself or an ally within medium range failing a Fear or Terror check. Special: If you have Leadership trained, this blessing affects yourself and all allies who have failed a Fear or Terror check from the same source. If you have Discipline trained, affected characters add {Dm} to the new Fear or Terror check. Effect: When you or an ally within medium range fails a Fear or Terror check, you may immediately spend 3 favour and place 4 recharge tokens on this card. That character may attempt the Fear or Terror check again.</p>"
+    }
   }
 }

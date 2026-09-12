@@ -33,7 +33,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You hit the target for normal damage ** and may perform a free manoeuvre * = \"Effect: After you have been declared the \u2122</p>"
+            "description": "<p>You hit the target for normal damage ** and may perform a free manoeuvre * = \"Effect: After you have been declared the ™</p>"
           },
           {
             "symbolAmount": 3,
@@ -57,7 +57,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>.,peu\ufb01g action card</p>"
+            "description": "<p>.,peuﬁg action card</p>"
           },
           {
             "symbolAmount": 13,
@@ -69,7 +69,7 @@
           },
           {
             "symbolAmount": 7,
-            "description": "<p>@8 Your target may disengage from you {Dm} to the action\u2019s dice pool</p>"
+            "description": "<p>@8 Your target may disengage from you {Dm} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 8,
@@ -81,7 +81,7 @@
           },
           {
             "symbolAmount": 10,
-            "description": "<p>suffer 1 fatigue. If the check add an additional {Dm} to the action\u2019s dice pool</p>"
+            "description": "<p>suffer 1 fatigue. If the check add an additional {Dm} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 6,
@@ -91,18 +91,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "MS PaS D",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -133,7 +125,7 @@
           },
           {
             "symbolAmount": 1,
-            "description": "<p>You hit the target for normal damage ** and may perform a free manoeuvre * = \"Effect: After you have been declared the \u2122</p>"
+            "description": "<p>You hit the target for normal damage ** and may perform a free manoeuvre * = \"Effect: After you have been declared the ™</p>"
           },
           {
             "symbolAmount": 3,
@@ -157,7 +149,7 @@
           },
           {
             "symbolAmount": 2,
-            "description": "<p>.,peu\ufb01g action card</p>"
+            "description": "<p>.,peuﬁg action card</p>"
           },
           {
             "symbolAmount": 13,
@@ -169,7 +161,7 @@
           },
           {
             "symbolAmount": 7,
-            "description": "<p>@8 Your target may disengage from you {Dm} to the action\u2019s dice pool</p>"
+            "description": "<p>@8 Your target may disengage from you {Dm} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 8,
@@ -181,7 +173,7 @@
           },
           {
             "symbolAmount": 10,
-            "description": "<p>suffer 1 fatigue. If the check add an additional {Dm} to the action\u2019s dice pool</p>"
+            "description": "<p>suffer 1 fatigue. If the check add an additional {Dm} to the action’s dice pool</p>"
           },
           {
             "symbolAmount": 6,
@@ -191,20 +183,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "MS PaS D",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": ""
+    }
   }
 }

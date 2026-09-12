@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour. You must be holding target sword. Effect: Verena blesses sword. While this blessing is recharging, the weapon is considered an enchanted and blessed item. It gains the Pierce 2 and Vicious qualities when wielded against a condemned criminal or anyone you know to have committed a crime or broken an oath.</p>",
-      "name": "Sword of Justice",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c 2b",
+      "requirements": "<p>4 favour. You must be holding target sword. Effect: Verena blesses sword. While this blessing is recharging, the weapon is considered an enchanted and blessed item. It gains the Pierce 2 and Vicious qualities when wielded against a condemned criminal or anyone you know to have committed a crime or broken an oath.</p>"
     },
     "reckless": {
       "effects": {
@@ -59,7 +52,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and the sword\u2019s DR is increased by 1 while this card is recharging.</p>"
+            "description": "<p>As above, and the sword’s DR is increased by 1 while this card is recharging.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -87,20 +80,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour. You must be holding target sword. Effect: Verena blesses your sword. While this blessing is recharging, the weapon is considered an enchanted and blessed item. It gains the Pierce 2 and Vicious qualities when wielded against a condemned criminal or anyone you know to have committed a crime or broken an oath.</p>",
-      "name": "Sword of Justice",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>4 favour. You must be holding target sword. Effect: Verena blesses your sword. While this blessing is recharging, the weapon is considered an enchanted and blessed item. It gains the Pierce 2 and Vicious qualities when wielded against a condemned criminal or anyone you know to have committed a crime or broken an oath.</p>"
+    }
   }
 }

@@ -4,13 +4,6 @@
   "_id": "JbhxQdTEnhEoiwlv",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>Yet their steel remains untarnished, and never loses its keen edge. Woodsman axe has a superior quality; its wielder adds +1 De to the dice of attacks made while in Peril 1: On a successful hit, reduce Dmg by -2, +1 Recharge if wielded with a single hand.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>Yet their steel remains untarnished, and never loses its keen edge. Woodsman axe has a superior quality; its wielder adds +1 De to the dice of attacks made while in Peril 1: On a successful hit, reduce Dmg by -2, +1 Recharge if wielded with a single hand.</p>"
   }
 }

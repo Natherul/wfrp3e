@@ -4,13 +4,6 @@
   "_id": "pqNnlVyzH1wAw7HP",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>guarded secret. \u201cWine of Dreams\u201d by B.Craig. It reverses aging as the GM sees fit. Distillation is a closely guarded secret. A single glass can fetch 10g and has the effect of instilling youth and clairvoyance upon the drinker. This grants +00 to all insight checks for one act and halts or reverses aging as the GM sees fit.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>guarded secret. “Wine of Dreams” by B.Craig. It reverses aging as the GM sees fit. Distillation is a closely guarded secret. A single glass can fetch 10g and has the effect of instilling youth and clairvoyance upon the drinker. This grants +00 to all insight checks for one act and halts or reverses aging as the GM sees fit.</p>"
   }
 }

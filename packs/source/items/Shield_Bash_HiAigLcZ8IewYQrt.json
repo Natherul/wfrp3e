@@ -5,26 +5,9 @@
   "folder": "ivXOnATwCKlIm1Tl",
   "system": {
     "conservative": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "Shield Bash",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -42,7 +25,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>Add 1 recharge token to one of your target\u2019s cards e action</p>"
+            "description": "<p>Add 1 recharge token to one of your target’s cards e action</p>"
           }
         ],
         "bane": [
@@ -59,20 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Shield equipped, engaged with target If you have Weapon Skill trained, add {Dr} to your die pool</p>",
-      "name": "Shield Bash",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Shield equipped, engaged with target If you have Weapon Skill trained, add {Dr} to your die pool</p>"
+    }
   }
 }

@@ -33,46 +33,20 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00a5 When this card recharges, all affected characters gain 1 stress, 1 fatigue, and 1 wound</p>"
+            "description": "<p>¥ When this card recharges, all affected characters gain 1 stress, 1 fatigue, and 1 wound</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 favour, target engagement within medium range. Rhya watches over allies in the target engagement. While this blessing is recharging, those characters (whether they remain in the engagement or not) gain a bonus to defense equal to their depth in their current stance</p>",
-      "name": "The Mothers Mercy",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>7 favour, target engagement within medium range. Rhya watches over allies in the target engagement. While this blessing is recharging, those characters (whether they remain in the engagement or not) gain a bonus to defense equal to their depth in their current stance</p>"
     },
     "reckless": {
-      "effects": {
-        "success": [],
-        "righteousSuccess": [],
-        "boon": [],
-        "bane": [],
-        "chaosStar": [],
-        "sigmarsComet": [],
-        "delay": [],
-        "exertion": [],
-        "challenge": []
-      },
-      "name": "The Mothers Mercy",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

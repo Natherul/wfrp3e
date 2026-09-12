@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Dread Malaise",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 6,
+      "difficulty": "1b"
     },
     "reckless": {
       "effects": {
@@ -77,20 +69,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target(s) within close range, target beyond the range, ldd O to [Dc] die pool. Special: This spell opposes the highest Resilience amongst its targets.</p>",
-      "name": "Dread Malaise",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>4 power, target(s) within close range, target beyond the range, ldd O to [Dc] die pool. Special: This spell opposes the highest Resilience amongst its targets.</p>"
+    }
   }
 }

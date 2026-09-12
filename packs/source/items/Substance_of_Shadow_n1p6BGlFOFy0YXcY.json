@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Substance of Shadow",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "2c"
     },
     "reckless": {
       "effects": {
@@ -78,20 +70,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power. If you are engaged with an enemy, add {Dm} to your dice pool. B Effect: Your body becomes insubstantial and shadowy. While this spell is recharging, enemy weapons and attacks pass through you without harm, inflicting 1 stress instead of their normal damage. You also gain 3 {De} to Stealth checks</p>",
-      "name": "Substance of Shadow",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "2c",
+      "requirements": "<p>6 power. If you are engaged with an enemy, add {Dm} to your dice pool. B Effect: Your body becomes insubstantial and shadowy. While this spell is recharging, enemy weapons and attacks pass through you without harm, inflicting 1 stress instead of their normal damage. You also gain 3 {De} to Stealth checks</p>"
+    }
   }
 }

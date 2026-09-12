@@ -22,18 +22,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Mastery: After you have been the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>",
-      "name": "Advanced Parry",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Mastery: After you have been the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>"
     },
     "reckless": {
       "effects": {
@@ -53,20 +46,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Skill Mastery: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>",
-      "name": "Advanced Parry",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Skill Mastery: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>"
+    }
   }
 }

@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, \u00a5 rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>",
-      "name": "Peacemaker",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, ¥ rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>"
     },
     "reckless": {
       "effects": {
@@ -85,20 +78,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, \u00a5 rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>",
-      "name": "Peacemaker",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, ¥ rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>"
+    }
   }
 }

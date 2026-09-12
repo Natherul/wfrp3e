@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>modifier by {Dc} Effect: Cold and icy winds blow around you. While this spell is recharging, all characters within close range of you gain the Freezing condition</p>",
-      "name": "Winters Chill",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>modifier by {Dc} Effect: Cold and icy winds blow around you. While this spell is recharging, all characters within close range of you gain the Freezing condition</p>"
     },
     "reckless": {
       "effects": {
@@ -74,20 +67,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special: If it is winter, reduce the difficulty modifier by {Dc} Effect: Cold and icy winds blow around you. While this spell is recharging, all other 3 characters within close range of you gain the Freezing condition</p>",
-      "name": "Winters Chill",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Special: If it is winter, reduce the difficulty modifier by {Dc} Effect: Cold and icy winds blow around you. While this spell is recharging, all other 3 characters within close range of you gain the Freezing condition</p>"
+    }
   }
 }

@@ -42,18 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target</p>",
-      "name": "Haunting Visions",
-      "rechargeRating": 50,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 50,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -97,20 +90,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target</p>",
-      "name": "Haunting Visions",
-      "rechargeRating": 56,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 56,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target</p>"
+    }
   }
 }

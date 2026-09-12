@@ -23,18 +23,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die.</p>",
-      "name": "Off Hand Flourish",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die.</p>"
     },
     "reckless": {
       "effects": {
@@ -58,20 +51,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The attack gains +1 damage.</p>",
-      "name": "Off Hand Flourish",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The attack gains +1 damage.</p>"
+    }
   }
 }

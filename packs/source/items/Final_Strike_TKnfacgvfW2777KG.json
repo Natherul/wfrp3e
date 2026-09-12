@@ -37,22 +37,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>Turn one of the target\u2019s wounds face up before resolving this attack.</p>"
+            "description": "<p>Turn one of the target’s wounds face up before resolving this attack.</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target. The target must be critically wounded. Special: This card recharges when the target is defeated, or at the end of the encounter (whichever comes first)</p>",
-      "name": "Final Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target. The target must be critically wounded. Special: This card recharges when the target is defeated, or at the end of the encounter (whichever comes first)</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target. You must be critically wounded. Special: This card recharges when the target is defeated, or at the end of the encounter (whichever comes first)</p>",
-      "name": "Final Strike",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target. You must be critically wounded. Special: This card recharges when the target is defeated, or at the end of the encounter (whichever comes first)</p>"
+    }
   }
 }

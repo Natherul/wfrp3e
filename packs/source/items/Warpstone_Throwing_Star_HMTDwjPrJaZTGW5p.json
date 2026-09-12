@@ -4,13 +4,6 @@
   "_id": "HMTDwjPrJaZTGW5p",
   "folder": "2kJ3UuTCfU1dl5JF",
   "system": {
-    "description": "<p>These wickedly sharp throwing stars are coated with a deadly poison and made with an infusion of warpstone. Damage Rating: 4 Critical Rating: 3 Range: Close Group: Thrown Qualities: Thrown, Pierce 1 Encumbrance: 1 Each star counts as a minor source of corruption. When the attacker inflicts a critical wound with a Warpstone Throwing Star, the target suffers fatigue equal to the severity of the critical wound.</p>",
-    "cost": {
-      "brass": 0,
-      "silver": 0,
-      "gold": 0
-    },
-    "encumbrance": 0,
-    "rarity": "abundant"
+    "description": "<p>These wickedly sharp throwing stars are coated with a deadly poison and made with an infusion of warpstone. Damage Rating: 4 Critical Rating: 3 Range: Close Group: Thrown Qualities: Thrown, Pierce 1 Encumbrance: 1 Each star counts as a minor source of corruption. When the attacker inflicts a critical wound with a Warpstone Throwing Star, the target suffers fatigue equal to the severity of the critical wound.</p>"
   }
 }

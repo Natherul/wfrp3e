@@ -41,18 +41,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>SPELLCRAFT (INT) 4 power, target object no larger than you within close range</p>",
-      "name": "Law of Form",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>SPELLCRAFT (INT) 4 power, target object no larger than you within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -91,20 +84,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target object no larger than you within close range</p>",
-      "name": "Law of Form",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 power, target object no larger than you within close range</p>"
+    }
   }
 }

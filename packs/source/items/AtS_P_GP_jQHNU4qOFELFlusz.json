@@ -36,7 +36,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>tokens to this card to add {Da} to the action\u2019s dice. An engaged ally may remove one</p>"
+            "description": "<p>tokens to this card to add {Da} to the action’s dice. An engaged ally may remove one</p>"
           },
           {
             "symbolAmount": 2,
@@ -82,7 +82,7 @@
           },
           {
             "symbolAmount": 6,
-            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action\u2019s dice Suffer an @ 1 stress</p>"
+            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action’s dice Suffer an @ 1 stress</p>"
           },
           {
             "symbolAmount": 1,
@@ -92,18 +92,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "AtS P GP",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "5b"
     },
     "reckless": {
       "effects": {
@@ -137,7 +129,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>tokens to this card to add {Da} to the action\u2019s dice. An engaged ally may remove one</p>"
+            "description": "<p>tokens to this card to add {Da} to the action’s dice. An engaged ally may remove one</p>"
           },
           {
             "symbolAmount": 2,
@@ -183,7 +175,7 @@
           },
           {
             "symbolAmount": 6,
-            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action\u2019s dice Suffer an @ 1 stress</p>"
+            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action’s dice Suffer an @ 1 stress</p>"
           },
           {
             "symbolAmount": 1,
@@ -193,20 +185,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "AtS P GP",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "5b"
+    }
   }
 }

@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>As tears rain down from the heavens upon your target. Each time you remove a recharge token from this blessing, the target recovers 1 normal wound.</p>",
-      "name": "Tears from the Heavens",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c 2b",
+      "requirements": "<p>As tears rain down from the heavens upon your target. Each time you remove a recharge token from this blessing, the target recovers 1 normal wound.</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 favour. Target within close range. Effect: The goddess\u2019s tears rain down from the heavens upon your target. Each time you remove a recharge token from this blessing, the target recovers 1 normal wound.</p>",
-      "name": "Tears from the Heavens",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c 2b",
+      "requirements": "<p>4 favour. Target within close range. Effect: The goddess’s tears rain down from the heavens upon your target. Each time you remove a recharge token from this blessing, the target recovers 1 normal wound.</p>"
+    }
   }
 }

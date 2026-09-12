@@ -32,25 +32,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Target within medium range; you must be able to make eye contact with target</p>",
-      "name": "Okkams Mindrazor",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 7,
+      "difficulty": "1c 1f",
+      "requirements": "<p>8 power. Target within medium range; you must be able to make eye contact with target</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>A You reach into the target\u2019s mind and tear it savagely! The target gains a temporary insanity with the Enigma, Supernatural, or Trauma trait, then suffers wounds equal to the total severity of insanities he suffers from</p>"
+            "description": "<p>A You reach into the target’s mind and tear it savagely! The target gains a temporary insanity with the Enigma, Supernatural, or Trauma trait, then suffers wounds equal to the total severity of insanities he suffers from</p>"
           },
           {
             "symbolAmount": 3,
@@ -73,20 +66,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power. Target within medium range; you must be able to make eye contact with target</p>",
-      "name": "Okkams Mindrazor",
-      "rechargeRating": 7,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 7,
+      "difficulty": "1c 1f",
+      "requirements": "<p>8 power. Target within medium range; you must be able to make eye contact with target</p>"
+    }
   }
 }

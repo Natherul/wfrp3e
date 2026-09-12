@@ -17,7 +17,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, but 2 + Int + To damage instead. The target suffers a temporal Insanity with the Chaos or Trauma traits. \u00ae Lose 1 power after casting the spell.</p>"
+            "description": "<p>As above, but 2 + Int + To damage instead. The target suffers a temporal Insanity with the Chaos or Trauma traits. ® Lose 1 power after casting the spell.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -31,18 +31,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Spray of Blood",
-      "rechargeRating": 1,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 1,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
@@ -61,7 +53,7 @@
           },
           {
             "symbolAmount": 4,
-            "description": "<p>As above, but 5 + Int + To damage. Ignore armour soak. The target suffers a temporal Insanity with the Chaos or Trauma traits. \u00ae Lose 1 power after casting the spell.</p>"
+            "description": "<p>As above, but 5 + Int + To damage. Ignore armour soak. The target suffers a temporal Insanity with the Chaos or Trauma traits. ® Lose 1 power after casting the spell.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -75,20 +67,10 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Spray of Blood",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": ""
+    }
   }
 }

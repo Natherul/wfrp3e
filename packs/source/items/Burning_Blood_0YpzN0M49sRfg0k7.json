@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Sufficient power (see below), an enemy within close range suffers a critical wound - Special: When an enemy within close range suffers a critical wound, you may immediately spend power equal to that critical wound\u2019s severity. Then, place 3 recharge tokens on this card to cast this spell and ignite the target\u2019s blood, dealing additional wounds {Dc} to the target equal to the severity of that critical wound</p>"
+            "description": "<p>Sufficient power (see below), an enemy within close range suffers a critical wound - Special: When an enemy within close range suffers a critical wound, you may immediately spend power equal to that critical wound’s severity. Then, place 3 recharge tokens on this card to cast this spell and ignite the target’s blood, dealing additional wounds {Dc} to the target equal to the severity of that critical wound</p>"
           }
         ],
         "righteousSuccess": [],
@@ -18,25 +18,17 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Burning Blood",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 5,
+      "difficulty": ""
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>Special: When an enemy within close range suffers a critical wound, you may immediately spend power equal to that critical wound\u2019s severity. Then, place 3 recharge tokens on this card to cast this spell and ignite the target\u2019s blood, automatically dealing additional wounds {Dr} to the target equal to the severity of that critical wound</p>"
+            "description": "<p>Special: When an enemy within close range suffers a critical wound, you may immediately spend power equal to that critical wound’s severity. Then, place 3 recharge tokens on this card to cast this spell and ignite the target’s blood, automatically dealing additional wounds {Dr} to the target equal to the severity of that critical wound</p>"
           }
         ],
         "righteousSuccess": [],
@@ -45,20 +37,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Burning Blood",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 8,
+      "difficulty": ""
+    }
   }
 }

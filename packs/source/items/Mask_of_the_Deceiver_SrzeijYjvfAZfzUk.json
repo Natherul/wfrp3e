@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>With Ranald's favour. You can only assume the guise of a humanoid no smaller than a halfling nor larger than an orc.</p>",
-      "name": "Mask of the Deceiver",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>With Ranald's favour. You can only assume the guise of a humanoid no smaller than a halfling nor larger than an orc.</p>"
     },
     "reckless": {
       "effects": {
@@ -69,20 +62,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>You can only assume the guise of a humanoid no smaller than a halfling nor larger than an orc. Special: Reduce the difficulty modifier by {Dc} if you are dressed as or already resemble the subject.</p>",
-      "name": "Mask of the Deceiver",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>You can only assume the guise of a humanoid no smaller than a halfling nor larger than an orc. Special: Reduce the difficulty modifier by {Dc} if you are dressed as or already resemble the subject.</p>"
+    }
   }
 }

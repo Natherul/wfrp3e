@@ -29,22 +29,15 @@
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>~ You manage to filch an important part. The item can\u2019t be repaired until the part is recovered or a new one acquired</p>"
+            "description": "<p>~ You manage to filch an important part. The item can’t be repaired until the part is recovered or a new one acquired</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against character\u2019s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>",
-      "name": "Reverse Engineering",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against character’s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>"
     },
     "reckless": {
       "effects": {
@@ -58,37 +51,28 @@
         "boon": [
           {
             "symbolAmount": 2,
-            "description": "<p>The device\u2019s owner or creator, if present, suffers 1 stress as you smash something dear to his heart</p>"
+            "description": "<p>The device’s owner or creator, if present, suffers 1 stress as you smash something dear to his heart</p>"
           }
         ],
         "bane": [
           {
             "symbolAmount": 1,
-            "description": "<p>\u00a3 \u00ae Suffer 1 stress</p>"
+            "description": "<p>£ ® Suffer 1 stress</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [
           {
             "symbolAmount": 1,
-            "description": "<p>You manage to filch an important part. The item can\u2019t be repaired until the part is recovered or a new one acquired</p>"
+            "description": "<p>You manage to filch an important part. The item can’t be repaired until the part is recovered or a new one acquired</p>"
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against that character\u2019s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>",
-      "name": "Reverse Engineering",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against that character’s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>"
+    }
   }
 }

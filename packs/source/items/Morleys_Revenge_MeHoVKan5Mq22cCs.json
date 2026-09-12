@@ -4,9 +4,6 @@
   "_id": "MeHoVKan5Mq22cCs",
   "folder": "2D1Vc7km7bf3muVb",
   "system": {
-    "description": "<p>Strength checks: Your insides ache so badly that just the thought of it makes you queasy. Each Painful symptom adds +1 to all physical checks performed by the sufferer.</p>",
-    "severityRating": 1,
-    "symptom": "fever",
-    "traits": ""
+    "description": "<p>Strength checks: Your insides ache so badly that just the thought of it makes you queasy. Each Painful symptom adds +1 to all physical checks performed by the sufferer.</p>"
   }
 }

@@ -13,7 +13,7 @@
           },
           {
             "symbolAmount": 3,
-            "description": "<p>As above, and the target is hit for St \u00a7 + 3 damage.</p>"
+            "description": "<p>As above, and the target is hit for St § + 3 damage.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -36,18 +36,10 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "name": "Strangleroots",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": "",
-      "requirements": ""
+      "recharge": 0,
+      "difficulty": "1c"
     },
     "reckless": {
       "effects": {
@@ -86,20 +78,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Target in close range in woodland terrain.</p>",
-      "name": "Strangleroots",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Target in close range in woodland terrain.</p>"
+    }
   }
 }

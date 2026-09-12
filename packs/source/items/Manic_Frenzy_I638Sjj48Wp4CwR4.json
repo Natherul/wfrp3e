@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target engagement within medium range. Each melee gains the and suffers 1 str he does not perform an action that a character\u2019s Defence during his turn while this card is</p>",
-      "name": "Manic Frenzy",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>6 power, target engagement within medium range. Each melee gains the and suffers 1 str he does not perform an action that a character’s Defence during his turn while this card is</p>"
     },
     "reckless": {
       "effects": {
@@ -78,20 +71,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 power, target engagement within medium range. Special: This spell targets both allies and enemies within the engagement but the check is opposed by the highest enemy Discipline (WP) unless an ally resists. Effect: Each target gains the Energised condition and suffers 1 stress and 1 fatigue if he does perform an action that is not an attack that targets a character\u2019s Defence during his turn while this card is recharging</p>",
-      "name": "Manic Frenzy",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>6 power, target engagement within medium range. Special: This spell targets both allies and enemies within the engagement but the check is opposed by the highest enemy Discipline (WP) unless an ally resists. Effect: Each target gains the Energised condition and suffers 1 stress and 1 fatigue if he does perform an action that is not an attack that targets a character’s Defence during his turn while this card is recharging</p>"
+    }
   }
 }

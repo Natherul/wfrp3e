@@ -28,23 +28,16 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>It\u2019s You lose the ability to end the spell. It ends only when it suits the whim of the Changer of Ways (but lasts at least 1 act).</p>"
+            "description": "<p>It’s You lose the ability to end the spell. It ends only when it suits the whim of the Changer of Ways (but lasts at least 1 act).</p>"
           }
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power, humanoid target within close range. You must have the ability to assume a beastform</p>",
-      "name": "Bestial Transformation",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, humanoid target within close range. You must have the ability to assume a beastform</p>"
     },
     "reckless": {
       "effects": {
@@ -75,20 +68,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 power, humanoid target within close range. You must have the ability to assume a beastform.</p>",
-      "name": "Bestial Transformation",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, humanoid target within close range. You must have the ability to assume a beastform.</p>"
+    }
   }
 }

@@ -28,18 +28,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 favour, medium range to the target</p>",
-      "name": "Twin-Tailed Comet",
-      "rechargeRating": 3,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>7 favour, medium range to the target</p>"
     },
     "reckless": {
       "effects": {
@@ -57,7 +50,7 @@
         "boon": [
           {
             "symbolAmount": 1,
-            "description": "<p>This attack ignores the soak value of your target\u2019s armour</p>"
+            "description": "<p>This attack ignores the soak value of your target’s armour</p>"
           }
         ],
         "bane": [
@@ -74,20 +67,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>7 favour, medium range to the target Special: If this blessing kills its target, it recharges immediately</p>",
-      "name": "Twin-Tailed Comet",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>7 favour, medium range to the target Special: If this blessing kills its target, it recharges immediately</p>"
+    }
   }
 }

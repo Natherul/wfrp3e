@@ -37,18 +37,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target. As part of this action, you grab one of your inventions and smash it over your opponent\u2019s head, damaging it.</p>",
-      "name": "Unconventional Application",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target. As part of this action, you grab one of your inventions and smash it over your opponent’s head, damaging it.</p>"
     },
     "reckless": {
       "effects": {
@@ -87,20 +80,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target. Grab one of your inventions and smash it over your opponent\u2019s head, damaging it. Special: If your Invention is attached to a melee weapon, use that weapon\u2019s traits and values. Otherwise, treat the Invention as a hand weapon. You may apply all of the Invention\u2019s {Dc} modifications to this attack.</p>",
-      "name": "Unconventional Application",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Engaged with target. Grab one of your inventions and smash it over your opponent’s head, damaging it. Special: If your Invention is attached to a melee weapon, use that weapon’s traits and values. Otherwise, treat the Invention as a hand weapon. You may apply all of the Invention’s {Dc} modifications to this attack.</p>"
+    }
   }
 }

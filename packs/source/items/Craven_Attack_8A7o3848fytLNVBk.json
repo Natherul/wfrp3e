@@ -30,24 +30,17 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>You leave yourself open for a counterattack! If an enemy\u2019s next action is to attack you, he adds {Dc} to his attack pool</p>"
+            "description": "<p>You leave yourself open for a counterattack! If an enemy’s next action is to attack you, he adds {Dc} to his attack pool</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target, target is Entangled or prone</p>",
-      "name": "Craven Attack",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon equipped, engaged with target, target is Entangled or prone</p>"
     },
     "reckless": {
       "effects": {
@@ -75,26 +68,17 @@
         "bane": [
           {
             "symbolAmount": 2,
-            "description": "<p>You leave yourself open for a counterattack! If an enemy\u2019s next action is to attack you, he adds {Dc} to his attack pool</p>"
+            "description": "<p>You leave yourself open for a counterattack! If an enemy’s next action is to attack you, he adds {Dc} to his attack pool</p>"
           }
         ],
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Melee weapon equipped, engaged with target, target is Entangled or prone</p>",
-      "name": "Craven Attack",
-      "rechargeRating": 8,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 8,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped, engaged with target, target is Entangled or prone</p>"
+    }
   }
 }

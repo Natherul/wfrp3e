@@ -36,18 +36,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>S power. The caster must either have etc.) a piece of the target's body (blood, hair, etc.) which is consumed in the spell, or the target must be within close range</p>",
-      "name": "Confusion of Tzeentch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power. The caster must either have etc.) a piece of the target's body (blood, hair, etc.) which is consumed in the spell, or the target must be within close range</p>"
     },
     "reckless": {
       "effects": {
@@ -81,20 +74,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>5 power. The caster must either have a piece of the target's body (blood, hair, etc.) which is consumed in the spell, or the target must be within close range</p>",
-      "name": "Confusion of Tzeentch",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>5 power. The caster must either have a piece of the target's body (blood, hair, etc.) which is consumed in the spell, or the target must be within close range</p>"
+    }
   }
 }

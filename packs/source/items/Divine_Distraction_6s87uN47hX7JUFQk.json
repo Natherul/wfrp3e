@@ -32,7 +32,7 @@
         "chaosStar": [
           {
             "symbolAmount": 1,
-            "description": "<p>What's going on? All allies within the Perplexed condition while \u00a7 range gain this blessing is recharging</p>"
+            "description": "<p>What's going on? All allies within the Perplexed condition while § range gain this blessing is recharging</p>"
           }
         ],
         "sigmarsComet": [
@@ -42,18 +42,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are cns_,.\\\"gd with the t JI&,LK, add 0 to the dice pool</p>",
-      "name": "Divine Distraction",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are cns_,.\\\"gd with the t JI&,LK, add 0 to the dice pool</p>"
     },
     "reckless": {
       "effects": {
@@ -101,20 +94,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are engaged with the target, add 0 to the dice pool</p>",
-      "name": "Divine Distraction",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are engaged with the target, add 0 to the dice pool</p>"
+    }
   }
 }

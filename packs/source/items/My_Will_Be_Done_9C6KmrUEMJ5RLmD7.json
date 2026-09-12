@@ -32,25 +32,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Difficulty: Reduce the modifier by {Dc} if there are any Undead allies within close range. Effect: You impart your will on your loyal subjects. While this action is recharging, spend (one turn) and you may cause an ally within medium range to perform a manoeuvre of your choice.</p>",
-      "name": "My Will Be Done",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>Difficulty: Reduce the modifier by {Dc} if there are any Undead allies within close range. Effect: You impart your will on your loyal subjects. While this action is recharging, spend (one turn) and you may cause an ally within medium range to perform a manoeuvre of your choice.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M You force your target to immediately perform Melee Strike against \u00a3 a any character engaged with him (your choice).</p>"
+            "description": "<p>M You force your target to immediately perform Melee Strike against £ a any character engaged with him (your choice).</p>"
           },
           {
             "symbolAmount": 2,
@@ -78,20 +71,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>8 power, target within medium range. Special: Reduce the difficulty {Dc} for each Undead ally engaged with the target.</p>",
-      "name": "My Will Be Done",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>8 power, target within medium range. Special: Reduce the difficulty {Dc} for each Undead ally engaged with the target.</p>"
+    }
   }
 }

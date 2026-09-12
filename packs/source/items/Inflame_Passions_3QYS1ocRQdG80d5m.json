@@ -45,25 +45,18 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target is able to see and hear you</p>",
-      "name": "Inflame Passions",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>4 power, target is able to see and hear you</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>When people talk about a \u201cfirebrand public speaker,\u201d they're talking about you. Your words, suffused with Aqshy, fire up the crowd! Influence your target(s) if appropriate.</p>"
+            "description": "<p>When people talk about a “firebrand public speaker,” they're talking about you. Your words, suffused with Aqshy, fire up the crowd! Influence your target(s) if appropriate.</p>"
           },
           {
             "symbolAmount": 3,
@@ -99,20 +92,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>4 power, target is able to see and hear you Special: For each target after the first, add {Dm} to your dice pool -</p>",
-      "name": "Inflame Passions",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 power, target is able to see and hear you Special: For each target after the first, add {Dm} to your dice pool -</p>"
+    }
   }
 }

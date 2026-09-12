@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>add {Dc} to the action\u2019s dice pool equal to the number of Way of the Sword cards you have pre-charging (including this one). If you have Coordination trained;</p>"
+            "description": "<p>add {Dc} to the action’s dice pool equal to the number of Way of the Sword cards you have pre-charging (including this one). If you have Coordination trained;</p>"
           }
         ],
         "righteousSuccess": [],
@@ -23,25 +23,18 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Sword or greatsword equipped. After you have been declared the target of a Melee Attack or Ranged Attack, add four recharge tokens to this card to</p>",
-      "name": "Speed of Asuryan",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Sword or greatsword equipped. After you have been declared the target of a Melee Attack or Ranged Attack, add four recharge tokens to this card to</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>add {Dc} to the action\u2019s dice pool equal to the number of Way of the Sword cards you have recharging (including this one). Special: If you have Coordination trained,</p>"
+            "description": "<p>add {Dc} to the action’s dice pool equal to the number of Way of the Sword cards you have recharging (including this one). Special: If you have Coordination trained,</p>"
           },
           {
             "symbolAmount": 1,
@@ -54,20 +47,11 @@
         "chaosStar": [],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add four recharge tokens to this card to</p>",
-      "name": "Speed of Asuryan",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: After you have been declared the target of a Melee Attack or Ranged Attack, add four recharge tokens to this card to</p>"
+    }
   }
 }

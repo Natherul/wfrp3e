@@ -9,11 +9,11 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You meticulously line up your shot and fire at the enemy\u2019s most vulnerable area. You hit for +2 damage, ignoring the target\u2019s soak value.</p>"
+            "description": "<p>You meticulously line up your shot and fire at the enemy’s most vulnerable area. You hit for +2 damage, ignoring the target’s soak value.</p>"
           },
           {
             "symbolAmount": 3,
-            "description": "<p>You hit for +2 damage, +1 critical, ignore the target\u2019s soak value, and may determine damage dealt.</p>"
+            "description": "<p>You hit for +2 damage, +1 critical, ignore the target’s soak value, and may determine damage dealt.</p>"
           }
         ],
         "righteousSuccess": [],
@@ -37,25 +37,18 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Black powder weapon equipped, must prepare the manoeuvre. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>",
-      "name": "Inescapable Death",
-      "rechargeRating": 5,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Black powder weapon equipped, must prepare the manoeuvre. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>"
     },
     "reckless": {
       "effects": {
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>You quickly draw and fire at the enemy\u2019s most vulnerable area. You hit for -1 damage, ignoring the target\u2019s soak value.</p>"
+            "description": "<p>You quickly draw and fire at the enemy’s most vulnerable area. You hit for -1 damage, ignoring the target’s soak value.</p>"
           },
           {
             "symbolAmount": 2,
@@ -70,7 +63,7 @@
         "boon": [
           {
             "symbolAmount": 3,
-            "description": "<p>\u00a7 critical.</p>"
+            "description": "<p>§ critical.</p>"
           }
         ],
         "bane": [
@@ -87,20 +80,11 @@
         ],
         "sigmarsComet": [],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Special. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>",
-      "name": "Inescapable Death",
-      "rechargeRating": 6,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Special. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>"
+    }
   }
 }

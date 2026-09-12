@@ -9,7 +9,7 @@
         "success": [
           {
             "symbolAmount": 1,
-            "description": "<p>M As the daemon attacks its target, \u20ac pustulant sores open on its flesh, spattering its victim with noisome filth. The attack inflicts normal damage</p>"
+            "description": "<p>M As the daemon attacks its target, € pustulant sores open on its flesh, spattering its victim with noisome filth. The attack inflicts normal damage</p>"
           },
           {
             "symbolAmount": 3,
@@ -46,18 +46,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Used By: Greater Daemons Engaged with target</p>",
-      "name": "Purulent Attack",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: Greater Daemons Engaged with target</p>"
     },
     "reckless": {
       "effects": {
@@ -101,20 +94,11 @@
           }
         ],
         "delay": [],
-        "exertion": [],
-        "challenge": []
+        "exertion": []
       },
-      "requirements": "<p>Engaged with target</p>",
-      "name": "Purulent Attack",
-      "rechargeRating": 0,
-      "difficultyModifiers": {
-        "challengeDice": 0,
-        "misfortuneDice": 0
-      },
-      "check": "",
-      "traits": ""
-    },
-    "type": "melee",
-    "rechargeTokens": 0
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target</p>"
+    }
   }
 }
