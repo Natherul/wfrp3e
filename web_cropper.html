@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visual Symbol Cropper</title>
+    <style>
+        body { font-family: sans-serif; background: #222; color: white; text-align: center; }
+        canvas { border: 1px solid #444; cursor: crosshair; }
+        .instructions { margin: 20px; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <div class="instructions">
+        <p>1. Drag a tight box around a symbol (Hammer, Eagle, Skull, etc.)</p>
+        <p>2. A prompt will ask you to name it (e.g., "hammer", "eagle"). It will instantly download as <code>template_hammer.png</code>.</p>
+        <p>3. Refresh the page to load the next image.</p>
+        
+        <select id="imgSelect" onchange="loadImage()">
+            <option value="Warhammer rpg 3ed/cards/Actions/PC Action Cards/Priest Spells/Ulric/Wolfpack_C.jpg">Wolfpack (For Hammer, Eagle, Skull, Comet, Dice boxes)</option>
+            <option value="Warhammer rpg 3ed/cards/Actions/NPC Action Cards/Spells/Misc_Spells/Arcane_Bolt_A.jpg">Arcane Bolt (For Chaos Star, Righteous Success)</option>
+        </select>
+    </div>
+
+    <canvas id="canvas"></canvas>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        let img = new Image();
+        let isDrawing = false;
+        let startX, startY, currentX, currentY;
+
+        function loadImage() {
+            img.src = document.getElementById('imgSelect').value;
+            img.onload = () => {
+                canvas.width = img.width;
+                canvas.height = img.height;
+                draw();
+            };
+        }
+
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.drawImage(img, 0, 0);
+            if (isDrawing) {
+                ctx.strokeStyle = 'red';
+                ctx.lineWidth = 2;
+                const w = currentX - startX;
+                const h = currentY - startY;
+                ctx.strokeRect(startX, startY, w, h);
+            }
+        }
+
+        canvas.onmousedown = (e) => {
+            const rect = canvas.getBoundingClientRect();
+            startX = e.clientX - rect.left;
+            startY = e.clientY - rect.top;
+            isDrawing = true;
+        };
+
+        canvas.onmousemove = (e) => {
+            if (!isDrawing) return;
+            const rect = canvas.getBoundingClientRect();
+            currentX = e.clientX - rect.left;
+            currentY = e.clientY - rect.top;
+            draw();
+        };
+
+        canvas.onmouseup = (e) => {
+            isDrawing = false;
+            const rect = canvas.getBoundingClientRect();
+            currentX = e.clientX - rect.left;
+            currentY = e.clientY - rect.top;
+            draw();
+
+            const w = Math.abs(currentX - startX);
+            const h = Math.abs(currentY - startY);
+            const x = Math.min(startX, currentX);
+            const y = Math.min(startY, currentY);
+
+            if (w > 5 && h > 5) {
+                setTimeout(() => {
+                    let name = prompt("Enter symbol name (e.g., 'hammer', 'eagle'):");
+                    if (name) {
+                        const cropCanvas = document.createElement('canvas');
+                        cropCanvas.width = w;
+                        cropCanvas.height = h;
+                        const cropCtx = cropCanvas.getContext('2d');
+                        cropCtx.drawImage(canvas, x, y, w, h, 0, 0, w, h);
+                        
+                        const link = document.createElement('a');
+                        link.download = `template_${name}.png`;
+                        link.href = cropCanvas.toDataURL();
+                        link.click();
+                    }
+                    draw(); // Clear the red box
+                }, 50);
+            }
+        };
+
+        // Load initial image
+        loadImage();
+    </script>
+</body>
+</html>
