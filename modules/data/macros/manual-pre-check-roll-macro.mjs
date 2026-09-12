@@ -31,8 +31,8 @@ export default class ManualPreCheckRollMacro extends ActiveEffectMacro
 	{
 		return {
 			...super.defineSchema(),
-			conditionalScript: new foundry.data.fields.JavaScriptField(),
-			postRollScript: new foundry.data.fields.JavaScriptField({async: true})
+			conditionalScript: new foundry.data.fields.StringField(),
+			postRollScript: new foundry.data.fields.StringField({async: true})
 		};
 	}
 }
