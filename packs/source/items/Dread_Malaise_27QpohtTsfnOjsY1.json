@@ -1,0 +1,80 @@
+{
+  "name": "Dread Malaise",
+  "type": "action",
+  "_id": "27QpohtTsfnOjsY1",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You sap the target's strength with eldritch energy. The target gains the Weakened condition for 3 rounds.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you cause Fear 1 to all enemies within medium range.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>range</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You sap the strength of up to 4 targets with eldritch energy. The target(s) gain the Weakened condition for 3 rounds.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you cause Fear 1 to all enemies within medium range.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target(s) suffer 1 fatigue; you recover 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You cause Fear 1 to all allies within close range.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>4 power, target(s) within close range, target beyond the range, ldd O to [Dc] die pool. Special: This spell opposes the highest Resilience amongst its targets.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

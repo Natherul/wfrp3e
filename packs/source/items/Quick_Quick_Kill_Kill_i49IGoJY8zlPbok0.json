@@ -1,0 +1,87 @@
+{
+  "name": "Quick Quick Kill Kill",
+  "type": "action",
+  "_id": "i49IGoJY8zlPbok0",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 The sneaky gutter runner unleashes a quick ranged attack, hoping to catch its target off-guard. The attack inflicts normal &8 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recharge token to any one of the target's actions</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker may immediately § completed § an manoeuvre after this action is</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target may immediately perform a manoeuvre after the attacker action</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker may immediately make a Basic Ranged Attack after this action is completed</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Special: Add W to this attack for opponent engaged with the attacker</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You unleash a quick ranged attack, hoping to catch its target off-guard. The attack inflicts normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and the GM may add 1 recharge token to any one of the target's actions</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target may immediately manoeuvre after you complete this action</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You immediately make a Basic Ranged Attack after this action is completed</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "2b",
+      "requirements": "<p>Ranged weapon equipped, target within range. Special: Add B to this attack for each opponent engaged with the attacker. If the opponent uses any Active Defences against this attack, add 1 additional recharge token to those actions</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Disillusionment",
+  "type": "action",
+  "_id": "tsv5UxqRAKNKRzHE",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>7 favour</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You purge illusions from within the target area, revealing the truth to all who observe.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All The creator(s) of the illusions suffer stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The difficulty increases, and add {Dm} to the dice pool for other illusions in the area.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress and 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>For a short time, then return.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The illusions flicker and fade only for a short time, then return.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>7 favour Special: This action is either opposed by the target’s Guile (Fel), or in case of illusions created by an enemy, has its difficulty set by the GM based on complexity of the illusion. This is usually Hard (3{Dc}). Use the difficulty within medium range to set the baseline.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

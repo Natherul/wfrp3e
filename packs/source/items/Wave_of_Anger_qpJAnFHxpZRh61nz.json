@@ -1,0 +1,86 @@
+{
+  "name": "Wave of Anger",
+  "type": "action",
+  "_id": "qpJAnFHxpZRh61nz",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You summon a great wave that smashes into the target and then suddenly dissipates, knocking him over and leaving him prone. The target suffers 2 + WP damage, ignoring armour soak value</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +1 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>S favour, target within medium range. If engaged with an enemy, add {Dc} to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You summon a great wave that smashes into the target and then suddenly dissipates, knocking him over and leaving him prone. The target suffers 2 + WP damage, ignoring armour soak value</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +3 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains the Sluggish condition for 3 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>& Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are knocked prone by your own wave</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>avour, target within medium range. If engaged with an enemy, add {Dc} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

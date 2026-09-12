@@ -1,0 +1,69 @@
+{
+  "name": "Glamour of Fire",
+  "type": "action",
+  "_id": "cy9TlwTgW5zecEf2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 power enhance your presence with the power of fire. While this card is recharging, you gain +1 on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each member of your party that can see and hear you recovers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: You enhance your presence with the recharging power of fire. While this card is recharging, you gain {Dc} on Intimidate (St), Charm (Fel), and Leadership (Fel) checks</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

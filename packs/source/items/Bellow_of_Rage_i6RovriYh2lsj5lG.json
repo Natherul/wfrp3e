@@ -1,0 +1,100 @@
+{
+  "name": "Bellow of Rage",
+  "type": "action",
+  "_id": "i6RovriYh2lsj5lG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A Your targets gain the Demoralised condition for 3 rounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and targets suffer 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>targets gain the Cowed condition for 3 rounds</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>My number of characters within close range who can hear you. For each target beyond the first, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A Your targets gain the Demoralised condition for 3 rounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and targets suffer 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your targets gain the Rattled condition for 3 rounds</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The targets suffer 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A mortal ally within close range suffers from the Rattled condition for 3 rounds</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your targets are Demoralised for 5 rounds instead of 3</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>You may target any number of characters within close range who can hear you. For each target beyond the first, add {Dm} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

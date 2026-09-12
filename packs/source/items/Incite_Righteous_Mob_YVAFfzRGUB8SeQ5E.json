@@ -1,0 +1,67 @@
+{
+  "name": "Incite Righteous Mob",
+  "type": "action",
+  "_id": "YVAFfzRGUB8SeQ5E",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A4 Your audience becomes an unruly and hate-filled mob.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you can suggest a target to the mob on whom to unleash their righteous anger.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c 1f",
+      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar’s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar’s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your audience becomes an unruly and hate-filled mob.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you can suggest a target to the mob on whom to unleash their righteous anger.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The mob decides you are pious...</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1f",
+      "requirements": "<p>10 favour. You must invoke this in the presence of a prominent fire, where you preach for several minutes as your audience looks on. Effect: The subjects affected by this spell are filled with Sigmar’s fiery hatred of Chaos and corruption. Taking up the flames of their faith, they seize torches, burning brands, or anything else flammable that is at hand, lit from your prominent fire, and go forth to bring Sigmar’s vengeance. This effect lasts until those flames are extinguished (usually by throwing them at the wicked!)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

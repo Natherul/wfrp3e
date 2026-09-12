@@ -1,0 +1,10 @@
+{
+  "name": "Fragile Nerves",
+  "type": "ability",
+  "_id": "rzKwlTvmnPhklej4",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Add Discipline, Intimidate, and Leadership checks. You've seen too many nasty things and could really use a little peace and quiet, but it never stops. It never stops. It’s just one thing after another...</p>"
+  },
+  "_text_fixed_by_llm": true
+}

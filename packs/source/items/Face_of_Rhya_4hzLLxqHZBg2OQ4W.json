@@ -1,0 +1,57 @@
+{
+  "name": "Face of Rhya",
+  "type": "action",
+  "_id": "4hzLLxqHZBg2OQ4W",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Move the party tension meter 1 space to the right.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "",
+      "requirements": "<p>4 favour, target within medium range Effect: You invoke Rhya in her aspect as goddess of love and beauty to impress your target. While this blessing is recharging, you add {Dc} to your dice pool for social interactions with the target.</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

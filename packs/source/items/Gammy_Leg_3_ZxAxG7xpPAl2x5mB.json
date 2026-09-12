@@ -1,0 +1,11 @@
+{
+  "name": "Gammy Leg 3",
+  "type": "criticalWound",
+  "_id": "ZxAxG7xpPAl2x5mB",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>When you suffer fatigue to perform an additional manoeuvre, suffer 1 additional fatigue.</p> You can only move at a crawl, or hobble on crutches",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

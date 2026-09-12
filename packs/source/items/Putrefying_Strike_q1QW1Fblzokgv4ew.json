@@ -1,0 +1,97 @@
+{
+  "name": "Putrefying Strike",
+  "type": "action",
+  "_id": "q1QW1Fblzokgv4ew",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You land a sinister blow that can infect wounds with putrefying rot. The attack inflicts -2 damage and the target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but normal damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target makes a Disease {Df} infected by a disease with the Fxlt Wound traits</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target of the attack may perform a free manoeuvre</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Turn one of the target’s wounds face up. He gains the Weakened condition for many rounds as that critical wound’s severity</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The follower of Nurgle lands a vicious blow that can infect wounds with putrefying rot. The attack inflicts normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and the target suffers 1 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 critical, and if the target is afflicted by any diseases, the target suffers 1 corruption per disease</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target of the attack may perform a free manoeuvre</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Turn one of the target’s wounds face up. He gains the Weakened condition for as many rounds as that critical wound’s severity</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

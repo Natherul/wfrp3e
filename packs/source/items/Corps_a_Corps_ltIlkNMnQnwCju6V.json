@@ -1,0 +1,85 @@
+{
+  "name": "Corps a Corps",
+  "type": "action",
+  "_id": "ltIlkNMnQnwCju6V",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You slam your body into your target, knocking him prone. He must spend a manoeuvre to stand up.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>HHH As above, and you also strike him for -2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You hook your weapon into your opponent’s knee, knocking him prone. He must spend a manoeuvre to stand up.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>4144 As above, and you also strike him for -2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target suffers 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your allies gain {Df} to attacks against the target until your next turn.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are knocked prone.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>perform free BN You may immediately perform a manoeuvre, or repeat this action against another opponent in the same engagement.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Special: If your target’s armour soak value is 3 or greater, add {Dm} to the dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

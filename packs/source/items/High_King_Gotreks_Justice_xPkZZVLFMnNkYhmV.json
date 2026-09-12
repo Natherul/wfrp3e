@@ -1,0 +1,77 @@
+{
+  "name": "High King Gotreks Justice",
+  "type": "action",
+  "_id": "xPkZZVLFMnNkYhmV",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit for normal damage, or -1 damage +1 critical, your choice</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p># Your target’s soak value is reduced by 3</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ You suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, engaged with the target to your thedc</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for normal damage, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>L Your target’s soak value is reduced by 3</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ You suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 9,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, engaged with the target Special: If your target has wronged you or your clan, or is a Greenskin or Elf, gain {Df} to your check</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

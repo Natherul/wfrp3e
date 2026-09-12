@@ -1,0 +1,77 @@
+{
+  "name": "Fourth Portent of Amul",
+  "type": "action",
+  "_id": "ISNhOslOD3MmHLA3",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You see a grand opportunity in the near future. Place any one die from your dice pool on this card, being careful to preserve its rolled face. This action card does not recharge while that die is on it. When an ally within medium range makes a check that includes a die of that type in its dice pool, he may take the die from this card and place it directly into his results pool in addition to rolling that particular die.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you may add a second {Dc} die from your pool to this card. This card doesn’t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each spell you have recharging with “Portent of Amul” in its name, add 1 fortune point to the party fortune pool.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 power</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You see an opportunity in the near future. Place any one die from your dice pool on this card, being careful to preserve its rolled face. This action card does not recharge while that die is on it. When an ally within medium range makes a check that includes a die of that type in its dice pool, he may take the die from this card and place it directly into his results pool in addition to rolling that particular die.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you may add a second {Dr} die from your pool to this card. This card doesn’t recharge until both dice are spent. Both dice can be spent on the same check, or used on different checks.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each spell you have recharging “Portent of Amul” in its name, add 1 fortune point to the party fortune pool.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 power</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Nurgles Touch",
+  "type": "action",
+  "_id": "NOpWN8T8qSyjf00O",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power, target within medium range. If you are engaged with an enemy, add {Dc} to the dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Nimbus of green-black fumes surrounds the target as his flesh festers and blisters. You hit the target for 4 + WP damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A nimbus of green-black fumes surrounds the target as his flesh festers and blisters. You hit the target for 4 + WP damage and the target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 7 + WP damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+] critical g</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>plus damage equal to the highest severity & disease symptom you are suffering from</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power, target within medium range. If you are Engaged with an enemy, add {Dm} to the dice pool</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue and 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

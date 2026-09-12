@@ -1,0 +1,91 @@
+{
+  "name": "Swarm of Filth",
+  "type": "action",
+  "_id": "7ebTgAYBQSukZEAb",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The normal damage, +1 B damage for every 3 allies in the engagement.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target makes a Disease 1 check with an additional B for every two of your allies in the engagement or becomes infected by a disease with the Contact, Filth or Wound traits.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage for every 3 allies in the engagement.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M critical.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You lose 1 Aggression die from your dice budget.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You and each of your allies in the engagement suffer 1 wound.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>You and at least one filth-encrusted, disease-ridden ally must be engaged with the target. Each ally in the engagement adds {Dc} to the dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attack inflicts normal damage, +1 B damage for every three Nurglings in the engagement.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The critical damage, 8 +1 damage for every two Nurglings in the engagement.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target makes a Disease 1 check with an additional M for every two Nurglings in the engagement or becomes infected by a disease with the Contact, Lethal, Wound traits.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker loses 1 Aggression die.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All Nurglings in the engagement suffer 1 wound.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Nurglings. Nurglings engaged with the target. The Nurgling suffering from the fewest wounds makes the attack. Each additional Nurgling in the engagement adds {Dc} to the dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

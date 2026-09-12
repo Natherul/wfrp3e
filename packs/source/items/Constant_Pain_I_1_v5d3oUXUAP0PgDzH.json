@@ -1,0 +1,11 @@
+{
+  "name": "Constant Pain I 1",
+  "type": "criticalWound",
+  "_id": "v5d3oUXUAP0PgDzH",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Whenever you suffer stress, suffer 1 fatigue.</p>",
+    "severityRating": 1
+  },
+  "_text_fixed_by_llm": true
+}

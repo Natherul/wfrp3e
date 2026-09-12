@@ -1,0 +1,89 @@
+{
+  "name": "Peacemaker",
+  "type": "action",
+  "_id": "kIaemGqLx2s9E2rC",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 favour Effect: You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>galns As above, and one ally the benefits of this blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>galns As above, and one ally th * benefits of this blessing</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, ¥ rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 favour Effect: You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and one ally gains the benefits of this blessing</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8 favour Effect: You suffer to your next Intimidate check during this encounter.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>6 favour Effect: Everyone loves Shallya. While this blessing is recharging, you gain +1 to all Charm checks, and fortune points spent on Charm checks add {Df} to your dice pool, ¥ rather than {Dm}. If you perform an attack or use the Intimidate skill, you lose the benefit of this blessing</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

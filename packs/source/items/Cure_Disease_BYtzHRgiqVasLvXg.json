@@ -1,0 +1,87 @@
+{
+  "name": "Cure Disease",
+  "type": "action",
+  "_id": "BYtzHRgiqVasLvXg",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A symptom of the target disease is cured. If the disease has no symptoms, it is cured.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 2 symptoms instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 3 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain a disease that shares at least one trait with the target disease.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>6 favour, must be engaged with target and perform a prepared manoeuvre. May only attempt this blessing once per disease. Special: The difficulty of this check is equal to the severity of the disease or [Dc]</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

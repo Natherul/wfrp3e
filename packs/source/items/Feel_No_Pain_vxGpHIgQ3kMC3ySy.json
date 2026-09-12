@@ -1,0 +1,83 @@
+{
+  "name": "Feel No Pain",
+  "type": "action",
+  "_id": "vxGpHIgQ3kMC3ySy",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} For theled by good spirits, you don't notice the injury! Ignore the ill effects of the injury until you sober up (use a tracking token to mark it as ignored)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Must be Intoxicated. Play when you suffer a non-Severe Injury critical wound</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} Fortified by good spirits, you don’t even notice the injury! Ignore the ill effects of the injury until you sober up (use a tracking token to mark it as ignored)</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ Suffer stress equal to the critical severity</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 wound! Hic!</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>You suffer intoxication \\mLmd Specnal The difficulty of this check is the severity of the critical wound you suffer</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

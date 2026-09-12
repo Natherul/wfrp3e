@@ -1,0 +1,89 @@
+{
+  "name": "Magnificent Buboes",
+  "type": "action",
+  "_id": "le4iT8k8RLQ77p9K",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each M rolled, and begins behaving according to its nature. If you are critically wounded while this spell is recharging, the buboes pop and the spell recharges immediately.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but roll 1 extra {Dc} when this spell recharges.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 fewer recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power, 4+ To. You must be afflicted by at least 1 disease. Effect: Magnificent pustules swell on your skin, and within each one is a tiny, wriggling Nurgling. While this spell is recharging, you gain +1 Soak. Once this spell recharges, roll 1 Nurgling from buboes emerges from your skin.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each {Dr} rolled, and begins behaving according to its nature. If you are critically wounded while this spell is recharging, the buboes pop and the spell recharges immediately.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p># You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but roll 1 extra {Dr} when this spell recharges.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 fewer recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Suffer 1 stress and 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power, 4+ To. You must be afflicted by at least 1 disease. Effect: Magnificent pustules form and swell on your skin, and within each one is a tiny, wriggling Nurgling. While this spell is recharging, you gain +1 Soak. Once this spell recharges, roll 1 Nurgling emerges from your buboes.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

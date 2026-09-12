@@ -1,0 +1,95 @@
+{
+  "name": "Black Breath of Death",
+  "type": "action",
+  "_id": "0v0SRz8n81dCN292",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You take a deep breath, then exhale a stream of darkness at the target. He suffers &8</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and if he is fatigued he gains the Weakened condition for 2 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue before this spell is resolved</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue {Dm}</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal all the wounds dealt by this spell face up, then choose 1 with a severity no greater than the total fatigue the target has. Turn the rest face down</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>p;dal- If the target's fatigue is fatigued, the difficulty modifier for this action is ignored</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You take a deep breath, then exhale a stream of darkness at the target, hitting him for 1 damage plus an amount equal to the fatigue he has</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue before this spell is resolved</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Reduce the target's armour soak value by 1</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue and 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the target's Toughness is fatigued, gain +1 critical for each point of fatigue in excess of his Toughness the target has</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>1 power, target within medium range Special: If the target's Toughness is fatigued, the difficulty modifier for this action is ignored</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

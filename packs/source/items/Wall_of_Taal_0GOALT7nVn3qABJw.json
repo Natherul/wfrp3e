@@ -1,0 +1,48 @@
+{
+  "name": "Wall of Taal",
+  "type": "action",
+  "_id": "0GOALT7nVn3qABJw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 You grow and shape the nearby flora to create a natural wall of thorny, tough plants. The wall can be shaped into a circle blocking any exit. The wall requires a Hard (3{Dc}) Athletics check (or comparable) to break through it, failing to do so suffers 1 wound. The wall disappears when this blessing has recharged.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Checks to break through it suffer -1.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>thatxgue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The wall requires a Daunting (3{Dc}) Athletics check to break through, and</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour. There must be vegetation within close range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Improved Guard Position",
+  "type": "action",
+  "_id": "HjsajL6gEkW7CO6F",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ Until the start of your next turn, add {Dc} to any Melee Attack or Ranged Attack targeting you or any allies in the same engagement as you.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>5+ Until the start of your next turn, add {Dc} to any Melee Attack or Ranged Attack targeting you or any allies in the same engagement as you.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>6+ Until the start of your next turn, add {Dc} to any Melee Attack or Ranged Attack targeting you or any allies in the same engagement as you.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Discipline trained</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

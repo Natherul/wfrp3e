@@ -1,0 +1,98 @@
+{
+  "name": "Style and Grace",
+  "type": "action",
+  "_id": "qFaB9FlNw4aY2W1s",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If you have Coordination tr. may perform a manoeuvre for free</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may form a manoeuvre</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your grace and form impress those around you</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but instead</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add {Df} to your next action during this</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If you have Coordination trained, you may perform a manoeuvre for free</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may perform a manoeuvre for free</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You make a clumsy misstep, embarrassing yourself. Suffer 2 stress. In addition to the normal effects of Exertion, add a recharge token to each of your currently recharging cards</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Your subjects must be able to see Effect: You gain {Dc} on all your Social actions while this card is recharging</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

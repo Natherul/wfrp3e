@@ -1,0 +1,10 @@
+{
+  "name": "Exotic Locomotion",
+  "type": "mutation",
+  "_id": "ykAb1RJy7038MupH",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>You can scuttle and climb across difficult terrain with ease. You reduce penalties from difficult terrain by up to {Dc} on all checks to interact with people who can see your mutation. Tentacles, spider legs, or something even more bizarre...</p>"
+  },
+  "_text_fixed_by_llm": true
+}

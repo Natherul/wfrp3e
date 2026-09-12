@@ -1,0 +1,53 @@
+{
+  "name": "Chanson of Caging",
+  "type": "action",
+  "_id": "jNDoXncqr85LcFYE",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># Your graceful and languid movements are infectious</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 1 recharge token to each currently recharging card for each target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to each currently recharging card for each target</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target suffers 1 stress</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Coordination trained, target(s) within medium range (up to a maximum of 4 {Dc} Effect Targets) - Weakened 3 gain condition while this card is recharging</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Giant Wolf",
+  "type": "ability",
+  "_id": "tNFTD4ES1CFTp0kV",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Instinctive: May use WP instead of Int for Observation checks. Fast: Only 1 manoeuvre to move between medium range and long range, and 2 manoeuvres to move between long and extreme range.</p><p>Aggression: 4</p><p>Cunning: 3</p><p>Expertise: 2</p>"
+  },
+  "_text_fixed_by_llm": true
+}

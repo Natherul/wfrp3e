@@ -1,0 +1,11 @@
+{
+  "name": "Broken Rib I 2",
+  "type": "criticalWound",
+  "_id": "HjogMpp0i1stJm5y",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Each time you suffer a critical wound, suffer 1 normal wound.</p>",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

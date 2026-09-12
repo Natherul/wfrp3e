@@ -1,0 +1,59 @@
+{
+  "name": "Shadowcloak",
+  "type": "action",
+  "_id": "fRJAzUoZLvlD5rDD",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You become shrouded in shadow and may immediately perform 1 free manoeuvre. The shadows conceal you and provide concealment when the spell fades. At the GM's discretion, you may make a Stealth (Ag) test to remain hidden.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You become shrouded in shadow and may immediately perform 1 free manoeuvre. The shadows conceal you from prying eyes while this card is recharging. If you are in concealment when the spell fades, at the GM's discretion, you may make a Stealth (Ag) test to remain hidden.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The spell leaves black motes of shadow floating in the air for several minutes. While these are not traceable to your exact location, they are clear evidence that a spell has been cast in the area.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>3 power. If you are engaged with an enemy, add {Dm} to your dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

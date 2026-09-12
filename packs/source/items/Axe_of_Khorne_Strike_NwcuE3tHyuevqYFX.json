@@ -1,0 +1,111 @@
+{
+  "name": "Axe of Khorne Strike",
+  "type": "action",
+  "_id": "NwcuE3tHyuevqYFX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attack inflicts normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The attack hits for +2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Overwhelmed condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target takes {Dc} WA damage.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ +1 critical.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>N +1 critical.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Axe of Khorne equipped, engaged with target. If action generates severe injuries, the effect of the injury is severe and is applied immediately.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attack inflicts normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The attack hits for +2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Overwhelmed condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target takes {Dr} 12 damage.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target may disengage for free.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ +1 critical.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ +1 critical.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ +1 critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Axe of Khorne equipped, engaged with target. Special: If this action generates any severe injuries, the severe effect of the injury is applied immediately.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

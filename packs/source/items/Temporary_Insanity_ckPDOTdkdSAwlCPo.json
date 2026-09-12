@@ -1,0 +1,10 @@
+{
+  "name": "Temporary Insanity",
+  "type": "insanity",
+  "_id": "ckPDOTdkdSAwlCPo",
+  "folder": "QY0ongDNPQQ2UB34",
+  "system": {
+    "description": "<p>Upon the briefest glimpse into the realm of magic, shaking your composure. Immediately draw 1 insanity card, and place 1 tracking token on the card for each {Dc} generated</p>"
+  },
+  "_text_fixed_by_llm": true
+}

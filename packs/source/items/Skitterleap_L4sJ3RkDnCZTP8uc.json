@@ -1,0 +1,86 @@
+{
+  "name": "Skitterleap",
+  "type": "action",
+  "_id": "L4sJ3RkDnCZTP8uc",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You disappear in a puff of smoke, immediately reappearing somewhere within medium range</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>However, but long range instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You disappear in a puff of smoke, and immediately reappearing somewhere within close range</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>However, but long range instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 fewer recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 str{Df} damage</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The active player’s turn ends</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "",
+      "requirements": "<p>Special: You may either play this action as a reaction when an enemy enters your engagement, or as an action on your turn</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

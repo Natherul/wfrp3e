@@ -1,0 +1,49 @@
+{
+  "name": "Astral Projection",
+  "type": "action",
+  "_id": "riaulGTd0a6qTPLg",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>CRAFT (INT) 7 power. This spell requires several minutes of peace and quiet to cast, and a comfortable place to leave your body while you're \"out\". Effect: Your spirit leaves your body to wander the world. While in spirit form, you are invisible and immaterial and gain the Spirit trait. You can move around just as you could while material, but you cannot affect the material world in any way. For example, a closed door is an impassable barrier to you. You are safe from mundane harm while immaterial. If you are engaged with your body, you can end this spell for no penalty at will. If the spell ends for any reason (including voluntarily) while you are away from your body, you suffer 3 fatigue and 3 stress and gain a temporary insanity with the Supernatural or Enigma traits. This spell recharges (and ends) at sunrise.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>peace and quiet to cast, and a comfortable place to leave your body while you're out. Effect: Your spirit leaves your body to wander the world. While in spirit form, you are invisible and immaterial and gain the Spirit trait. You can move around just as you could while material, but you cannot affect the material world in any way. For example, a closed door is an impassable barrier to you. You are safe from mundane harm while immaterial. If engaged with your body, you can end this spell for no penalty at will. If the spell ends for any reason (including voluntarily) while you are away from your body, you suffer 3 fatigue and 3 stress and gain a temporary insanity with the Supernatural or Enigma traits. This spell recharges (and ends) at sunrise.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

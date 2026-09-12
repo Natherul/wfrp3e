@@ -1,0 +1,62 @@
+{
+  "name": "Off Hand Flourish",
+  "type": "action",
+  "_id": "29KG4D5H3fyeYsBI",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each opponent in your engagement suffers 1 stress. The attack gains +1 damage per enemy in the engagement if both {De} and {Dc} have been invested in this Enhance.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target gains a Misfortune Die to his next action.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack Special: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>A second opponent in the engagement suffers 1 wound.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>{De} {Dc} - If both have been invested in this Enhance, you strike a second eligible target.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The same effects as the first.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>Two melee weapons equipped, Weapon Skill & Intimidation trained. Enhances a Melee Attack: Play this card when you make a Melee Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die. The attack gains +1 damage.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

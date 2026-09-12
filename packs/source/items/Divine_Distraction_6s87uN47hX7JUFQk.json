@@ -1,0 +1,105 @@
+{
+  "name": "Divine Distraction",
+  "type": "action",
+  "_id": "6s87uN47hX7JUFQk",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>141 As above, and if not engaged with the target can only Assess the Situation on his next turn</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target does not gain a free [Df] on his next turn</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>L Suffer 1 stress and lose 1 favour immediately</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>What's going on? All allies within the Perplexed condition while § range gain this blessing is recharging</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are cns_,.\\\"gd with the t JI&,LK, add 0 to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A The target becomes confused and gains the Perplexed condition for 2 rounds. He may not perform a manoeuvre to engage an enemy during his next turn</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and if not engaged with enemies the target can only Assess the Situation on his next turn</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress and lose 1 favour</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>blessing is recharging</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>What's going on? All allies within close range gain the Perplexed condition while</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All enemies with lower WP than the target within close range are also affected</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour, target within medium range and not engaged with one of your allies. If you are engaged with the target, add 0 to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

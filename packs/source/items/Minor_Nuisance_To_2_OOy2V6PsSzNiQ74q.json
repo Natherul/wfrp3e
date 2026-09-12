@@ -1,0 +1,11 @@
+{
+  "name": "Minor Nuisance To 2",
+  "type": "criticalWound",
+  "_id": "OOy2V6PsSzNiQ74q",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add to Toughness checks</p>",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

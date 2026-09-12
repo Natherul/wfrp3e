@@ -1,0 +1,77 @@
+{
+  "name": "Destroy Undead",
+  "type": "action",
+  "_id": "ZGyELyZPT4sLWDWN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your word of power hits an undead target for 5+WP damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 7+WP damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your word of power hits an undead target for 6+WP damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 8+WP damage, 1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may hit a second undead target within close range of the first one for 6+WP damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>S power, medium range to target. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

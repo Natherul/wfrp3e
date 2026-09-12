@@ -1,0 +1,77 @@
+{
+  "name": "Echo of Apotheosis",
+  "type": "action",
+  "_id": "nst0B7ryQawREz5W",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add +2 recharge tokens to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are suffused with Sigmar’s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are instantly healed of all wounds and all non-Severe Injury critical wounds.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 2f",
+      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar’s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add +2 recharge tokens to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are suffused with Sigmar’s holy wrath. In the absence of enemies, while this blessing recharges, you will turn on allies, beginning with the least pious.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are instantly healed of all wounds and all non-Severe Injury critical wounds.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 2f",
+      "requirements": "<p>12 favour. You must brandish a holy relic when you invoke this blessing. Special: Whether or not you successfully invoke this blessing, the holy relic is consumed. Effect: You become imbued with Sigmar’s presence, becoming his avatar. You nearly double in size and shine with golden radiance. While this blessing is recharging, you gain +1 to all characteristics, +2 to your Wound Threshold, and your DR, CR, Defence, and Soak values all improve by 1.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

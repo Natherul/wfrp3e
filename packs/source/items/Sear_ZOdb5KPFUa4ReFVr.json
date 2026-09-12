@@ -1,0 +1,95 @@
+{
+  "name": "Sear",
+  "type": "action",
+  "_id": "ZOdb5KPFUa4ReFVr",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>within range. Target medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hurl a handful of crackling flames at your target, striking him for 4+Int damage, +1 critical</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power. Target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hurl a handful of crackling flames at your target, striking him for 4+Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit the target for 5+Int damage</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>You hit the target for 7+Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage, +1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Lose 1 power after casting this spell</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

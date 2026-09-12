@@ -1,0 +1,77 @@
+{
+  "name": "Winters Frost",
+  "type": "action",
+  "_id": "zc3VC34Yhdt45pyJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target engagement or area within medium range. The ground grows icy and slick. While this spell is recharging, anyone attempting to move within the affected engagement must pass an Easy (1d) Coordination check or fall prone instead of moving.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 A burst of cold and ice inflicts 1 wound on each creature in the target engagement.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>1444 As above, and the ground grows icy and slick. While this spell is recharging, anyone attempting to move within the affected engagement must pass an Easy (1d) Coordination check or fall prone instead of moving.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain 1 power.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target engagement or area within medium range.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

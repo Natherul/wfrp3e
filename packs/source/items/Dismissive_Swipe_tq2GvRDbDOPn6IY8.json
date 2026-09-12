@@ -1,0 +1,47 @@
+{
+  "name": "Dismissive Swipe",
+  "type": "action",
+  "_id": "tq2GvRDbDOPn6IY8",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for -1 damage,</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you may force the target to move to anywhere within close range of you. You may immediately perform a {Da} for free</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

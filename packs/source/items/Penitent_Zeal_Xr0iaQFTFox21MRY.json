@@ -1,0 +1,87 @@
+{
+  "name": "Penitent Zeal",
+  "type": "action",
+  "_id": "Xr0iaQFTFox21MRY",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 favour. You suffer 1 wound as you invoke this blessing</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You flog yourself into the Invigorated condition for 4 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 61,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You flog yourself into the Invigorated condition for 4 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The duration of the Invigorated condition is increased by 1 round</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While you are Invigorated, you also gain 1 point of Strength</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>3 favour. You suffer 1 wound as you invoke this blessing</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

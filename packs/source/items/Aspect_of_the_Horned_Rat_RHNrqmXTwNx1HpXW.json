@@ -1,0 +1,90 @@
+{
+  "name": "Aspect of the Horned Rat",
+  "type": "action",
+  "_id": "RHNrqmXTwNx1HpXW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You take on the fearsome aspect of the Horned Rat himself! While this action is recharging, you cause Fear 1</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>cause Fear 2</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>4 power > '-—_</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You take on the fearsome aspect of the Horned Rat himself! While this action is recharging, you cause Fear 1</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You cause Fear 2</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your Fear increased by P rating is 1 {Dc}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain 1 aggression die, 1 cunning die, and 1 expertise die {De}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress, 1 fatigue, and 1 wound {Dm} {Dm} {Dm}</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your allies within medium range must test against your Fear rating</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Calming Presence",
+  "type": "action",
+  "_id": "mctGIe0x3FZf9vcA",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>and add 2 to recharge this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>characters within medium range recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Immediately lose 1 favour</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Characters within medium range may immediately adjust their stance</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 favour. You may not have a weapon (other than a walking stick) in hand at any time during this blessing’s effect. Effect: Shallya’s descends upon grace the area, protecting everyone from harm. ¥ area, protecting everyone from harm. While this blessing is recharging, all characters within medium range of you gain +X defence, where X is their current depth in the Conservative stance. (If a character is in the Neutral or Reckless stance, then X is 0)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and this blessing affects allies to medium range</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>As above, and this blessing affects allies up to long range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All characters within medium range recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 1 favour</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The next character within range of this blessing to perform an attack suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "2c",
+      "requirements": "<p>6 favour. You may not have a weapon (other than a walking stick) in hand at any time during this blessing’s effect. Effect: Shallya’s descends upon grace the area, protecting everyone from harm. While this blessing is recharging, allies within close range of you gain +2 defence</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

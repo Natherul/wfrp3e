@@ -1,0 +1,87 @@
+{
+  "name": "Curse of Thorns",
+  "type": "action",
+  "_id": "m0GEQ6B6Q9SbjidB",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You cause painful, agonizing thorns to grow within the target's body. He suffers 1 stress, 1 fatigue, and 1 wound</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 stress or 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p># All enemies engaged with the target suffer 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After this action resolves, look at 3 of the target's wound cards and turn one face-up as a critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 power, target within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You cause painful, agonizing thorns to grow within the target’s body. He suffers 1 stress, 1 fatigue, and 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +1 wound and lose 1 power</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All enemies engaged with the target suffer 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After this action resolves, look at 3 of the target's wound cards and turn one face-up as a critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 power, target within medium range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

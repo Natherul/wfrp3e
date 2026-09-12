@@ -1,0 +1,73 @@
+{
+  "name": "Pestilent Breath",
+  "type": "action",
+  "_id": "3VLMimBhmf4XXx05",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All affected creatures in armour soak</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 All affected creatures suffer S damage, ignoring armour soak value.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The overwhelmed wyrm for 2 rounds.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 {Dm} and add 1 recharge token stress to this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>S power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: A cloud of poisonous green gas spews forth from your open jaws, affecting all creatures (friend and enemy) other than you within close range.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

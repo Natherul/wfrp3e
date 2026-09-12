@@ -1,0 +1,103 @@
+{
+  "name": "Morks Wants Ya",
+  "type": "action",
+  "_id": "cUq0eW6bBJdZQtmd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A great green fist appears and grasps the target, crushing him for 3+Int {Dc} damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 3+Int+Fel {Dc} damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A great green fist appears and grasps the target, crushing him for S+Int {Dr} damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but S+Int+Fel {Dr} damage</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>This card is recharging</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may not perform any manoeuvres</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add a recharge token to all of the currently recharging abilities</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>This attack ignores the soak value of the target's armour</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>within long 7 power, target range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

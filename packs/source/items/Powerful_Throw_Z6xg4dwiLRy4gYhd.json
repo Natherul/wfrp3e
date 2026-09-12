@@ -1,0 +1,85 @@
+{
+  "name": "Powerful Throw",
+  "type": "action",
+  "_id": "Z6xg4dwiLRy4gYhd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Rolling to determine damage dealt</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage per fatigue suffered to reduce difficulty</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You hit for normal damage, +1 damage per fatigue suffered to reduce difficulty</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit for normal damage, +2 damage per fatigue suffered to reduce difficulty</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage per fatigue suffered to reduce difficulty</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>-1 modifier by {Dm} and add 1 additional recharge b ¥ token to this card per fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Throwing weapon equipped, not engaged with an enemy. Special: You may suffer up to 2 fatigue - before this action. Reduce the difficulty by {Dc}.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

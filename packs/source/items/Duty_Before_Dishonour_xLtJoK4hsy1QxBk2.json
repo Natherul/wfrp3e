@@ -1,0 +1,53 @@
+{
+  "name": "Duty Before Dishonour",
+  "type": "action",
+  "_id": "xLtJoK4hsy1QxBk2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S favour, Strength 4+</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

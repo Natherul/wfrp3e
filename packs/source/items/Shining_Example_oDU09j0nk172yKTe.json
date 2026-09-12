@@ -1,0 +1,87 @@
+{
+  "name": "Shining Example",
+  "type": "action",
+  "_id": "oDU09j0nk172yKTe",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing. M</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the blessing’s effects also apply to Disease checks and checks to resist corruption.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all allies within medium range recover 1 stress.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When this blessing recharges completely, all characters who had been protected by it must re-check against the last effect that this blessing protected them from.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain {Df} to all checks that this blessing affects. In addition, your allies may spend fortune points on such checks on your behalf.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour. You must be able to move and speak freely. Effect: While this blessing is recharging, if you pass a Fear or Terror check, your allies within long range automatically pass their checks against the same source, too.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the blessing’s effects also apply to Disease checks and checks to resist corruption.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Enemies within long range suffer 1 stress.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When this blessing recharges completely, all characters who had been protected by it must re-check against the last effect that this blessing protected them from.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each time you pass a check that this blessing affects, you and all allies within long range may recover 1 stress.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "3c",
+      "requirements": "<p>Effect: While this blessing is recharging, if you pass a Fear or Terror check, your allies within long range automatically pass their checks against the same source, too.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Rain of Life",
+  "type": "action",
+  "_id": "1wdIPdlxzc1EtsHR",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your allies may recover stress or fatigue or 1 wound.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 2 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each ally within medium range may convert one critical wound with a number of boon dice no greater than the total generated on this check into a normal wound.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from each of your allies within medium range who recover 1 normal wound.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell, and the rain to all Observation (Int) checks and Attacks beyond close range.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each time you remove a recharge token from this card, gain 1 power.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 2 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each ally within close range immediately recovers 2 normal wounds.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 power, must be outdoors or have a quantity of open water within close range. Effect: A warm, gentle rain begins to fall, infused with Ghyran, that restores health to your allies in the area. Each time you use this card, remove a recharge token from this card, each of your allies within medium range of you recovers 1 normal wound.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

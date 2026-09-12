@@ -1,0 +1,10 @@
+{
+  "name": "Great Unclean One",
+  "type": "ability",
+  "_id": "EeRDiCBqWiiggLp7",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Hideous, Nurgle's Rot, Terror 3 Unfathomable Power: Checks targeting this creature gain Plaguefather: 4 ranks Resilience, 2 ranks Spellcraft. Does not need power. Vile Progeny: On henchmen group of Nurglings appear engaged with the daemon AGGRESSION CUNNING EXPERTISE 10 6 8</p>"
+  },
+  "_text_fixed_by_llm": true
+}

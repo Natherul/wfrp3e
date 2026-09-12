@@ -1,0 +1,11 @@
+{
+  "name": "Minor Trauma Fel 3",
+  "type": "criticalWound",
+  "_id": "TipSKLwb2ikwWV4e",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add to Fellowship checks</p>",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,87 @@
+{
+  "name": "The Final Judgement",
+  "type": "action",
+  "_id": "9doencI1fJXqzdgg",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recharging</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and if you have at least 2 Judgement cards recharging,</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon or one-handed ranged weapon equipped; engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 damage per recharge token on any of your Judgement cards (including this one)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 1 recharge token from one of your recharging Judgement cards</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain a temporary insanity</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage, critical +2</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Special: You may use either your Weapon Skill (St) or your Ballistic Skill (Ag) for this check; use the values and traits for the appropriate weapon</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

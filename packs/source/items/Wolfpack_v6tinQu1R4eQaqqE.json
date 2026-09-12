@@ -1,0 +1,87 @@
+{
+  "name": "Wolfpack",
+  "type": "action",
+  "_id": "v6tinQu1R4eQaqqE",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and one of your affected allies may immediately perform a Melee Strike action.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>£ You and all affected allies recover 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all affected allies suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all affected allies gain {Df} to next action.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "3c 2f",
+      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all enemies within medium range add {Dm} to their next action.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all affected allies recover 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all affected allies suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>¥ X You and all affected allies gain {Df} to your next action.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "3c 2f",
+      "requirements": "<p>Special: If you are trained in Leadership, add {De} per rank of training to the dice pool. Effect: You and your pack fight as one. While this blessing is recharging, you and all allies who share a party card with you and are within medium range of you may use the best St, Ag, and To scores from amongst all qualifying characters.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fade to Black 3",
+  "type": "criticalWound",
+  "_id": "ObB1HyYDu75LSSzm",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>When you receive this wound, suffer fatigue equal to its severity.</p>",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Boil Lurgy",
+  "type": "disease",
+  "_id": "aAXarQRAhKwMVKZN",
+  "folder": "2D1Vc7km7bf3muVb",
+  "system": {
+    "description": "<p>Fellowship checks gain {Dc}. Your body, particularly your face, is covered with large, throbbing red boils. Each VIRULENT symptom acts as a copy of each other symptom the target suffers from.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

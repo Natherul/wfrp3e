@@ -1,0 +1,11 @@
+{
+  "name": "Nerve Damage 4",
+  "type": "criticalWound",
+  "_id": "igLPlUrog9E8Ruil",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Your Intelligence, Willpower, and Fellowship are & reduced by 1</p>",
+    "severityRating": 4
+  },
+  "_text_fixed_by_llm": true
+}

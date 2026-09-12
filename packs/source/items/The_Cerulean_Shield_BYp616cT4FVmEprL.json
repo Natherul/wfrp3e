@@ -1,0 +1,78 @@
+{
+  "name": "The Cerulean Shield",
+  "type": "action",
+  "_id": "BYp616cT4FVmEprL",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>When you use the Block action, your attacker adds an additional {Dc}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>attacker adds an additional {Dm}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>When you use the Block action, you suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>SPELLCRAFT (INT) 6 power, a free hand Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>B When you use the Block action, your attacker adds an additional {De}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When you use the Block action, you suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N When you use the Block action, your attacker suffers 1 wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Effect: A crackling electric shield of energy forms on your arm. While this card is recharging, you may remove 1 recharge token from it to force an opponent attacking you to re-roll all his {Dm}. Furthermore, while this card is recharging, you gain access to the Block action, regardless of its normal requirements</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

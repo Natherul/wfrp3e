@@ -1,0 +1,81 @@
+{
+  "name": "Sigmars Protection",
+  "type": "action",
+  "_id": "uSEmaXq8rN1LXvBT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Roll Df + De #4 You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and add 1 recharge token to “this card”</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You or one of your allies may remove a recharge token from one of your currently recharging action cards.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this blessing is recharging, you are considered to be encumbered.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>+1 favour Your faith in Sigmar hardens your flesh and strengthens you against pain. While this blessing is recharging, you gain +1 soak and +1 defense.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Roll Df + Dr #4 You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and your wound threshold is increased by 1 more.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You or one of your allies may remove a recharge token from one of your currently recharging action cards.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this blessing is recharging, your total Encumbrance increases by 3.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: If, when your wound threshold is reduced, you are suffering from wounds in excess of your wound threshold, you are KO’d and may die. Effect: Your faith in Sigmar hardens your flesh and strengthens you against pain. While this blessing is recharging, your wound threshold is increased by your depth in the Reckless stance.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

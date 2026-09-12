@@ -1,0 +1,85 @@
+{
+  "name": "Fysh Bite",
+  "type": "action",
+  "_id": "v9z2VaZoCLY7nKbF",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for normal damage and move to engaged with the target, ignoring intervening obstacles or enemies</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and your target gains the Exposed condition while this action is recharging by {Dc}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>#1 critical</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>| @ Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, must be able to see your target or be within range of the target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for +1 damage and move to engaged with the target, ignoring intervening obstacles or enemies.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>41 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers wounds equal to the number of range increments away from him you were when you performed this action</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@ @ You suffer fatigue equal to the number of range increments away from the target you were when you performed this action</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Melee weapon equipped, must be able to see your target. Special: This attack uses Agility instead of Strength for both the attack roll and damage calculation. Increase the difficulty modifier by {Dc} for each increment of range you are away from the target.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

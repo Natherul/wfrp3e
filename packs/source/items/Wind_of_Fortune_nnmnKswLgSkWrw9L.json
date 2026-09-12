@@ -1,0 +1,49 @@
+{
+  "name": "Wind of Fortune",
+  "type": "action",
+  "_id": "nnmnKswLgSkWrw9L",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Bon this card to add a number of {Dc} to the action’s dice pool equal to your Rank.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend favour and place 2 recharge tokens.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Bon this card to add a number of {Dr} to the action’s dice pool equal to your Rank.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>2 favour; you or an ally within close range is declared the target of an attack. Special: After you or an ally within close range has been declared the target of a Melee Attack or Ranged Attack, you may spend 2 favour and place 4 recharge tokens.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

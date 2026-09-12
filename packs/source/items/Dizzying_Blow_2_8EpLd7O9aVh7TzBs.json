@@ -1,0 +1,11 @@
+{
+  "name": "Dizzying Blow 2",
+  "type": "criticalWound",
+  "_id": "8EpLd7O9aVh7TzBs",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Your mental checks gain:</p> @ The GM may add or remove one recharge token to one of your recharging cards",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

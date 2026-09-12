@@ -1,0 +1,10 @@
+{
+  "name": "Levitation",
+  "type": "miscast",
+  "_id": "ELFFZOw6vsLqAJRS",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Next turn, you find yourself floating several feet above the ground. You may not move from your current location (although you may be dragged or pushed to a new location by another person). Characters add a {Dc} to Ranged Attacks that target you while you are floating.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

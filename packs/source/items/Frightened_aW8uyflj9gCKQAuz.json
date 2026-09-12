@@ -1,0 +1,10 @@
+{
+  "name": "Frightened",
+  "type": "condition",
+  "_id": "aW8uyflj9gCKQAuz",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Target that has a Fear or Terror Rating: You convert one less characteristic die into a stance die. At the beginning of your turn, suffer 1 stress.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

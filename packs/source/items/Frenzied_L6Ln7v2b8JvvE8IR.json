@@ -1,0 +1,10 @@
+{
+  "name": "Frenzied",
+  "type": "condition",
+  "_id": "L6Ln7v2b8JvvE8IR",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>BRIEF EFFECT</p> Cancels Cowed. Your stance dice and a reckless die. Your Melee Attacks gain 4, deal +2 damage, in addition to the regular effects"
+  },
+  "_text_fixed_by_llm": true
+}

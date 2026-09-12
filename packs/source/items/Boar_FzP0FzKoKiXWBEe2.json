@@ -1,0 +1,10 @@
+{
+  "name": "Boar",
+  "type": "ability",
+  "_id": "FzP0FzKoKiXWBEe2",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Instinctive: May use WP instead of Int for Observation checks. Fast: Only 1 manoeuvre to move between medium range and long range, and 2 manoeuvres to move between long and extreme range.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

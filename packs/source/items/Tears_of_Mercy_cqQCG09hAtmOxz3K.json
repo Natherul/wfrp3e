@@ -1,0 +1,79 @@
+{
+  "name": "Tears of Mercy",
+  "type": "action",
+  "_id": "cqQCG09hAtmOxz3K",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You weep over the target, and as your tears fall upon him he is healed of all wounds, all critical wounds, all permanent or severe injuries, all diseases, all mutations, and all insanities.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target recovers all fatigue and all stress.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># One of the target’s mutations, diseases, critical wounds, insanities, or injuries is transferred from the target to you (GM’s choice as to which).</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N You may make a Daunting (4{Dc}) Discipline (WP) check. If you pass, you do not remove this card from your action deck.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "3c",
+      "requirements": "<p>Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You weep over the target, and as your tears fall upon him he is healed of all wounds, all critical wounds, all permanent or severe injuries, all diseases, all mutations, and all insanities.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer wounds equal to half the wounds the target recovers.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>% One of the target’s mutations, diseases, critical wounds, insanities, or severe injuries is transferred from the target to you (GM’s choice as to which).</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N You may make a Hard (3{Dc}) Discipline (WP) check. If you pass, you do not remove this card from your action deck.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "4c",
+      "requirements": "<p>10 favour, engaged with target Special: When you successfully invoke this blessing, remove this card from your action deck. You must spend an advance as normal to reacquire it.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

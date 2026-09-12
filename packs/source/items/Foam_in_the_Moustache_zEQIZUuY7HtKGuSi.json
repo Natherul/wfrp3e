@@ -1,0 +1,99 @@
+{
+  "name": "Foam in the Moustache",
+  "type": "action",
+  "_id": "zEQIZUuY7HtKGuSi",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 Seizing your drink in hand, you drink the entire thing back in one impressive gulp. This may make friends and influence people, but most importantly you gain the {Dc}ntoxicated condition until you sleep it off</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>£ 11 As above, and you recover 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>4 {De} You recover 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>? {De} You recover 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>82 You spill some! This disgraceful display causes you to gain 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You recover 1 wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Must have a quantity of spirits or dwarf beer</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A Seizing your drink in hand, you pound the entire thing back in one impressive gulp. This may make friends and influence people, but most importantly you gain the {Dc}ntoxicated condition until you sleep it off</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you recover 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>& Gain the Invigorated condition for 2 rounds as you smack your lips noisily</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain the Inspired condition for 2 rounds.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® Beer sloshes everywhere, including on friends. Increase Party Tension by 1</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N Recover 1 wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Must have a quantity of spirits or dwarf beer at hand</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

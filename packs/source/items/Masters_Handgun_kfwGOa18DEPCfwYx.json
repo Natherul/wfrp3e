@@ -1,0 +1,10 @@
+{
+  "name": "Masters Handgun",
+  "type": "trapping",
+  "_id": "kfwGOa18DEPCfwYx",
+  "folder": "2kJ3UuTCfU1dl5JF",
+  "system": {
+    "description": "<p>The handguns of Dwarf Thunderers, called belchers' by the more superstitious Goblin tribes, feature many improvements over the crude devices used by other races. These features include rifled barrels, finer powder grain and much more. This gun is the work of a true master. Damage Rating: 6 Critical Rating: 2 Range: Medium Group: Blackpowder Qualities: Pierce 2, Unreliable 2, Reload, Two-Handed Encumbrance: 4 This handgun is of superior craftsmanship; its wielder adds {Df} to the dice pool of all attacks made while wielding it.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

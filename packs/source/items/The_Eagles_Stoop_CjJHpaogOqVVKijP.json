@@ -1,0 +1,95 @@
+{
+  "name": "The Eagles Stoop",
+  "type": "action",
+  "_id": "CjJHpaogOqVVKijP",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You move to engage the target and hit him for normal damage, +1 damage for favour you choose to expend</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You move to engage the target and hit him for normal damage, +1 damage for each favour you choose to expend</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, +{Dm} damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+Str damage. If this attack kills the target, it recharges immediately</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>Spear or sword equipped, not engaged with an enemy, target within close range Special This action is both a Blessing and a Melee Attack</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

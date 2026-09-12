@@ -1,0 +1,91 @@
+{
+  "name": "Suppress Mutation",
+  "type": "action",
+  "_id": "2HHs5XKnv0zAQQpw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 power, engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 A mutation touch is reverted until this spell you recharges.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but you may revert up to two mutations. Add one recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The mutation is reverted but when the spell recharges it reapers in the form of a new mutation. Draw a different mutation card, it will become</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target loses 1 corruption, target gains 1 corruption</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 power, engaged with target Z</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>recharges.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but you may revert up to two mutations. Add one recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The mutation is reverted but when the spell recharges it reapers in the form of a new mutation. Draw a different mutation card, it will become permanent once the spell recharges.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>L 1 O</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target loses 1 corruption @ gains 1 corruption target</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

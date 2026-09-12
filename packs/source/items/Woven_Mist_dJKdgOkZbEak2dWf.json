@@ -1,0 +1,87 @@
+{
+  "name": "Woven Mist",
+  "type": "action",
+  "_id": "dJKdgOkZbEak2dWf",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You begin the dance.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you recover a mixture of stress and fatigue equal to the number of Ritual Dances you have recharging with their Reckless face up.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Add or remove 1 recharge token from one of your Ritual Dances.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>® One opponent engaged with you disengages.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You revert to neutral stance.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: When you remove a recharge token from this card, you may adjust your stance 1 step.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You begin the dance.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you recover a mixture of stress and fatigue equal to the number of Ritual Dances you have recharging with their Conservative face up.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 2 recharge tokens from any of your Ritual Dances.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>| 88 One opponent engaged with you may disengage.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>#+ You revert to neutral stance.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>When you remove a recharge token from this card, you may adjust your stance 1 step.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

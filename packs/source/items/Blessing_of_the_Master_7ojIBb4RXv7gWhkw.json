@@ -1,0 +1,83 @@
+{
+  "name": "Blessing of the Master",
+  "type": "action",
+  "_id": "7ojIBb4RXv7gWhkw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You call upon the might of Daemons to grant you a boon.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, gain the Invigorated condition. While this card is recharging, you gain the Energised condition.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Draw a temporal Insanity Chaos or a natural trait</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, you gain +1 to a single characteristic and suffer 2 fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You call upon the might of Daemons to grant you a boon.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, gain the Invigorated condition. While this card is recharging, you gain the Energised condition.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Draw a temporal Insanity with the Chaos or natural traits</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, you gain +1 to a single characteristic and suffer 2 fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

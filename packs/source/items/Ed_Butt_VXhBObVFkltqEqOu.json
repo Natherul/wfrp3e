@@ -1,0 +1,53 @@
+{
+  "name": "Ed Butt",
+  "type": "action",
+  "_id": "VXhBObVFkltqEqOu",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You hit the target for unarmed damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and choose to suffer up to 3 wounds to inflict an equal amount of fatigue on the target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M The target gains the Sluggish condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p><+ The attacker can make an immediate attack against you after this action</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target. You must have inflicted a wound a [Df]g1m the target during your last turn. Special: The target cannot perform the Active Parry or Improved Parry against an Ed Butt S</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

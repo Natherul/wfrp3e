@@ -1,0 +1,77 @@
+{
+  "name": "Avenging Strike",
+  "type": "action",
+  "_id": "t6xVw4F0Sdgw8n7Q",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 You hit your foe for +1 damage in the name of vengeance!</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you may discard any number of recharge tokens from this action. For each token discarded in this way, you deal +1 damage and suffer 1 fatigue.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this action is recharging, your defence is reduced by 1.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may immediately recharge this action.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Melee weapon equipped, engaged with target. Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit your foe for normal damage, +1 critical in the name of vengeance!</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you may discard any number of recharge tokens from this action. For each token discarded in this way, you deal +1 damage and suffer 1 fatigue.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this action is recharging, your defence is reduced by 1.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Exposed condition while this action is recharging.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: When an ally within close range is dealt any amount of damage by the target, your blood boils for revenge! You may place a number of recharge tokens on this card equal to the damage dealt. You may then make a Weapon Skill (St) check noted above to seek vengeance on the target.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

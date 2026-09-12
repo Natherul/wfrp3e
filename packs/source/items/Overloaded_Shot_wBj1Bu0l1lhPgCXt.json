@@ -1,0 +1,85 @@
+{
+  "name": "Overloaded Shot",
+  "type": "action",
+  "_id": "wBj1Bu0l1lhPgCXt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Black Powder Weapon equipped, not engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit the target for +1 damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +6 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: The Unreliable rating of your weapon is worsened by 1 to a minimum of 1 as you load the weapon with far too much black powder.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

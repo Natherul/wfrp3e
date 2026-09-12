@@ -1,0 +1,76 @@
+{
+  "name": "Path of the Summer Gale",
+  "type": "action",
+  "_id": "SLzmrHKufPozdSFn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Hit him for normal damage. While this card is recharging, your Way of the Sword actions deal bonus damage equal to your depth in the Conservative stance</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and add 1 recharge token to card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Sword or greatsword equipped, target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You move to engaged with the target and hit him for normal damage. While this card is recharging, your Way of the Sword actions deal 2 bonus damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>But +2 damage and add 1 recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@@ Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

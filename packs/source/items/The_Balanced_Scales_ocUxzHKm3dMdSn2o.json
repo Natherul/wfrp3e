@@ -1,0 +1,107 @@
+{
+  "name": "The Balanced Scales",
+  "type": "action",
+  "_id": "ocUxzHKm3dMdSn2o",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target with a named stress or fatigue token gives 2 of them to the other target (your choice if there is a tie)</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 3 tokens instead</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but 4 tokens instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 favour. Two targets, both of which must be within medium range (you can target yourself)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target with more wounds gives 1 normal wound to the other target (your choice if there is a tie)</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 2 wounds instead</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but 4 wounds instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The donor target recovers 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dc} Recover 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} Suffer 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The donor target may give 1 of his critical wounds to the second target</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>1 favour. Two targets, both of which must be within medium range (you can target yourself). Special: This action is opposed by the higher Willpower between your targets. If you target yourself, use the second target's Willpower.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

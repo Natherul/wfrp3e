@@ -1,0 +1,10 @@
+{
+  "name": "Damaged",
+  "type": "condition",
+  "_id": "ilaFEAJBb4EKhOF2",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Applies only to equipment. Weapons have their DR reduced by 2. Armour has its Defence rating reduced by 2. All other items add {Dc} to any skill checks in which they are used until</p>"
+  },
+  "_text_fixed_by_llm": true
+}

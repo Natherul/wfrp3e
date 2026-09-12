@@ -1,0 +1,91 @@
+{
+  "name": "Rapid Fire",
+  "type": "action",
+  "_id": "9Kid3q70TGw3JsmD",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +2 damage. Add {Dc} to your next shot.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One opponent within close range who is not engaged with you may engage you.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Perform a free manoeuvre after this action is completed. Suffer 1 fatigue.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Perform a free manoeuvre after this action is completed. Suffer 1 fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "",
+      "requirements": "<p>Bow or repeating ranged weapon equipped, disengaged from target. Special: If you hit with this attack, you may immediately perform this action again, choosing either the same target or a new target in the same engagement as the first, and adding {Dc} to your dice pool. You may do this only once and only if you still meet the requirements for the attack.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +2 damage. Add {Dr} to your next shot.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One opponent within close range who is not engaged with you may engage you.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>another @ to your dice pool each time you perform this action</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One opponent within close range who is not engaged with you may engage you.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Perform a free manoeuvre after this action is completed. Suffer 1 fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Bow or repeating ranged weapon equipped, disengaged from target. Special: If you hit with this attack, you may immediately perform this action again, choosing either the same target or a new target in the same engagement as the first, and adding {Dr} to your dice pool. You may fire up to three times, as long as you still meet the requirements for the attack and as long as you continue to hit, but you must add another {Dr} to your dice pool each time you perform this action.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

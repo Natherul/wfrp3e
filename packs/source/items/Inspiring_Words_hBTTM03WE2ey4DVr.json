@@ -1,0 +1,79 @@
+{
+  "name": "Inspiring Words",
+  "type": "action",
+  "_id": "hBTTM03WE2ey4DVr",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Inspired condition for 3 rounds. If appropriate, you influence the target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target is Inspired for 6 rounds. If appropriate, you influence the target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Target can hear and understand you</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Inspired condition for 3 rounds. If appropriate, you influence the target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As many targets as you care to name gain the Inspired condition for 3 rounds. If appropriate, you influence the target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all targets each recover 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all targets each recover fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress and add 3 recharge tokens to this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

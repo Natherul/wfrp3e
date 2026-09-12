@@ -1,0 +1,10 @@
+{
+  "name": "Manfred von Carstein",
+  "type": "ability",
+  "_id": "VbCXVeZU8FSicLfV",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Fear 3, Night Vision, Blood Pool, Master of Necromancy, Dead Earnest Dead Calm: Add {Dc} to all actions targeting Mannfred's WP. Centuries of Knowledge of Channelling, Charm, Guile, Intimidate, Intuition, M. Sight, and Spellcraft trained.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

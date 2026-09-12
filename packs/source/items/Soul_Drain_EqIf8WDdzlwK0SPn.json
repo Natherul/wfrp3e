@@ -1,0 +1,103 @@
+{
+  "name": "Soul Drain",
+  "type": "action",
+  "_id": "EqIf8WDdzlwK0SPn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 2 fatigue</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>The target suffers 3 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target suffers Int fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Rather than recovering fatigue, you may heal normal wounds.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the you and the target, then streak back to you, invigorating you. You recover as much fatigue as you inflict with this spell. If you have no fatigue, you may gain power instead.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for 4 + Int damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for 6 + Int damage</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>You hit the target for 7 + Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range Effect: Spectral forms flow around the target, then streak back to you, invigorating you. You recover as many wounds as you inflict with this spell (that is, damage that is not canceled by Toughness or soak values). If you have no wounds, you may gain power.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

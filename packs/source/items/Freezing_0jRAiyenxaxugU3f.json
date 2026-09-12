@@ -1,0 +1,10 @@
+{
+  "name": "Freezing",
+  "type": "condition",
+  "_id": "0jRAiyenxaxugU3f",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Freezing counts as 1 fatigue. Movement manoeuvres cost 1 additional fatigue to perform.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

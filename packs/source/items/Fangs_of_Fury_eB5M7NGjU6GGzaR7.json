@@ -1,0 +1,86 @@
+{
+  "name": "Fangs of Fury",
+  "type": "action",
+  "_id": "eB5M7NGjU6GGzaR7",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal S + St damage to your target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but deal 7 + St damage instead and the target gains the Overwhelmed condition for</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is a Melee Attack. If engaged with the target, s</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal 6 + St damage to your target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but deal 8 + St damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack gains Pierce 2</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the attack hits, draw 3 critical wounds and choose 1 to apply to the target</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1b",
+      "requirements": "<p>3 power. Must be in beastform and engaged with the target. Special: This action is both a Spell and a Melee Attack. If engaged with more than one enemy, add {Dm} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

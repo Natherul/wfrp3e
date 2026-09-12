@@ -1,0 +1,10 @@
+{
+  "name": "Guthrie von Hammastrat",
+  "type": "ability",
+  "_id": "6pTIAbHj0PdiOFoD",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Peacock: Guthrie gains {Df} to all physical actions while a member of the fairer sex is nearby. AGGRESSION CUNNING</p>"
+  },
+  "_text_fixed_by_llm": true
+}

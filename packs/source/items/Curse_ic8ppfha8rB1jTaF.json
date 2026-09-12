@@ -1,0 +1,82 @@
+{
+  "name": "Curse",
+  "type": "action",
+  "_id": "ic8ppfha8rB1jTaF",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>As a 6 power, must be able to see the target or have a suitable effigy (a lock of hair, a dab of blood, etc.) at the GM’s discretion. Effect: While this card is recharging, the target gains the condition B M and suffers +1 damage from all sources of damage.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the curse.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains the Staggered condition for 2 rounds.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You suffer 2 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are also afflicted by the curse!</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the curse.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains the Staggered condition for 2 rounds.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 2 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are also afflicted by the curse!</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2b",
+      "requirements": "<p>Be able to see the target or have a suitable effigy (a lock of hair, a dab of blood, etc.) at the GM’s discretion. Effect: While this card is recharging, the target gains the condition B M and suffers +1 damage from all sources of damage.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

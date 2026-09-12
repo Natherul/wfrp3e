@@ -1,0 +1,93 @@
+{
+  "name": "The Boars Vigour",
+  "type": "action",
+  "_id": "LSg5sNQEpQvARpvD",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You infuse your target with the power of the mighty boar. While this spell recharges, your target gains the Invigorated condition</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>and add 1 recharge token to</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power, target within medium range. You may target yourself</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You infuse your target with the power of the mighty boar. While this spell recharges, your target gains the Invigorated condition</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but up to 2 affected targets</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 3 affected targets</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this spell</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M Add 1 recharge token to this spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Add 1 recharge token to this spell</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Lose 1 power</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power, target within medium range (you may target yourself)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

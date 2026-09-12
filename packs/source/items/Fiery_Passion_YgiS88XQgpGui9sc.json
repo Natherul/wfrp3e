@@ -1,0 +1,73 @@
+{
+  "name": "Fiery Passion",
+  "type": "action",
+  "_id": "YgiS88XQgpGui9sc",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>4 power effect: While this card is recharging, the target’s passions are stoked to a raging inferno! He adds {Dc} to all checks while in & Conservative stance, but adds {Dm} to all checks while in Reckless stance</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may inflict 1 stress to the target or allow the target to recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target’s passions are stoked to a raging inferno! He adds {Dc} to all checks while in Conservative stance, but adds {Dm} to all checks while in Reckless stance</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p> Lose 1 power</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 power effect: While this card is recharging, the target’s passions are stoked to a raging inferno!</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

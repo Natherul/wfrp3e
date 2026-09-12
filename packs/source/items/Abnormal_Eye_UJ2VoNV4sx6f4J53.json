@@ -1,0 +1,10 @@
+{
+  "name": "Abnormal Eye",
+  "type": "mutation",
+  "_id": "UJ2VoNV4sx6f4J53",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Add ’ to all checks to interact with people who can see your mutation. A new eye grows, peering out from somewhere on your body. The eye closely resembles your original eyes, nor does it reliably obey your commands.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

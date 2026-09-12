@@ -1,0 +1,72 @@
+{
+  "name": "Eyes of Truth",
+  "type": "action",
+  "_id": "VDD6wq8KfwN7Wp7S",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Effect: Your eyes While this spell is recharging, you see through darkness and falsehood with ease. You reduce all penalties due to darkness.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>by d suffer no penalties whatsoever from darkness at close range. You may make an opposed Observation (Int) vs. FDiscipline (WP) check against the creator an illusion through that illusion to see.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 2 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>d suffer no penalties whatsoever ess at close range. You may make an opposed Observation (Int) vs. Discipline (WP) check against the creator an illusion to see through that illusion.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2c",
+      "requirements": "<p>4 power You reduce all penalties due to darkness.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

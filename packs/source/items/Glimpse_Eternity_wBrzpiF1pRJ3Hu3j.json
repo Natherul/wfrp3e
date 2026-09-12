@@ -1,0 +1,91 @@
+{
+  "name": "Glimpse Eternity",
+  "type": "action",
+  "_id": "wBrzpiF1pRJ3Hu3j",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The uttermost secrets of the future are revealed to you! You may move up to 2 recharge tokens from any of your currently recharging action cards to any other of your currently recharging action cards</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 3 recharge tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this card is recharging, enemies add M to attacks that target you</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain the Sluggish condition for 3 rounds</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may move recharge tokens to and from anyone’s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>SPELLCRAFT (INT) 4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The uttermost secrets of the future are revealed to you! You may move up to 1 recharge token from any of your currently recharging action cards to any other of your currently recharging action cards</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 2 recharge tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this card is recharging, enemies add M to attacks that target you</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>add M to attacks that target you</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain the Sluggish condition for 2 rounds</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may move recharge tokens to and from anyone’s recharging actions, instead of just yours. You may move tokens from actions belonging to one character to actions belonging to a different character, or between actions belonging to one character</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>4 power, not engaged with an enemy. If you perform the prepare manoeuvre beforehand, reduce the difficulty modifier</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

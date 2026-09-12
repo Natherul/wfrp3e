@@ -1,0 +1,81 @@
+{
+  "name": "Saga of Gazul",
+  "type": "action",
+  "_id": "6lyh0DTHnl0capeA",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You begin chanting the Saga of Gazul, tempering yourself against fear and terror.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you recover 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your dwarf allies within Medium range recover 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>You may only be under the effects of Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you reduce the difficulty of all Fear and Terror checks you make by 1.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You begin chanting the Saga of Gazul, tempering yourself against fear and terror.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you recover 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your dwarf allies within Medium range recover 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "3c",
+      "requirements": "<p>Special: You may only be under the effect of one Saga at a time. When you play a Saga card, return any other Saga cards you have in play to your hand. Effect: While this card is recharging, you suffer 1 less stress and 1 less fatigue from failed Fear and Terror checks, to a minimum of 0.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

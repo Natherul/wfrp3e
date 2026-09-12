@@ -1,0 +1,81 @@
+{
+  "name": "Backstab",
+  "type": "action",
+  "_id": "4NuQuFPEy9pMcQi2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +1 chance of your damage affecting up to a maximum bonus equal to your Agility.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 3b",
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for +1 damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and ignore the target’s armour soak value for this attack.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Deal 12 damage.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal {Dm} for each of your allies engaged with the target.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 3b",
+      "requirements": "<p>One-handed melee weapon equipped, engaged with target. Special: Reduce the difficulty modifier by {Dc}.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

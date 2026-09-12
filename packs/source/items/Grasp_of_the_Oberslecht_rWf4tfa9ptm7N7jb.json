@@ -1,0 +1,77 @@
+{
+  "name": "Grasp of the Oberslecht",
+  "type": "action",
+  "_id": "rWf4tfa9ptm7N7jb",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 power, caster must be in a forested, swampy, or marshy environment and sucking muck surrounds you. While this card is recharging, within close of enemies' range, you suffer 1 fatigue to move.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell and all enemies within close range gain the Staggered condition for 1 round.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 recharge token to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You do not gain a free manoeuvre on your next turn.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>3 power, caster must be in a swampy or marshy environment. You must suffer 1 fatigue to move.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

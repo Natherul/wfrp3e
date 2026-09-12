@@ -1,0 +1,68 @@
+{
+  "name": "Rule of Burning Iron",
+  "type": "action",
+  "_id": "DlBW3WxyRoLK03rx",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range and wc;\\rmg metal armour person glow with burning heat. Each time you remove a recharge token from this card, plus his armour's soak value. His armour soak value is useless against this damage</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell, and the item burns for Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Suffer 1 stress and 1 fatigue o =</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target within medium range and an item. The item in the target's possession begins to glow with burning heat. Each time you remove a recharge token from this card, the target suffers damage as noted below, so long as he's holding the item. His armour soak value is of no effect against this damage</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

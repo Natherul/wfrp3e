@@ -1,0 +1,47 @@
+{
+  "name": "Me First",
+  "type": "action",
+  "_id": "yiARgb0qkMSINwH0",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Agility 4+, Coordination trained, a character you can see has just declared an action and you have not yet activated in the current round immediately take your turn. When you have completed your End of Turn Phase, the interrupted character resumes his turn (if possible). Skip the last hero token in the initiative order.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Agility 4+, Coordination trained, a character you can see has just declared an action and you have not yet activated in the current round. Special: This card recharges at the next rally step. Effect: You interrupt the character’s action, becoming the active player, and you take your turn. When you have completed your End of Turn Phase, the interrupted character resumes his turn (if possible). Skip the last hero token in the initiative order.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

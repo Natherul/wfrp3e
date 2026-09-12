@@ -1,0 +1,71 @@
+{
+  "name": "Swift Severity",
+  "type": "action",
+  "_id": "tShU3wnXtgroxbTf",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your razor sharp claw avages your target’s armour. Reduce the soak value of the target’s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers +1 normal damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Must possess at least one claw, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your razor sharp claw ravages your target’s armour. Reduce the soak value of your target’s armour by 1 for the remainder of the encounter. Multiple applications of Swift Severity are cumulative.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers +2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your claw lodges in the target’s armor. While this card is recharging, all attacks targeting you gain {Dm}.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Must possess at least one claw, engaged with target. This Agility instead of Strength for the attack roll.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

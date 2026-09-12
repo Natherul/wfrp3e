@@ -1,0 +1,39 @@
+{
+  "name": "Curse of the Witch",
+  "type": "action",
+  "_id": "DGhejxc0n5oXsKaw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>add more than one {Dm} per check. Add 1 recharge token to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this card. Suffer 1 stress. Suffer 1 corruption.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 Power, target within close range. If you are engaged with an enemy, add to your dice pool 1 {Dr}. You chant a curse at the target in a feral language, drawing dark energies to work against him. While this card is recharging, you may remove recharge tokens from this card as an immediate reaction to the target's actions. Each recharge token removed adds 1 {Dm} to a check the target makes. You may</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

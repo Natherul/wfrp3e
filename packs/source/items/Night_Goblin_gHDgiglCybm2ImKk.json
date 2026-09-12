@@ -1,0 +1,10 @@
+{
+  "name": "Night Goblin",
+  "type": "ability",
+  "_id": "gHDgiglCybm2ImKk",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Night Eyes: Ignore B from darkness effects. Add {Dc} to Observation and Ballistic Skill checks in light. Elves Are Creepy: When outnumbered by elves in an engagement, suffer M to all checks. If outnumbered by more than two to one by elves, suffer € to checks instead. AGGRESSION CUNNING 3 3 4</p>"
+  },
+  "_text_fixed_by_llm": true
+}

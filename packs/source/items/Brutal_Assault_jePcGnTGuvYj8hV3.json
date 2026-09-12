@@ -1,0 +1,105 @@
+{
+  "name": "Brutal Assault",
+  "type": "action",
+  "_id": "jePcGnTGuvYj8hV3",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Used By: Chaos Engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your fierce attack strikes the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target is struck for critical damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target of the attack may immediately perform a free manoeuvre</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Used By: Chaos Engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your fierce attack strikes the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target is struck for +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts critical damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target of the attack may immediately perform a free manoeuvre</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

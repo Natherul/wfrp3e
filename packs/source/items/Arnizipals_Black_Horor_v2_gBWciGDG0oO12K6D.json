@@ -1,0 +1,85 @@
+{
+  "name": "Arnizipals Black Horor v2",
+  "type": "action",
+  "_id": "gBWciGDG0oO12K6D",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You conjure a whirling vortex of Dhar energy which drags his victims into one of the infernal regions. The victims suffer horrific visions and go mad while tearing their own flesh apart. The vortex, which is large enough to engulf a whole engagement, persists while this card recharges. Any character engaged with or passing through the orb must make a Terror 3 check. Moreover, he gains a temporal insanity with the Chaos.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and any character failing the terror test suffers 3 wounds.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 9 to the Terror 3 check difficulty.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Trauma, or Violence traits for each 4+ obtained.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each 1 rolled on any check, the vortex drifts close to that character, moving the character as 2 manoeuvres.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>12 power, target area or engagement within long range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You conjure a whirling vortex of Dhar energy which drags his victims into one of the infernal regions. The victims suffer horrific visions and go mad while tearing their own flesh apart. The vortex, which is large enough to engulf a whole engagement, persists while this card recharges. Any character engaged with or passing through the orb must make a Terror 3 check. Moreover, he gains a temporal insanity with the Chaos.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and any character failing the terror test suffers 3 wounds.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 9 to the Terror 3 check difficulty.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Trauma, or Violence traits for each 4+ obtained.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each 1 rolled on any check, the vortex drifts close to that character, moving the character as 2 manoeuvres.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>12 power, target area or engagement within long range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

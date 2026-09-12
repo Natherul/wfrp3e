@@ -1,0 +1,10 @@
+{
+  "name": "Tzeentchs Jealousy",
+  "type": "miscast",
+  "_id": "WRU51YZsUqqisPrV",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>To a spell (GM’s choice).</p> After resolving, remove this spell from your action deck; you no longer have access to it and will have to spend an advance to reacquire it."
+  },
+  "_text_fixed_by_llm": true
+}

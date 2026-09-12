@@ -1,0 +1,34 @@
+{
+  "name": "Interpoe",
+  "type": "action",
+  "_id": "GweS3oFCj24fsojX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>ard to add {Dc} to the action’s dice pool to your ranks in Ride. Your mount | Floses 1 wind</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Mounted on a war-trained steed, trained in Ride, {Da} 3+ test if you are declared the target of a Melee or Ranged Attack, or a Spell or i</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

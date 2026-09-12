@@ -1,0 +1,10 @@
+{
+  "name": "Mental Mutation",
+  "type": "mutation",
+  "_id": "vri6ICk3qggkelYR",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>When fatigued or distressed, add twice the normal number of your dice pools. Obviously something is wrong with your body. You can't see it, but sometimes you can feel it lurking inside you. It’s only a matter of time before it happens...</p>"
+  },
+  "_text_fixed_by_llm": true
+}

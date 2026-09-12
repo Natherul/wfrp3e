@@ -1,0 +1,87 @@
+{
+  "name": "Final Caress",
+  "type": "action",
+  "_id": "SQ5yCuFl4d3db3kS",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your touch causes the target to reel in excruciating pain. You deal normal damage plus damage equal to the number of fatigue the target suffers from</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and your touch invades the target’s mind as well, inflicting additional damage equal to the number of stress the target suffers from</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You share in the delicate pleasure of the pain you cause. Suffer damage equal to the number of insanities your target suffers from</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target suffers 1 fatigue, 1 stress, and 2 damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Strength for the attack roll L</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your touch causes the target to reel in excruciating pain. You deal normal damage plus damage equal to the number of fatigue and stress the target suffers from</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the attack inflicts critical damage if any of the target’s mental characteristics are distressed or physical characteristics are fatigued</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You share in the delicate pleasure of the pain you cause. Suffer damage equal to the number of insanities your target suffers from</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+3 damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>You must be engaged with your target. Special: This attack uses Agility instead for the attack roll</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

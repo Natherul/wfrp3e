@@ -1,0 +1,82 @@
+{
+  "name": "Revel in Corruption",
+  "type": "action",
+  "_id": "xZhphmgU60v0JIqo",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You flail about with your mutated appendages striking the target for A normal damage, plus damage equal to the severity</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and one of the wounds inflicted is a critical with severity equal to the mutation (keep revealing wounds until fits) you find one that</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer wounds equal to the severity</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Check, his choice. If he fails, he gains the * mutation</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target. You must be a mutant or totally corrupted. Choose one of your mutations (or draw at random) to use in this attack</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The Cult Mutant is driven to a terrifying frenzy. The target is struck for normal damage and suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The attack inflicts normal damage, and the target suffers fatigue and stress equal to the number of critical wounds he is currently suffering</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack gains Fear 2</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately perform a manoeuvre after this action</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately retaliate with a Basic Melee Attack after the attacker completes this action</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Cult Mutant. With target modifier & reduce the difficulty to M. If the Cult Mutant is critically wounded, the attack gains {Dm}</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

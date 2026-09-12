@@ -1,0 +1,69 @@
+{
+  "name": "Unquenchable Flame",
+  "type": "action",
+  "_id": "SjuOSSXL4qBttux4",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ You snap your fingers and a combustible item bursts into flames, burning merrily with a fire the size and brightness of a torch.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8+ Lose 1 power after casting this spell.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You snap your fingers and a combustible item bursts into flames, burning merrily with a fire the size and brightness of a torch.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8+ Lose 1 power after casting this spell.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>3 power. Target combustible item within close range. If the target item is carried or held by another character, then this check is vs. Discipline (WP) of that character. Effect: Your flame draws upon the Winds of Magic, and therefore requires neither air nor fuel. While this spell is recharging, the fire cannot be doused by any normal means and it does not consume its fuel source. When this spell ends, the fire behaves as a normal fire.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Caress of Laniph",
+  "type": "action",
+  "_id": "XY2Qbzp1ET1maYBd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A spectral form materializes and touches your target, dealing 6 + WP damage. The target uses WP, rather than To, to resist this damage</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, + Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Power, within close 9 range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A spectral form materializes and touches your target, dealing 6 + WP damage. The target uses WP, rather than To, to resist this damage</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>+ Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>generated on this check</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1f",
+      "requirements": "<p>9 power, target within close range. If you are engaged with an enemy, add {Dm} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

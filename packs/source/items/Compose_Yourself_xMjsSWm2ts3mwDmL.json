@@ -1,0 +1,81 @@
+{
+  "name": "Compose Yourself",
+  "type": "action",
+  "_id": "xMjsSWm2ts3mwDmL",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You take a moment to own up to and accept the sting of humiliation. Recover 1 shame</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but recover 2 shame instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>Your next action gains {Dm}</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your ability to shake off the sharp pang of indignity inspires your allies to do the same. All allies engaged with you recover 1 shame</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "4c",
+      "requirements": "<p>Special: This card recharges at the next rally step</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

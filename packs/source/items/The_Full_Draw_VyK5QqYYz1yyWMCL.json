@@ -1,0 +1,77 @@
+{
+  "name": "The Full Draw",
+  "type": "action",
+  "_id": "VyK5QqYYz1yyWMCL",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target either ends his turn immediately or suffers 2 stress</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 2b",
+      "requirements": "<p>Bow or Crossbow equipped, an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character’s turn and shoot him as described below. If as you use it is recharging, it recharges completely</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 2b",
+      "requirements": "<p>Bow equipped, not engaged with an enemy Effect: You draw back your bowstring and wait for your moment. While this action is recharging, you may recharge it completely to interrupt another character’s turn and shoot him as described below. If you use your bow for anything else while this action is recharging, it recharges completely</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

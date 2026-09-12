@@ -1,0 +1,11 @@
+{
+  "name": "Hideous Injury II 2",
+  "type": "criticalWound",
+  "_id": "kTJYW0Wmv3r1C4F4",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>The Severity Rating of every critical wound affecting you increases</p>",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

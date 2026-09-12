@@ -1,0 +1,11 @@
+{
+  "name": "Torn Ear 3",
+  "type": "criticalWound",
+  "_id": "X2UjQcCPyq7iKEgu",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Suffer to all Fellowship checks and to Observation checks where hearing is relevant.</p> Your Fellowship score is reduced by 1",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

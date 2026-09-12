@@ -1,0 +1,10 @@
+{
+  "name": "Obscene Obesity",
+  "type": "mutation",
+  "_id": "fPBnqEqrp1kjDhtJ",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>You gain +1 Soak. Add @ to all Agility and Fellowship checks. Your entire body swells and bloats to twice your original weight. Your stomach distends to a horrific girth... and demands to be constantly fed.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Doombolt",
+  "type": "action",
+  "_id": "jZSflXzg4qlMydrW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A flickering bolt of pure darkness springs from your outstretched hand or staff, striking the target for S + Int damage and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 2 fatigue instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>S power, target within medium range. You suffer 1 fatigue when you cast this spell</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A flickering bolt of pure darkness springs from your outstretched hand or staff, striking the target for S + Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 6 Int damage instead</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but 8 + Int damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

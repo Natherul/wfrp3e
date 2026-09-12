@@ -1,0 +1,89 @@
+{
+  "name": "Commandment of Brass",
+  "type": "action",
+  "_id": "xPhd3pEsp6n4g8R8",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 power, target complex machine with significant metal parts (such as a clock or a firearm) within medium range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The metal components of the machine deform and twist, making it completely unusable</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and if the target was an item with the Unreliable quality, it misfires as if it had rolled {Dm}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>it had rolled</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 power, target complex machines with significant metal parts (such as clocks or firearms) within medium range. Special: For each target after the first, add {Dc} to the dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The metal components of the target machines deform and twist, making them completely unusable</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each creature wielding or crewing the machine(s) suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 2 power</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Every machine within close range of the target explodes, affecting all machines within close range of the target</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c 2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

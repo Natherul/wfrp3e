@@ -1,0 +1,91 @@
+{
+  "name": "Traitorous Flesh",
+  "type": "action",
+  "_id": "Jt7HsUZUMBzC66UG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 wound for each corruption you purged from him.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress for each corruption purged.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress for each corruption purged</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Turn 1 of the target's normal wounds face up for each corruption you purged.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, target suffering from one or more corruption and within medium range. Special: You may purge up to 3 corruption from the target. If you do, add {Dc} to your dice pool for each corruption purged. Effect: The target's flesh ripples and twists, refusing to obey him. While this spell is recharging, his defence and soak values are reduced by 1 (to a minimum of 0).</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 wound for each corruption you purged from him.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress for each corruption purged.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Turn 1 of the target's normal wounds face up for each corruption you purged.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, target suffering from one or more corruption and within medium range. Special: You may purge up to 3 corruption from the target. If you do, add {Dr} to your dice pool for each corruption purged. Effect: The target's flesh ripples and twists, weakening him. While this spell is recharging, his defence and soak values are reduced by 1 (to a minimum of 0).</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Horror of Tzeentch",
+  "type": "ability",
+  "_id": "2kKx6ciVthvmeDhL",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Malicious Division: When a standard Horror of Tzeentch is replaced the following round by two Horror of Tzeentch henchmen. AGGRESSION CUNNING EXPERTISE S 2 1</p>"
+  },
+  "_text_fixed_by_llm": true
+}

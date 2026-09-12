@@ -1,0 +1,48 @@
+{
+  "name": "Balanced Might",
+  "type": "action",
+  "_id": "Qnzv5A5oJseTEVTy",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You invoke the blessing and your Strength is increased by 1.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>but by 2 instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>Your target’s Strength is increased by 1 as well.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>For S favour. Engaged with a target with a higher Strength rating than you. Effect: Verena redresses an imbalance. While this blessing is recharging, your Strength is increased as described below. This blessing won't increase your Strength beyond that of your target.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

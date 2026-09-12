@@ -1,0 +1,69 @@
+{
+  "name": "Judgement of Beasts",
+  "type": "action",
+  "_id": "1j1xUG4kcnvrBQ0o",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>extent. The target suffers {Dm} to all checks involving domesticated animals. If it suits their nature and the situation, domestic animals may also attack the target as described above. This spell recharges on the next night that Mannslieb is full.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ Beasts hate not only the target, but all within close range of him at any given time.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>9 power, target within line of sight or marked with the blood of a natural beast. Effect: The target has been marked as a hated foe of the beasts of the wild. While this spell is recharging, all natural beasts hate and fear the target on sight. Wild beasts will flee or attack at the target's approach, depending on their nature and situation, and receive {Dm} on all attacks against the target. Domesticated animals are also affected, although to a lesser</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>extent. The target suffers {Dm} to all checks involving domesticated animals. If it suits their nature and the situation, domestic animals may also attack the target as described above. This spell recharges on the next night that Mannslieb is full.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Beasts hate not only the target, but all within close range of him at any given time.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>9 power, target within line of sight or marked with the blood of a natural beast. Effect: The target has been marked as a hated foe of the beasts of the wild. While this spell is recharging, all natural beasts hate and fear the target on sight. Wild beasts will flee or attack at the target's approach, depending on their nature and situation, and receive {Dm} on all attacks against the target. Domesticated animals are also affected, although to a lesser</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

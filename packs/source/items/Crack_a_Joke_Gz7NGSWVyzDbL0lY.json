@@ -1,0 +1,91 @@
+{
+  "name": "Crack a Joke",
+  "type": "action",
+  "_id": "Gz7NGSWVyzDbL0lY",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Your subjects must be able to see and hear you. All attention is drawn to you. Effect: Drawing attention towards you, make a witty remark or joke. While all eyes are on you, allies within</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You tell the joke, focusing attention on your target.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but [Dm] instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 shame</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>and adds [Dc] to all Stealth and Skulduggery checks</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Your joke is in poor taste and not very funny. If the check succeeded, add 2 less recharge tokens to this card.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your audience jeers at you and your allies for the rude interruption. Increase party tension by 1</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c 1b",
+      "requirements": "<p>The butt of your joke is within close range, he must be able to see and hear you. Effect: Pointing at your target, you make a hilariously insulting quip about him. While this card is recharging, target [Dc] finds it very difficult to avoid the attention,</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Severed Sword Hand 3",
+  "type": "criticalWound",
+  "_id": "MA9G2SUKQgVMiesH",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Your sword hand is crippled! You can't do anything requiring that hand.</p> You lose the hand. This wound is",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

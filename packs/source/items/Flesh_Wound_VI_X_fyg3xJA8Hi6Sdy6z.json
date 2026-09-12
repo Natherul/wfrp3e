@@ -1,0 +1,11 @@
+{
+  "name": "Flesh Wound VI X",
+  "type": "criticalWound",
+  "_id": "fyg3xJA8Hi6Sdy6z",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>The Severity Rating of this critical wound is equal to the number of Flesh Wounds affecting</p>",
+    "severityRating": 1
+  },
+  "_text_fixed_by_llm": true
+}

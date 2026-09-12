@@ -1,0 +1,102 @@
+{
+  "name": "Blur of Red Ruin",
+  "type": "action",
+  "_id": "NJ0y54V0E7DgPmuu",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit 3 times as described above</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>You hit 4 times as described above</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit one additional time</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>A weapon in each hand, engaged with target. Special action uses Agility rather than Strength. Effect: In a blur of motion you strike your target with a flurry of slashing blades. Each hit inflicts normal damage to your target. Apply the target's Toughness and Soak separately for each successful hit. You may hit your target a maximum number of times equal to your Agility + {Dc}.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit 2 times as described above</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit 3 times as described above</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>You hit 4 times as described above</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>You hit 5 times as described above</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit one additional time</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit one additional time</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You have left yourself open to a counterattack. Your Defense is reduced by 2 while this card is recharging.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Agility 5+, melee weapon in each hand, engaged with target(s). Special: This action uses Agility rather than Strength. Effect: In a blur of motion you strike your target(s) multiple times. Each hit inflicts -2 damage to your target(s). Determine damage and apply the target's Toughness and Soak separately for each successful hit. You may hit your target(s) a maximum number of times equal to your Agility + {Dm}.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

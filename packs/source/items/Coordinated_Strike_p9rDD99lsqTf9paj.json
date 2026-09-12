@@ -1,0 +1,81 @@
+{
+  "name": "Coordinated Strike",
+  "type": "action",
+  "_id": "p9rDD99lsqTf9paj",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target using your weapon's damage rating but the coordinating ally’s Strength to determine damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit using your own Strength but the ally’s weapon damage and critical ratings to determine damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and with enough boons you can activate the critical ratings of both weapons</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add the coordinating ally’s Strength to the damage inflicted</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all allies in this engagement suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Leadership trained, you and a coordinating ally both equipped with melee weapons and both engaged with the target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

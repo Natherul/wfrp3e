@@ -1,0 +1,10 @@
+{
+  "name": "Coloured Fiend",
+  "type": "ability",
+  "_id": "MZNioB5Qds4TNACl",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Colour Bound: Can only access Rank 1 spells with the Tzeentch trait or tied to its associated wind of magic. They rely on wild magic to fuel their spells, without having AGGRESSION CUNNING</p>"
+  },
+  "_text_fixed_by_llm": true
+}

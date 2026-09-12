@@ -1,0 +1,43 @@
+{
+  "name": "Improved Dodge",
+  "type": "action",
+  "_id": "99GaOyi9QfAODO4V",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Agility 4+, not encumbered, Coordination trained. Declared as a target of a Melee Attack, Ranged Attack, or a Spell/Blessing that targets your defence. Add two recharge tokens to this card to add {Dc} to the action’s dice pool.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Agility 4+, not encumbered, Coordination trained. Effect: After you have been declared the target of a Melee Attack, Ranged Attack, or a Spell/Blessing that targets your defence, add two recharge tokens to this card to add {Dr} to the action’s dice pool. Special: If the incoming attack misses, you may immediately perform a free manoeuvre. Improved Dodge replaces Dodge in your deck and Dodge for all action counts as Improved Dodge for effects that reference it.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

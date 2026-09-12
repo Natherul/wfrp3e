@@ -1,0 +1,39 @@
+{
+  "name": "Fair Warning",
+  "type": "action",
+  "_id": "zXDwMHR2Fp2oiBmb",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>1 to S power Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Special: At the beginning of an encounter, you may cast this spell instead of rolling for initiative. Your initiative is equal to the amount of power spent to fuel this spell.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

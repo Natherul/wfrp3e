@@ -1,0 +1,48 @@
+{
+  "name": "Leaf Fall",
+  "type": "action",
+  "_id": "JoLc3GjHY6ji4JOh",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 power, must be outdoors or within close range of leafy plants. Effect: A flurry of autumn leaves surrounds you, hiding you from view. When you attempt a Stealth (Ag) check or other check where concealment would be relevant, spend 3 power and place 4 recharge tokens on this card to add {Dc} to the dice pool.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>add {Dm} to the dice pool</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 power, must be outdoors or within close range of leafy plants. Effect: A flurry of leaves surrounds you or your ally, hiding you from view. When you or an ally within close range of you are targeted by a Ranged Attack or an Observation (Int) check or other skill to detect you, you may spend 3 power and place 4 recharge tokens on this card to add {Dm} to the dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

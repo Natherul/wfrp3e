@@ -1,0 +1,82 @@
+{
+  "name": "My Will Be Done",
+  "type": "action",
+  "_id": "9C6KmrUEMJ5RLmD7",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and each ally within medium range of you gains the Inspired condition until this action recharges.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>Difficulty: Reduce the modifier by {Dc} if there are any Undead allies within close range. Effect: You impart your will on your loyal subjects. While this action is recharging, spend (one turn) and you may cause an ally within medium range to perform a manoeuvre of your choice.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You force your target to immediately perform Melee Strike against £ a any character engaged with him (your choice).</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and each enemy engaged with the target suffers 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each enemy within close range of your target gains the Demoralised condition while this action is recharging.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may force your target to immediately perform a Melee Strike against another character engaged with him (your choice).</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>8 power, target within medium range. Special: Reduce the difficulty {Dc} for each Undead ally engaged with the target.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Inescapable Power",
+  "type": "action",
+  "_id": "zxNnH8t5EsdsPV5r",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Combine spinning sticky webbing and pinning creatures with its legs to hold opponents still. The target suffers 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately retaliate with a Basic Melee Attack after the attacker completes this action</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Giant Spider Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You grab and pin the target, restricting his movement. He gains the condition for the next 2 rounds, and while exposed, he may not move unless you move away.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and the attack inflicts normal damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately retaliate with a Basic Melee Attack after the attacker completes this action</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target, must be roughly the same height</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

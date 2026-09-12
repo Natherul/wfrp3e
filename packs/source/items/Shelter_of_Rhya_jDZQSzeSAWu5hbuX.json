@@ -1,0 +1,39 @@
+{
+  "name": "Shelter of Rhya",
+  "type": "action",
+  "_id": "jDZQSzeSAWu5hbuX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and the nearby flora grow, creating a natural shelter from the elements. The shelter can fit about half a dozen.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>6 favour. There must be ample natural vegetation within close range.</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Bridge of Shadows",
+  "type": "action",
+  "_id": "pXpckqNoKdwG7WGs",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your targets fade into the shadows and reappear anywhere within your line of sight</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The targets do not appear where you intended, but somewhere within close range of where you intended</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The targets are invisible until the end of your next turn</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of your Order spell (you may target character rank). If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your targets fade into the shadows and reappear anywhere within your line of sight</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The targets do not appear where you intended, but somewhere within close range of where you intended</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain 3 power and you may immediately cast another Grey Order spell of Rank 3 or lower</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>4 power per target, all targets must be engaged with you and in shadow or under the influence of a Grey Order spell (you may target yourself). Special: You may affect 1 target per character rank. If any of the targets are unwilling, then this check is vs. Discipline (WP) (the difficulty modifier remains unchanged)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,74 @@
+{
+  "name": "All That Glitters",
+  "type": "action",
+  "_id": "X4GOZEsLQf6z0OQA",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the target each recover 1 stress</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If you receive coins as part of this business deal, receive 1 extra coin of the same type</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>5 favour, engaged with target, you must donate 1 of your most valuable coins to the needy. Special If you have Guile trained, add {Dc} to the dice pool. Effect: Ranald pulls the wool over your target's eyes. While this blessing is recharging, he sees you and your possessions as being wealthier and more valuable than you actually are. You gain +2 to checks to haggle or do business with the target. This blessing recharges when your business is concluded, when you move sunrise, whichever comes first</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the target each recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Most ></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If you receive coins as part of this business deal, receive 1 extra coin of the same type</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>5 favour, engaged with target, you must donate 1 of your most valuable coins to the needy. dice pool. Effect: Ranald pulls the wool over your target's eyes. While this blessing is recharging, he sees you and your possessions as being wealthier and more valuable than you actually are. You gain +2 to checks to haggle or do business with the target. This blessing recharges when your business is concluded, when you move further than long range from your target, or at sunrise, whichever comes first</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

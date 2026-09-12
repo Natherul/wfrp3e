@@ -1,0 +1,57 @@
+{
+  "name": "Improved Guarded Position",
+  "type": "action",
+  "_id": "nMTEQdqNh0VYc2EG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Until the start of your next turn, add {Dc} to any Melee or Ranged Attack targeting you or any allies in the same engagement as you</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Until the start of your next turn, add {Dc} to any Melee or Ranged Attack targeting you or any allies in the same engagement as you HUR Up to two allies in the same engagement as you may remove one recharge token from any of their currently recharging cards. They suffer 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Until the start of your next turn, add {Dr} to any Melee or Ranged Attack targeting you or any allies in the same engagement as you</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Until the start of your next turn, add {Dr} to any Melee or Ranged Attack targeting you or any allies in the same engagement as you HUR Up to two allies in the same engagement as you may remove one recharge token from any of their currently recharging cards. They suffer 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Discipline Trained Special: Improved Guarded Position replaces Guarded Position in your action deck and counts as Guarded Position for all effects that reference it</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

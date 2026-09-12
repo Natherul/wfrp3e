@@ -1,0 +1,82 @@
+{
+  "name": "Aerial Assault",
+  "type": "action",
+  "_id": "ec2aEFAVY4iTZKiz",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Swooping down onto the target, you hit for normal damage and end engaged with him</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target is knocked prone and will require a manoeuvre to stand up</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are knocked prone</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "",
+      "requirements": "<p>Target within long range, you must be able to fly</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Swooping down onto the target, you hit for normal damage and end engaged with him</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for +3 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target is knocked prone and will require a manoeuvre to stand up</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain the Staggered condition for 4 rounds</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Staggered condition for 4 rounds</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "2b",
+      "requirements": "<p>Target within long range, you must be able to fly</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

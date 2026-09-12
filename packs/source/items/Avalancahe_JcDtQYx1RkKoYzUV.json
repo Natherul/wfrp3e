@@ -1,0 +1,61 @@
+{
+  "name": "Avalancahe",
+  "type": "action",
+  "_id": "JcDtQYx1RkKoYzUV",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+{Dc} A location or area within medium range of you is buried under an avalanche of snow and ice, knocking all creatures in that area prone and striking them for 2 + Int damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 4 + Int damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># Each creature in the avalanche gains the Sluggish condition until this spell recharges</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You may exclude up to 2 creatures in the area from being affected by the avalanche</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># Suffer 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The avalanche is out of control! It goes far beyond the desired area</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The entire area is chilled by snow and ice. For the duration of the encounter, you may treat the current season as winter</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power. Must be either outdoors or within long range of a quantity of snow or ice</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

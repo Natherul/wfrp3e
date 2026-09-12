@@ -1,0 +1,61 @@
+{
+  "name": "Cool Metal",
+  "type": "action",
+  "_id": "WH2JJKORCf91zmyh",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>With a touch, the piece of metal starts to cool down considerably. If the affected item is held or worn, the wielder suffers 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and while this spell is recharging, the wielder must suffer 1 stress each time he performs a move manoeuvre.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A random metal object within close range is affected, as well.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 Power, engaged with metal target. If you are engaged with an enemy, add {Dc} to your dice.</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Wings of Fire",
+  "type": "action",
+  "_id": "57aPXHc18mQ3PIRW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You are aloft on wings of flame, flying to a new location within close range. You suffer no penalty for terrain or enemies that you fly over</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but out to medium range</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 power, must perform the prepare manoeuvre before casting this spell</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You are borne aloft on wings of flame, flying to a new location within close range. You suffer no penalty for terrain or enemies that you fly over</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and you sear all enemies in the engagement you leave for 2 wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You sear all enemies you land engaged with for 2 wounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You land heavily and fall prone</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

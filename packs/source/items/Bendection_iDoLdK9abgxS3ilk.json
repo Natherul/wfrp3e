@@ -1,0 +1,85 @@
+{
+  "name": "Bendection",
+  "type": "action",
+  "_id": "iDoLdK9abgxS3ilk",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A The priest offers a quick prayer to his god, his patron’s favour. The action resolves successfully 5;</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and add 1 recharge token to this action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Add 1 recharge token to this action =</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Remove 1 recharge token from this action</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Priest Engaged with target Special: character within close range declares an action, the NPC may remove 1 recharge token from this action to add {Dc} or {Dm} to that action's dice pool = 8</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You offer a quick prayer to your god, your patron's favour. The action resolves successfully</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens this action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this action =</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Add 1 recharge token to this action</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 1 recharge token from remove any of your currently recharging actions</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: After character within close range declares an action, the NPC tokens - remove any number of recharge tokens from this action to add {Dr} to action's dice pool recharge token removed</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

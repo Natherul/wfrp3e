@@ -1,0 +1,95 @@
+{
+  "name": "Malicious Seduction",
+  "type": "action",
+  "_id": "w9xtCkEOEXYa9xLG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target removes {Dm} from the dice pool when targeting you with an attack, and all of your allies remove {Dm} from the dice pool when targeting you with an attack.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies remove {Dm} from the dice pool when targeting you with an attack.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1b",
+      "requirements": "<p>Target must be within medium range and able to see you clearly</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your allure draws in the target and he forgets about the other threats around him.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add recharge token §1 to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target removes {Dm} from the dice pool when targeting you with an attack, and all of your allies remove {Dm} from the dice pool when targeting you with an attack.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies remove {Dm} from the dice pool when targeting him with an attack.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target may not recover stress or fatigue while this card is recharging.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>Target must be within medium range and able to see you clearly. Effect: While this card recharges, your</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Dhar poisoning",
+  "type": "action",
+  "_id": "63q4omQk0k7EZ7Rt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You infuse your enemy’s body with Dhar and wrack his body. He suffers 1 critical wound {Dc}</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but draw 3 critical wounds, choose 1 to apply to the target, and apply the other two as normal wounds. The target suffers 1 wound {Dc} The target suffers 1 wound {Dc}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 critical wound {Dc} You suffer 1 stress {Dm}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power, target within close range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You infuse your enemy’s body with Dhar and wrack his body. He suffers 1 critical wound {Dr}</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but draw 3 critical wounds, choose 1 to apply to the target, and apply the other two as normal wounds. The target suffers 1 wound {Dr} The target suffers 1 wound {Dr}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 critical wound {Dr} You suffer 1 stress {Dr}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Wracking Agony",
+  "type": "miscast",
+  "_id": "xMdaX1SiduYipl56",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Poison courses through your body, rupturing your flesh. Randomly select 1 normal wound and flip it over to make it a critical wound. If you are unwounded, you suffer an automatic wound.</p> As above, but randomly select 2 wounds to become critical wounds"
+  },
+  "_text_fixed_by_llm": true
+}

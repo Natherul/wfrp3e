@@ -1,0 +1,95 @@
+{
+  "name": "Mauling Strike",
+  "type": "action",
+  "_id": "eGywaU4jGcixlSSk",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You swipe at your target up to three times, flaying flesh from bone. You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you reduce the soak value of your target's armour by 1 (to a minimum of 0) until the end of the encounter.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon or talons equipped. Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You swipe at your target repeatedly, flaying flesh from bone. You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you reduce the soak value of your target's armour by 1 (to a minimum of 0) until the end of the encounter.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Mauling Strike immediately recharges.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 87,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon or talons equipped. Engaged with target. Special: This attack gains the Vicious quality</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

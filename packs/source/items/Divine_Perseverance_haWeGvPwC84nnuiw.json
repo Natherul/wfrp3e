@@ -1,0 +1,77 @@
+{
+  "name": "Divine Perseverance",
+  "type": "action",
+  "_id": "haWeGvPwC84nnuiw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "3b",
+      "requirements": "<p>4 favour. Reduce the difficulty modifier by for each critical wound you are suffering from. Effect: While this card is écing, you and any allies within close range add {Dc} to all Intelligence and Willpower checks</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you and your allies add an additional {Df} to checks to resist Fear and Terror</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>AU You and all engaged allies recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all engaged allies suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "3b",
+      "requirements": "<p>Ultity modi in your engagement. Effect: While this card is recharging, you and any allies within close range add {Dr} to all Intelligence and Willpower checks</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

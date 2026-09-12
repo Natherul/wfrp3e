@@ -1,0 +1,115 @@
+{
+  "name": "Martyrs Touch",
+  "type": "action",
+  "_id": "iUhd4cmG4DQdGsaw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 You sacrifice some of your own health to heal the target. You suffer 1 wound; the target recovers 3 wounds</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You suffer 2 wounds; the target recovers 5 wounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You suffer 3 wounds; the target recovers 7 wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One of the target's critical wounds is turned face down into a normal wound</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 You suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 stress; the target recovers 3 stress</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>4 favour. Engaged with target (you may not target yourself)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>to) # as unless you choose</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 wound; the target recovers 2 wounds</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 You suffer 3 wounds; the target recovers 6 wounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You suffer 5 wounds; the target recovers 10 wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># One of the target's critical wounds with a severity no greater than the total number of wounds rolled is turned face down into a normal wound</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>\" W rolled is turned face down into a normal wound</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>i 88 You suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 fatigue; the target recovers 3 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 stress; the target recovers 3 stress</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>4 favour. Engaged with target (you may not target yourself) Special: You must use the highest possible success line. (But you do not have to count</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

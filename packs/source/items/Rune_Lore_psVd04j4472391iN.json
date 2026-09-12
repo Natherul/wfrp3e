@@ -1,0 +1,61 @@
+{
+  "name": "Rune Lore",
+  "type": "action",
+  "_id": "psVd04j4472391iN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>charges ; Effect: When enemy within Medium range declares a Supernatural or a Spell action, or you are the target of a Supernatural or Spell action regardless of range, you may place 4 recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>this card to add {Dm} to that action’s dice pool.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} to the dice pool. The exhausted rune at sunrise | Effect: When within Medium range an enemy declares a Supernatural or Spell action, or you are the target of a Supernatural or Spell action regardless of range, you may place 4 recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>this card to add {Dm} to that action’s dice pool.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Willpower 3+, a magic Rune on your person Special: You may exhaust a rune card attached to one of your items to enhance this action. If you do, add an additional</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

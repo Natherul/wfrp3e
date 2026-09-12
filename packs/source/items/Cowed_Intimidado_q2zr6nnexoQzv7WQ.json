@@ -1,0 +1,10 @@
+{
+  "name": "Cowed Intimidado",
+  "type": "condition",
+  "_id": "q2zr6nnexoQzv7WQ",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>You cannot convert characteristic dice into {Dr} dice</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hunting Party",
+  "type": "ability",
+  "_id": "qm2fkP03wTSqtwCA",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>For PARTY, ADVENTURERS, MERCENARY PARTY TENSION METER: Each party member suffers 1 fatigue and 1 stress. If a party member suffers 2 fatigue, the GM adds recharge tokens to the party actions equal to the amount of fatigue that party member is suffering from. Then tension resets to zero. ON THE TRAIL: If a member of the Hunting Party is within close range of another member, he gains {Dc} to Observation and Nature Lore for each active talent socketed to this sheet.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

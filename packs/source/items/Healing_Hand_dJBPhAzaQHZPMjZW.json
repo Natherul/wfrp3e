@@ -1,0 +1,100 @@
+{
+  "name": "Healing Hand",
+  "type": "action",
+  "_id": "dJBPhAzaQHZPMjZW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1.2 S favour, engaged with the target. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target recovers either 1 extreme wound with severity 3 or less or 1 normal wound</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Engaged with the target. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target recovers 2 normal wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target recovers 1 normal wound</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One of the target’s normal wounds is converted to a critical wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

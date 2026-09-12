@@ -1,0 +1,11 @@
+{
+  "name": "Concussion II 1",
+  "type": "criticalWound",
+  "_id": "AowB8hmceFOrlDH6",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add {Dc} to all your checks while you have cards and you are recharging. If you ever acquire two Concussions, you collapse unconscious until one of them is healed.</p>",
+    "severityRating": 1
+  },
+  "_text_fixed_by_llm": true
+}

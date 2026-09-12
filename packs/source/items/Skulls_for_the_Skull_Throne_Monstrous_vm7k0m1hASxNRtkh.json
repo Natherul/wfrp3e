@@ -1,0 +1,62 @@
+{
+  "name": "Skulls for the Skull Throne Monstrous",
+  "type": "action",
+  "_id": "vm7k0m1hASxNRtkh",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage +1 critical</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but ignore the target's Soak Value</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You inflict an amount of extra damage equal to the number of Aggression {Dc} you used on this attack</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 Suffer 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>& ® You gain the Exposed condition while this card is recharging</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>% The target can make an immediate attack against you. You cannot use any Active Defences against this attack &</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If your target is KO'd by this attack, additional wound critical - convert a {Dr} into a {Dc} wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Melee weapon, engaged with target, target must have rolled a Chaos Star 3 during its most recent turn</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

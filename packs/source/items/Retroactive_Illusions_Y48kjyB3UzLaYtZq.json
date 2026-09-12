@@ -1,0 +1,77 @@
+{
+  "name": "Retroactive Illusions",
+  "type": "action",
+  "_id": "Y48kjyB3UzLaYtZq",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} The object or character the target attempted to interact with is simply not there - the real character or object (if it ever existed at all) has been nearby and invisible the whole time; it now becomes visible.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the object or character has been disguised as a different object or character nearby; the two items have exchanged places.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 1 recharge token from one of your Grey Order spells.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You fooled your allies, too! Increase party tension by 1.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 10,
+      "difficulty": "1c 1f",
+      "requirements": "<p>6 power, all elements of your illusion must be within medium range. You play this card when the target attempts to interact with a friendly character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1{Dm} The object or character the target attempted to interact with is simply not there - the real character or object (if it ever existed at all) has been nearby and invisible the whole time; it now becomes visible.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the object or character has been disguised as a different object or character nearby; the two items have exchanged places.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 1 recharge token from one of your Grey Order spells.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You fooled your allies, too! Increase party tension by 1.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 10,
+      "difficulty": "1c 1f",
+      "requirements": "<p>6 power, all elements of your illusion must be within medium range. Effect: You play this card when the target attempts to interact with a character or an inanimate object for the first time in a given scene. That object or character is revealed to be an illusion.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

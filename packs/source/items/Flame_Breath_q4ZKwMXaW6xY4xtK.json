@@ -1,0 +1,88 @@
+{
+  "name": "Flame Breath",
+  "type": "action",
+  "_id": "q4ZKwMXaW6xY4xtK",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target within medium range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>A4 You blast your target with fiery breath and hit for To +3 damage with Pierce 2</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but To +5 damage instead. The attack gains Pierce 3. Place 1 fewer recharge token on this action. You strike an extra target within close range.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: Add {Dm} to the dice pool for each rank of training the target has in coordination.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target within medium range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You blast your target with fiery breath and hit for To +4 damage with Pierce 2</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but To +6 damage instead. Damage critical: +1 critical. Damage +1 critical.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: Add {Dm} to the dice pool for each rank of training the target has in coordination.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage +1 critical. Suffer 2 Fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

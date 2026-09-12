@@ -1,0 +1,69 @@
+{
+  "name": "Aqshys Aegis",
+  "type": "action",
+  "_id": "6hPwTq1liG7hHg4o",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Affected targets recover 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 2 recharge tokens from this.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>2 power, plus 2 power per target beyond yourself. All targets must be engaged with you. If you have Spellcraft Mastery, you may add 4 recharge tokens to this spell upon casting it successfully. Effect: You use your magic to protect your targets from flame. While this spell is recharging, you and all affected targets who remain engaged with you suffer no damage from non-magical flames. Furthermore, the soak value of all affected targets is increased by 2 against fiery attacks such as a dragon’s fiery breath or most Bright Order spells.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Affected targets recover 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 2 recharge tokens from this.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>2 power, plus 2 power per target beyond yourself. All targets must be engaged with you. Special: If you have Spellcraft Mastery, you may add 4 recharge tokens to this spell upon casting it successfully. Effect: You use your magic to protect your targets from flame. While this spell is recharging, you and all affected targets who remain engaged with you suffer no damage from non-magical flames. Furthermore, the soak value of all affected targets is increased by 2 against fiery attacks such as a dragon’s fiery breath or most Bright Order spells.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Latent Spawn",
+  "type": "mutation",
+  "_id": "d5rnKj94D1DZhR2J",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Spawn bursts from your corpse and attacks all around you. You look perfectly normal, but something is terribly wrong beneath the skin. Sometimes at night you can feel something twitching and squirming within.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

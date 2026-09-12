@@ -1,0 +1,57 @@
+{
+  "name": "Skeleton in The Closet",
+  "type": "action",
+  "_id": "WR5i4u3gEFQEfGry",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Getting by on pure guesswork and bravado, you intimate that you know a dark secret from the target’s past - which you most certainly do not. Influence the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>® Add {Dr} to future Social actions against the same target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p># The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>% You have made a dangerous enemy today...if you're lucky, it’s the target</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target goes white as a sheet and excuses himself, going off to...check on something for the immediate future</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>Target must be able to see and hear you; if anyone aside from the target can hear you (i.e., you're in public), add {Dm} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

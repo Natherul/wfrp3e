@@ -1,0 +1,49 @@
+{
+  "name": "The Whispering Wind",
+  "type": "action",
+  "_id": "7KF8YfmP6KVjJm2h",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "",
+      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>4 power, must have Effect: You ask a question of the wind. The question can be anything, but the wind only knows about physical things occurring anywhere it can touch. It doesn't know any mortal language and can't speculate as to intangibles, such as intent or emotion. This spell can only sense out a few miles. Special: The difficulty of this check begins as Easy (1{Dc}) for simple yes/no questions. Add 1{Dc} of difficulty for more complex questions and for questions that require the wind to know about the past, that cover a wide geographical area, or that involve unusual degrees of precision (e.g., recognizing a particular human or other creature).</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

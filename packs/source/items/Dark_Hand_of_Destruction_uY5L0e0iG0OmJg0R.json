@@ -1,0 +1,81 @@
+{
+  "name": "Dark Hand of Destruction",
+  "type": "action",
+  "_id": "uY5L0e0iG0OmJg0R",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You successfully cast the spell. Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 corruption</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your melee attacks performed with your hands gain +1. Suffer 1 fatigue</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dc}</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You successfully cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but your Strength is increased by 2 instead. Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your melee attacks performed with your hands gain +1. Suffer 1 fatigue</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>4 power Effect: You wreath your hand in a nimbus of dark magic. While this card is recharging your hands count as a melee weapon with DR 7, CR 2 and Pierce 1 and your Strength is increased by {Dr}</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

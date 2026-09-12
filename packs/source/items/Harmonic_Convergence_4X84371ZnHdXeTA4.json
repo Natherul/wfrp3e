@@ -1,0 +1,90 @@
+{
+  "name": "Harmonic Convergence",
+  "type": "action",
+  "_id": "4X84371ZnHdXeTA4",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A nimbus of blue light flares from your outstretched hand, then fades. You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add or remove 1 recharge token from a Celestial Order spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 {Dm} from the results pool of any of his checks. He may do this only once per check.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>1 power. If you are engaged with an enemy, add the {Dm} to the dice pool. Events simply work out in favor of you and your allies. While this spell is recharging, any member of your party may remove a recharge token from this card to</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A nimbus of blue light flares from your outstretched hand, then fades. You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 {Da} to the results pool of any of his checks. He may do this only once per check.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Da} Add or remove 1 recharge token from a Celestial Order spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Anyone, friend or foe, can trigger this spell’s effect (but your enemies suffer 1 stress each time they do it).</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>6 power. If you are engaged with an enemy, add the {Dm} to the dice pool. Effects simply work out in favor of you and your allies. While this spell is recharging, any member of your party may remove a recharge token from this card to.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

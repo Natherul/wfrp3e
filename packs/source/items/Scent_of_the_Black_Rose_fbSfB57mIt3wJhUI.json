@@ -1,0 +1,85 @@
+{
+  "name": "Scent of the Black Rose",
+  "type": "action",
+  "_id": "fbSfB57mIt3wJhUI",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A4 You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and all undead within medium range treat all Fears and Terror ratings of undead as 1 lower.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All allies within close range recover 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Medium range suffer -1 to all checks while this card is recharging.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 favour, an incense burner (equal The difficulty of this check is + to the highest Fear or Terror rating amongst undead opponents, plus the modifier above. Effect: While this card is recharging, allies within medium range who can hear your and smell your incense treat all Fears and Terror ratings of undead as 1 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all undead within close range treat all Fears and Terror ratings of undead as 2 lower.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Affected allies treat Fear and Terror ratings as 3 lower, instead.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Range suffer -1 to all checks while this card is recharging.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>All allies within close range suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 favour, Special: The difficulty of this check + to the highest Fear or Terror rating among undead opponents, plus the modifier above. Effect: While this card is recharging, allies within close range who can hear your prayers and smell your incense treat all Fear and Terror ratings of undead as 2 lower. If this reduces a Fear or Terror rating to 0, the rating is ignored.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

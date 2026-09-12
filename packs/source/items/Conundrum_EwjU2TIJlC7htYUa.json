@@ -1,0 +1,78 @@
+{
+  "name": "Conundrum",
+  "type": "action",
+  "_id": "EwjU2TIJlC7htYUa",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Raddd</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>: An ally may add or subtract 1 token from one of his abilities</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 21,
+      "difficulty": "",
+      "requirements": "<p>Unanswerable riddle</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} You may add 1 recharge token to any one of your target’s currently-recharging abilities (except Ongoing abilities). If he has no abilities recharging, place 1 recharge token on one of his Active Defence abilities</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but place 2 recharge tokens instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Repeat the effect for a different target who can hear you and understand you</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@@ Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The GM may add or subtract 1 recharge token from any of your cards</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Target can hear and understand you. Effect: You delay your target with an unanswerable riddle</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

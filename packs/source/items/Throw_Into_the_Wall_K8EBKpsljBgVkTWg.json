@@ -1,0 +1,76 @@
+{
+  "name": "Throw Into the Wall",
+  "type": "action",
+  "_id": "K8EBKpsljBgVkTWg",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Me \\ou pnl\\ up a tarqet you are eng,nqed with and throw them at the nearest object for 10+Str damage. The target is now engaged with this new object</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but hit for critical damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target, you are larger than your opponent, Str 6+</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You pick up a target you are engaged with and throw them at the nearest solid object for 8+Str damage. The target is now engaged with this new object</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 12+Str damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Target gains the Staggered condition</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The perform e target may a Melee Strike basic action against you.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

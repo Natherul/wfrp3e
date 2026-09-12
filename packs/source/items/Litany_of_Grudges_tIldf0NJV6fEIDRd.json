@@ -1,0 +1,82 @@
+{
+  "name": "Litany of Grudges",
+  "type": "action",
+  "_id": "tIldf0NJV6fEIDRd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>I You recite from the Book of Grudges, naming each unresolved grudge suffered by the dwarf people § by your clan, hold, and the whole. You and your dwarfallies who can hear you speak gain either the Energised, Inspired, or Invigorated condition for 2 rounds. If appropriate, you may also influence dwarfs who hear you speak.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The condition granted by this card lasts for 3 rounds instead.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Increase Party Tension by 1 and be more cautious about which Grudges you bring up.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>So fierce is your rhetoric that you may grant all 3 conditions.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You read off a litany of the Grudges perpetrated against your clan, your hold, and you personally by the target, his people; or people vaguely similar to the target. Influence the target, if appropriate, and he gains the Cowed or Rattled condition for 2 rounds (your choice).</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The condition granted by this card lasts for 3 rounds instead.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Increase Party Tension by 1 and be more cautious about which Grudges you bring up in the future.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>So fierce is your rhetoric that you may grant both conditions.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Dwarf only. Target must be able to hear and understand you.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

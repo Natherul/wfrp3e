@@ -1,0 +1,77 @@
+{
+  "name": "Acrobatic Strike",
+  "type": "action",
+  "_id": "4c4NZ5MmHJdQg4pp",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You hit for normal damage and may use Agility rather than Strength to determine damage dealt</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target. Unarmed or wielding a Light, hand weapon or hand crossbow</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for normal damage and may use Agility rather than Strength to determine damage dealt</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M As above, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>If your target is suffering a critical wound, deal extra damage equal to its severity</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target. Armed or wielding a dagger, hand weapon, or hand crossbow</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

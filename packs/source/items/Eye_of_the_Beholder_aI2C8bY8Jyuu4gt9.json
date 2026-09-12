@@ -1,0 +1,74 @@
+{
+  "name": "Eye of the Beholder",
+  "type": "action",
+  "_id": "aI2C8bY8Jyuu4gt9",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You alter how an item (or small group of items, such as a handful of coins) is perceived. Silver looks like gold, fine wine tastes like vinegar, a worthless bauble seems like a priceless artefact, and so on. This spell only works on inanimate objects and lasts until the end of the encounter. Suspicious people can see through your illusion with a successful Observation (Int) check opposed by your Spellcraft (Int) + {Dc}.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M The quality of the illusion is unusually high. Anyone attempting to see through it must add {Dm} to his dice pool.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The arrow-shaped mark of Ulgu appears somewhere on the item, clear evidence of tampering to those with sufficient knowledge.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>4 power, medium range to the item</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You alter how an item (or small group of items, such as a handful of coins) is perceived. Silver looks like gold, fine wine tastes shoddy, a worthless bauble seems like a priceless artefact, and so on. This spell only works on inanimate objects and lasts until the end of the encounter. Suspicious people can see through your illusion with a successful Observation (Int) check opposed by your Spellcraft (Int).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M The quality of the illusion is unusually high. Anyone attempting to see through it must add {Dm} to his dice pool.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M Anyone attempting to see through it must add {Df} to his dice pool.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The arrow-shaped mark of Ulgu appears somewhere on the item, clear evidence of tampering to those with sufficient knowledge.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "3c",
+      "requirements": "<p>4 power, medium range to the item</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

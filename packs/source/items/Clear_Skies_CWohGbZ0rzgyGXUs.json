@@ -1,0 +1,77 @@
+{
+  "name": "Clear Skies",
+  "type": "action",
+  "_id": "CWohGbZ0rzgyGXUs",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The weather clears above your head. You may now study the night sky, regardless of the weather, for about the next hour.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster’s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain {Dc} to your next Celestial Order spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Special: This spell recharges at sundown</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The weather clears above your head. You may now study the night sky, regardless of the weather, for about the next hour.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The effect is stronger still; inclement weather calms within close range of you, canceling all penalties associated with it. If that inclement weather is the result of a spell or blessing, you must perform a Spellcraft (Int) check vs. the caster’s Discipline (WP) to calm it; if you fail, the penalties are unaffected (but you may still study the night sky).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain {Dr} to your next Celestial Order spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are reduced to 0 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 power. You must be exposed to the open sky. Special: This spell recharges at sundown.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

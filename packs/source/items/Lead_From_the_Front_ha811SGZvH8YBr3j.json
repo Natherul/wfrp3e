@@ -1,0 +1,57 @@
+{
+  "name": "Lead From the Front",
+  "type": "action",
+  "_id": "ha811SGZvH8YBr3j",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>‘N You hit for normal damage plus damage equal to your Noble Rank</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you increase your soa ‘value by an amount equal to your Noble</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3b",
+      "requirements": "<p>Engaged with target, reduce the difficulty mndlher by {Dc} for each Noble Rank you have</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

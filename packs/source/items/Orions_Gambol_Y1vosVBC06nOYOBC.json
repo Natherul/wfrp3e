@@ -1,0 +1,97 @@
+{
+  "name": "Orions Gambol",
+  "type": "action",
+  "_id": "Y1vosVBC06nOYOBC",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>5+ You hit for +1 damage and may immediately perform a free manoeuvre</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After this action resolves, you revert to neutral stance</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may immediately adjust your stance to 2 spaces deep into Reckless</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Melee Attack recharging, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ You hit for +1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>5+ You hit for +2 damage, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may add or remove 1 recharge token from one of your Ritual Dances</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After this action resolves, you revert to neutral stance</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may immediately adjust your stance to 2 spaces deep into Conservative</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2b",
+      "requirements": "<p>Coordination trained, at least 1 Ritual Dance or Attack recharging, engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

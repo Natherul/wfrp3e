@@ -1,0 +1,57 @@
+{
+  "name": "Storm of  Red Ruin",
+  "type": "action",
+  "_id": "2pTIfzYBNuc5Gg4y",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, plus draw 1 card from the wound deck. You inflict extra damage equal to the card's Severity Rating (if you draw a card with Severity X, draw 2 additional cards and total their Severity, then add 1 recharge token to this card). Discard any wound cards drawn, with no further effect. | Move the token on the Eye of the Gods tracker 1 space to the right</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>| The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>4{Df} critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound per {Dm} rolled</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon or talons, engaged with the token on the Eye of the Gods tracker must be on space 7 or below</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

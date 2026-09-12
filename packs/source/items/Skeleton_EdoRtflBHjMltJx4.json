@@ -1,0 +1,10 @@
+{
+  "name": "Skeleton",
+  "type": "ability",
+  "_id": "EdoRtflBHjMltJx4",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Dead Fear (1/2), Night Vision, Shambling All Bones: Skeletons do not suffer critical wounds. Any critical wounds inflicted are treated as normal wounds. S {Df} 2</p>"
+  },
+  "_text_fixed_by_llm": true
+}

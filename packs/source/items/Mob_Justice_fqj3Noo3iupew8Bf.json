@@ -1,0 +1,90 @@
+{
+  "name": "Mob Justice",
+  "type": "action",
+  "_id": "fqj3Noo3iupew8Bf",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You band together to tackle a formidable opponent. The attack inflicts normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>B The attack inflicts +1 damage, +1 critical.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The target suffers the Overwhelmed condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target is knocked prone.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Turn 1 of the target's wounds face up in the engagement. Choose 1 to apply a critical, then turn the rest face up.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>2 Suffer 1 wound.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target and at least 1 ally and your allies in the engagement outnumber your enemies, add {Dc} to the attack’s dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The townsfolk band together to tackle a more formidable opponent. The attack inflicts normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts +2 damage, +1 critical.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers the Overwhelmed condition for 2 rounds.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attacker suffers 1 wound.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All townsfolk in the engagement suffer 1 wound.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Townsfolk with target Spectal If there are more townsfolk in the engagement than enemies, add {Dr} to the attack’s dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

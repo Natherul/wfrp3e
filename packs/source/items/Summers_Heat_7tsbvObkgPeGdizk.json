@@ -1,0 +1,89 @@
+{
+  "name": "Summers Heat",
+  "type": "action",
+  "_id": "7tsbvObkgPeGdizk",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The blazing heat of the summer sun saps your target's energy. He gains the Sluggish condition for 3 rounds.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 5 rounds instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Increase the duration of the Sluggish condition by 1 round.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The blazing heat of the summer sun saps your target's energy. He gains the Sluggish condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 4 rounds instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may affect a second target within close range of the first.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and any allies within close range of you suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>3 power, target within medium range. If you are engaged with an enemy, add 1 {Dc} to your dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

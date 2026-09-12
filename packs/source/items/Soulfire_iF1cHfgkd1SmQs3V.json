@@ -1,0 +1,107 @@
+{
+  "name": "Soulfire",
+  "type": "action",
+  "_id": "iF1cHfgkd1SmQs3V",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You erupt with a burning, holy light that flares forth from your position like an explosion. All enemies within medium range are struck for Fel + WP + 4{Dc} damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but Fel + WP + 8{Dc} damage instead</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>As above, but Fel + WP + 12{Dc} damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all allies within medium range recover 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The number of boons generated is no greater than the number of {Da} generated on this check</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all characters (friend and foe) within medium range suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All allies within medium range recover 1 wound, or 1 critical wound with a severity of 1</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 2f",
+      "requirements": "<p>12 favour</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You erupt with a burning, holy light that flares forth from your position like an explosion. All characters (friend and foe) within medium range are struck for Fel + WP + 4{Dr} damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but Fel + WP + 8{Dr} damage instead</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>As above, but Fel + WP + 12{Dr} damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all allies within medium range recover 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all characters (friend and foe) within medium range suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The effect extends out to long range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +2 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 2f",
+      "requirements": "<p>12 favour</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Clanrat",
+  "type": "ability",
+  "_id": "5fihmEse1UKgHn8N",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Keen Senses: Skaven have a well-developed sense of smell. Skaven add {Dc} to Observation checks where the sense of smell provides an advantage. AGGRESSION CUNNING EXPERTISE 2 3 1</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dance of Dreaming",
+  "type": "action",
+  "_id": "Zm4A2VsAod4wJDSt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 12,
+      "difficulty": "",
+      "requirements": "<p>Coordination trained, target(s) within close range (up to a maximum of 4 targets). Their effect: Targets lose free manoeuvre and suffer from the Sluggish Limmon while this card is recharging.</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

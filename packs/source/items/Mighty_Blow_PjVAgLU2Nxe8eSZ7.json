@@ -1,0 +1,87 @@
+{
+  "name": "Mighty Blow",
+  "type": "action",
+  "_id": "PjVAgLU2Nxe8eSZ7",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You punch, kick, headbutt, or otherwise strike the target for unarmed damage +1</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target this attack</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You punch, kick, headbutt, or otherwise strike the target for unarmed damage +1</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but +3 damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>{Df} critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You give ‘em the one-two! You hit the target again for the same damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Special: The defence rating of any armour heavier than leather is increased by 1 against this attack</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

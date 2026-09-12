@@ -1,0 +1,95 @@
+{
+  "name": "One In Each Eye",
+  "type": "action",
+  "_id": "5ce4z0i1YQwdcuHL",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You fire twice...but only hit once. You hit one target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You fire twice and hit twice. You hit with two separate attacks for normal damage (against the same target twice or against two targets).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Ignore your target(s)'s armour soak value.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 damage per attack.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 défnage per attack.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Reduce your target(s)'s To to half (round up) for the purposes of soaking damage from this action.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3f",
+      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action targets 1 or 2 characters; use the higher defense score between them.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You fire twice...but only hit once. You hit one target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You fire twice and hit twice. You hit with two separate attacks for normal damage (against the same target twice or against two targets).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Ignore your target(s)'s armour soak value.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+& damage.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 fatigue. Suffer 1 stress per target.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +1 critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3f",
+      "requirements": "<p>Bow, repeating crossbow or firearm, or two pistols or crossbow pistols equipped. Target(s) within close range of one another. Special: This action may target 1 or 2 characters; use the higher defense score between them.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

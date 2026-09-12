@@ -1,0 +1,95 @@
+{
+  "name": "Disarm",
+  "type": "action",
+  "_id": "qmW2yMKRYbwgR1cr",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>& M You disarm the target, knocking his primary weapon to the ground</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you knock his primary and secondary weapon (if any) to the ground</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>## Suffer 1 to your next attack</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>§ With flourish, snatch the target’s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Agility (your choice)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You disarm the target, knocking his primary weapon to the ground</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you hit the target for normal damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>@@ Suffer 1 to your next attack</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N With flourish, snatch the target’s weapon as you pass by! You're now holding it (assuming you had a free hand)</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon equipped, engage with target Special This attack uses either Strength or Agility (your choice)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

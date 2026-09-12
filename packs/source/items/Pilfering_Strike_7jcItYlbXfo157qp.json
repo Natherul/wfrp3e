@@ -1,0 +1,95 @@
+{
+  "name": "Pilfering Strike",
+  "type": "action",
+  "_id": "7jcItYlbXfo157qp",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose—relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>One-handed melee weapon equipped, one free hand, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You use your finesse with a weapon to injure and more importantly distract your target from your true purpose—relieving him of his poorly attended property. You hit for -2 damage and can immediately gain possession of a small held or unattended object from the target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but normal damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>| The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>2 You suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You accidentally drop the pilfered item and it rolls away to close range</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Special This attack uses Agility instead of Strength for both the attack roll and damage dealt</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

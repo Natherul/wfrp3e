@@ -1,0 +1,10 @@
+{
+  "name": "Invigorated",
+  "type": "condition",
+  "_id": "tXlChMzkZOcergfL",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>During your End Turn phase, you may remove one additional</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Basic Actions II",
+  "type": "action",
+  "_id": "M3viAdoartW1w3vJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You the target for +2 damage check relied on a physical You hit the target for + damage \" Pecform a manoeuvre for free characteristic, recover {Df} fatigue. Ifthe A Perform manoeuvre for free check relied mental characteri a</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>98 Your target may disengage from you on a 1 stress check relied on a physical suffer 1 fatigue. Ifthe check relied on a mental characteristic, suffer 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>or to attempt a dramatic activity not covered it/ specific action card A Perform the action as intended 44 You perform the action N You the target for normal damage and may free manoeuvre You hit the target for normal damage</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You the target for +2 damage check relied on a physical You hit the target for + damage \" Pecform a manoeuvre for free characteristic, recover {Df} fatigue. Ifthe A Perform manoeuvre for free check relied mental characteri a</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>98 Your target may disengage from you on a 1 stress check relied on a physical suffer 1 fatigue. Ifthe check relied on a mental characteristic, suffer 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>or to attempt a dramatic activity not covered it/ specific action card A Perform the action as intended 44 You perform the action N You the target for normal damage and may free manoeuvre You hit the target for normal damage</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tenacious Hunt",
+  "type": "action",
+  "_id": "7FGXx96BZ1ADhS64",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending our movement engaged to the target in the new location</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Agility 5+, engaged with target Effect: When a character performs a move manoeuvre to disengage from you, add five recharge tokens to this card to immediately move with the target, ending your movement engaged to the target in the new location</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

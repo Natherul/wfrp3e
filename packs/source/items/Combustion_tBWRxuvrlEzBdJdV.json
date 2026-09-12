@@ -1,0 +1,81 @@
+{
+  "name": "Combustion",
+  "type": "action",
+  "_id": "tBWRxuvrlEzBdJdV",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Medium & 3 power, target within range, 1 or more Bright Order spells recharging. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>and strike your target for Int damage, +1 damage for every Bright Order spell you have recharging</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The flames of your recent strike your target for Int damage, +1 damage for every Bright Order spell you have recharging</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Completely recharge one of your Bright Order spells after this action is resolved</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Ignore the target’s soak value</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>3 power, delum range to target, 1 or more Bright Order spells recharging. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

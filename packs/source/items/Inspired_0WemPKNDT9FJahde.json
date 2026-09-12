@@ -1,0 +1,10 @@
+{
+  "name": "Inspired",
+  "type": "condition",
+  "_id": "0WemPKNDT9FJahde",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Cancels Demoralised. Adds {Df} to all skill checks</p>"
+  },
+  "_text_fixed_by_llm": true
+}

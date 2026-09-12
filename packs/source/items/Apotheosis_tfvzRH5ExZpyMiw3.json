@@ -1,0 +1,99 @@
+{
+  "name": "Apotheosis",
+  "type": "action",
+  "_id": "tfvzRH5ExZpyMiw3",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>16 Power, engaged with target corpse of a living being killed within a day. Special: The spell recharges at dawn.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target corpse is brought back to life fully healed of wounds and/or diseases. The resurrected causes Fear {Dc} on your enemies, where {Dc} is the number of generated.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The resurrected can automatically take a turn. The resurrected acquires an Insanity with the trauma trait.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>= 16 Power, engaged with target corpse of a living being killed within a day. Special: The spell recharges at dawn.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target corpse is brought back to life fully healed of wounds and/or diseases. The resurrected causes Fear {Dr} on your enemies, where {Dr} is the number of generated.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The resurrected can automatically take a turn. The resurrected acquires an Insanity with the trauma trait.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

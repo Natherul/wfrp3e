@@ -1,0 +1,89 @@
+{
+  "name": "Healing Fist",
+  "type": "action",
+  "_id": "Oiix5NI8aJZdUewF",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target recovers 2 normal wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target recovers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target recovers 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® Immediately lose 1 favour</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>4 favour. Engaged with target. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 You recover 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>£ You recover 2 normal wounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You recover 3 normal wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># One of your critical wounds, with severity no higher than the total number of # \" generated, is converted to a normal wound</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>no higher than the total number of # \" generated, is converted normal wound to a</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® Immediately lose 1 favour</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 favour. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

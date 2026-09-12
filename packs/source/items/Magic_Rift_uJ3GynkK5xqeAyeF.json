@@ -1,0 +1,109 @@
+{
+  "name": "Magic Rift",
+  "type": "action",
+  "_id": "uJ3GynkK5xqeAyeF",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Must bear the Mark of Tzeentch or be a Servant of Tzeentch. 'll\\'qvt within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The sorcerer tears a rip in the Winds of Magic, suffusing the target with raw magic energy. The target draws Miscast cards and resolves their effects if he had miscast as an {Dr}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target draws Miscast cards and resolves their effects as if he had miscast an {Dr}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>arcane spell that generated</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>arcane spell that generated</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker loses 1 expertise from its budget ot</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All enemies in medium range suffer 1 stress</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1c",
+      "requirements": "<p>Orcerer of Tzeentch, Sorcerer Lord of Tzeentch. Target within medium range Special: Add {Dm} to the difficulty modifier for each enemy engaged with the Sorcerer of Tzeentch</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

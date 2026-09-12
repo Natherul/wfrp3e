@@ -1,0 +1,10 @@
+{
+  "name": "Aged Flesh",
+  "type": "mutation",
+  "_id": "12Oz1aRCfyjWxGC8",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Add {Df} to all physical checks. Reduce your wound threshold by 1. You grow old before your time. Your skin becomes thin and wrinkled, your hair turns white, your muscles atrophy, and your bones creak.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

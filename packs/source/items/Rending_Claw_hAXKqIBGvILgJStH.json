@@ -1,0 +1,61 @@
+{
+  "name": "Rending Claw",
+  "type": "action",
+  "_id": "hAXKqIBGvILgJStH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A spectral beast’s claw rends the target for 2 wounds</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>| #44 As above, but 3 wounds instead</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 4 wounds instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>add {Dm} to the dice pool</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>£ ® You suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>6 favour, target within close range Special: If you are engaged with the target,</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

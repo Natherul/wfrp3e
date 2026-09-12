@@ -1,0 +1,82 @@
+{
+  "name": "Final Stroke of the Master",
+  "type": "action",
+  "_id": "l4qkKOjaUOrEx7Fv",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for normal damage and this card recharges immediately</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>¥ 44 You hit for normal damage, +1 damage per every recharge token on each of your other Way of the Sword cards</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage, +1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} 28 -1 damage</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Draw 3 critical wounds. Choose 1 to apply to the target as a critical; apply the others as normal damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>At least 1 other Way of the Sword card recharging, sword or greatsword equipped, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Da} You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit for normal damage, +1 damage per every recharge token on each of your other Way of the Sword cards</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} -1 damage</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>At least 1 other Way of the Sword card recharging, sword or greatsword equipped, engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

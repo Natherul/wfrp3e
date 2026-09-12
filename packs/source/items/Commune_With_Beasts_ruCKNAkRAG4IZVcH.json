@@ -1,0 +1,81 @@
+{
+  "name": "Commune With Beasts",
+  "type": "action",
+  "_id": "ruCKNAkRAG4IZVcH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond “recently” or “long ago”.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Although not necessarily clear at the time, insights you glean from the beast give you to one check related to the inquiry.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>About the distant past may add or even O to the check at the GM’s discretion.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the beast each suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Detailed inquiries or inquiries</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You ask a single question of the beast, and then get a glimpse of a memory the beast possesses that is relevant to your inquiry, as determined by your GM. You can see, smell, hear, and feel only what the beast did, and the beast does not have a sophisticated sense of subjects such as the passage of time, beyond “recently” or “long ago”.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Although not necessarily clear at the time, insights you glean from the beast give you to one check related to the inquiry.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>About the distant past may add or even O to the check at the GM’s discretion.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the beast each suffer 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "3c",
+      "requirements": "<p>10 favour, engaged with the beast. The beast must permit contact. Special detailed inquiries or inquiries</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

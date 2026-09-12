@@ -1,0 +1,69 @@
+{
+  "name": "Pierce Illusion",
+  "type": "action",
+  "_id": "LAOEuPFgCKd3YuJK",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer | stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>4 favour, target illusion within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You see through the illusion</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain {Df} on your next Observation or Intuition check</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer | stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>1 favour, target illusion within medium range Special: This action is either opposed by the Guile (Fel), in the case of illusions created by an enemy, or has its difficulty set by the GM based on the complexity of the illusion. This is usually Hard (3{Dc}) check.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

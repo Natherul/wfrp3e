@@ -1,0 +1,177 @@
+{
+  "name": "D P AtS",
+  "type": "action",
+  "_id": "Kcu2caY3uMU0fnxd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Dice pool: Recover 1 fatigue and 1 stress. Lnnlthe</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The may add xeghawe token to</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>one of your cards</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 21,
+            "description": "<p>have been declared the After you</p>"
+          },
+          {
+            "symbolAmount": 9,
+            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action’s</p>"
+          },
+          {
+            "symbolAmount": 10,
+            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action’s</p>"
+          },
+          {
+            "symbolAmount": 8,
+            "description": "<p>start of your next turn, add {Dc} to any Melee</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>Attack or Ranged Attack actions targeting =</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>22 GM 1</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Dice pool: Recover 1 fatigue and 1 stress. Lnnlthe</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The may add xeghawe token to</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>one of your cards</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 21,
+            "description": "<p>have been declared the After you</p>"
+          },
+          {
+            "symbolAmount": 9,
+            "description": "<p>target of a Melee Attack or Ranged Attack, or target of a Melee Attack, add two {Dc} tokens to this card to add {Dc} to the action’s</p>"
+          },
+          {
+            "symbolAmount": 10,
+            "description": "<p>a {Dc} or {Dm} tokens to this card to add {Dc} to the action’s</p>"
+          },
+          {
+            "symbolAmount": 8,
+            "description": "<p>start of your next turn, add {Dc} to any Melee</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>Attack or Ranged Attack actions targeting =</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>22 GM 1</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

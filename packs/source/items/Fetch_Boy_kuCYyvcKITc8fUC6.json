@@ -1,0 +1,91 @@
+{
+  "name": "Fetch Boy",
+  "type": "action",
+  "_id": "kuCYyvcKITc8fUC6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target within medium range, pet within medium range, pet within close range of target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The item may be held or worn by a character, and your pet takes it. Your pet is now holding the item</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Target within medium range of you and your pet, pet within medium range of you. Special: Depending on the relative sizes of your pet and the item you are sending your pet to fetch, the GM may increase the difficulty of this action</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your pet moves to the target item, which may be held or worn by a character, and takes it. Your pet is now holding the item</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and your pet brings the item directly to you</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your pet recovers 1 Obedience</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your pet loses 1 Obedience</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

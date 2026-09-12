@@ -1,0 +1,53 @@
+{
+  "name": "Homeward Bound",
+  "type": "action",
+  "_id": "uMCEtL5i2nMSd8Fg",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You receive a general impression of the right direction to reach your destination, which you can discern as a manoeuvre at any time</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the exact direction is revealed to you</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>3 favour, must toss a coin into a body of water as you set out on a journey to a place you have been to before</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

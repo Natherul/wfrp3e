@@ -1,0 +1,11 @@
+{
+  "name": "Minor Trauma Int 3",
+  "type": "criticalWound",
+  "_id": "h4Lri1MnA9o4NK1d",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add to Intelligence checks</p>",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

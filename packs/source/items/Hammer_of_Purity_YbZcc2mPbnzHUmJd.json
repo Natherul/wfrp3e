@@ -1,0 +1,81 @@
+{
+  "name": "Hammer of Purity",
+  "type": "action",
+  "_id": "YbZcc2mPbnzHUmJd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} You invoke the blessing and hit the target & for +1 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>Double the bonus damage from corruption</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>-1 damage</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1f",
+      "requirements": "<p>4 favour without needing to Curry Favour. Hammer or great hammer equipped, engaged with target Special: This action is both a Blessing and a Melee Attack Effect: You imbue your hammer with Sigmar’s holy might and lash out, striking as described below. Your attack deals even damage to corrupted targets. You deal +1 damage to mutants, beastmen, and anyone bearing a Mark of Chaos, and +1 damage to creatures with Corruption scores less than their Corruption threshold</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dr} You invoke the blessing and hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All damage</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All of the bonus damage from Corruption is critical damage.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1f",
+      "requirements": "<p>4 favour without needing to Curry Favour. Hammer or great hammer equipped, engaged with target Special: This action is both a Blessing and a Melee Attack Effect: You imbue your hammer with Sigmar’s holy might and lash out, striking as described below. Your attack deals even damage to corrupted targets. You deal +3 damage to daemons, +2 damage to mutants, beastmen, and anyone bearing a Mark of Chaos, and +1 damage to creatures with Corruption scores less than their Corruption threshold</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

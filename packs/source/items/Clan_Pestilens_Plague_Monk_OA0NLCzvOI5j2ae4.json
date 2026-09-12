@@ -1,0 +1,10 @@
+{
+  "name": "Clan Pestilens Plague Monk",
+  "type": "ability",
+  "_id": "OA0NLCzvOI5j2ae4",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Keen Senses Disease: Afflicted with at least one disease. The plague monk does not suffer from the effects of the disease—though it will display the symptoms and may well pass it on to those it encounters! AGGRESSION 3 {Dc} CUNNING 3 {Dc}</p>"
+  },
+  "_text_fixed_by_llm": true
+}

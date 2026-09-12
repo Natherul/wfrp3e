@@ -1,0 +1,67 @@
+{
+  "name": "Hunters Moon",
+  "type": "action",
+  "_id": "FysRq26iEiUj1SUH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A4 You cast the spell, which affects Stealth and Observation checks.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>MAMH As above, plus Nature Lore and Intuition.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When the targets spend fortune points to enhance the affected checks, they add {Df} to their dice pools instead of {Df}.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Requires S power. When you cast this spell, you how the moon (at least 1 moon must be in the sky). The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 11-50 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df}{Df} to checks described below.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 You cast the spell, which affects Stealth and initiative checks.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>& As above, plus Observation and Ballistic Skill.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When the targets spend fortune points to enhance the affected checks, they add {Df} to their dice pools instead of {Df}.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: The difficulty is based on the number of targets; 1 is Easy (1d); 2-3 is Average (2d); 4-10 is Hard (3d), 6-10 is Daunting (4d), and 11-50 is Heroic (5d). Effect: While this spell is recharging, the targets find their ability to hunt greatly enhanced, their senses and instincts heightened to razor sharpness. Affected individuals add {Df} to checks as described below.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

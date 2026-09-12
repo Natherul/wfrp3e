@@ -1,0 +1,83 @@
+{
+  "name": "Swiftness of the Wolf",
+  "type": "action",
+  "_id": "w5WWM7R7jzQT6G8P",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 favour, Strength 3+</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You borrow some of the swiftness of Ulric’s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You borrow some of the swiftness of Ulric’s favoured animal, the wolf. Until the end of this turn, you may move between range bands for 1 fewer manoeuvre (minimum of 1 manoeuvre)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may perform a free manoeuvre</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add {Dm} to your dice pool for any action you perform next turn</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

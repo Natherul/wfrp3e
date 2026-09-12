@@ -1,0 +1,10 @@
+{
+  "name": "Suspicious Mind",
+  "type": "ability",
+  "_id": "F2Ak3v9b2FtaGPAv",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Fellowship checks: You don’t trust anyone anymore. No one is what they seem, and you know this better than anyone. They all talk about you behind your back, plotting against you.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

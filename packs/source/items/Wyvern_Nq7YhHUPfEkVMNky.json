@@ -1,0 +1,10 @@
+{
+  "name": "Wyvern",
+  "type": "ability",
+  "_id": "Nq7YhHUPfEkVMNky",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Flight, Instinctive, Terror 3 Poisonous Tail: When a wyvern inflicts a critical wound, the target suffers fatigue equal to the critical severity.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

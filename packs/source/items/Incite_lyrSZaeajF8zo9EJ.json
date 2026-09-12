@@ -1,0 +1,46 @@
+{
+  "name": "Incite",
+  "type": "action",
+  "_id": "lyrSZaeajF8zo9EJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: Add M to the Check for each step deep into the conservative stance that the target is</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target visibly rouses and his actions become more impulsive. Your target may move his stance marker 1 space more reckless</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 2 spaces more reckless</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target suffers 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

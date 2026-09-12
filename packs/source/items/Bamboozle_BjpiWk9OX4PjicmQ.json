@@ -1,0 +1,54 @@
+{
+  "name": "Bamboozle",
+  "type": "action",
+  "_id": "BjpiWk9OX4PjicmQ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You trick the target into performing the action of your choice on its next turn;</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You trick the target into performing the action of your choice on its next turn. The target cannot be convinced to attack itself, cause itself fatigue, or otherwise harm itself, but might be duped into putting itself into harm's way or harming someone else. The target must act the next time it is able.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>todo =</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>S favour, target within medium range and able to hear and understand you speak Special: If you have Guile trained, add {Dc} to the dice pool for each rank of Guile. When you invoke this blessing, you describe what effect you want it to have and the GM may modify the dice pool based on how dangerous or contrary to the target's nature the desired action is. Actions that are clearly self-harmful or flagrantly against the subject's nature will add at least {Dm} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

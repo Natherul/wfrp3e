@@ -1,0 +1,96 @@
+{
+  "name": "Shards of Slaanesh",
+  "type": "action",
+  "_id": "0Wp4JyjVuvOVW1f6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>14 A cloud of razor sharp shards flies your target’s body and mind. You hit the target for 6 + Int damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, plus the target draws an insanity from the deck. If it has the Chaos keyword, the target suffers from its effects at the end of the current act. Otherwise, discard it</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the target is suffering from any insanities, he suffers 1 corruption</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>2 Such exquisite pain must be shared. You suffer 2 wounds</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After resolving this action, immediately cast the spell again, but vs. Target Discipline (WP) instead. This does not require power to cast. You may activate this effect once each turn.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>6 power, target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A cloud of razor sharp shards flies your target’s body and mind. You hit the target for 6 + Int damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, plus the target gains the Weakened condition for 2 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Such exquisite pain must be shared. You suffer 2 wounds</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Exposed condition for 2 rounds</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>After resolving this action, immediately cast the spell again, but vs. Target Discipline (WP) instead. This does not require power to cast. You may only activate this effect once each turn.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>Target within medium range. If you are engaged with an enemy, add {Dm} to the due pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

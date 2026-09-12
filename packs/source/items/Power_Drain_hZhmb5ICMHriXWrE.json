@@ -1,0 +1,10 @@
+{
+  "name": "Power Drain",
+  "type": "miscast",
+  "_id": "hZhmb5ICMHriXWrE",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Leach power from you!</p> Lose 1 power for each {Dm} generated"
+  },
+  "_text_fixed_by_llm": true
+}

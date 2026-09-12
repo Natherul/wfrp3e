@@ -1,0 +1,113 @@
+{
+  "name": "Breath of Change",
+  "type": "action",
+  "_id": "3ZX2H5LREouNn71m",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You blast your target with mutating breath. Your target gains 3 corruption</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Your target gains 5 corruption</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>Your target gains 7 corruption</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Add 1 less recharge token to this card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target draws 1 mutation from the deck and suffers its effects until the end of the encounter</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Suffer 2 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>This attack does not recharge until the next rally step</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All characters engaged with the target also suffer this attack's effects</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2b",
+      "requirements": "<p>Target within medium range ‘Special This attack uses Willpower of Agility. Add {Dc} to the dice pool for each rank of training in Coordination the target has</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You blast your target with mutating breath. Your target gains 4 corruption</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>Your target gains 6 corruption</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The target gains 1 corruption</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>AU The target gains 1 temporary insanity with the Supernatural or Chaos trait</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Instead of Agility. Add {Dc} to the dice pool for each rank of training in Coordination the target has</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Suffer 2 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>This attack does not recharge until the next rally step</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains 1 corruption and gains 1 temporary insanity with the Supernatural or Chaos trait</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Target within medium range Special This attack uses Willpower</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

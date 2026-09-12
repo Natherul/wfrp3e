@@ -1,0 +1,73 @@
+{
+  "name": "Honeyed Words",
+  "type": "action",
+  "_id": "wzDJ63SjHoe6WZqZ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p># While this card is recharging, you may add {Dc} to all Social actions involving the target.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Target can hear and understand you. Influence the target by telling him exactly what he wants to hear. If appropriate, you can sway the target towards a reasonable argument or convince him to agree to a reasonable request.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The action is successful.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this card is recharging, you may add {Df} to all Social actions involving the target.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>While this card is recharging, add {Dm} to all Social actions involving the target.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>Special: You lie to your target. A lot. If fooled, you can sway the target towards your side of the story or convince him to agree to a reasonable request.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

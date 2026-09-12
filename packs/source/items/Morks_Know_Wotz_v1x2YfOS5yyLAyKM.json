@@ -1,0 +1,78 @@
+{
+  "name": "Morks Know Wotz",
+  "type": "action",
+  "_id": "v1x2YfOS5yyLAyKM",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>You appeal to Mork to provide you with some of the benefits of his vast 'knowledge'. This card is recharging you</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You successfully cast the spell</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>This spell is recharging =</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this card &</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the perplexed condition while</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies within medium range may replace 1 extra characteristic die with a reckless {Dr} die while this spell is recharging</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 power Effect: You appeal to Mork to provide you with some of the benefits of his vast knowledge. While this card is recharging you may benefit from 4 extra cunning {Dc} and 2 extra expertise {De} dice</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

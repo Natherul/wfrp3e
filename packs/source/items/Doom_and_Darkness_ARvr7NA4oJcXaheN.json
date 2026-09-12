@@ -1,0 +1,79 @@
+{
+  "name": "Doom and Darkness",
+  "type": "action",
+  "_id": "ARvr7NA4oJcXaheN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>either the condition (your choice) for</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 living target(s) within close range. Add {Dc} to the dice pool for each target beyond the first, up to a maximum of 4 total targets. Special: This spell uses Willpower for the Spellcraft check rather than Intelligence.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains either the Ill-Fortuned or Frightened condition for 3 rounds as he is reminded of his mortality (your choice).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Gain {Df} on your next Arcanist Order spell this act.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1c 2b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

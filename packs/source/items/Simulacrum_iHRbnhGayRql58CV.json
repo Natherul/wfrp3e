@@ -1,0 +1,10 @@
+{
+  "name": "Simulacrum",
+  "type": "miscast",
+  "_id": "iHRbnhGayRql58CV",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>A shadowy, purple copy is created, trailing your actions until the end of the encounter. Suffer 2 stress.</p> 33+ As above, and add {Dc} to all Ranged Attacks targeting you"
+  },
+  "_text_fixed_by_llm": true
+}

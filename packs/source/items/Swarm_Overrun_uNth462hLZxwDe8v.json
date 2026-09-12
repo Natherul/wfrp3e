@@ -1,0 +1,93 @@
+{
+  "name": "Swarm Overrun",
+  "type": "action",
+  "_id": "uNth462hLZxwDe8v",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You pour over the targets, biting and clawing. All engaged targets suffer normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All targets suffer normal damage +1, 1 fatigue, and 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>4 All targets suffer normal damage +2, 1 fatigue, and 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target gains the Overwhelmed condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>One target suffers a critical wound.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain the Exposed condition for 2 rounds.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with 1 or more enemy; you must outnumber the target(s) or be much larger. This attack gains {Dm} for each engaged enemy. Each enemy engaged with you is targeted by this action.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 The swarm pours over the targets, biting and clawing. All engaged targets suffer normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All targets suffer normal damage +2.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>All targets suffer normal damage +2, 1 fatigue, and 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target gains the Overwhelmed condition for 2 rounds.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each target suffers 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker gains the Exposed condition for 2 rounds.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Used By: Swarms. Engaged with 1 or more enemy. Special: This attack gains {Dm} if the swarm is targeted by this action.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Horrific Assault",
+  "type": "action",
+  "_id": "sj8n01n4NAOWUV5H",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You flail and strike the target caper, over and over again until you finally hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers 1 corruption ! The attack causes Fear 1 and inflicts 1 critical damage. You may immediately repeat this attack against the same target @ The target may perform a free manoeuvre @@ You lose 1 die from Aggression budget</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target add 0 to this check</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The fiend’s tentacles and claws all extend & hurling their might wickedly, at one target and inflicting normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts critical damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers 1 corruption</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The attack causes Fear 1 to all enemies engaged with the horror</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 corruption | b</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target may perform a free manoeuvre</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>@ The attacker loses 1 die from its Aggression budget</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Horror o Engaged with target Special: If the target is suffering from add {Dm} to this check</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

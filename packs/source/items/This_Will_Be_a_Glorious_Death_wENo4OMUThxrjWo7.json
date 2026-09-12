@@ -1,0 +1,53 @@
+{
+  "name": "This Will Be a Glorious Death",
+  "type": "action",
+  "_id": "wENo4OMUThxrjWo7",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>What are you doing in Conservative stance, you pansy?</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You resolve yourself to die gloriously as indicated above.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Immediately take an extra turn after this one.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "5c",
+      "requirements": "<p>Wounded and have a deathwish. Special: This card recharges when the foe breaks or dies, or when you are KO'd. If, when this card recharges, your wounds exceed your wound threshold, you are affected and may die. Effect: You resolve die gloriously in this battle. While this card is recharging, you deal +3 damage on all attacks, your CR is reduced by 1 to a minimum of 1, and your wound threshold is doubled. Also while this card is recharging, all attacks that target you gain +1 Critical.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

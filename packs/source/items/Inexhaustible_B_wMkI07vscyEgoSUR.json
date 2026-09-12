@@ -1,0 +1,12 @@
+{
+  "name": "Inexhaustible B",
+  "type": "talent",
+  "_id": "wMkI07vscyEgoSUR",
+  "folder": "jF94s0lqlXKIEOms",
+  "system": {
+    "description": "<p>Ill</p>",
+    "rechargeTokens": 0,
+    "socket": null
+  },
+  "_text_fixed_by_llm": true
+}

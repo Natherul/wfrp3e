@@ -1,0 +1,12 @@
+{
+  "name": "Griffon",
+  "type": "talent",
+  "_id": "89Wb0SxX6xsY4RB7",
+  "folder": "jF94s0lqlXKIEOms",
+  "system": {
+    "description": "<p>Instinctive, Terror 2 Flight: Does not need to perform a manoeuvre to disengage before moving. Can move away from non-flying opponents as if it were not engaged. AGGRESSION CUNNING</p>",
+    "rechargeTokens": 0,
+    "socket": null
+  },
+  "_text_fixed_by_llm": true
+}

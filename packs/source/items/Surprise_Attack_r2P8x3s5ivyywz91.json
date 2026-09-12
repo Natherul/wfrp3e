@@ -1,0 +1,77 @@
+{
+  "name": "Surprise Attack",
+  "type": "action",
+  "_id": "r2P8x3s5ivyywz91",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You produce a dagger or similar weapon as if by magic and strike the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you may use Agility rather than Strength to determine your damage if you choose.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Reduce the target's armour soak value by 2 for this attack.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You leave yourself open for a counterattack! If your target’s next action is to attack you, he adds {Dm} to his dice pool.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target, not visibly armed or target does not suspect you of being armed. This attack does not have recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, they will not fall for your trickery.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You produce a dagger or similar weapon as if by magic and strike the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and reduce the target’s armour soak value by 2 for this attack.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may use Agility rather than Strength to determine your damage if you choose.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 You leave yourself open for a counterattack! If your target’s next action is to attack you, he adds {Dm} to his dice pool.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: This attack does not have a recharge rating. However, any character that sees you perform this action will not be a valid target for it during this encounter, as they will not fall for your trickery.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Mindfire",
+  "type": "action",
+  "_id": "yAvKbzHVZNyNyhvW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You set the target's mind afire with the cackling laughter and tempting whispers of the Great Deceiver. The target suffers a number of wounds equal to the highest 2 severity amongst insanities he is suffering from</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the target suffers wounds equal to the severity sum of all insanities he is suffering from instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Choose one insanity the target suffers from</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal critical wounds from the wound deck equal to the number of insanities the target is suffering from. Apply the critical wound(s) with the highest severity and discard the rest</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power, target within medium range. The target must be suffering from either a permanent or temporary insanity</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You set the target's mind afire with the searing pain. The target suffers an amount of fatigue equal to the highest severity amongst insanities he is suffering from</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the target suffers fatigue equal to the severity sum of all insanities he is suffering from instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 3 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal critical wounds from the wound deck equal to the number of insanities the target is suffering from. Apply the critical wound(s) with the highest severity and discard the rest</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power, target within medium range. The target must be suffering from either a permanent or temporary insanity</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

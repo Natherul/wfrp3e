@@ -1,0 +1,10 @@
+{
+  "name": "Cacophony",
+  "type": "mutation",
+  "_id": "wDQacDn2uu1V0AHI",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Add {Dc} to your dice pool for any check where clear speech is relevant, including invoking blessings or casting non-Chaos spells. Your tongue becomes black and twisted, and your speech is garbled with daemonic</p>"
+  },
+  "_text_fixed_by_llm": true
+}

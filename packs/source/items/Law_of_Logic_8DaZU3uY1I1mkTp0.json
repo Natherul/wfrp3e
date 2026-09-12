@@ -1,0 +1,87 @@
+{
+  "name": "Law of Logic",
+  "type": "action",
+  "_id": "8DaZU3uY1I1mkTp0",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4: You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You recover 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 less recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress. Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You confer your bonus to any ally within medium range instead of 4 range, you</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dc} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4: You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You recover 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 less recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You can confer your bonus to any ally within medium range, instead of you</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power, must perform the prepare manoeuvre before using this action. Effect: You turn your powerful intellect to devising the solution to a complex problem. When this card recharges completely, you gain 1 {Dr} on the next skill check you make. While this card is recharging, you must perform the prepare manoeuvre each turn. If you do not, the card does not recharge at the end of that turn.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

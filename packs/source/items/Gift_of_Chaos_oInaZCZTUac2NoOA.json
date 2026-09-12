@@ -1,0 +1,94 @@
+{
+  "name": "Gift of Chaos",
+  "type": "action",
+  "_id": "oInaZCZTUac2NoOA",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target's flesh ripples, twists, and boils with a painful series of (thankfully temporary) mutations. The target draws a mutation, suffers fatigue equal to its severity, and is affected by the mutation while this spell is recharging</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the mutation is permanent! The target's corruption is reduced by the mutation's severity</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add or remove 1 recharge token to any of your Tzeentch spells</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may draw 3 mutations and choose 1 to apply, instead</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue and 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You draw and apply a mutation to yourself. It lasts as long as the mutation on your target</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>9 power, human target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target's flesh ripples, twists, and boils with a painful series of (thankfully temporary) mutations. The target draws a mutation, suffers fatigue equal to its severity, and is affected by the mutation while this spell is recharging</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but the mutation is permanent! The target's corruption is reduced by the mutation's severity</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add or remove 1 recharge token to any of your Tzeentch spells</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers stress equal to the fatigue he suffers</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue and 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You draw and apply a mutation to yourself. It lasts as long as the mutation inflicted on your target</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

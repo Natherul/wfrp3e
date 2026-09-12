@@ -1,0 +1,77 @@
+{
+  "name": "Unstoppable Rush",
+  "type": "action",
+  "_id": "LREvEBzdrii5mF1q",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You crash into the target, inflicting ¢{Dc} damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>1{Dc} damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Not engaged with an enemy, target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>14 You crash into the target, inflicting -2{Dm} damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for normal damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may immediately take a free manoeuvre.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8 The target may disengage for free.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Not engaged with an enemy, target within medium range. Special: As part of this action, you move to engaged with the target. If the target is closer than close range, add {Df} to your dice.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

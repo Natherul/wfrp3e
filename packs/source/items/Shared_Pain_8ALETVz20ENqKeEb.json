@@ -1,0 +1,73 @@
+{
+  "name": "Shared Pain",
+  "type": "action",
+  "_id": "8ALETVz20ENqKeEb",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Choose fatigue, stress, normal wounds, corruption, critical wounds, insanities, diseases, or mutations. If you chose fatigue, stress, normal wounds, or corruption, the target recovers from up to X of that effect and you suffer the same amount. If you chose critical wounds, insanities, diseases, or mutations, the target recovers from one with a total severity greater than X and you suffer the same</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but make 2 choices</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>As above, but make 3 choices</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You must use the highest possible line</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1f",
+      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a Special: X equal to your WP is to</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Choose fatigue, stress, normal wounds, corruption, critical wounds, insanities, diseases, or mutations. If you chose fatigue, stress, normal wounds, or corruption, the target recovers from up to X of that effect and you suffer the same amount. If you chose critical wounds, insanities, diseases, or mutations, the target recovers from one with a total severity no greater than X and you suffer the same</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but make 2 choices</p>"
+          },
+          {
+            "symbolAmount": 5,
+            "description": "<p>As above, but make 3 choices</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You must use the highest possible line and cannot choose to recover less than X or an effect with a severity less than X unless you have no other options</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c 1f",
+      "requirements": "<p>6 favour. Engaged with target. You may not have a weapon in your hand (aside from a walking stick) Special: X is equal to</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

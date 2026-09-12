@@ -1,0 +1,87 @@
+{
+  "name": "Arcane Explosion",
+  "type": "action",
+  "_id": "Xz28LF6UpxWJlNaq",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You unleash a torrent of arcane energies that surge outward from your body! The attack inflicts Int + S critical damage, plus 2 wounds to all enemies engaged with you.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts Int + S critical damage, plus 2 wounds to all enemies engaged with you.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The Sorcerer of Tzeentch unleashes a torrent of arcane energies that surge outward from its body! The attack inflicts Int + 5 damage, plus 1 wound to all enemies engaged with the Sorcerer of Tzeentch.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts Int + S critical damage, plus 2 wounds to all enemies engaged with the Sorcerer of Tzeentch.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Enemies engaged with the Sorcerer of Tzeentch suffer 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Used By: Sorcerer & Sorcerer Lord of Tzeentch Target within close range Special: Add M to the difficulty modifier for each enemy engaged with the Sorcerer of Tzeentch.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

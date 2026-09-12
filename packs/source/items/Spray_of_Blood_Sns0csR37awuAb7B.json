@@ -1,0 +1,77 @@
+{
+  "name": "Spray of Blood",
+  "type": "action",
+  "_id": "Sns0csR37awuAb7B",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>5 power, target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You spit blood that burns like acid at any one target. You hit for Int + To damage. Ignore armour soak.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 2 + Int + To damage instead. The target suffers a temporal Insanity with the Chaos or Trauma traits. ® Lose 1 power after casting the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 critical wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>5 power, target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You spit blood that burns like acid at any one target. You hit for Int + To damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 3 + Int + To damage instead.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but 5 + Int + To damage. Ignore armour soak. The target suffers a temporal Insanity with the Chaos or Trauma traits. ® Lose 1 power after casting the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 critical wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nauseating Aura",
+  "type": "miscast",
+  "_id": "pf7tLBg0iA2OV1Qi",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>The energy washes over the area. All characters (friend or foe) within medium range (including you) gain the Queasy condition for as many rounds as the number of {Dc} generated.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

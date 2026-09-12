@@ -1,0 +1,82 @@
+{
+  "name": "Bolster",
+  "type": "action",
+  "_id": "Q9nIlTBRHa2xDbjM",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>While this card is recharging, shame threshold is affected by !</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You bolster your target, helping him to temporarily shrug off the sting of shame</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but the target’s shame threshold is increased by 2 instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your target may immediately adjust his stance one space in either direction</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this card is recharging, enemies add {Dm} to all checks that include your target; Remove 2 recharge tokens from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Effect: While this card is recharging, target’s shame threshold is increased by 1</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

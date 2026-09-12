@@ -1,0 +1,87 @@
+{
+  "name": "Mines Bigger",
+  "type": "action",
+  "_id": "sIcc15AFoQxug2F3",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4{Dc} brandish your weapon and thus threaten your target, who suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 2 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped; target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You brandish your weapon and threaten your target, who suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 1 stress & 1 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target gains the Rattled condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress & 1 fatigue</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped; target within close range Special: If your weapon’s DR is greater than your opponent’s DR, add {De} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

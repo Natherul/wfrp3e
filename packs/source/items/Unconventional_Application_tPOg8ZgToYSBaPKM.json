@@ -1,0 +1,91 @@
+{
+  "name": "Unconventional Application",
+  "type": "action",
+  "_id": "tPOg8ZgToYSBaPKM",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for +1 damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, plus you deal additional damage equal to the number of modifications on the Invention.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Engaged with target. As part of this action, you grab one of your inventions and smash it over your opponent’s head, damaging it.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, plus you deal additional damage equal to the number of {Dc} modifications on the Invention.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The Invention is destroyed. You'll have to rebuild it.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Deal additional damage equal to your ranks in Dwarf Engineering.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your Invention is not just damaged, it is destroyed.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Reveal criticals until you reveal one with severity equal to the total {Dc} modifications on the Invention. Apply that critical wound to the target, discard the rest.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Engaged with target. Grab one of your inventions and smash it over your opponent’s head, damaging it. Special: If your Invention is attached to a melee weapon, use that weapon’s traits and values. Otherwise, treat the Invention as a hand weapon. You may apply all of the Invention’s {Dc} modifications to this attack.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

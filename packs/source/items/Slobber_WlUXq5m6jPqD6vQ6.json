@@ -1,0 +1,85 @@
+{
+  "name": "Slobber",
+  "type": "action",
+  "_id": "WlUXq5m6jPqD6vQ6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You slobber all over your ‘playmate’ like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, plus the target makes a Disease 2 check or is infected by a disease {Da} with the Filth or Wound traits</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 1 wound</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>gain the Exposed condition while you remain engaged with the target of this attack</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target Special: Ignore the target’s soak armour § value against this attack, as the corrosive slime oozes right through it</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 The Beast of Nurgle slobbers all over its ‘playmate’ like an excited, horrific puppy. The playful attack inflicts +2 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, plus the target makes a Disease 2 check or is infected by a disease {Da} with the Filth or Wound traits</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The Beast of Nurgle recovers 1 wound</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The over affectionate Beast of Nurgle gains the Exposed condition while it remains engaged with the target of this attack</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c",
+      "requirements": "<p>Special: Ignore the target’s armour soak value against this attack, as the slime oozes right through it</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

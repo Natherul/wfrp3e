@@ -1,0 +1,91 @@
+{
+  "name": "Guard of Steel",
+  "type": "action",
+  "_id": "9gNk8wQlnYXVaBC2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 power. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: Steel orbs around you, protecting you from harm. While this spell is recharging, your armour soak value is equal to the number of recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this spell is recharging, your soak value is increased by 1.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>3 power. If you are engaged with an enemy, add {Dc} to your dice pool. Effect: Steel orbs around you, protecting you from harm. While this spell is recharging, your armour soak value is equal to the number of recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 1 recharge token to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this spell is recharging, your soak value is increased by 1.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Remove 1 recharge token from this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

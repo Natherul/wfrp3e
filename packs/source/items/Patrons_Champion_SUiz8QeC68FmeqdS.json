@@ -1,0 +1,104 @@
+{
+  "name": "Patrons Champion",
+  "type": "action",
+  "_id": "SUiz8QeC68FmeqdS",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Damage plus d1m Rank equal to your patron’s Noble Rank</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for normal damage plus damage equal to your patron’s Noble Rank</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for normal damage plus damage equal to twice your patron’s Noble Rank</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>-2 damage</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Demoralised condition</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical; if your patron's Noble Rank is 3 or higher, +2 damage, +1 additional critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Special: As part of the action, you select a patron within long range. This should be someone whose cause is the same as yours - or someone on whose behalf you are pmd to fight</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

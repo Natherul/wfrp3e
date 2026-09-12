@@ -1,0 +1,39 @@
+{
+  "name": "Gritted Teeth",
+  "type": "action",
+  "_id": "7mp3FNNaUX9uR9HB",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Favour equal to the severity value of a critical wound you have suffered (see below). Special: When you suffer a critical wound, you may immediately spend favour equal to the severity value of that wound and place a number of recharge tokens equal to the severity value +2 on this card to invoke this blessing. The wound is converted to a normal wound.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

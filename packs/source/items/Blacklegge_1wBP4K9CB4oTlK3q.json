@@ -1,0 +1,10 @@
+{
+  "name": "Blacklegge",
+  "type": "disease",
+  "_id": "1wBP4K9CB4oTlK3q",
+  "folder": "2D1Vc7km7bf3muVb",
+  "system": {
+    "description": "<p>Suffer 1 tongue Your legs are weak and shaky and your watery bowels ache with each {Dm} [ Each PAINFUL symptom adds 1 {Dm} to all physical checks performed by the sufferer 5</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Wakefullness of Taal",
+  "type": "action",
+  "_id": "e63zTIRRpvDbmgI4",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Taal the hunter makes you vigilant while you rest. While you slumber, you and all your sleeping allies within close range may add {Dc} to your Observation and Discipline checks. If a successful check awakens you, you lose the bonus until you return to sleep</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All targets recover 1 stress or 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>If awakened during the night, all targets wake up with 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>avour. You invoke this blessing as you settle in to sleep for the night. It recharges at sunrise</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

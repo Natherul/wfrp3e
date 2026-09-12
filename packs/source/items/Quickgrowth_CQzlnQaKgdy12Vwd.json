@@ -1,0 +1,61 @@
+{
+  "name": "Quickgrowth",
+  "type": "action",
+  "_id": "CQzlnQaKgdy12Vwd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Flailing vines reach out of the earth to capture your target, trapping him where he stands. While this card is recharging, the target cannot spend manoeuvres to move.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and the thorny vines inflict 2 wounds.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 recharge token to this card.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>B Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The spell has gone too far! Another set of vines grow out of the ground and engage you. They are attached to a very large, very hungry plant! It becomes a Threat and abllmes identical to anj'</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 Power, within medium range of target, on soil or similar surface. If you are engaged with an enemy, add 1 to your dlu:</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

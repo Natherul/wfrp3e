@@ -1,0 +1,72 @@
+{
+  "name": "The Final Transmutation",
+  "type": "action",
+  "_id": "6wgiXmb2hrsCfa9X",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You produce up to 8 ounces of gold (enough coins) to make 10 gold.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You produce up to 1 pound of gold (enough to make about 20 gold).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The gold is flawed and tarnished; impure. You can hope no one notices the difference, or you can use traditional smelting to remove the impurities and recoup about 75% of the gold transmuted.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "4c 1f",
+      "requirements": "<p>12 power, engaged with target base metal. This spell takes about an hour to cast. You may recharge this spell as a manoeuvre whenever you like. It doesn't on its own. Effect: You really and truly transmute base metals into gold. While this spell is recharging, your target becomes gold. When the spell recharges, it reverts to its original material.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell and the target becomes a statue.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, and add 2 recharge tokens to this spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You are affected in exactly the same way as the target.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>If the target dies while affected by this spell, he’ll remain flesh and blood, but never turn to gold forever.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 2f",
+      "requirements": "<p>10 power, target within medium range. You throw a gold coin at the target when you cast this spell; the gold coin is consumed. Effect: The target is transmuted to a statue of gold. While this spell is recharging, he gains the Petrified condition. When the spell recharges, he returns to normal (minus any damage he’s suffered in the meantime).</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

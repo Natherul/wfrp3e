@@ -1,0 +1,81 @@
+{
+  "name": "Kindly Words",
+  "type": "action",
+  "_id": "8xSFIDDSaZPkd2ak",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You speak of the kindness of the goddess. If appropriate, you Influence the target and the target may not attack you until the end of the act or until you perform a hostile action towards the target or his allies (whichever comes first)</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, and the target may not perform any hostile action whatsoever until the end of the act or until the target is attacked or is the target of a hostile action (whichever comes first)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the target each recover {Dc}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>888 Move the party tension meter to the right 7 spaces</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 favour. Target must be able to hear and understand 'Oll and until the blessing</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You speak of the kindness of the goddess. If appropriate, you Influence the target and the target may not attack you until the end of the act or until you perform a hostile action towards the target or his allies (whichever comes first)</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, and you affect a number of additional targets equal to your character's {De}. These additional targets must have WP no higher than the first target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and the target(s) each recover {Dr}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>288 Move the party tension meter one space to the right</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>4 favour. Target must be able to hear and understand you. Special: You engage the target in conversation when you invoke this blessing and until the blessing is resolved</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

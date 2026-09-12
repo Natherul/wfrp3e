@@ -1,0 +1,83 @@
+{
+  "name": "Repeated Strikes",
+  "type": "action",
+  "_id": "UuL8ob7ccZza1b9G",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 Your weapons flashing and spinning, you strike again and again to overwhelm your opponent’s defences. Damage: {Dc}</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>7 e Requirements of this particular action go here, on this thin strip of graphics. Special: Nominate one of your weapons as your primary weapon. Its traits apply to this attack. Your target may not use Active Defences against this attack.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 Your weapons flashing and spinning, you strike again and again to overwhelm your opponent’s defences. Damage: {Dr}</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may perform a free manoeuvre.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

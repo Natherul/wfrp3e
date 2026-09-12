@@ -1,0 +1,57 @@
+{
+  "name": "Advanced Parry",
+  "type": "action",
+  "_id": "87wMsMl2Chf0CvVU",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 {Dm} to the action's dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Mastery: After you have been the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 {Dm} to the action's dice pool Special: If the incoming attack misses, the attacker suffers 1 wound per (minimum 1, maximum 4)</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Advanced Parry replaces Improved Parry in your action deck and counts as Parry for effects that reference it</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Strength 4+, melee weapon equipped, Weapon Skill Mastery: After you have been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

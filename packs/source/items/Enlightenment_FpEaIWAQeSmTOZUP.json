@@ -1,0 +1,87 @@
+{
+  "name": "Enlightenment",
+  "type": "action",
+  "_id": "FpEaIWAQeSmTOZUP",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>MM and you and all allies within medium range recover normal wounds equal to character rank.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all allies within medium range recover 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>#8 Remove 2 recharge tokens from this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>¥ All enemies within medium range suffer wounds equal to your character rank.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c 2f 1b",
+      "requirements": "<p>10 power. You must perform the prepare manoeuvre before you cast this spell. Upon hearing your pronouncement, your allies become enlightened. While this spell is recharging, you and all friendly characters within medium range are immune to Fear and Terror.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all effects of spell extend to long range.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and all allies within medium range recover 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 2 recharge tokens from this card.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® All enemies within medium range suffer wounds equal to your character rank.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 2f 1b",
+      "requirements": "<p>10 power. You must perform the prepare manoeuvre before you cast this spell. Effect Upon hearing your pronouncement, your allies become enlightened. While this spell is recharging, you and all friendly characters within medium range are immune to Fear and Terror.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

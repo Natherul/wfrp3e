@@ -1,0 +1,10 @@
+{
+  "name": "Witch Elf",
+  "type": "ability",
+  "_id": "n5SfOGCSPnfQQx94",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Eternal Hatred, Fear 1, Night Vision, Poison Frenzy: Witch elves are always Frenzied. All stance dice are reckless dice. Melee Attacks gain: +2 damage, in addition to the regular effects. AGGRESSION CUNNING 6 1</p>"
+  },
+  "_text_fixed_by_llm": true
+}

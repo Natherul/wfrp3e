@@ -1,0 +1,87 @@
+{
+  "name": "Immobilising Shot",
+  "type": "action",
+  "_id": "2VFynXbICP3B2uqr",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Piercing ranged weapon such as bow, crossbow, arrow or similar. Target within close range. You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M4 You hit the target for -2 damage {Dm}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You hit the target for normal damage {Da}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card {Dc}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 Remove 1 recharge token from this card {Df}</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue {Dm}</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit and immobilize a second target {Df}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>Effect: You pin your target to the ground or wall. While this card is recharging, the target may not move. The target may spend an action to remove a recharge token from this card.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

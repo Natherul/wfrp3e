@@ -1,0 +1,34 @@
+{
+  "name": "Hunters Fury",
+  "type": "action",
+  "_id": "wLsjlU34jBu2FVqr",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Sufficient favour (see below), an enemy within close range takes damage. Special: When an enemy within close range of you takes damage, you may call upon Taal’s fury to destroy him. You may spend an amount of favour up to your character rank and place twice as many recharge tokens on this card. Increase the damage dealt by the amount of favour spent.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

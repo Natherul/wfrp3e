@@ -1,0 +1,10 @@
+{
+  "name": "Kriegers Zealots",
+  "type": "ability",
+  "_id": "ok5sNjFA8TiAPyvU",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Zealotry: {Dm} to Melee and Ranged Attacks against followers of Chaos. Insane: Suffers from a random Once per session, may increase his Aggression by that insanity's severity. AGGRESSION CUNNING EXPERTISE S 2 2</p>"
+  },
+  "_text_fixed_by_llm": true
+}

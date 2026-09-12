@@ -1,0 +1,88 @@
+{
+  "name": "Second Portent of Amul",
+  "type": "action",
+  "_id": "OF1VCwBv4RqVH3gk",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Remove 1 recharge token from any of your Celestial Order cards</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Place 1 fewer recharge token on this card when it is cast</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Ill-Fortuned condition for</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "3b",
+      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to your dice pool. When this card recharges completely, discard all fortune points remaining on it</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 You cast the spell</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Remove 1 recharge token from any of your Celestial Order cards</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Place 1 fewer recharge token on this card when it is cast</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Ill-Fortuned condition for 2 rounds</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain {Df} to your next check</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "3b",
+      "requirements": "<p>6 power Effect: Each time you remove a recharge token from this card, add a fortune point to it. You may spend fortune points from this card to add {Df} to dice pool. When this card recharges completely, discard all fortune points remaining on it</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Talents",
+  "type": "Item",
+  "_id": "jF94s0lqlXKIEOms",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "wfrp3e",
+    "systemVersion": "1.0.0",
+    "coreVersion": "11.315"
+  }
+}

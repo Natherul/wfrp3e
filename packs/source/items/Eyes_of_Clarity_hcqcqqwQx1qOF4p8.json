@@ -1,0 +1,85 @@
+{
+  "name": "Eyes of Clarity",
+  "type": "action",
+  "_id": "hcqcqqwQx1qOF4p8",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but you may remove up to 4 {Dc}.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>up to 2 {Dm} granted to any dice pool due to the lack of light.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>up to 2 {Dm} granted to any dice pool due to the lack of light. While this card is recharging you gain -1 to checks.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but you may remove up to 4 {Dc}.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>up to 2 {Dm} granted to any dice pool due to the lack of light.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>up to 2 {Dm} granted to any dice pool due to the lack of light. : While this card is recharging you gain -1 to Intimidate checks. suffer 2 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "",
+      "requirements": "<p>Effect: Your eyes glow with an unholy green light, enabling you to see in the darkness. Remove</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

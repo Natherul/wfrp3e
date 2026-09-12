@@ -1,0 +1,73 @@
+{
+  "name": "Flaming Sword of Rhuin",
+  "type": "action",
+  "_id": "gK6hCueME8IxnJbe",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You successfully invoke the sword.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You successfully invoke the sword.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, plus while wielding the sword your Strength is increased by 1.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>2 power, a free hand. Effect: While this card is recharging, a fiery sword materialises in your grasp. Treat the sword as a hand weapon with DR 5, CR 2, and Pierce 1 that deals fiery damage. Attacks you make with the sword gain +1. You can dismiss or resummon the sword as a manoeuvre while this card is recharging.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

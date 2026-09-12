@@ -1,0 +1,77 @@
+{
+  "name": "Sigmars Wroth",
+  "type": "action",
+  "_id": "Ux7FhkrhZlbEwKyt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dc} 14 You invoke the blessing ¥</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and add 1 recharge token to his card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} You suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If a character affected by this blessing suffers 1 or more critical wounds, his next Melee Attack gains +1 critical &</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>6 favour B Effect: Sigmar’s anger and hatred strengthen you and your allies. While this blessing is recharging, each time you or an ally within close range of you suffers 1 or more wounds, the wounded character deals additional damage on his next Melee equal to the amount of wounds he has suffered, up to a maximum of your character rank</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and each affected character may immediately work himself into a zealous frenzy, suffering from 1 to 3 wounds at his option</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} You suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If a character affected by this blessing suffers 1 or more critical wounds, his next Melee Attack gains +1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 2b",
+      "requirements": "<p>6 favour Effect: Sigmar’s anger and hatred strengthen you and your allies. While this blessing is recharging, each time you or an ally within close range of you suffers 1 or more wounds, the wounded character deals additional damage on his next Melee Attack equal to the amount of wounds he has suffered, up to a maximum of your character rank</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Mark of Zealous Faith",
+  "type": "action",
+  "_id": "gRWMFp4CuQyraWcw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All allies within long range recover 1 {Df}.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Immediately lose 1 favour.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ This blessing only affects devout followers of Sigmar.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 favour. You must prominently display a symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar’s faithful. While his blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and add 1 recharge token to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Immediately lose 1 favour.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>++ This blessing only affects devout followers of Sigmar.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ When an ally inflicts 1 or more critical wounds, he may turn 1 of his own critical wounds facedown. This critical must have a severity no higher than the highest severity amongst criticals that ally inflicted.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 85,
+      "difficulty": "2c 1b",
+      "requirements": "<p>Symbol of your faith. Effect: Your symbol of faith stands as an inspiration to all of Sigmar’s faithful. While this blessing is recharging, all allies who can clearly see your symbol may recover 1 normal wound whenever they inflict one or more wounds on an enemy.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

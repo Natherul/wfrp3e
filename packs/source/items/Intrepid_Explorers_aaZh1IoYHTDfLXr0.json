@@ -1,0 +1,10 @@
+{
+  "name": "Intrepid Explorers",
+  "type": "ability",
+  "_id": "aaZh1IoYHTDfLXr0",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>TENSION METER: All party members suffer 1 fatigue. All party members suffer 2 fatigue, then tension resets to zero. FORTUNE POOL: 0 perform manoeuvres during encounter mode. REPUTATION</p>"
+  },
+  "_text_fixed_by_llm": true
+}

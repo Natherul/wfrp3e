@@ -1,0 +1,82 @@
+{
+  "name": "Shallyas Mercy",
+  "type": "action",
+  "_id": "Qm7xcTxgU9bIXnoo",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 1 favour immediately</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>4 favour your behalf ; : Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 1</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The blessing is invoked.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and adjust your stance 1 space</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 1 favour immediately</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>1 favour Effect: Shallya intercedes on your behalf. While this card is recharging, your soak value is increased by 2</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

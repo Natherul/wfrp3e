@@ -1,0 +1,85 @@
+{
+  "name": "Jeer n Jab",
+  "type": "action",
+  "_id": "sKKbBL9QF3uxVsmX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The goblin attacks simultaneously with his weapon and cruel laughter and mocking words (thoroughly corrupted by the strange goblin dialect). The target is struck for normal damage, and suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>4{Dc}4{Dc}4{Dc} The attack inflicts normal damage, the target suffers fatigue and stress equal to the number of critical wounds he is currently suffering</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately perform a manoeuvre after the attacker completes this action</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>greenskins in this engagement suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Yer iz bof stoopid ugly, tell & target an SO 'im! Also, poke him wif stiks an' sharp fings. The target is struck for normal damage, and & suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>Jus' like before, only better, wif +2 damage an' +1 critical!</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>b Av, made th' ugly git cry! Yajab 'im ya for extra damage equal to the amount of stress he currently suffers from</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately perform a manoeuvre after you complete this action, pro'lly ta run home ta cry</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Uh oh, now 'e’s angry! Th' target gets +2 damage on his next attack against you i</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Wheeling Strike",
+  "type": "action",
+  "_id": "Bb4rwwd4ZoUwSseY",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>strangely, looking to unbalance before striking for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>M4 The target is struck for normal</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Cult of the Broken Wheel Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>weave, sway, and twist strangely, unbalance foe before striking for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target is struck for +3 damage and suffers 1 stress {Dc} Exposed</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers the condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: engaged with the target If an ally is target, ignore the difficulty modifier</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

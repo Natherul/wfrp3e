@@ -1,0 +1,67 @@
+{
+  "name": "Consuming Flames",
+  "type": "action",
+  "_id": "8jnnjjQoxbkgj7Tw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>-1’ - 4 power, target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>A Flames target body. The target suffers for 1 + Int damage that ignore armour soak. +1 critical</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, + 2 damage, +1 critical. Lose 1 after casting the spell power</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+ 4 power, target within medium range. If you are engaged with an enemy, add {Dm} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Flames target body. The target suffers for 1 + Int damage that ignore armour soak.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 2 + Int damage instead</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but 4 + Int damage instead. +1 damage, +1 critical</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

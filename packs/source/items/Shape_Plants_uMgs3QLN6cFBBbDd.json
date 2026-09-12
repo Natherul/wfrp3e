@@ -1,0 +1,69 @@
+{
+  "name": "Shape Plants",
+  "type": "action",
+  "_id": "uMgs3QLN6cFBBbDd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You bend the Ghyran flowing through living plants you touch, which allows you to change their shape to suit your purposes. You can mould the fibrous and woody plant materials into tools, barriers, or any other shape that suits your purpose, provided it could be constructed entirely out of plant materials on-hand and doesn't include moving parts</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 item made by this spell is of superior quality</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Any items made by this spell are of poor quality. This spell takes a number of additional actions to cast equal to the number of items created.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2c",
+      "requirements": "<p>S power. Must be able to touch every plant affected by this spell over the course of casting it; this may require an extended period of time</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You bend the Ghyran flowing through living plants you touch, which allows you to change their shape to suit your purposes. You can mould the fibrous and woody plant materials into tools, barriers, or any other shape that suits your purpose, provided it could be constructed entirely out of plant materials on-hand and doesn't include moving parts</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 item made by this spell is of superior quality</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Any items made by this spell are of poor quality. Suffer 1 stress or 1 fatigue (your choice) generated.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>S power. Must be able to touch every plant affected by this spell over the course of casting it; this may require an extended period of time</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

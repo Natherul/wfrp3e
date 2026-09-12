@@ -1,0 +1,62 @@
+{
+  "name": "Berzerker Rage",
+  "type": "action",
+  "_id": "aT5hNGqXqC0N2HzS",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Immediately adjust space deep in Reckless</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You enter a rage as described above</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM As above, and you may adjust your stance 1 space deeper into Reckless</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While this card is recharging, your Strength and Toughness characteristics are treated as 1 higher for any checks you make using them</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 When this card recharges, suffer 2 fatigue</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Effect: While this card is recharging, your boundless rage explodes! Your Melee Attacks deal bonus damage equal to your B{Dc} depth in the Reckless stance, but your Defence is reduced by 1</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

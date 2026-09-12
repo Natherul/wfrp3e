@@ -1,0 +1,58 @@
+{
+  "name": "Feeding Frenzy",
+  "type": "action",
+  "_id": "aHwmsN1MqcT1sXRx",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage. The attack has Pierce 2</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +1 critical. In addition, your head latches on with needle teeth, and the target gains the Entangled condition for a number of rounds equal to the critical wound's severity until you suffer a wound yourself</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>3{Dm} You suffer 1 critical wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>¥{Dc} You may hit a second engaged target for normal damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1f",
+      "requirements": "<p>Engaged with target, must end of Turn Phase, if he is still Entangled by you as described below, he suffers 1 wound</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Black Nimbus of Arnizipal",
+  "type": "action",
+  "_id": "xiLyHfwpyRUgGx5N",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell, and the hardens increasing your soak value by {Dc} while this spell is recharging</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M When you suffer a critical wound with a severity no greater than the recharge tokens on this spell, you may completely recharge this spell to convert the critical wound to a normal wound</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Weapon attacks that target you have their critical value reduced by 1 while the spell is recharging</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>that target you add {Dc} to their dice pools</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "2c 1b",
+      "requirements": "<p>S power Effect: A nimbus of black smoke surrounds you. While this spell recharges, Melee Attack, Ranged Attack, Spell, and Blessing actions</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell and the malevolent energies cause all enemies within medium range to suffer 1 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>When you suffer a critical wound with a severity no greater than the recharge tokens on this spell, you may completely recharge this spell to convert the critical wound to a normal wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All actions modified by this spell gain {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound as a potential result</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>that target you add {Dc} to their dice pools</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "2c 1b",
+      "requirements": "<p>S power Effect: A nimbus of black smoke surrounds you. While this spell recharges, Melee Attack, Ranged Attack, Spell, and Blessing actions</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

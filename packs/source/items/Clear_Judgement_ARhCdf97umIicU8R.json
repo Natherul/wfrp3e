@@ -1,0 +1,72 @@
+{
+  "name": "Clear Judgement",
+  "type": "action",
+  "_id": "ARhCdf97umIicU8R",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Requires S favour, target within close range. If the target is not a willing subject, add € to the dice pool effect. Verena clears the target's mind of distractions and wrong thinking. While this blessing is recharging, the subject ignores any penalties to mental skill checks caused by an insanity, condition, or spell.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may affect an additional target within close range.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may affect an additional target within close range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>Suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c",
+      "requirements": "<p>Target within close range. If the target is not a willing subject, add € to the dice pool. Effect: Verena clears the target’s mind of distractions and wrong thinking. While this blessing is recharging, the subject may ignore any penalties to mental skill checks caused by an insanity, condition, or spell.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

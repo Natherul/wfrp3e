@@ -1,0 +1,10 @@
+{
+  "name": "Chaos Knight",
+  "type": "ability",
+  "_id": "yZk4w4am5cVdKip5",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Fear 2, Master of Warfare Swift: While ahorse, may perform a free move manoeuvre each turn Mounted: Gains {De} to Melee Attacks; opponents add {Dm} to Attacks unless armed with spear or similar weapon AGGRESSION CUNNING 6</p>"
+  },
+  "_text_fixed_by_llm": true
+}

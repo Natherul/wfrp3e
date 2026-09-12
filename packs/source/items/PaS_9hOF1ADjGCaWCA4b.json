@@ -1,0 +1,109 @@
+{
+  "name": "PaS",
+  "type": "action",
+  "_id": "9hOF1ADjGCaWCA4b",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Perform the action as intended</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Perform the action incredibly well and may perform a free manoeuvre</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, recover 1 fatigue. If the check relied on a mental</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, recover 1 fatigue. If the check relied on a mental characteristic, recover 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>way, or to attempt a dramatic specific action card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>specific action card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, suffer 1 fatigue. If the check relied on a mental characteristic, suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: Use this action to apply a skill in</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Perform the action as intended</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Perform the action incredibly well and may perform a free manoeuvre</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, recover 1 fatigue. If the check relied on a mental</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, recover 1 fatigue. If the check relied on a mental characteristic, recover 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>way, or to attempt a dramatic specific action card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>specific action card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the check relied on a physical characteristic, suffer 1 fatigue. If the check relied on a mental characteristic, suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: Use this action to apply a skill in</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

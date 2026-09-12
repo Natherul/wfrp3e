@@ -1,0 +1,10 @@
+{
+  "name": "Magical Fury",
+  "type": "miscast",
+  "_id": "UBJlPADME7ydlO5V",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Horrible, screeching voices! Suffer 1 stress, suffer 1 fatigue, and lose all power.</p> As above, and suffer 1 wound. As both previous effects, and immediately draw 1 insanity card as a permanent insanity."
+  },
+  "_text_fixed_by_llm": true
+}

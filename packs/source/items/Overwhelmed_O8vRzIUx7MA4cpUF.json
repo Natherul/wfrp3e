@@ -1,0 +1,10 @@
+{
+  "name": "Overwhelmed",
+  "type": "condition",
+  "_id": "O8vRzIUx7MA4cpUF",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>BRIEF EFFECT</p> Add {Dc} to checks based on physical characteristics"
+  },
+  "_text_fixed_by_llm": true
+}

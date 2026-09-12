@@ -1,0 +1,87 @@
+{
+  "name": "Judgement of Vengeance",
+  "type": "action",
+  "_id": "GxcDGHvY0IqGuj0j",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 You hit for normal damage, plus bonus damage equal to the highest severity wounds you suffer from</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Suffering a critical wound, melee weapon equipped, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 You hit for normal damage, plus bonus damage equal to the severity amongst insanities you suffer from</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You and your allies within close range may recover an amount of fatigue equal to the highest severity amongst insanities you suffer from, divided as you choose</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+ While this card recharges, everyone with you suffers from your insanity k4</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage, +2 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2b",
+      "requirements": "<p>Suffering an insanity, melee weapon equipped, engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

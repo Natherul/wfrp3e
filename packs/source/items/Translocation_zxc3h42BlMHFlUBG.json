@@ -1,0 +1,82 @@
+{
+  "name": "Translocation",
+  "type": "action",
+  "_id": "zxc3h42BlMHFlUBG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power You successfully cast the spell. Place 1 recharge token on this card</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>4 power As above, but 4 recharge tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>You may attempt to teleport enemies as well. Each time you do, you must pass an opposed Discipline (WP) vs. Discipline (WP) check to teleport an engaged enemy; if you fail the check, the recharge token and manoeuvre are wasted</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 1b",
+      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport yourself or your allies across vast distances. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to move yourself or an ally engaged with you to a Location card in play or any</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power You successfully cast the spell. Place 3 recharge tokens on this card</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>4 power As above, but 4 recharge tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>You may teleport yourself or your allies as well</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power One enemy (GM's choice) within long range teleports to become immediately engaged with you</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>7 power Effect: You call upon your dark magic to teleport enemies around the battlefield. This action does not recharge normally. Instead, as a manoeuvre you may discard 1 recharge token from this card to immediately move an enemy up to 2 range increments from his current position</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

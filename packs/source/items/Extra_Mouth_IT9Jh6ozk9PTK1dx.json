@@ -1,0 +1,10 @@
+{
+  "name": "Extra Mouth",
+  "type": "mutation",
+  "_id": "IT9Jh6ozk9PTK1dx",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Add ’ to all checks to interact with people who can see your mutation. A second mouth leers from somewhere on your body. You can speak (maybe) and eat through your new mouth, but you're not certain where the food goes.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

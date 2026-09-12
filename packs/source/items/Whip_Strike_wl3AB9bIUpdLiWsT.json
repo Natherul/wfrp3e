@@ -1,0 +1,93 @@
+{
+  "name": "Whip Strike",
+  "type": "action",
+  "_id": "wl3AB9bIUpdLiWsT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Damage 4 You hit for normal</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and the target gains the Cowed condition for three rounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target gains the Entangled condition until freed. You may not use this action again whilst target is Entangled. You may release the target at any time, or the target (or an ally) can free himself with Average (2d10) Athletics or Coordination check as an action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may force the target to drop an item in either hand</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your attack deals -2 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Whip equipped, not engaged with an enemy, target within close range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Damage 4 You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Damage 5 You hit the target for +1 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +1 damage and he gains the Blinded condition until the end of the act</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You catch your opponent completely off-guard. He may not use reactions to this attack and his shield’s soak value is ignored</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You inflict a wound on an ally within close range (GM’s choice)</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Whip equipped, not engaged with target within close range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

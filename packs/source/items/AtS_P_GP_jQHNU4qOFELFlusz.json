@@ -1,0 +1,195 @@
+{
+  "name": "AtS P GP",
+  "type": "action",
+  "_id": "jQHNU4qOFELFlusz",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Until the start of your next turn, add {Da} to any Melee Attack or Ranged Attack actions</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 fatigue and 1 stress. Until the dice pool recharge token from any of his currently i</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>your cards</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The GM may add 1 recharge token to</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>tokens to this card to add {Da} to the action’s dice. An engaged ally may remove one</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Remove 1 recharge token from one</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>targeting you or any allies in the same</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>engagement as you</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Strength 3+, melee weapon equipped Until the start of your next turn, add {Da} to any Melee Attack or Ranged Attack</p>"
+          },
+          {
+            "symbolAmount": 16,
+            "description": "<p>factions allies the After you have been declared the targeting you or any in</p>"
+          },
+          {
+            "symbolAmount": 12,
+            "description": "<p>target of a Melee Attack, add two recharge same engagement as you</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>start of your next turn, add {Da} to any Melee Special: If you have Weapon Skill rechuvmv cards</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action’s dice Suffer an @ 1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>one of your cards</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "5b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Until the start of your next turn, add {Da} to any Melee Attack or Ranged Attack actions</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 fatigue and 1 stress. Until the dice pool recharge token from any of his currently i</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>your cards</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The GM may add 1 recharge token to</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>tokens to this card to add {Da} to the action’s dice. An engaged ally may remove one</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Remove 1 recharge token from one</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>targeting you or any allies in the same</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>engagement as you</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Strength 3+, melee weapon equipped Until the start of your next turn, add {Da} to any Melee Attack or Ranged Attack</p>"
+          },
+          {
+            "symbolAmount": 16,
+            "description": "<p>factions allies the After you have been declared the targeting you or any in</p>"
+          },
+          {
+            "symbolAmount": 12,
+            "description": "<p>target of a Melee Attack, add two recharge same engagement as you</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>start of your next turn, add {Da} to any Melee Special: If you have Weapon Skill rechuvmv cards</p>"
+          },
+          {
+            "symbolAmount": 6,
+            "description": "<p>Attack or Ranged Attack actions targeting add additional {Da} to the action’s dice Suffer an @ 1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>one of your cards</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "5b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

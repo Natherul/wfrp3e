@@ -1,0 +1,10 @@
+{
+  "name": "Assassins Balde",
+  "type": "trapping",
+  "_id": "fERMhYCXZ38zJIs8",
+  "folder": "2kJ3UuTCfU1dl5JF",
+  "system": {
+    "description": "<p>Critical Damage Rating: 4 Qualities: Pierce | Group: Ordinary Encumbrance: 2 Whenever the attacker critically wounds with the Assassin’s Blade, he may add a number of recharge tokens equal to the wound’s severity rating to the target's actions</p>"
+  },
+  "_text_fixed_by_llm": true
+}

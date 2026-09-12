@@ -1,0 +1,10 @@
+{
+  "name": "Control-Mount-Front-Face",
+  "type": "ability",
+  "_id": "PR69lgYC6eeFj55L",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Mounted, first entering combat, previous failed check, or facing significant new threat: Must spend action if failed previous check. Difficulty is Fear/Terror rating (if higher)</p> M Act normally to end of Act next Rally or unless GM warrants a new Control check. Above, plus add {Dc} to next action or attack 41@@ As above, but suffer {Dm} to this encounter’s Ride checks 3% Lose AND action fighting to keep mount from fleeing. If Fear/Terror mount loses 1 You may also dismount or flee above, but horse will not move 00 As above, but add cumulative {Dm} to future Ride/Handle Animal checks this encounter ¥4+ Rider thrown from horse, landing"
+  },
+  "_text_fixed_by_llm": true
+}

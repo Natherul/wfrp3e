@@ -1,0 +1,10 @@
+{
+  "name": "Minor Disturbance",
+  "type": "miscast",
+  "_id": "5QFeC0J3Sy9umzXm",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Energy cascades out from you. Within close range of you, milk curdles, animals grow tense, and there is an odd, cloying smell in the air. Suffer 1 stress.</p> As above, and all characters within close range of you suffer 1 stress."
+  },
+  "_text_fixed_by_llm": true
+}

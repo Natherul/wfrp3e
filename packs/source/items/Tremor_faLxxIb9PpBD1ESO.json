@@ -1,0 +1,71 @@
+{
+  "name": "Tremor",
+  "type": "action",
+  "_id": "faLxxIb9PpBD1ESO",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cause the ground to suddenly shudder. All creatures within close range must succeed on an Average (2{Dc}) Coordination (Ag) check or gain the Prone condition.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the test becomes Hard (3{Dc}). While this card recharges, all affected creatures gain the Sluggish condition U. While this card is recharging, all affected creatures gain the Entangled condition.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may exclude up to 2 targets from the spell. 1 fatigue.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cause the ground to suddenly shudder. All creatures within close range suffer a stroke for 2 + Int damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 4 + Int damage instead. Creatures within range gain the Sluggish condition until the spell recharges. You may exclude up to 2 creatures from the effects of the spell. Suffer 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "",
+      "requirements": "<p>Special: Treat this spell as an attack with the Blast quality.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

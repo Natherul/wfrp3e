@@ -1,0 +1,67 @@
+{
+  "name": "Warp Reality",
+  "type": "action",
+  "_id": "y5Qzd3q9qmDIYo44",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Reality twists itself into a form more suitable to the whim of Tzeentch. While this spell is recharging, you and all servants of Tzeentch add {Df} to your dice pool for all actions.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 enemy within close range suffers 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Reality twists itself into a form more suitable to the whim of Tzeentch. While this spell is recharging, you and all servants of Tzeentch add {Df} to your dice pool for all actions.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>An enemy within close range suffers 1 wound.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue and 1 stress. Add 2 {Dc} to an enemy's action within close range suffers 1.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

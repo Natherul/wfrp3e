@@ -1,0 +1,109 @@
+{
+  "name": "Wrath of Uzuhl",
+  "type": "action",
+  "_id": "1J1SIbRzyu2iMeB6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You unleash the Daemon within the blade. You hit for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you may choose up to 1 additional target in engagement. You hit each of these targets for -2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage to each target.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 wound.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain the Staggered condition for 4 rounds.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>One ally in your engagement is struck for -2 damage. If there is no ally engaged with you, you suffer 2 wounds.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target suffers +1 critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c 1f 1b",
+      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able. You must target the highest Defence among your engagement.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You unleash the Daemon within the blade, hitting every character engaged with you for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but +2 damage instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage to each target.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each target suffers 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 wound.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Staggered condition for 2 rounds.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 2 wounds and add 2 recharge tokens to one other recharging action.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target suffers +1 critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1f 1b",
+      "requirements": "<p>Equipped with the Slayer of Kings, engaged with target(s). Special: You must use Wrath of U'zuhl if able.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

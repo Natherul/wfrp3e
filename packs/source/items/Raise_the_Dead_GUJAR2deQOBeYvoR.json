@@ -1,0 +1,88 @@
+{
+  "name": "Raise the Dead",
+  "type": "action",
+  "_id": "GUJAR2deQOBeYvoR",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You raise one undead creature.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You raise two creatures.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You raise three creatures.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One more creature is raised.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All raised undead get an immediate free manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The effect extends to long range.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Corpses within range. Add to your dice pool if you are engaged with an enemy. You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You raise the dead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All raised undead get an immediate free manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The effect extends to long range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound &</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Corpses within range. Add {Dm} to your dice pool if you are engaged with an enemy. Effect: You call the dead forth to serve you. Recently deceased within medium range become zombies. The long-dead, skeletons. For each success and each boon you can raise one undead creature.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

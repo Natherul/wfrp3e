@@ -1,0 +1,79 @@
+{
+  "name": "Path of the Autumn Wind",
+  "type": "action",
+  "_id": "QPkoC2tNJwlygBOM",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for normal damage. Each time a recharge token is removed from this card, you may remove 1 recharge token from one of your Active Defences.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may remove a recharge token from this card after resolving this action.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may add 2 recharge tokens to any of your Way of the Sword cards currently recharging (including this one).</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for normal damage. Each time a token is removed from this card, you may remove 1 recharge token from one of your Active Defences.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may remove a recharge token from this card after resolving this action.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may add 2 recharge tokens to any of your Way of the Sword cards currently recharging (including this one).</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Sword or greatsword equipped, engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

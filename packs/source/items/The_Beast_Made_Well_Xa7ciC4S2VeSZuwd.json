@@ -1,0 +1,83 @@
+{
+  "name": "The Beast Made Well",
+  "type": "action",
+  "_id": "Xa7ciC4S2VeSZuwd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>to recover 1 normal wound</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but the target recovers 2 \"</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>SPELLCRAFT (INT) vs. TARGET INJURY LEVEL 4 {Dc}, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Ghur flows through the target, allowing it to recover 1 normal wound</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target recovers 1 normal wound or critical wound with a severity of 3 or less</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>¥ You suffer 2 wounds</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>power, engaged with target, which must be a natural beast. If engaged with an enemy, add {Dm} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

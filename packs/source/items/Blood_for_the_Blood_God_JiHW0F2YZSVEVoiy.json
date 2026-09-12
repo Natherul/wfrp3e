@@ -1,0 +1,94 @@
+{
+  "name": "Blood for the Blood God",
+  "type": "action",
+  "_id": "JiHW0F2YZSVEVoiy",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Uttering a foul oath as you attack, deal +4 damage to the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>{De} The attack hits for +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Da} Perform a manoeuvre for free</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal 2 critical wounds; choose 1 to apply and apply the other facedown as a normal wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Melee weapon equipped, engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Melee weapon equipped, engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Uttering a foul oath as you attack, you hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, + damage equal to the highest severity amongst critical wounds the target is suffering from</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Da} Perform a manoeuvre for free</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm} Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Deal 2 critical wounds; choose 1 to apply and apply the other facedown as a normal wound</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

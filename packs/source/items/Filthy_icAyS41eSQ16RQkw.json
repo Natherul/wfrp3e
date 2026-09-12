@@ -1,0 +1,10 @@
+{
+  "name": "Filthy",
+  "type": "condition",
+  "_id": "icAyS41eSQ16RQkw",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Until you can thoroughly clean yourself, you suffer -1 to Fellowship and Social checks and -1 to all</p>"
+  },
+  "_text_fixed_by_llm": true
+}

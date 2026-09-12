@@ -1,0 +1,10 @@
+{
+  "name": "Mirror Self",
+  "type": "miscast",
+  "_id": "UvBlp8OeApG6m1d7",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Long range immediately move to their current stance depth in the opposite stance. If they cannot, because their stance meter is not long enough, they suffer 1 stress per space on the stance meter they cannot move.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

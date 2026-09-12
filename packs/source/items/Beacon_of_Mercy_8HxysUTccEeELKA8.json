@@ -1,0 +1,102 @@
+{
+  "name": "Beacon of Mercy",
+  "type": "action",
+  "_id": "8HxysUTccEeELKA8",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Creatures near you recover 1 normal wound.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Creatures near you recover 2 normal wounds.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>Creatures near you recover 4 normal wounds.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The effect extends out to medium range.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>The effect extends out to long range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This blessing affects only allies.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour. You must perform the prepare manoeuvre to invoke this blessing, and must stand in place until the blessing is resolved (see below). If you move between when the blessing is invoked and when it is resolved, you immediately abort the blessing. Effect: A gentle glow emanates from you and heals all those it touches. You are not affected by this blessing, but other living creatures within close range are affected as described below.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Creatures near you recover 1 normal wound.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Creatures near you recover 2 normal wounds.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>Creatures near you recover 4 normal wounds.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The effect extends out to medium range.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>The effect extends out to long range.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This blessing affects only allies. Suffer 1 wound.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "3c",
+      "requirements": "<p>8 favour. You must perform the prepare manoeuvre to invoke this blessing, and must stand in place until the blessing is resolved (see below). Special: If you move between when this blessing is invoked and when it is resolved, you immediately abort the blessing. Effect: A gentle glow emanates from you and heals all those it touches. You are not affected by this blessing, but other living creatures within close range are affected as described below.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

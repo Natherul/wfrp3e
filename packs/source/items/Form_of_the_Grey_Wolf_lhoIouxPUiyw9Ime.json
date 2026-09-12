@@ -1,0 +1,49 @@
+{
+  "name": "Form of the Grey Wolf",
+  "type": "action",
+  "_id": "lhoIouxPUiyw9Ime",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You assume the form of a wolf. Place the Grey Wolf Beastform card on your character sheet. You can only use the physical characteristics and skills shown on the card. While in beastform, you can only use spells with the Beastform trait. You can resume human form when you are knocked unconscious or killed, or when the act ends or you voluntarily end the spell as a manoeuvre. In any case, recharge until the end of the act.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may heal 1 normal wound as you change form.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your animal instincts take over. You add {Dm} to all mental checks except Observation and Intuition while in beastform.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>7 power, must perform the prepare manoeuvre</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

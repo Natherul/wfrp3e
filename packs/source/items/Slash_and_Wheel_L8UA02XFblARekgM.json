@@ -1,0 +1,98 @@
+{
+  "name": "Slash and Wheel",
+  "type": "action",
+  "_id": "L8UA02XFblARekgM",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Mounted, melee weapon equipped, engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You slash at your enemy, hitting him for normal damage [Dc]</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>but your steed’s sudden wheel also knocks him prone and you or your steed gains a free manoeuvre [Dc]</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+2 damage [Df]</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: Add M to your dice pool for every additional enemy you are engaged with [Dm]</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this card [Dm]</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your mount recovers 1 wind [Df]</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 25,
+      "difficulty": "1b",
+      "requirements": "<p>Mounted, melee weapon equipped, engage with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

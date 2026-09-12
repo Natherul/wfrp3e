@@ -1,0 +1,11 @@
+{
+  "name": "Deep Wound I 5",
+  "type": "criticalWound",
+  "_id": "djb1x8dQGfzpM6Ug",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>This wound has no special effect aside from its severity</p>",
+    "severityRating": 5
+  },
+  "_text_fixed_by_llm": true
+}

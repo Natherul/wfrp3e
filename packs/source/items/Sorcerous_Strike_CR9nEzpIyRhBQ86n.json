@@ -1,0 +1,77 @@
+{
+  "name": "Sorcerous Strike",
+  "type": "action",
+  "_id": "CR9nEzpIyRhBQ86n",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain 1 power</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>{Dc} The target is struck for +1 damage and loses 2 power; you gain 2 power</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target, able to channel and store power</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dr} The Enigmatic Disciple strikes out with its staff, arcane focus, or sorcerous claws. The target is struck for normal damage and loses 1 power</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target is struck for +2 damage and loses 2 power</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The GM adds 1 recharge token to one of the target’s actions</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Enigmatic Disciples engaged with target, attacker is within close range of a character with S or more power, reduce the difficulty modifier by {Df}</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

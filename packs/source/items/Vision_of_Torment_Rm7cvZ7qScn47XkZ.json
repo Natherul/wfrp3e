@@ -1,0 +1,73 @@
+{
+  "name": "Vision of Torment",
+  "type": "action",
+  "_id": "Rm7cvZ7qScn47XkZ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>5 power, Target within medium range</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cause hellish visions to your target who gains the Rattled condition until this spell recharges.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and your target suffers 2 stress and gains the Frightened condition until this spell recharges.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains a temporary Insanity with the Chaos, Supernatural or Trauma traits. Check 1 at the end of the encounter to see if it becomes permanent.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 power, You cause hellish visions to your target who suffers 2 stress.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and your target gains the Rattled condition until this spell recharges. Your target suffers 1 stress and gains the Frightened condition while this spell recharges.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains a temporary Insanity with the Chaos, Supernatural or Trauma traits. Check 1 at the end of the encounter to see if it becomes permanent.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

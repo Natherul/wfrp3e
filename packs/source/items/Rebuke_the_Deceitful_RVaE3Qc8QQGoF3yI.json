@@ -1,0 +1,29 @@
+{
+  "name": "Rebuke the Deceitful",
+  "type": "action",
+  "_id": "RVaE3Qc8QQGoF3yI",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 favour. You must be in a region under the rule of law (at least nominally). Special: When you believe that you have been lied to, stolen from, are the victim of a Guile or Skulduggery check, or have otherwise been wronged in the eyes of the law, you may spend 3 favour and add 6 {Dc} to this card to rebuke the deceitful and the lawbreaker. This must be attempted before more than an hour has passed since the transgression. If you were correct, your suspicions are confirmed. If the perpetrator is within long range of you, he suffers 1 stress and 1 fatigue. If you were incorrect, you suffer 1 stress and 1 fatigue and may not invoke any Verena blessings until this card recharges.</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

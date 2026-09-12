@@ -1,0 +1,10 @@
+{
+  "name": "Arisen Zombies",
+  "type": "ability",
+  "_id": "Ozal9pXXK51NbQe4",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Fear (1/2), Night Vision, Decaying, Henchmen (#) Shambling: Cannot voluntarily suffer fatigue (or wounds) for extra movement unless controlling force within long range. That force may suffer stress to grant additional manoeuvres. AGGRESSION CUNNING</p>"
+  },
+  "_text_fixed_by_llm": true
+}

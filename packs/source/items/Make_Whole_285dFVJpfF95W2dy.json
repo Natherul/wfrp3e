@@ -1,0 +1,52 @@
+{
+  "name": "Make Whole",
+  "type": "action",
+  "_id": "285dFVJpfF95W2dy",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You point a finger at a non-living, inanimate object of Poor or Average quality &8 - or that is currently in bad shape or suffering from the Damaged condition. The item is repaired to working order, or the Damaged condition is removed</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and a Superior item may be ® affected</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 Suffer 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 All small plants within close range wither and die. Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>¢ An item of the GM's choosing within close range also gains the Damaged condition or may be destroyed</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 Power, target within close range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Talents - Reputation",
+  "type": "Item",
+  "_id": "I6SS4Peqcj8NycTO",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "wfrp3e",
+    "systemVersion": "1.0.0",
+    "coreVersion": "11.315"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Daemon Prince of Khorne",
+  "type": "ability",
+  "_id": "5ElfTEHmcrfh86KA",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Terror 3 Unfathomable Power: Checks targeting this creature gain Warrior Surge: When Daemon Prince inflicts a critical wound, gain one {Df} to dice budget Potent Foe: 2 ranks training in Athletics, Discipline, Resilience, and Weapon Skill AGGRESSION CUNNING EXPERTISE 8 6 S</p>"
+  },
+  "_text_fixed_by_llm": true
+}

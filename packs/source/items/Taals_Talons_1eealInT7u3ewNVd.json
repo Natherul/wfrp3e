@@ -1,0 +1,65 @@
+{
+  "name": "Taals Talons",
+  "type": "action",
+  "_id": "1eealInT7u3ewNVd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Nature revolts against your foes! Animals and plants alike assault them. All enemies within close range suffer 8 + WP damage</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, +Fel damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A +{Dm} damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Enemies in close range suffer 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+ Suffer 1 critical wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Affected creatures with Toughness 3 or less are killed</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

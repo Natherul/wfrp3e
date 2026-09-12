@@ -1,0 +1,97 @@
+{
+  "name": "Gut Instinct",
+  "type": "action",
+  "_id": "wWycyiIcwXpL2Hot",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You get a hunch that you might be in danger. If there is a threat to your health or freedom somewhere within medium range (such as a hidden enemy, trap, or patrolling guard) you know that you're in danger.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you identify the single most dangerous threat within medium range (as determined by the GM).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The blessing works out to long range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress per danger.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Danger is everywhere! Gain the Cowed condition until all dangers are removed.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain an insight into the dangers, including how many there are, and receive {Df} to your first check to deal with each (including initiative checks).</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>7 favour, not currently engaged in combat</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You get a hunch that you might be in danger. If there is a threat to your health or freedom somewhere within medium range (such as a hidden enemy, trap, or patrolling guard) you know that you're in danger.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and identify the single most dangerous threat within medium range (as determined by the GM).</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The blessing works out to long range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Danger is everywhere! Gain the Rattled condition until all dangers are removed.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You're ready for anything! Gain the Inspired condition until you fail a check or suffer a wound.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "3c",
+      "requirements": "<p>7 favour, not currently engaged in combat</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

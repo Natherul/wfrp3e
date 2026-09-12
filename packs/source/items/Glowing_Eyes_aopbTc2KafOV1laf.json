@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Eyes",
+  "type": "mutation",
+  "_id": "aopbTc2KafOV1laf",
+  "folder": "e5j6kQTmQhtfkpVB",
+  "system": {
+    "description": "<p>Gain {Df} to Observation checks. Negate {Dm} from checks based on dark conditions or lack of light. Add to all checks to interact with people who can see your mutation. Your eyes glow with an unholy light.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

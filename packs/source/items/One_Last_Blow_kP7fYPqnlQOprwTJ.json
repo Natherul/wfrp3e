@@ -1,0 +1,96 @@
+{
+  "name": "One Last Blow",
+  "type": "action",
+  "_id": "kP7fYPqnlQOprwTJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit the target for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +X damage, where X is equal to the severity of the critical wound</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 critical %</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer X fatigue</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>B Reveal critical wounds from the deck until you reveal one with severity X or greater. Apply that critical to the target; discard the rest</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>must have just received a critical wound due to the target’s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound just inflicted</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You hit the target for +X damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the attack gains Pierce +X</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer X fatigue</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Reveal critical wounds from the deck until you reveal one with severity X or greater. Apply that critical to the target; discard the rest</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "3b",
+      "requirements": "<p>Melee weapon equipped, engaged with target, must have just received a critical wound due to the target’s attack (even if that attack KO'd you) Special: X is equal to the severity of the critical wound</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

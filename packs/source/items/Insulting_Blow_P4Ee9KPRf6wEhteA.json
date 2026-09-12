@@ -1,0 +1,86 @@
+{
+  "name": "Insulting Blow",
+  "type": "action",
+  "_id": "P4Ee9KPRf6wEhteA",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for -1 damage % A</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, plus make vs. Discipline (WP). If you succeed, +3 damage and the target gains the Rattled condition for 3 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target than Strength, If you have to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit for -1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, plus make a Guile (Fel) check vs. Discipline (WP). If you succeed, +3 damage and the target gains the Rattled condition for 3 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may use Fellowship rather than Strength to determine your damage</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Dagger, hand weapon, or fencing weapon equipped, engaged with target Special: This attack uses Fellowship rather than Strength. If you have Guile trained, add {De} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

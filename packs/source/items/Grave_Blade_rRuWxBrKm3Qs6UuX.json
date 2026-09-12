@@ -1,0 +1,89 @@
+{
+  "name": "Grave Blade",
+  "type": "action",
+  "_id": "rRuWxBrKm3Qs6UuX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A ferocious attack with an ancient and deadly blade, the sword has trailing wisps of foul, dark crackling about it. The energy attack hits for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack hits for +2 damage and the target suffers 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "",
+      "requirements": "<p>Special: If the target is not engaged with the attacker, add {Dc} to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You attack with your ancient and eldritch blade, hitting for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +2 damage and the target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, +3 damage, +1 critical, and the target suffers 1 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 2 wounds</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Special: If the target is not engaged with the attacker, add {Dm} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

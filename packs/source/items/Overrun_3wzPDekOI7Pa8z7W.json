@@ -1,0 +1,99 @@
+{
+  "name": "Overrun",
+  "type": "action",
+  "_id": "3wzPDekOI7Pa8z7W",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You use your sheer bulk in an effort to overwhelm your foes. The attack inflicts normal damage to the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +1 damage and you may target an additional target in the same engagement</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all affected targets gain the Overwhelmed condition for two rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All enemies in the target’s engagement are knocked prone, unless they suffer 1 fatigue to remain on their feet</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may perform a free manoeuvre</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Not engaged with target, target within medium range, must be able to fly. Special: You may move to a new location within medium range as part of this attack</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The daemonic creature uses its sheer bulk in an effort to overwhelm its foes. The attack inflicts normal damage to the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts normal damage to up to two additional targets in the same engagement as the primary target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all affected targets gain the Overwhelmed condition for two rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All enemies in the target’s engagement are knocked prone, unless they suffer 1 fatigue to remain on their feet</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Not engaged with target, target within medium range. Special: The daemon may move to a new location within medium range as part of this attack</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

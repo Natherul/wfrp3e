@@ -1,0 +1,100 @@
+{
+  "name": "Ride Down",
+  "type": "action",
+  "_id": "Mbl4eXPSkJseQRg2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># All enemies in the engagement suffer 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>§ All enemies in the engagement suffer 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>2% Your mount loses 1 wind</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>of You fall off your mount in the middle of the target’s engagement</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit for normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and you enemy in the same engagement for the same damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All enemies in the target’s engagement suffer 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>B2 Your mount loses 1 wind</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>% Make an Average (2{Dc}) Ride (Ag) check or fall off your mount</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ You may use your mount’s Strength rather than your own to determine damage for this attack</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Mounted, melee weapon equipped, target within close range, not currently engaged with an enemy Special: As part of this action, you move through the target’s engagement and end somewhere within close range of that engagement</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

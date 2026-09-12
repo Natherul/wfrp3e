@@ -1,0 +1,11 @@
+{
+  "name": "Mortal Wound I 4",
+  "type": "criticalWound",
+  "_id": "CHSSANnB1r1coq4E",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>You may not recover from any other critical wounds while you are affected by this critical wound.</p>",
+    "severityRating": 4
+  },
+  "_text_fixed_by_llm": true
+}

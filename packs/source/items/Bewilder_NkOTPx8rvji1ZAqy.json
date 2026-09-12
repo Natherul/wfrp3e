@@ -1,0 +1,82 @@
+{
+  "name": "Bewilder",
+  "type": "action",
+  "_id": "NkOTPx8rvji1ZAqy",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The grey wind clouds the target’s mind. He gains the Perplexed condition for 3 rounds &</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but for 5 rounds instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress as he loses track of himself and his surroundings [Df]</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress [Dm]</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>4 power, target within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The grey wind clouds the target’s mind. He gains the Overwhelmed condition for 2 rounds [Dc]</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but for 5 rounds instead [Dc]</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may spend 2 additional power to affect 1 additional enemy in the same engagement [Df]</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress [Dm]</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain the Perplexed condition for 1 round as the grey wind clouds your mind, too! [Dr]</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "2b",
+      "requirements": "<p>4 power, target within medium range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

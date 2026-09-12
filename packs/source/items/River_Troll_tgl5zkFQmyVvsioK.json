@@ -1,0 +1,10 @@
+{
+  "name": "River Troll",
+  "type": "ability",
+  "_id": "tgl5zkFQmyVvsioK",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Fear 2, Swift Regeneration: Recovers one normal wound in End of Turn phase, except during the round in which it was harmed by fire. AGGRESSION CUNNING EXPERTISE S [Df] 2</p>"
+  },
+  "_text_fixed_by_llm": true
+}

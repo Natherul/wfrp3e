@@ -1,0 +1,84 @@
+{
+  "name": "Chaos Incarnate",
+  "type": "action",
+  "_id": "YSn6x3RdVHvBwWEH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 The Chaotic nature of the daemons begins to warp reality around it, creating panic in nearby targets, making the daemon more difficult to oppose. While this action is recharging, all enemies engaged with the daemon add {Dm} to their skill checks</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>4 While this action is recharging, all enemies within close range of the daemon add {Dm} to their skill checks</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>While this action is recharging, all enemies within close range of the daemon add {Dm} {Dm} to their skill checks</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>n.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3+ The daemon and all targets engaged with it suffer the Weakened condition while this action is recharging</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Daemons</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A Your Chaotic nature begins to warp reality around you, creating panic in nearby targets, making you more difficult to oppose. While this action is recharging, all enemies engaged with you add {Dm} to their skill checks</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>B 4 While this action is recharging, all enemies within close range of you add {Dm} to their skill checks</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>C As above, and all enemies within close range suffer 1 fatigue and 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Add 1 additional recharge token to this action</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all targets engaged with you gain the Sluggish condition for 2 rounds</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Stream of Corruption",
+  "type": "action",
+  "_id": "lo0oQDvQDgWwNHHG",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You vomit a stream of maggots, bile, and other filth all over the target engagement. All creatures in that engagement are hit for &To + WP damage, ignoring the soak value of armour.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, +2 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each character that suffers at least one wound from this attack must make a Disease 2 check.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target gains 1 corruption.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. This check is the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dc} to the dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You vomit a stream of maggots, bile, and other filth all over the target engagement. All creatures in that engagement are hit for &To WP damage, ignoring the soak value of armour.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, +4 damage.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each character that suffers 1 wound from this attack must make a Disease 2 check.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Each target gains 1 corruption.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1b",
+      "requirements": "<p>7 power, target engagement within close range. Your mouth must be uncovered. 3 Special: This is opposed by the highest Toughness in the target engagement. Each creature in the engagement with Resilience trained adds {Dm} to the dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

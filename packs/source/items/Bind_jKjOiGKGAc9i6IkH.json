@@ -1,0 +1,91 @@
+{
+  "name": "Bind",
+  "type": "action",
+  "_id": "jKjOiGKGAc9i6IkH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>6 power, target within medium range Effect: You call up an invisible magical force to bind an opponent’s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but add {Dc} to the opposed check difficulty</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add {Dm} to the opposed check difficulty Target gains {Df} to the opposed checks difficulty</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Some dark magic backfires while this spell is to you, rolls er @ casting</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>6 power, target within medium range Effect: You call an invisible magical force to bind an opponent’s limbs, causing him to drop whatever was held and immobilizing him. Each round the target may try, as an action, an opposed Athletics (St) vs Spellcraft (Int) check to break the bindings.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but add {Dr} to the opposed check difficulty</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add {Dm} to the opposed check difficulty Target gains {Df} to the opposed checks difficulty</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Some dark magic backfires to you, while this spell is er @ to all casting rolls</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

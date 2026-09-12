@@ -1,0 +1,63 @@
+{
+  "name": "Doppleganger",
+  "type": "action",
+  "_id": "4DjtB4HTJ9ae3QJ4",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You assume the appearance of another humanoid creature, at least as large as a goblin but no larger than an orc. This change in form is only an illusion, and does not confer any change to characteristics or equipment. Anyone passing an (Int) check opposed by your Spellcraft (Int) sees through the disguise. This spell lasts until the end of the encounter or until you dismiss it, at which point it recharges</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power. If you are trained in Skulduggery, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You assume the appearance of another humanoid creature, at least as large as a goblin but no larger than an orc. This change in form is only an illusion, and does not confer any change to characteristics or equipment. Anyone passing an Observation (Int) check opposed by your Spellcraft (Int) sees through the disguise. This spell lasts until the end of the encounter or until you dismiss it, at which point it recharges</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your disguise contains some sort of subtle but profound flaw, such as an odd number of fingers or clothing that on closer inspection is merely fancifully-coloured nude skin. You cannot dismiss it until the end of the current encounter</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>6 power. If you are trained in Skulduggery, add {Dc} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

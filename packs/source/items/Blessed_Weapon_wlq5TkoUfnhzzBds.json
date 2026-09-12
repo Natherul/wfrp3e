@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Weapon",
+  "type": "trapping",
+  "_id": "wlq5TkoUfnhzzBds",
+  "folder": "2kJ3UuTCfU1dl5JF",
+  "system": {
+    "description": "<p>While priests of Sigmar, Ulric, and Myrmidia may extend their blessing over the weapons of their followers, this weapon is something special. Once wielded by a hero against a great evil, a portion of his essence lingers within the item. Damage Rating: 7{Df} Critical Rating: 3{Df} Group: Great Weapon Qualities: Superior Encumbrance: 6 a superior, blessed weapon, which adds {Df} to all attacks made wielding it. When wielded against daemons or the undead, the weapon has CR 2 and each fortune point spent to enhance the attack’s ice pool also adds +1 damage.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

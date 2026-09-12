@@ -1,0 +1,10 @@
+{
+  "name": "Bloodletter",
+  "type": "ability",
+  "_id": "XSyePRVNbMtCdHuB",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Terror 1 Hellblade: Each Bloodletter carries a jagged black blade with Pierce 1 and CR 2 AGGRESSION CUNNING EXPERTISE 6 2 {Df}</p>"
+  },
+  "_text_fixed_by_llm": true
+}

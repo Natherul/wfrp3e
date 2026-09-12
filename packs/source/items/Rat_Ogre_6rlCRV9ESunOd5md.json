@@ -1,0 +1,10 @@
+{
+  "name": "Rat Ogre",
+  "type": "ability",
+  "_id": "6rlCRV9ESunOd5md",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Keen Senses, Terror 2, Swift Fearsome Claws: Rat ogre Melee Attacks have Pierce 2 AGGRESSION CUNNING EXPERTISE 8 [Dc] 1</p>"
+  },
+  "_text_fixed_by_llm": true
+}

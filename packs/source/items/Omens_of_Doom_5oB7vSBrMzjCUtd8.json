@@ -1,0 +1,10 @@
+{
+  "name": "Omens of Doom",
+  "type": "ability",
+  "_id": "5oB7vSBrMzjCUtd8",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Each time you wake up from suffering 2 stress, your dreams are plagued by terrible visions of the future. Not useful visions. Just the horrific, mind-shattering ones.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

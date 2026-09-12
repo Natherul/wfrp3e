@@ -1,0 +1,91 @@
+{
+  "name": "The Overwhelming Horde",
+  "type": "action",
+  "_id": "i0vR3E6IaPzGvCLW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M A tide of verminkind seeks to overrun the intended victim. The attack inflicts normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and the target suffers 1 fatigue for each skaven engaged with the target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Engaged skaven suffer the Exposed condition for 2 rounds</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Move the topmost skaven initiative counter down one space on the matrix track</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Used By: Clat, Gutter Runner Engaged with target Special: If the attacker is within close range of at least three other skaven, reduce the difficulty modifier by {Dc}</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You and your allies attempt to overwhelm the victim. The attack inflicts normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers 1 fatigue, plus 1 fatigue for each of your allies engaged with him</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Draw critical wounds equal to the number of your allies within close range. Choose 1 to apply to the target and discard the rest</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains +1 to his next attack against you or one of your allies</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Lose 1 die from your Expertise budget</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Engaged with target Special: If you are within close range of at least two allies, reduce the difficulty modifier by {Dc}</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

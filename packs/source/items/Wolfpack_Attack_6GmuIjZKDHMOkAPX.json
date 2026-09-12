@@ -1,0 +1,105 @@
+{
+  "name": "Wolfpack Attack",
+  "type": "action",
+  "_id": "6GmuIjZKDHMOkAPX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>& You hit the target for normal damage, & using Str rather than Fel to determine damage. One of your engaged allies may immediately perform a Melee Strike action against the same target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and this attack gains +Str {Dc}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The next attack that targets your target gains +1 damage {Df}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>critical {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress {Dm}</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>stress ++ You and all engaged allies suffer 1 stress {Dm}</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>For every Teamwork card you or your party members have recharging, this attack deals +1 damage {Df}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You hit the target for normal damage. One of your engaged allies may immediately perform a Melee Strike action against the same target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and this attack deals +Fel damage {Dr}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The next attack that targets your target gains +1 damage {Df}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>damage {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>® Suffer 1 stress {Dm}</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You and all engaged allies suffer 1 stress {Dm}</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>For every Teamwork card you or your party members have recharging, this attack deals +1 damage {Df}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Melee weapon equipped, engaged with target and at least 1 ally capable of making a melee attack Special: This action uses Strength instead of Fellowship</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

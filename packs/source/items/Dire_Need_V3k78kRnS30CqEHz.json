@@ -1,0 +1,43 @@
+{
+  "name": "Dire Need",
+  "type": "action",
+  "_id": "V3k78kRnS30CqEHz",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell }</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell }</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Recover 1 stress. 4 During the next round's initiative, you must choose the topmost hero marker to resolve your turn, or suffer 1 stress and fatigue.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c",
+      "requirements": "<p>Effect: You tap into hidden reserves of energy. While this spell is recharging, any {Dr} you roll count as #4, in addition to their effects as 4</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

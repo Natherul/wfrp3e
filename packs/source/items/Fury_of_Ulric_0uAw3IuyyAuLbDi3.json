@@ -1,0 +1,100 @@
+{
+  "name": "Fury of Ulric",
+  "type": "action",
+  "_id": "0uAw3IuyyAuLbDi3",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The rage of Ulric fills you and fortifies against pain. Move up to 2 recharge tokens from your recharging Ulric Melee Attacks, or Active Defences to this card and increase your Soak value against this attack by the same amount.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M As above, but up to 3 tokens instead.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but up to 4 tokens instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Adjust your stance 1 step towards Conservative.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>& Gain favour equal to the wounds you suffer as a result of this attack, +1 favour per critical wound you suffer.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2c",
+      "requirements": "<p>3 favour available immediately. Play this blessing when you are struck by a Melee Attack, before damage is applied. Special: If the attack would deal a critical wound, reduce the difficulty modifier by {Dc}</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The rage of Ulric fills you and strengthens your blow. Move up to 2 recharge tokens from your recharging Ulric Melee Attacks, or Active Defences to this card and increase the damage dealt by this attack by the same amount. You may not move tokens from the action card you used to make this attack.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but up to 3 tokens instead.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but up to 4 tokens instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>A Adjust your stance 1 step deeper into Reckless.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You leave yourself wide open. The next Melee Attack made against you gains +1 critical.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This attack gains +1 critical.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2c",
+      "requirements": "<p>3 favour available immediately. Play this blessing when you hit with a Melee Attack, before damage is applied.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

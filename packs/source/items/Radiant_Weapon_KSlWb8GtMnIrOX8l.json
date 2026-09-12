@@ -1,0 +1,95 @@
+{
+  "name": "Radiant Weapon",
+  "type": "action",
+  "_id": "KSlWb8GtMnIrOX8l",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You recover 1 stress or 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The wielder of the weapon recovers 1 stress or 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>0 Suffer 1 tongue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this spell is recharging, the fear and terror values of daemons are reduced by 1 for all who can see this radiant weapon.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 BL damage and all attacks Pierce 2 to that hit.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You recover 1 stress or 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each daemon who can see your radiant light suffers 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@@ Suffer 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The wielder of the weapon suffers 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this spell is recharging, the affected weapon's CR is reduced by 1 against daemons.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>S power. You must be able to touch a target weapon as part of casting the spell. Infuse a weapon with the radiant energy of Hysh. While this spell is recharging, the weapon glows with a pure white light. It counts as superior, and as such gains a fortune die {Df} to all attacks. If wielded against a daemon, it also gains +2 damage and Pierce 2 to all attacks that hit.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

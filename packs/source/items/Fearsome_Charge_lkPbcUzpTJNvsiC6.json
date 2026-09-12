@@ -1,0 +1,82 @@
+{
+  "name": "Fearsome Charge",
+  "type": "action",
+  "_id": "lkPbcUzpTJNvsiC6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You lower your sharp horns and charge into battle, looking to impale the target. ¥[Dc] The target is struck for +1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>g The target is struck for +2 damage &</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target must succeed at an Average (2d) Discipline (WP) check or gain the Rattled condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately take a free Basic Melee Attack against you</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical and the target is knocked prone and must spend a manoeuvre to stand</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Used By: Gor, Warboar Melee weapon, not engaged with target, target within close range Special: You perform a free manoeuvre as part of the action to engage the target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The beastman lowers its sharp horns and charges into battle, looking to impale the target. The target is struck for +1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target is struck for +3 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target must succeed at an Average (2d) Discipline (WP) check or gain the Rattled condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target may immediately take a free Basic Melee Attack against the beastman</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1b",
+      "requirements": "<p>Melee weapon, not engaged with target, target within close range Special: The beastman performs a free manoeuvre as part of the action to engage the target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

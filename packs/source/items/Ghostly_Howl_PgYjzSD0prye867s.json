@@ -1,0 +1,91 @@
+{
+  "name": "Ghostly Howl",
+  "type": "action",
+  "_id": "PgYjzSD0prye867s",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You emit an eerie, mournful howl that brings dread and injury to the hearts of men. All enemies within close range must make an Average (2{Df}) Discipline (WP) check or suffer 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above but 2 wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>If this attack is successful, the target suffers an additional wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The Discipline (WP) check is Hard (3{Df})</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>2+: You suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 wound inflicted by this action is a critical wound (your choice)</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Special: Add {Dc} to your dice pool if you are engaged with an enemy</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You emit an eerie, mournful howl that brings dread and injury to the hearts of men. All enemies within close range must make an Average (2{Df}) Discipline (WP) check or suffer 1 wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above but 2 wounds. If this attack is successful, the targets suffer an additional wound. If this attack is successful, enemies within medium range are affected</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3+: You suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If this attack is successful, the targets suffer an additional 2 wounds. Add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: Add {Dr} to your dice pool if you are engaged with an enemy</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

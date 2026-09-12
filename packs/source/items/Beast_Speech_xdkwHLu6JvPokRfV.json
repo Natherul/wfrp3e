@@ -1,0 +1,67 @@
+{
+  "name": "Beast Speech",
+  "type": "action",
+  "_id": "xdkwHLu6JvPokRfV",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You cast the spell and gain {Df} on Fellowship checks you make against the target.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You inflict 1 stress on the target!</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>2 power, target natural beast within medium range. For the rest of the encounter, you can speak with the target beast as if you shared a common language. Others who hear you speak to the beast hear you making chirps, barks, and other beastly sounds. The beast's demeanour towards you is not altered by this spell, although once you share a common language you can use most social skills and actions as appropriate. Beast Speech works equally well on the humblest mouse or the haughtiest eagle, but only on natural beasts.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You cast the spell and gain {Df} on any Fellowship checks you make against the target.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You inflict 1 stress on the target!</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>2 power, target natural beast within medium range. Effect: For the rest of the encounter, you can speak with the target beast as if you shared a common language. Others who hear you speak to the beast hear you making chirps, barks, and other beastly sounds. The beast's demeanour towards you is not altered by this spell, although once you share a common language you can use most social skills and actions as appropriate. Beast Speech works equally well on the humblest mouse or the haughtiest eagle, but only on natural beasts.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Perfect Gift",
+  "type": "action",
+  "_id": "LsWFnlJKyRn5WQMS",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You find an appropriate gift, one that certainly endear you to the target. You influence the target.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you and the target recover 1 stress truly, giving is its own reward!</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The thought that counts, and your thought shows. Gain {Df} to your next Social action against the target.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You find the perfect gift, but it exceeds your budget. You may spend another {Dc} and gain +1 to your next attempt to influence the target.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>A few hours of shopping in a commercial district of the target’s social tier. You spend S coins of the target’s social tier, then present the gift to the target. LxM is the final arbiter.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You find an appropriate gift, one that will certainly endear you to the target. You influence the target.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain +1 to your next Social action against the target.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The thought that counts, and your thought shows. Gain +1 to your next Social action against the target.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You match the target’s tastes perfectly... and get him something he already has.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>What luck! Your thoughtful generosity is observed by more than just the target; you may influence a second target of your choice.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>A few hours of shopping in a commercial district of the target’s social tier. You spend 5 coins of the target’s social tier, then present the gift to the target. Special: You can’t play the same target with gifts more than about once a week. Your GM is the final arbiter.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

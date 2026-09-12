@@ -1,0 +1,10 @@
+{
+  "name": "Wasted",
+  "type": "condition",
+  "_id": "t4VYT8pViGCRiYsg",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>Effects are reduced by one step.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Rancid Visitation",
+  "type": "action",
+  "_id": "yzzUNVbf1OzFqHzd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Maggots § 1 Your flesh boils and ripples with and bubbling pus even as your target's does the same. You hit the target for Toughness damage, plus an amount of damage equal to the combined severities of all your diseases {Dc} and symptoms. Non-magical armour is of use against the consuming corruption</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>{Dc} As above, and if the target is slain by this spell it rises again as a Plaguebearer</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>+1 critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8 Suffer 1 fatigue per disease you suffer from</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may draw a new disease from the F deck and then choose to either replace one of your current diseases with it, or discard it, before resolving this</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, within long range. You must be suffering from at least 1 disease</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 Your flesh boils and ripples with maggots {Dm} and bubbling pus even as your target's does the same. You hit the target for wounds {Dm} equal to the combined severities of all his diseases and symptoms</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>{Dm} As above, and if the target is slain by this spell it rises again as a Plaguebearer</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>wound</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>critical {Dm}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>88 Suffer 1 fatigue per disease the target suffers from</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N You may draw a new disease from the disease deck and then choose to either replace one of the target's current diseases with it, or discard it, before resolving this action</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>must be suffering from at least 1 disease</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Dangerous Modifications",
+  "type": "action",
+  "_id": "r1q7DIeAjB0fHdUw",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>your CR is reduced by 1 (to a minimum of 1). If both {Dc} and {Dm} have been invested in this Enhance, ignore the target’s armour soak value</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attack gains +1 damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack gains +1 critical</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>If both {Dc} and {Dm} have been invested in this Enhance, you and the target each suffer 1</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>wound per 3+ . .</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Black-powder weapon equipped. You must perform a manoeuvre to load extra powder. Enhances a Ranged Attack Special: Play this card when you make a Ranged Attack. You may remove dice from your dice pool. If you do, you gain the bonuses listed on this card for each die</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

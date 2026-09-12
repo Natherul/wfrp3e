@@ -1,0 +1,49 @@
+{
+  "name": "Tricksters Luck",
+  "type": "action",
+  "_id": "qwy4XakLCrIkgUOP",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This you may spend 2 favour and play 1 card to add 1 {Df} to the party fortune pool</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>check</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Effect: When a hero rolls a {Dm} on any check, if you may spend 2 favour and play this card to add 1 {Df} to the party fortune pool</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>2 favour. Play when a hero rolls a {Dm} on any check. Special: This card recharges when party fortune refreshes</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

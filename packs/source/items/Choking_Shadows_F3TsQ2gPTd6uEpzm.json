@@ -1,0 +1,99 @@
+{
+  "name": "Choking Shadows",
+  "type": "action",
+  "_id": "F3TsQ2gPTd6uEpzm",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 power, target in shadows, within close range of the target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Shadows choke the target (10 ft range of you) and smother your target, strangling and tearing him for 3+Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but 4+Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 50,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Shadows within close range of you choke and smother your target, strangling and tearing him for 2+Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but you hit 2 targets for 3+Int damage</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All characters, friend or foe, in shadows within close range are affected (except you)</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All in shadows within close range of enemies are affected</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>6 power, target in shadows, within close range of the target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

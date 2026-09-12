@@ -1,0 +1,87 @@
+{
+  "name": "Captains Presence",
+  "type": "action",
+  "_id": "kW71IPWoWAePoL7y",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 All allies within medium range of you gain the Inspired condition while this card is recharging</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and all allies within medium range of you may immediately perform a free manoeuvre</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>! ; & Add 1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>b All allies within close range of you gain the Invigorated condition while this card is recharging</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Connaal Add W to the check if you and your “allies are outnumbered. Add {Dc} you are aboard a ship</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All allies within medium range of you gain the Inspired condition while this card is recharging</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and while this card is recharging, all enemies within close range of you during your Start of Turn phase suffer 1 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>A Add 1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>| 8 Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, all allies within close range of you during your Start of Turn phase suffer 1 stress</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>Specia Add {Dm} to the check if you and your allies are outnumbered. Add {Dc} you are aboard a ship</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

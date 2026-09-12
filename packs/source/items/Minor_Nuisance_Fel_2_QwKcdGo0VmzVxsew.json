@@ -1,0 +1,11 @@
+{
+  "name": "Minor Nuisance Fel 2",
+  "type": "criticalWound",
+  "_id": "QwKcdGo0VmzVxsew",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add to Fellowship checks</p>",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

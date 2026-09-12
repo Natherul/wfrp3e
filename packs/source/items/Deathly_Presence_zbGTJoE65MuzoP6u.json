@@ -1,0 +1,77 @@
+{
+  "name": "Deathly Presence",
+  "type": "action",
+  "_id": "zbGTJoE65MuzoP6u",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A chill wind seems to blow through the area. The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target suffers 2 stress</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>INTIMIDATE (S1) vs. TARGET E(WP) Used By: Stichelm's Skeleton, Lazarus Mourn Target within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A chill wind seems to blow through the area. The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The target suffers 2 fatigue</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains an Insanity with the Supernatural or Trauma trait</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All PCs within close range may remove 1 recharge token from one of their actions</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>Target within medium range. You must have a Terror muting Special: While this action is recharging, undead in this encounter cause Terror rather than Fear.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "The Stags Fury",
+  "type": "action",
+  "_id": "emyhgRLXsCdPd5NN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>You invoke the blessing, and all affected characters recover 1 stress, 1 fatigue, and 1 wound.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each enemy within medium range suffers 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Each character affected by this blessing adjusts his stance one step closer to neutral stance.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c",
+      "requirements": "<p>7 favour, target engagement within medium range. Effect: Taal empowers your allies in the target engagement. While this blessing is recharging, those characters (whether they remain in the engagement or not) gain a bonus to their DR equal to their depth in their current stance.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

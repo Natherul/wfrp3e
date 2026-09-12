@@ -1,0 +1,82 @@
+{
+  "name": "Call Beast",
+  "type": "action",
+  "_id": "iOo3aWsyCcKXslgX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You call a specific type of domesticated beast to you (such as a cow, horse, dog, that or cockerel). The closest example of type of beast makes its way to you by any means it has available to it, ignoring other commands and possibly breaking bonds, leaping fences, and so forth. Any beasts in your immediate presence are ignored, so if you already have one horse, for example, you may call for another. When the beast & reaches you, it behaves according to its nature</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 3 animals</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You gain {Df} to future attempts to influence the affected animal(s)</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The affected beast(s) gains {Df} to all checks it makes to reach your side</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You call a specific type of wild beast to you (such as a stag, wolf, or hawk). The closest example of that type of beast makes its way to you by any means it has available to it, ignoring other commands and possibly breaking bonds, leaping fences, and so forth. Any beasts in your immediate presence are ignored, so if you already have one hawk, for example, you may call for another. When the beast reaches you, it behaves according to its nature</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 3 animals</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain {Df} to future attempts to influence the affected animal(s)</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>B8 The beast(s) suffers 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The affected beast(s) gains {Df} to all checks it makes to reach your side</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>10 favour, a piece of food that the desired beast likes</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

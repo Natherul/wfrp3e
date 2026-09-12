@@ -1,0 +1,46 @@
+{
+  "name": "Tail Sting",
+  "type": "action",
+  "_id": "uaL1RnOY3eL1I8TJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You launch your tail trying to sting your target.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>The attack inflicts critical damage and the target suffers 1 fatigue. You hit another character of the GM’s choosing in the engagement. The targets suffer from the Staggered condition for 2 rounds.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>All characters engaged with the target suffer.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

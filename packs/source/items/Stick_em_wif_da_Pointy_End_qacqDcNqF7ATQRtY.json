@@ -1,0 +1,94 @@
+{
+  "name": "Stick em wif da Pointy End",
+  "type": "action",
+  "_id": "qacqDcNqF7ATQRtY",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "2b",
+      "requirements": "<p>Used By: Sikboyz (mblm', hul spnc) Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Dis iz wot you do wif a weapon: stick 'em da end! dat! 'im € wif pointy Jus'like You'it for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Even better! Yajus' stuck 'em f'r +2 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target's soak value is reduced by 1 for each of your allies in the engagement</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack does +1 damage for each of your allies in the engagement. WAAAGH!</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Stik 'em where it ‘urtz! +1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Ooof. Too much pointy. Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit an ally for normal damage. Never liked'iymanywayz</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Engaged with target Special: For each of the engagement, remove {Dc} from the dice (no matter the source of the )</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

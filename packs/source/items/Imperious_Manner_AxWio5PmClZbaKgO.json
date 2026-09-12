@@ -1,0 +1,81 @@
+{
+  "name": "Imperious Manner",
+  "type": "action",
+  "_id": "AxWio5PmClZbaKgO",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Place 1 recharge token on each Social action the target has recharging. While this action is recharging, skill checks that target you suffer {Dc}.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target suffers {Dc}.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "1c",
+      "requirements": "<p>Vs. TARGET Used By: Niklas Schulmann Target within medium range, target can understand you Effect: Schulmann uses his inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress, you gain {Da}.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and place 1 recharge token on each Social action the target has recharging.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Gain 1 Cunning die.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Target within medium range, target can understand you. Effect: You use your inflated ego and superior status (real or only imagined) to put the target in his place. This may involve an aside comment, or nothing more than an artfully arched eyebrow. While this action is recharging, Charm, Guile, and Intimidate checks that target you gain {Df}.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

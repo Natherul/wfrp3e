@@ -1,0 +1,11 @@
+{
+  "name": "Minor Trauma St 3",
+  "type": "criticalWound",
+  "_id": "loQEXUp9QWyLPvK4",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p>Add M to Strength checks</p>",
+    "severityRating": 3
+  },
+  "_text_fixed_by_llm": true
+}

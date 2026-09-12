@@ -1,0 +1,92 @@
+{
+  "name": "Sacred Flame of the White Wolf",
+  "type": "action",
+  "_id": "yfpQdv4nrqsLBnOb",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 favour available, Strength 4+, melee weapon equipped, engaged with target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p># You hit the target for +3 damage. Your _ weapon glows with the icy power of {Dc} sacred flame, and the target gains the Freezing condition for 2 rounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit the target for +2 damage. Your weapon glows with the icy power of Ulric’s sacred flame, and the target gains the Freezing condition for 1 round</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>e #4444 As above, but +4 damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>3 favour available, Strength 4+, melee weapon equipped, engaged with target Special: This action is both a Blessing and a Melee Attack :</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N +2 damage, +2 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

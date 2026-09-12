@@ -1,0 +1,89 @@
+{
+  "name": "Splints and Bandages",
+  "type": "action",
+  "_id": "ciCjN6GlA2dRwjzj",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The subject recovers wounds equal to the</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>As above, and the target recovers 2 extra wounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target recovers 2 extra wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For 24 hours, the target may ignore critical wound of a severity equal to or less</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>than the number of {Da} you have scored</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue:</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Add {Dc} to the check. This card recharges at the end of the encounter</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The subject recovers up to 2 normal wounds</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target recovers 2 extra wounds</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For 24 hours, the target may ignore 1 critical wound of a severity equal to or less</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>than the number of {Da} you have scored</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>First Aid trained, cautious with target. Special: If the target is critically wounded, add {Dm} to the check. This card recharges at the end of the encounter</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

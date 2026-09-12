@@ -1,0 +1,87 @@
+{
+  "name": "Soporific Strike",
+  "type": "action",
+  "_id": "jmuv4wt7l5VhLG23",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>With lightning speed, you're approaching target with your barbed stinger.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>With lightning speed, you strike the approaching target with your barbed stinger. This attack inflicts normal damage; the target gains the Sluggish condition.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If the attack was successful, add 2 {Dc} recharge tokens to any two of the target’s action cards.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "",
+      "requirements": "<p>Target moves to engage you, must possess a barbed stinger laced with soporific venom Special: This attack uses Agility instead of Strength for the attack roll</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

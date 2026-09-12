@@ -1,0 +1,97 @@
+{
+  "name": "Body of Light",
+  "type": "action",
+  "_id": "lZtF7q5sXDjCpOQT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above and you may add a number ¥ of recharge tokens to one of your Order spells equal to your depth in the conservative stance.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>A All allies within close range of you recover 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A number of {Dm} to their dice pool equal to the number of recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 2 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "2c",
+      "requirements": "<p>4 power Effect: Your body shines with an intensely bright light, making you difficult to look upon, then slowly fades. While this spell is recharging, actions that target you add a {Dc} to their dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and an enemy within close range gains the Blinded condition for 3 turns.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Recover 1 stress.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All enemies within close range of you suffer 1 stress.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A number of {Dm} to their dice pool equal to the number of recharge tokens on this card.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Lose 1 power.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 2 power.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2c",
+      "requirements": "<p>4 power Effect: Your body shines with an intensely bright light, making you difficult to look upon, then slowly fades. While this spell is recharging, actions that target you or anyone engaged with you add a number of {Dm} to their dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

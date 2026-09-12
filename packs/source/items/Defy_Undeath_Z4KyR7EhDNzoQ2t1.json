@@ -1,0 +1,95 @@
+{
+  "name": "Defy Undeath",
+  "type": "action",
+  "_id": "Z4KyR7EhDNzoQ2t1",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>444 You invoke the blessing and undead within close range may not engage you closer to you until your next</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All allies within medium range may recover 1 stress</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Allies within medium range of you suffer 1 to all checks, and undead within long range suffer 1 to all checks</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 to all checks (these effects are not cumulative)</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>1 Place 1 less recharge token on this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>within close range</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>7 favour manoeuvre. Effect: A chanted prayer to Morr weakens the undead in the area. While this card is recharging, undead within close range of you suffer 1 to all checks, undead</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You invoke the blessing and may remove a Recharge token immediately</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>All undead within close range gain the Demoralized condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>22 All allies within close range suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This blessing inflicts 2 wounds each time a Recharge token is removed, rather than 1</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>7 favour. You must prepare a manoeuvre before invoking this blessing. Effect: A chanted prayer to Morr weakens the undead. Each time you remove a Recharge token from this card, each undead within close range of you suffers 1 wound (ignoring Toughness and armour)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

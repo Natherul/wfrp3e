@@ -1,0 +1,93 @@
+{
+  "name": "Chanty of Toil",
+  "type": "action",
+  "_id": "90vryMgQPSMp4ykZ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>3 or more favour, allies in an engagement within medium range effect: You sing a light work of tasks. While this card is recharging, all affected targets gain {Dc} to their dice pools for physical actions</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You invoke the blessing of 2</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>§ 194 add an admonation {Dm} to physical actions</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Recover 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All targets recover 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: Add B to the dice pool for each target. Add 1 recharge token to this card {Dm} every 3 favour spent. You may continue to spend favour to add recharge tokens to this card while it is recharging as a manoeuvre. Effect: You sing a spirited chant, making light work of heavy tasks. While this card is recharging, all affected targets gain {Dm} to their dice pools for physical actions</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>All targets suffer 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>in an engagement within medium range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

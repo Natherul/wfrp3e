@@ -1,0 +1,87 @@
+{
+  "name": "Reaping Scythe",
+  "type": "action",
+  "_id": "1MJCjsECenoTnhjn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You successfully invoke the scythe</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Melee Attacks you make with the scythe gain {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Melee Attacks you make with the scythe gain {Df}</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>3 power, a free hand Effect: While this card is recharging, a flickering purple scythe materialises in your grasp. Treat the scythe as a great weapon with DR 7, CR 3, and Pierce 2. The scythe gains +2 damage against undead targets. You dismiss or resummon the scythe as a manoeuvre while this card is recharging</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You successfully invoke the scythe</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>4444 As above, and add 1 recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Melee Attacks you make with the scythe gain {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>If you inflict a critical wound with the scythe, you may immediately recover 1 fatigue</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Effect: While this card is recharging, a flickering purple scythe materialises in your grasp. Treat the scythe as a great weapon with DR 7, CR 3, and Pierce 2. The scythe gains +2 damage against undead targets. You can dismiss or resummon the scythe as a manoeuvre while this card is recharging</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

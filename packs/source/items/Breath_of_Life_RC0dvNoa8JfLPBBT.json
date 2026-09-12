@@ -1,0 +1,87 @@
+{
+  "name": "Breath of Life",
+  "type": "action",
+  "_id": "RC0dvNoa8JfLPBBT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target’s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target recovers normal wounds.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>equal to the number of {Dc} generated.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each critical wound the target recovers, suffer 1 critical wound. For each normal wound the target recovers, suffer 1 normal wound.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>There’s no need to wait an hour; the target’s regeneration occurs almost instantaneously.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You return life to the freshly-dead. Over about the next hour, all the target’s mortal wounds are healed (the target recovers critical and normal wounds until he has 1 fewer critical wound than his To and 1 fewer normal wound than his wound threshold) and he awakens to life.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target recovers normal wounds.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>equal to the number of {Dr} generated.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>For each critical wound the target recovers, you suffer 1 critical wound. For each normal wound the target recovers, you suffer 1 normal wound.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>There’s no need to wait an hour; the target’s regeneration occurs almost instantaneously.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "3c 1f",
+      "requirements": "<p>12 power, engaged with target corpse of a living being killed within the last five minutes. Special: This spell begins recharging whether or not the attempt to cast it was successful. It recharges at dawn.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

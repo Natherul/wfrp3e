@@ -1,0 +1,91 @@
+{
+  "name": "Inescapable Death",
+  "type": "action",
+  "_id": "PFprrAsMQRCirXEf",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You meticulously line up your shot and fire at the enemy’s most vulnerable area. You hit for +2 damage, ignoring the target’s soak value.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit for +2 damage, +1 critical, ignore the target’s soak value, and may determine damage dealt.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+ The gun jams! You may only recharge tokens from this card by spending {Dm}.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Black powder weapon equipped, must prepare the manoeuvre. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You quickly draw and fire at the enemy’s most vulnerable area. You hit for -1 damage, ignoring the target’s soak value.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but +2 damage instead.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but +5 damage instead.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>§ critical.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this action.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Something goes SPROING! You and all characters within close range suffer 1 stress.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c",
+      "requirements": "<p>Special. This action uses Intelligence instead of Agility for the check. You may increase the difficulty modifier of this action by 1 to ignore the Unreliable rating of your weapon.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

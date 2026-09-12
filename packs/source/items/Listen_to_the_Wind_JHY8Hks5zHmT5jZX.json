@@ -1,0 +1,105 @@
+{
+  "name": "Listen to the Wind",
+  "type": "action",
+  "_id": "JHY8Hks5zHmT5jZX",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You listen to the voice of Khorne granting insight and inspiration. You may add {Df} to the dice pool of your next action, or to the action of an ally within Close range before your next turn</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but {De} instead:</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add an additional {Df} to the</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 2 wounds</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add an additional {Df} to the modified dice pool</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "1c",
+      "requirements": "<p>Add {Dc} to the dice pool if Engaged with an enemy</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You listen to the blood singing in your veins. Your next attack, or the attack of an ally within Close range before your next turn, gains +1 damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but +3 damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The modified attack gains {Dr} to its dice pool</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The modified attack gains {De}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>critical</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 2 wounds</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The modified attack gains {Dr} to its dice pool</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>Add {Dm} to the dice pool if Engaged with an enemy</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

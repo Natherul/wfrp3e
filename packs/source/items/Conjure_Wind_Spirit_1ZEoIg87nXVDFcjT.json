@@ -1,0 +1,52 @@
+{
+  "name": "Conjure Wind Spirit",
+  "type": "action",
+  "_id": "1ZEoIg87nXVDFcjT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You summon a mighty tempest djinn that knocks all targets within long range off their feet. The targets may not perform movement manoeuvres while this action is recharging, and suffer a penalty to all actions that would reasonably be affected by a raging wind</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and all targets suffer 2 + Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b",
+      "requirements": "<p>& Special; Reduce the difficulty modifier by {Dc} if under open sky. You may target as many enemies as you like with this although each additional target beyond the first adds {Dc} to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

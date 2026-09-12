@@ -1,0 +1,38 @@
+{
+  "name": "Tails You Lose",
+  "type": "action",
+  "_id": "Sxz9UgURYozuijl2",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>if favour, then reroll all {Dm} in the dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "",
+      "requirements": "<p>Four, not engaging with an enemy, a coin marked with an X on one face Special: After you are the target of a skill check, you may flip your lucky coin. Add 4 recharge tokens to this card and spend 2</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

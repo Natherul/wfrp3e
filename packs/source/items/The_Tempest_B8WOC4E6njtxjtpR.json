@@ -1,0 +1,100 @@
+{
+  "name": "The Tempest",
+  "type": "action",
+  "_id": "B8WOC4E6njtxjtpR",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Effect: A lurid storm extends across the sky extending up to extreme range from the mage in all directions. While the spell recharges, flying movement is impossible, all flying creatures are forced down to the ground and all adversaries must pass an Average (2{Dc}) Discipline (WP) check before they can take any movement manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>‘“ the spell you cast</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>“““ above but the becomes Hard (3{Dc}) as test X% X% A1 missile fire suffers an penalty mm Those failing the test fall prone and must spend a manoeuvre to</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>each round that the spell recharges, constructions such as war machines and houses suffer a hit for 12+Int damage.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Effect: A lurid storm extends across the sky extending up to extreme range from the mage in all directions. While the spell recharges, flying movement is impossible, all flying creatures are forced down to the ground and all adversaries must pass an Average (2{Dc}) Discipline (WP) check before they can take any movement manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>Lightnings strike for +1 critical damage. All missile fire suffers an additional X{Dm} penalty.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>spell recharges, enemies must roll a [Dm] on a roll Lightning for 8 + Int damage</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>each round that the spell recharges, constructions such as war machines and houses suffer a hit for 12+Int damage.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

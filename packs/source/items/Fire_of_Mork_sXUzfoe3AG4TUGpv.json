@@ -1,0 +1,91 @@
+{
+  "name": "Fire of Mork",
+  "type": "action",
+  "_id": "sXUzfoe3AG4TUGpv",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A burning green fog descends upon the target engagement. Each target gains the Sluggish condition.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and each target suffers</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>normal wounds equal to the number of engagements beyond the first.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>22 You suffer 2 wounds.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>On each turn, while this card is recharging, you may move the fog as if spending a single manoeuvre.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, target engagement within medium range. If you are engaged with an enemy, add {Dm} to your pool. Special: Add {Dc} for each engagement beyond the first. Effect: Corrosive fog lingers at the target engagement while this card recharges. Any character starting his turn engaged with the fog suffers 2 normal wounds. Any character starting his turn within close range of the fog suffers 1 normal wound.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A burning green fog descends upon the target engagement. Each target gains the Sluggish condition.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and each target suffers</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>normal wounds equal to the number of engagements beyond the first.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM You may add 1 recharge token to this card.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The fog descends upon you instead!</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies are not harmed by this spell.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 85,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, target engagement within close range. If you are engaged with an enemy, add {Dm} to your pool. Special: Add {Dc} for each character in the engagement beyond the first. Effect: Corrosive fog lingers at the target engagement while this card recharges. Any character starting his turn engaged with the fog suffers 2 normal wounds. Any character starting his turn within close range of the fog suffers 1 normal wound.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

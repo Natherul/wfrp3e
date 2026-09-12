@@ -1,0 +1,66 @@
+{
+  "name": "The Witchs Song",
+  "type": "action",
+  "_id": "ibriVlhhIQiNzCBj",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your song swells and ripples through the mists of the Cursed Marshes like a living thing, calling the Winds of Magic to you. Gain 1 power.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but gain 2 power.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but gain 3 power.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain 1 power.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress. If, after resolving this action you have more power than twice your WP, suffer 1 additional stress.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add {Dm} to results pool. Suffer a miscast. It affects everyone within close range.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 20,
+      "difficulty": "1c",
+      "requirements": "<p>Current power less than twice Willpower. If you are engaged with an enemy, add {Dm} to the dice pool. Special: Your eerie song causes Fear 1. You can both sing and cast a spell in the same turn using the normal quick-casting rules as if The Witch's Song were Channel Power M.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Special: Your eerie song causes Fear 1. You can both sing and casta spell in the turn using the normal quick-casting rules as if The Witch's Song were Channel Power M Your song swells and ripples through the mists, calling the Winds of Magic to you. Gain 1 power 44 As above, but gain 3 power #4444 As above, but gain 4 power Gain 1 power = # Ifyou have § Suffer 1 stress. more power than WP, suffer 1 additional stress your # pool % #8 Add to your results Suffer a miscast. It affects everyone within close & range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

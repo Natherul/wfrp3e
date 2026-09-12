@@ -1,0 +1,67 @@
+{
+  "name": "Endure Elements",
+  "type": "action",
+  "_id": "21czZivC8bkixEjJ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2b",
+      "requirements": "<p>Ignore any penalties, wounds, stress, or fatigue resulting from extremes of cold or heat caused by the natural environment.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You invoke the blessing.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>MHH As above, and your soak value is increased by 2 against attacks that rely on fire or extreme cold.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress and 1 fatigue.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 3,
+      "difficulty": "2b",
+      "requirements": "<p>Strength 3+ Effect: The bitter winter is no threat to you. While this blessing is recharging, you ignore any penalties, wounds, stress, or fatigue resulting from extremes of cold or heat caused by the natural environment. This card recharges at moonrise.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

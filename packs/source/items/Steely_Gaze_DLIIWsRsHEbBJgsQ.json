@@ -1,0 +1,67 @@
+{
+  "name": "Steely Gaze",
+  "type": "action",
+  "_id": "DLIIWsRsHEbBJgsQ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You influence the target until your next action. If you influence the target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You are influencing this encounter</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>You must be within close range of and able to make eye contact with the target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target must move away from you with its next manoeuvre and may not approach you until your next action. If appropriate, you influence the target</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add {Dc} to the next Charm or Guile check attempted by a member of your party this encounter</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains the Cowed condition for 2 rounds</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "",
+      "requirements": "<p>You must be within close range of and able to make eye contact with the target Special: This action uses Fellowship rather than Strength</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

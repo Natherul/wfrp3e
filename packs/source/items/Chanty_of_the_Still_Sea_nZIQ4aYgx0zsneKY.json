@@ -1,0 +1,48 @@
+{
+  "name": "Chanty of the Still Sea",
+  "type": "action",
+  "_id": "nZIQ4aYgx0zsneKY",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>!‘\\1 u gam {Df} to your next Fellowship check against the target(s).</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You sing a jolly tune. While this blessing is recharging, the targets cannot take offensive action against anyone in your engagement. This card recharges when someone in your engagement attacks an affected foe</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>3 or more {Dc}, must be able to sing or play an instrument; targets all enemies in 1 engagement within medium range not engaged with you</p>"
+    },
+    "reckless": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

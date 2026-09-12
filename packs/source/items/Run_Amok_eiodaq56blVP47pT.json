@@ -1,0 +1,53 @@
+{
+  "name": "Run Amok",
+  "type": "action",
+  "_id": "eiodaq56blVP47pT",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You hit the target and another character in the engagement for normal damage</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and you deal +1 critical to each character you strike</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM You hit another character of the GM's choosing in the engagement</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 fatigue. You gain the Exposed condition while this card is recharging</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound per enemy in the engagement</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "2b",
+      "requirements": "<p>Special: You must hit the opponent with the highest Defence. All opponents in the engagement may use Active Defences this attack. While this card is recharging, you inflict +1 damage for every {Dr} you roll while making an attack. You may not use Active Defences while this card is recharging</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

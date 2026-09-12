@@ -1,0 +1,75 @@
+{
+  "name": "Tactical Mastery",
+  "type": "action",
+  "_id": "5vJe5JlLNnxYuzRZ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 favour effect: Reciting the tactical catechisms of Myrmidia, you develop just the right strategy for battle. While this recharging, you may socket a Tactics talent to the party sheet as if it had an additional slot.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Attack or Ranged Attack gains {Dc} to his dice.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 favour effect: Reciting the tactical catechisms of Myrmidia, you develop just the right strategy for battle. While this blessing is recharging, you may socket a Tactics talent to your career sheet as if it had an additional Tactics slot.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You invoke the blessing.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>MM Your next Melee Attack or Ranged Attack gains {Dc}.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 4,
+            "description": "<p>28 Your next action gains & {Dm}.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 9,
+      "difficulty": "1c"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

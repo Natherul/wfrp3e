@@ -1,0 +1,87 @@
+{
+  "name": "Golden Skin of Balthazar Gelt",
+  "type": "action",
+  "_id": "A8twS9D5GeVIVsAx",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and you may choose a Gold Order spell in your hand and place 3 recharge tokens on it. If that spell has an Ongoing effect, you are considered the target</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain 1 power</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Lose 1 power</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may choose one of your Gold Order spells in your hand or recharging, and place 2 recharge tokens on it</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>7 power Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and add up to 3 recharge tokens to this card. You may choose how many additional recharge tokens to add</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain 1 power</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You suffer -1 Agility while the spell recharges</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You may choose a Gold Order spell, either in your hand or recharging, and place 2 recharge tokens on it. If that spell has an Ongoing effect, you are considered the spell's target</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Effect: Your skin hardens and acquires the lustre of gold. While this spell is recharging, gain a bonus to your soak value equal to the number of Gold Order spells you have recharging</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

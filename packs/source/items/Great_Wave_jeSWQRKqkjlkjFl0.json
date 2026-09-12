@@ -1,0 +1,91 @@
+{
+  "name": "Great Wave",
+  "type": "action",
+  "_id": "jeSWQRKqkjlkjFl0",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Manann's fury manifests in the form of 2 mighty waves, bursting forth from within the body of water. The waves reach out to a maximum distance equal to the size of the body of water or out to long range, whichever is less. You control the direction and breadth of the waves, and they crash into their path. Anyone struck by the waves must make a Daunting (4{Dc}) Athletics (St) check to keep their feet and not be swept away. On these checks,</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>leave one character</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>affected characters suffer 1 wound per {Dm}</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} Suffer 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>and 2 wounds</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>1S favour, water within medium range</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Manann's fury manifests in the form of a mighty wave, bursting forth from within the body of water. The wave reaches out to a maximum distance equal to the size of the body of water or out to long range, whichever is less. You control the direction and breadth of the wave, and it crashes into everything in its path. Anyone struck by the wave must make a Daunting (4{Dc}) Athletics (St) check to keep their feet and not be swept away. On these checks,</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Affected characters add 1 to their Athletics checks</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Affected characters suffer 1 wound per {Dm}</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>{Dm} Suffer 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>{Dm}2 Suffer 2 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>and 2 wounds per {Dm}</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>15 favour, a sizable body of water within medium range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

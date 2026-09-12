@@ -1,0 +1,29 @@
+{
+  "name": "Crow",
+  "type": "action",
+  "_id": "a04vhJ2NHaqAaHAU",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {},
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>TouGHNESS ST INTIMIDATE RESILIENCE TO SKULDUGGERY AG AGILITY STEALTH {Dc} SKILL</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

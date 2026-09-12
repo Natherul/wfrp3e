@@ -1,0 +1,81 @@
+{
+  "name": "Grace Under Pressure",
+  "type": "action",
+  "_id": "UxFYfxibUdBoU0PZ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Above, and add 1 recharge token to this action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>DiscreLing (WP) Used By: Expert NPCs</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your focus narrows to your area of expertise, blocking out outside distractions and successfully resolving this action</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 {Df} to your next action</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 {Df} to your next action</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "1b",
+      "requirements": "<p>Special: While this action is recharging, you may remove one misfortune die from one of your own dice pools (before rolling) by removing one recharge token from this action</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

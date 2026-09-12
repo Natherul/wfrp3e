@@ -1,0 +1,95 @@
+{
+  "name": "Bironas Time Warp",
+  "type": "action",
+  "_id": "1EfQogaDoVhysG8X",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Light flares from your fingertips, impossibly bright, washing away color and detail from all but your allies. During the next round, ignore all initiative tokens except for 1 hero token</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 3 hero tokens</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but all hero tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Allies within medium range recover 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You fall into a time warp of your own. You skip your turn during the next round, but you also ignore all actions and other effects during the next round - it’s as if you don't exist</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies within medium range add {Dc} to their actions during the time warp</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>9 power: You play this card at the end of a round in which you took an action</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Light flares from your fingertips, impossibly bright, washing away color and detail from all but your allies. During the next round, ignore all initiative tokens except for 1 hero token</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but up to 3 hero tokens</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, but all hero tokens</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Allies within medium range recover 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You fall into a time warp of your own. You skip your turn during the next round, but you also ignore all actions and other effects during the next round - it’s as if you don't exist</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Allies within medium range add {Dr} to their actions during the time warp</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "2c 1f 1b",
+      "requirements": "<p>9 power: Special: You play this card at the end of a round in which you took an action</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

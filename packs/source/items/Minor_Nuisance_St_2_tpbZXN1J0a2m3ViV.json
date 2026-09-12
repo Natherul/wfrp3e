@@ -1,0 +1,11 @@
+{
+  "name": "Minor Nuisance St 2",
+  "type": "criticalWound",
+  "_id": "tpbZXN1J0a2m3ViV",
+  "folder": "VUMz1tBRkXXXUVEt",
+  "system": {
+    "description": "<p> Add M to Strength checks </p>",
+    "severityRating": 2
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Ecstatic Convulsions",
+  "type": "action",
+  "_id": "k4Z5LjDZM7qnVf5J",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>State of both exquisite agony and unparalleled ecstasy causing him to violently shake and thrash. You hit the target for Willpower {Dm} damage, plus an amount of damage equal to the number of stress and fatigue the target is suffering from, including any stress and fatigue gained from this spell. This spell ignores non-magical armour.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Spell is recharging</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target suffers 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains the Weakened condition</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target collapses to the ground in a state of both exquisite agony and unparalleled ecstasy causing him to violently shake and thrash. You hit the target for Willpower damage, plus an amount of damage equal to the number of stress and fatigue the target is suffering from, including any stress and fatigue gained from this spell. This spell ignores non-magical armour.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target draws a mutation and is affected by it while this spell is recharging.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>-2 damage</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target recovers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The target gains 1 corruption</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1c",
+      "requirements": "<p>8 power, target within medium range</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

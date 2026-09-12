@@ -1,0 +1,10 @@
+{
+  "name": "Priest Initiate",
+  "type": "ability",
+  "_id": "b3yVc3Mr0vN1XwZi",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Priest education: Intuition, and Piety trained</p>"
+  },
+  "_text_fixed_by_llm": true
+}

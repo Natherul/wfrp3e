@@ -1,0 +1,99 @@
+{
+  "name": "Burning Gaze",
+  "type": "action",
+  "_id": "qtfcxfxjmMF2YXtN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>for damage & target and hits him 5 + WP {Dc}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>and the gains the target Blinded condition for 2 rounds {Dc}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>critical {Df}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>condition. The duration of the Blinded condition is increased by 1 {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 Lose 1 power {Dm}</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>focuses radiant the & M Your gaze power on target and hits him for 4 + WP damage {Dr}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>& As above, but 6 + WP damage instead {Dr}</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 critical {Da}</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The target gains the Blinded condition for 1 round {Da}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>82 Lose 1 power {Dm}</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

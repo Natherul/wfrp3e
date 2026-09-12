@@ -1,0 +1,39 @@
+{
+  "name": "Bodyguard",
+  "type": "action",
+  "_id": "Ai3ivZey3m28kbjQ",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": "",
+      "requirements": "<p>Must have at least one Advanced Active Defence action card</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>Must have at least one Advanced Active Defence action card. After an engaged ally has been declared the target of a Melee Attack or Ranged Attack, add two recharge tokens to this card to add {Dc} to the action’s dice pool. Special: After performing the Bodyguard b Active Defence, the soak value of the defended ally is increased by +1 until the end of the round. If your defended ally is hit by the triggering attack anyway, you suffer 1 wound.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

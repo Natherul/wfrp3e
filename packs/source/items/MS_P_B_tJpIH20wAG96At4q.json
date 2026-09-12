@@ -1,0 +1,219 @@
+{
+  "name": "MS P B",
+  "type": "action",
+  "_id": "tJpIH20wAG96At4q",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Toughness 3+, shield equipped</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage. After you have been declared the ™ ‘Effect: After you have been declared a</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +2 damage on a Melee Attack, add two recharge tokens to this card to perform a manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add two recharge tokens to this card to perform a manoeuvre for free.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>@@ Your target may disengage from you.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add an additional {Dc} to the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: If you have Weapon Skill trained, Special: If you have Resilience trained,</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Remove {Dc} from the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove an additional {Dc} from the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>Toughness 3+, shield equipped</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit the target for normal damage. After you have been declared the ™ ‘Effect: After you have been declared a</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You hit the target for +2 damage on a Melee Attack, add two recharge tokens to this card to perform a manoeuvre.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add two recharge tokens to this card to perform a manoeuvre for free.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>@@ Your target may disengage from you.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add an additional {Dr} to the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: If you have Weapon Skill trained, Special: If you have Resilience trained,</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Remove {Dr} from the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Remove an additional {Dr} from the action’s dice pool.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

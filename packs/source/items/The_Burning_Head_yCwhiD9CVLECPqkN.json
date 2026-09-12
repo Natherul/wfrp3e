@@ -1,0 +1,99 @@
+{
+  "name": "The Burning Head",
+  "type": "action",
+  "_id": "yCwhiD9CVLECPqkN",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># A screaming, burning skull bursts from your outstretched hand or staff, streaking to the target and striking him for 4+Int {Dm} damage. This causes Fear 2 to all enemies who witness this</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 6+Int {Dm} damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>WA critical</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The magnitude of the Fear or Terror caused by this spell is increased by 1</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The Fear or Terror effect of this spell affects friend and foe alike</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 Critical. This spell causes Terror 2 instead of Fear 2</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dc} to your dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A screaming, burning skull bursts from your outstretched hand or staff, striking your target for 4+Int {Dr} damage. This causes Fear 2 to all enemies who witness this</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but 7+Int {Dr} damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Targets who fail their Fear check cannot move closer to you during their next turn</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>WA damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The Fear effect of this spell affects friend and foe alike</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>7 power. Target within medium range. If you are engaged with an enemy, add {Dr} to your dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

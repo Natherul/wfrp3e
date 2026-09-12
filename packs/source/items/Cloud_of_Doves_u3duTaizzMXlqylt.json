@@ -1,0 +1,99 @@
+{
+  "name": "Cloud of Doves",
+  "type": "action",
+  "_id": "u3duTaizzMXlqylt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>1 [Df] You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>N You may choose to extend the protection only to allies</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "4c",
+      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area is attacked, between 1 and [Df] doves (your choice) flutter up to protect him. That creature’s soak value is increased by a like amount, and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 1 recharge token to this card</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>@8 Remove 1 recharge token from this card</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may choose to affect only enemies</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "4c",
+      "requirements": "<p>9 favour. You must not have a weapon in hand (aside from a walking stick). Effect: A flight of doves fills the area out to long range around you, murmuring and fluttering about. While this blessing is recharging, each time any creature within this area performs an attack, between 1 and [Dm] doves (your choice) flutter up to distract him. That creature suffers a like amount of fatigue and you remove that many recharge tokens from this card. The doves, unfortunately, are martyred.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

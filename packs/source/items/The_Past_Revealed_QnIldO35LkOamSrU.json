@@ -1,0 +1,79 @@
+{
+  "name": "The Past Revealed",
+  "type": "action",
+  "_id": "QnIldO35LkOamSrU",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This action by {Dc} or more</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your prayers to Verena reveal an insight into the item’s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but the information is of superior quality or quantity, sufficient to grant {Da} to future Education, Folklore, Intuition, or Observation checks where the past is relevant (at GM discretion)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The information is confusing and vague. It will take you quite some time to interpret it (hours, or as long as it takes you to reach a library), and you gain no benefit until then</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>Items of great antiquity or very specific queries may increase the difficulty</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>This action by {Dr} or more</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your prayers to Verena reveal insight into the item’s past. The GM reveals a piece of information such as who owned the item most recently, where it was made, or what it was used for</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but the information is of superior quality or quantity, sufficient to grant {Da} to future Education, Folklore, Intuition, or Observation checks where the object’s past is relevant (at GM discretion)</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The information comes in the form of a rush of images, exhausting to behold. You suffer sufficient stress and fatigue to distress your Willpower and fatigue your Toughness</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your Willpower and fatigue your Toughness</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>In favour, engaged with target item. Special: Items of great antiquity or very specific queries may increase the difficulty</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

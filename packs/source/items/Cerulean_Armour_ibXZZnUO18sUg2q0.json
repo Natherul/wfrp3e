@@ -1,0 +1,81 @@
+{
+  "name": "Cerulean Armour",
+  "type": "action",
+  "_id": "ibXZZnUO18sUg2q0",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+. You cast the spell and the armour flares into existence.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>2+. Suffer 1 Misfortune Die to your next action.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>from this card to reroll 1 {Dm} or {Da} in the dice pool (do this only once per attack).</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>While Cerulean Shield spell is your recharging, gain the Improved Block action regardless of its requirements.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If engaged with an enemy, add {Dc} to the dice pool. Special: If your Cerulean Shield is recharging, reduce the difficulty modifier by 1. Effect: You are girded with crackling magical armour while this spell is recharging which counts as a suit of armour with Soak 3 and Defence 2 that does not interfere with spellcasting. When you are attacked, you may remove 1 recharge token.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4+. You cast the spell and the armour flares into existence.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 recharge tokens to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 Misfortune Die to your next action.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While your Cerulean Shield spell is recharging, you gain access to the Improved Block action regardless of its requirements.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "3c",
+      "requirements": "<p>8 power. Must perform the prepare manoeuvre. If engaged with an enemy, add {Dc} to the dice pool. Special: If your Cerulean Shield is recharging, reduce the difficulty modifier by 1. Effect: You are girded with crackling magical armour while this spell is recharging. The Cerulean Armour counts as a suit of armour with Soak 3 and Defence 2 that does not interfere with spellcasting. When you are attacked, you may remove 1 recharge token from this card to cause your attacker to suffer 1 wound.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

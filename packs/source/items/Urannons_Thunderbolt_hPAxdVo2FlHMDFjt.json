@@ -1,0 +1,93 @@
+{
+  "name": "Urannons Thunderbolt",
+  "type": "action",
+  "_id": "hPAxdVo2FlHMDFjt",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>8 power. Target within medium range. If engaged with an enemy, add {Dc} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>A bolt of lightning strikes your target for 6 + Int damage, ignoring the soak value of his armor</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and the target is pushed back from you one range increment. If this causes him to strike a solid obstacle, he suffers wounds equal to your character's Strength</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1f"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8 power. Target within medium range. If engaged with an enemy, add {Dr} to your dice pool</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>A bolt of lightning strikes your target for 6 + Int damage, ignoring the soak value of his armor</p>"
+          },
+          {
+            "symbolAmount": 4,
+            "description": "<p>As above, and the target is pushed back from you one range increment. If this causes him to strike a solid obstacle, he suffers wounds equal to your character's Strength</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 3,
+            "description": "<p>+1 damage</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Suffer 1 to your next action</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+2 damage, +1 critical</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "1c 1f"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

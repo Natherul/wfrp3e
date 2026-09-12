@@ -1,0 +1,77 @@
+{
+  "name": "Herding Instinct",
+  "type": "action",
+  "_id": "MLWaatGzxePx7PPH",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and add 1 recharge token to this card.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may add or remove 1 recharge token from any of your Pet action cards.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your pet loses 1 Obedience.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your pet moves to the engagement (but does not engage it) and herds it as described above.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, and enemies in the engagement suffer 1 stress.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You may add or remove 2 recharge tokens from any of your Pet action cards.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Your pet loses 1 Obedience.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Pet within close range of target engagement, pet within medium range of you, 1 Obedience Effect: Your pet yaps, snarls, and runs boisterously in circles, keeping the target engagement contained. While this card is recharging and your pet takes no other action, no one but you may enter the target engagement and no one but you may leave the target engagement except to engage your pet.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

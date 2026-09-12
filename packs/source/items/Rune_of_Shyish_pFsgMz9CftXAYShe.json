@@ -1,0 +1,75 @@
+{
+  "name": "Rune of Shyish",
+  "type": "action",
+  "_id": "pFsgMz9CftXAYShe",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 power, a suitable surface to inscribe the sigil upon and materials to inscribe the sigil with. Effect: You create a ward that undead and ethereal creatures cannot approach; they cannot come within close range while the spell is recharging. Powerful, free-willed undead may make an opposed Discipline (WP) check to ignore the sigil.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>6 power, a suitable surface to inscribe the sigil upon and materials to inscribe the sigil with. Effect: You create a ward that undead and ethereal creatures cannot approach; they cannot come within close range while the spell is recharging. Powerful, free-willed undead may make an opposed Discipline (WP) check to ignore the sigil.</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>44 You empower the sigil.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The sigil wards out to medium range.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>8 Suffer 2 stress.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1b"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

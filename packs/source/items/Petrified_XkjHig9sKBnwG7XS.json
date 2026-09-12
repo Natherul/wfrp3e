@@ -1,0 +1,10 @@
+{
+  "name": "Petrified",
+  "type": "condition",
+  "_id": "XkjHig9sKBnwG7XS",
+  "folder": "qs7i88Ln5pifkvJM",
+  "system": {
+    "description": "<p>You are made of stone, crystal, or metal. You cannot move or take any action. Your soak value is increased by 10, and you do not need to breathe or eat.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

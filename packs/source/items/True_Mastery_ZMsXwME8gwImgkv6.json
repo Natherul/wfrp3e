@@ -1,0 +1,87 @@
+{
+  "name": "True Mastery",
+  "type": "action",
+  "_id": "ZMsXwME8gwImgkv6",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>5+ 4 You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and add 1 recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p># 1 ally within Close range is also affected by this blessing</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You and all affected allies suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You also gain Mastery with all Advanced Skills.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess’s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above and add 1 recharge token to this card</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You gain +1 {Dc} on all Skill checks for skills affected by this blessing</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>N You also gain Mastery with all Advanced Skills.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 2f",
+      "requirements": "<p>8 favour, must perform the prepare manoeuvre Special: This blessing does not grant ranks of training, only the other benefits of Mastery. Effect: You embody the goddess’s peerless competence. While this blessing is recharging, you gain Mastery with all Basic skills</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

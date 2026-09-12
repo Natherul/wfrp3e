@@ -1,0 +1,10 @@
+{
+  "name": "Exalted Champion of Nurgle",
+  "type": "ability",
+  "_id": "eSxdiYQbbIZUaL9y",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Nurgle Paragon of Warfare: Discipline, Leadership, and Resilience trained {Dc}, Weapon Skill trained {Dc}x2 Putrefying Blade: After inflicting a critical wound, the target suffers 2 fatigue AGGRESSION CUNNING 2 6</p>"
+  },
+  "_text_fixed_by_llm": true
+}

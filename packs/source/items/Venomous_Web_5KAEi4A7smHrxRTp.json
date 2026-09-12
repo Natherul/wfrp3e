@@ -1,0 +1,77 @@
+{
+  "name": "Venomous Web",
+  "type": "action",
+  "_id": "5KAEi4A7smHrxRTp",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The targets are struck by a venomous ball of webs. Each target suffers -2 damage and gains the Entangled condition until freed. A character can free himself (or an ally can free him) with an Average (2{Da}) Athletics or Coordination check as an action. This</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The check gains a Misfortune Die. Draw 1 critical wound and suffers fatigue equal to its severity. Then return the critical to the deck.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card as the goblin riders squabble.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One goblin rider gets stuck and is flung with the web. He gains the Entangled condition and becomes engaged with the target engagement.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1f",
+      "requirements": "<p>Equipped with a flinger, target engagement within medium range. You may attack a target at long range by adding {Dc} to the dice pool. For each goblin rider, add {Dm} to the dice pool.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The targets are struck by a venomous ball of webs. Each target suffers -2 damage and gains the Entangled condition until freed. A character can free himself (or an ally can free him) with an Average (2{Da}) Athletics or Coordination check as an action. This</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The check gains a Misfortune Die. Draw 1 critical wound and suffers fatigue equal to its severity. Then return the critical to the deck.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this card as the goblin riders squabble.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>One goblin rider gets stuck and is flung with the web. He gains the Entangled condition and becomes engaged with the target engagement.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c 1f 1b",
+      "requirements": "<p>Equipped with a flinger, target engagement within medium range. Special: You may attack a target at long range by adding {Dr} to the dice pool. For each goblin rider, add {Dm} to the dice pool.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dizzying Delirium",
+  "type": "ability",
+  "_id": "tny9o4GtCa3IHw58",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Whenever you use an action card with a recharge rating (except one with the Ongoing trait), add one additional recharge token to the card. Sounds change timbre and your vision swims. It seems almost anything can trigger a fit.</p>"
+  },
+  "_text_fixed_by_llm": true
+}

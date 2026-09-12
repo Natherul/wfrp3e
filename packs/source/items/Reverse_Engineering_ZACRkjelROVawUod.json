@@ -1,0 +1,79 @@
+{
+  "name": "Reverse Engineering",
+  "type": "action",
+  "_id": "ZACRkjelROVawUod",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 You expose shoddy workmanship for what it is with few well-placed knocks from a spanner. The target item gains the 'Damaged condition</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>WA Your joy in finding flaws in the work others know no bounds. Recover 1 {Df}</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>~ You manage to filch an important part. The item can’t be repaired until the part is recovered or a new one acquired</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against character’s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You expose shoddy workmanship with a few well-placed knocks from a spanner. The target item gains the Damaged condition</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>The device’s owner or creator, if present, suffers 1 stress as you smash something dear to his heart</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>£ ® Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You manage to filch an important part. The item can’t be repaired until the part is recovered or a new one acquired</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Tools at hand, engaged with target. You must perform the prepare manoeuvre before performing this action. Special: The difficulty of this check is determined by either the skill of the character who built your target (in which case it is an opposed check against that character’s relevant skill) or the scale and complexity of the target item, as determined by the GM</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

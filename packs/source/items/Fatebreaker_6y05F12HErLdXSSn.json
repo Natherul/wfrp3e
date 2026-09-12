@@ -1,0 +1,72 @@
+{
+  "name": "Fatebreaker",
+  "type": "action",
+  "_id": "6y05F12HErLdXSSn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You focus your master’s inscrutable powers into a formidable attack, inflicting normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>above, and the target’s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Move the target’s activation token so that it is at an extreme end of its stance track (your choice of which). Then the target suffers fatigue equal to its depth in that stance. The target may perform a free manoeuvre.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 Tzeentch’s servant focuses its master’s inscrutable powers into a formidable attack, inflicting normal damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>The attack inflicts critical damage, and the target’s stance is moved one space toward a neutral stance. The target suffers equal stress to its stance depth. The target suffers 1 corruption. The target may perform a free manoeuvre.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The attacker suffers 1 wound</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: Greater Servants of Tzeentch Engaged with target</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

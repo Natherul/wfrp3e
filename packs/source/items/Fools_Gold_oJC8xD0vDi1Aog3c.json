@@ -1,0 +1,78 @@
+{
+  "name": "Fools Gold",
+  "type": "action",
+  "_id": "oJC8xD0vDi1Aog3c",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You gain {Df} on any Charm or Guile checks that involve the enchanted coins.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>M Lose 1 Power.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When the spell ends, the coins become lead instead of reverting to their original metal!</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>1 power per silver coin affected, 1 power per brass coin affected. Effect: You imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M Gain 1 Power or affect 1 extra coin.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M Gain 2 Power or affect 2 extra coins.</p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M When the spell ends, the coins become lead instead of reverting to their original metal!</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>1 power per silver coin affected, 2 power per brass coin affected. Effect: Imbue a collection of coins or other similar metal items with the essence of Chamon, turning them into gold. While this spell is recharging, the coins are gold for all intents and purposes. However, the spell is unstable and ends at the end of each act, unless you spend the power necessary to sustain it during the rally step (there is no need to make a new Spellcraft check)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

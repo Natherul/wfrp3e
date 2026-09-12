@@ -1,0 +1,95 @@
+{
+  "name": "Beguiling Persuasion",
+  "type": "action",
+  "_id": "kTl6LIhJTAmiS6Ju",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>As you speak, your words magically weave into pleasing compliments and</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>and if appropriate, you influence the target again</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Add {Dm} to all Social checks while this card is recharging</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Q You warp the mind of your target, making it hard for him to refute your case. The target gains the Perplexed condition while this card is recharging</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: If you have Guile trained, add {Dc} to the dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M As you speak, your words magically weave into befuddling and confusing arguments that leave your target too flummoxed to disagree with you. You influence the target</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>L As above, and the target suffers 1 stress or 1 shame</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># The target suffers 1 stress</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>! The target suffers 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>28 Add {Dm} to all Social checks while this card is recharging</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Q You warp the mind of your target, making it hard for him to refute your case. The target gains the Perplexed condition while this card is recharging</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Special: If you have Guile trained, add {Dr} to the dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

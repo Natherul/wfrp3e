@@ -1,0 +1,10 @@
+{
+  "name": "Tree Kin",
+  "type": "ability",
+  "_id": "1Cp9sIHO6TsxiSkI",
+  "folder": "YDWE56gwi0aZYn1y",
+  "system": {
+    "description": "<p>Forest Walk, Terror 2, Swift Flammable: If a tree kin suffers critical damage from a flaming attack, it suffers extra damage equal to the critical's severity rating. AGGRESSION 6 CUNNING 2 EXPERTISE 1</p>"
+  },
+  "_text_fixed_by_llm": true
+}

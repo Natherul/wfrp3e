@@ -1,0 +1,95 @@
+{
+  "name": "Curse of Decay",
+  "type": "action",
+  "_id": "b30y6gJoIdd6oihn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>A You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>M4 As above, and each character within close range of the target is also affected</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>When this blessing recharges, each character (other than followers of Nurgle) affected by the disease suffers fatigue equal to the disease's severity</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this action</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>hi @ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer fatigue equal to the highest severity amongst diseases afflicting you</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1b",
+      "requirements": "<p>Target within medium range. Add M to the dice pool for enemy engaged with you and {Dm} for disease suffered by characters within long range. Effect: Draw a random disease. While this</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># You invoke the blessing</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, but draw 2 diseases and choose one to apply. Discard the other £</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>When this blessing recharges, each character (other than followers of Nurgle) affected by the disease suffers fatigue equal to the disease's severity</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>Add 2 recharge tokens to this action</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer fatigue equal to the highest severity amongst diseases afflicting you</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": "1b",
+      "requirements": "<p>Targets within medium range. The dice pool target beyond the first. Effect: Draw a random disease. While this £ action is recharging, the targets suffer from that disease</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

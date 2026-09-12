@@ -1,0 +1,77 @@
+{
+  "name": "Storm Shroud",
+  "type": "action",
+  "_id": "0GYXUxWgZT8Mapit",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this action is recharging, Schulmann's Soak and Defence values are increased by an amount equal to the current stage of the Stromdorf Storm Tracker</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 additional recharge tokens on this action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Enemies engaged with Schulmann suffer 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Schulmann suffers 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "3b",
+      "requirements": "<p>Used By: Niklas Schulmann 4 power +1 power for each enemy engaged with Schulmann Special: Reduce the difficulty modifier by a number of misfortune M dice equal to the stage the Stromdorf Storm Tracker is on. £ Effect: Winds swirl around Schulmann, protecting him while keeping his enemies at bay</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>the spell 1 A and add 1 recharge token on this action</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>As above, and add 2 additional recharge tokens on this action</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Enemies engaged with you suffer 1 fatigue</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 wound</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 4,
+      "difficulty": "3b",
+      "requirements": "<p>4 power, +1 power per rank of expertise. If you are engaged with an enemy, add {Dm} to the dice pool for each misfortune die in the weather (more {Dm} for fierce or stormy weather, from {Dm} for high winds or rain, up to {Dm} for cataclysmic storms). Effect: Winds swirl around you, protecting you while keeping your enemies at bay. While this action is recharging, your Soak and Defence values are increased by your expertise rating (regardless of how many expertise dice you have remaining)</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

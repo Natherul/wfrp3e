@@ -1,0 +1,88 @@
+{
+  "name": "Great Fires of UZhul",
+  "type": "action",
+  "_id": "2idBbCJLkpwRTitd",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>M A great fiery ball flies from your hand, hitting your target for S+Int damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, not engaged with target, target within T close range. Add {Dc} to your dice pool for each enemy in the target’s engagement after the first</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>N A great fiery ball flies from your hand, hitting your target for 6+Int damage</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but for 6+Int damage instead</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>The fireball explodes, causing 2+Int damage to each other enemy in the target's engagement</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Suffer 1 stress and 1 fatigue</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You hit each other character in the engagement, friend or foe, for 2+Int damage</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>+1 damage to all targets hit</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 5,
+      "difficulty": "1c",
+      "requirements": "<p>7 power, not engaged with target, target within close range. Add {Dm} to your dice pool for each enemy in the target’s engagement after the first</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

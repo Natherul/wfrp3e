@@ -1,0 +1,91 @@
+{
+  "name": "Wings of Heaven",
+  "type": "action",
+  "_id": "wlpUtC2uE0QfCqhn",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p>You cast the spell and may immediately perform a free manoeuvre.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Add or remove a recharge token to a Celestial Order spell.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>While aloft, you suffer {Dm} to all actions, but gain +1 defence. When this spell ends, you descend gently until you land on the ground. You land during the following End of Turn phase, unless you recast Wings of Heaven to stay aloft during your next action.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>(applying the {Dm} penalty).</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>2%. When the spell wears off, you drift and land somewhere you wish you hadn't.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "2c",
+      "requirements": "<p>6 power, must be under the open sky and not encumbered. Effect: The winds of the heavens bear you. While this spell is recharging, you can fly at the same speed you can walk.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>4. You cast the spell.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>You cast the spell and may immediately perform a free manoeuvre.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>You fly very quickly, and receive an extra free movement manoeuvre on your turn. You may move between medium and long range for only a single manoeuvre.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While aloft, you suffer {Dm} to all actions, but gain +1 defence. When this spell ends, you descend gently until you land on the ground. You land at the beginning of your next turn.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>When the spell wears off, you drift and land somewhere you wish you hadn't.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 7,
+      "difficulty": "2c 2b",
+      "requirements": "<p>6 power, must be under the open sky and not encumbered. Effect: The winds of the heavens bear you aloft. While this spell is recharging, you can fly at the same speed you can walk.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

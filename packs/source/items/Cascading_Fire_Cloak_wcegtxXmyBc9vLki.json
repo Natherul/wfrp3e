@@ -1,0 +1,39 @@
+{
+  "name": "Cascading Fire Cloak",
+  "type": "action",
+  "_id": "wcegtxXmyBc9vLki",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>4 power. Engaged with target. Target must have just hit you with a Melee attack. Effect: When you are hit by a Melee attack, you may spend 4 power and place 6 recharge tokens on this card to cast this spell, targeting the enemy who has just struck you. You are surrounded by a nimbus of dancing flames; you burn your enemy for {Dc} number of wounds equal to your character's Strength attribute.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Target must have just hit you with a Melee attack. Effect: When you are hit by a Melee attack, you may spend 4 power and place 6 recharge tokens on this card to cast this spell, targeting the enemy who has just struck you. You are surrounded by a nimbus of dancing flames; you burn your enemy for {Dr} number of wounds equal to your character's Strength attribute.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

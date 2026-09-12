@@ -1,0 +1,83 @@
+{
+  "name": "True Seeing",
+  "type": "action",
+  "_id": "71HdZDxYyEVaokbW",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          },
+          {
+            "symbolAmount": 3,
+            "description": "<p></p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p></p>"
+          }
+        ],
+        "bane": [],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p></p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "2c 1b",
+      "requirements": "<p>6 power Effect: Everything is illuminated by Azyr’s light, and you see through all falsehoods. While this spell is recharging, you can see the invisible and the immaterial and see through illusions; in short, you see things as they truly are.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You cast the spell.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Gain {Df} to your next Celestial Order.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>@ Suffer 1 stress.</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p># Each time you see through an illusion or the invisible, you suffer 1 stress.</p>"
+          }
+        ],
+        "sigmarsComet": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Within medium range of you is dispelled, or one invisible thing is revealed for all to see.</p>"
+          }
+        ],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 6,
+      "difficulty": "1c 1b",
+      "requirements": "<p>4 power per target; all targets must be engaged with you (you may target yourself). Special: For each target beyond the first, add M to your dice pool. Effect: Everything is illuminated by Azyr’s light, and the targets see through all falsehoods. While this spell is recharging, the targets can see the invisible and the immaterial and see through illusions; in short, they see things as they truly are.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

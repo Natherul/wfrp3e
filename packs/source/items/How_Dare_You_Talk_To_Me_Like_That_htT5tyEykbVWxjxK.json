@@ -1,0 +1,77 @@
+{
+  "name": "How Dare You Talk To Me Like That",
+  "type": "action",
+  "_id": "htT5tyEykbVWxjxK",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, Klaus adds {Dc} to all Fellowship skill checks, and the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus’s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>adds {Dm} to checks targeting Klaus</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this action is recharging, Klaus cannot convert any of his characteristic dice into stance dice.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this card is recharging, Klaus adds {Dr} to all Fellowship skill checks, and the target</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, but the target adds {Dm} to checks targeting Klaus, and the target of his tirade suffers 1 stress. Add 1 recharge token to this action. The target of Klaus’s tirade suffers 1 stress. Remove 1 recharge token from this action.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>adds {Dm} to checks targeting Klaus</p>"
+          }
+        ],
+        "chaosStar": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>While this action is recharging, Klaus cannot convert any of his characteristic dice into stance dice.</p>"
+          }
+        ],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 1,
+      "difficulty": "",
+      "requirements": "<p>Used By: Klaus the Merchant Target within close range Special: This action uses Fellowship instead of Strength for the Intimidate check Effect: Klaus berates a PC, flaunting his station, wealth, numerous powerful allies, and the like</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

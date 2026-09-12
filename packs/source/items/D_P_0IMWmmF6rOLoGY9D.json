@@ -1,0 +1,65 @@
+{
+  "name": "D P",
+  "type": "action",
+  "_id": "0IMWmmF6rOLoGY9D",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: If you have Weapon iltr</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 If you have named ‘d an additional {Dc} to the action’s Spegml you Coordination</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>ddan addmoml {Dc} to the action’s dice</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>—‘me: you have been declared the add two redner e dice pool</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>Special: If you have Weapon iltr</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>4 If you have named ‘d an additional {Dr} to the action’s Spegml you Coordination</p>"
+          },
+          {
+            "symbolAmount": 1,
+            "description": "<p>ddan addmoml {Dr} to the action’s dice</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "",
+      "requirements": "<p>—‘me: you have been declared the add two redner e dice pool</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}

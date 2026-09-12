@@ -1,0 +1,47 @@
+{
+  "name": "Kindleflame",
+  "type": "action",
+  "_id": "8NSJWHuH1255kroo",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You must have been affected 1 > 2 power. Just or more damage to your target by means of a Bright Order spell. Take 1 additional recharge have Channelling Ma % recharge h Effect: When you deal damage to an enemy with a Bright Order spell, you may spend power and place 2 recharge tokens on the card to cast this spell. While this spell is recharging, any time your target suffers 1 damage from a Bright Order spell, he suffers 1.3 additional damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 8,
+      "difficulty": ""
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>2 power damage to your target by means of a Bright Order spell. Special: If you have Spellcraft Mastery, add 1 additional recharge token to this card. If you have Channelling Mastery, add 1 additional recharge token to this card. Effect: When you deal damage to an enemy with a Bright Order spell, you may spend 2 power and place 2 recharge tokens on this card to cast this spell. While this spell is recharging, any time your target suffers damage from a Bright Order spell, he suffers 3 additional damage</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [],
+        "bane": [],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 2,
+      "difficulty": ""
+    }
+  },
+  "_text_fixed_by_llm": true
+}

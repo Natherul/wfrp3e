@@ -1,0 +1,77 @@
+{
+  "name": "Come Face Me",
+  "type": "action",
+  "_id": "Mpwf6FVpjnKpQg5I",
+  "folder": "ivXOnATwCKlIm1Tl",
+  "system": {
+    "conservative": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You successfully evoke your target's sense of honor, compelling him to engage you. At the end of each round, while card is recharging, if he is engaged with you, he will suffer 2 stress.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, additionally, if he attacks your allies, he will take 1 additional stress and add {Dm} to any attack rolls.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target gains the Rattled condition while this card is recharging.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target gains the Inspired condition while this card is recharging.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Target within hearing distance, can understand. Special: allies outnumber the target's, add {Dc} to the dice pool. Effect: You honorably challenge your target, demanding he meet you in combat.</p>"
+    },
+    "reckless": {
+      "effects": {
+        "success": [
+          {
+            "symbolAmount": 1,
+            "description": "<p>You successfully pierce your target's pride and he exerts himself to face you in defense of his honor. At the end of each round, while this card is recharging, if he is not engaged with you, he suffers 1 fatigue.</p>"
+          },
+          {
+            "symbolAmount": 2,
+            "description": "<p>As above, additionally, if he attacks your allies, he will take 1 additional fatigue and add {Dr} to any attack rolls.</p>"
+          }
+        ],
+        "righteousSuccess": [],
+        "boon": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target gains the Demoralized condition while this card is recharging.</p>"
+          }
+        ],
+        "bane": [
+          {
+            "symbolAmount": 2,
+            "description": "<p>Your target gains the Inspired condition while this card is recharging.</p>"
+          }
+        ],
+        "chaosStar": [],
+        "sigmarsComet": [],
+        "delay": [],
+        "exertion": []
+      },
+      "recharge": 0,
+      "difficulty": "1c 1b",
+      "requirements": "<p>Target within hearing distance, can understand. Special: If your allies outnumber the target's, add {Dc} to the dice pool. Effect: You taunt and ridicule your target, demanding he meet you in combat.</p>"
+    }
+  },
+  "_text_fixed_by_llm": true
+}
