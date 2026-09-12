@@ -30,6 +30,9 @@ export default class Talent extends Item
 		faith: "TALENT.TYPES.faith",
 		order: "TALENT.TYPES.order",
 		tricks: "TALENT.TYPES.tricks",
-		social: "TALENT.TYPES.social"
+		social: "TALENT.TYPES.social",
+		influence: "TALENT.TYPES.influence",
+		mental: "TALENT.TYPES.mental",
+		command: "TALENT.TYPES.command"
 	};
 }
