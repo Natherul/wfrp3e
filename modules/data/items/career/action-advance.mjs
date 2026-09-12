@@ -31,7 +31,6 @@ export default class ActionAdvance extends CareerAdvance
 				type: "Item",
 				// Accept undefined as a valid value since fromUuidSync() fails to properly fetch an item embedded on an actor
 				// during document preparation.
-				validate: value => ["action", undefined].includes(fromUuidSync(value)?.type),
 				validationError: "must be an action"
 			})
 		};

@@ -45,7 +45,6 @@ export default class SkillAdvance extends CareerAdvance
 				type: "Item",
 				// Accept undefined as a valid value since fromUuidSync() fails to properly fetch an item embedded on an actor
 				// during document preparation.
-				validate: value => ["skill", undefined].includes(fromUuidSync(value)?.type),
 				validationError: "must be a skill"
 			}),
 			upgradeType: new fields.StringField({

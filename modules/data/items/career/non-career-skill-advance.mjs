@@ -34,7 +34,6 @@ export default class NonCareerSkillAdvance extends NonCareerAdvance
 				type: "Item",
 				// Accept undefined as a valid value since fromUuidSync() fails to properly fetch an item embedded on an actor
 				// during document preparation.
-				validate: value => ["skill", undefined].includes(fromUuidSync(value)?.type),
 				validationError: "must be a skill"
 			}),
 			value: new fields.StringField({nullable: true})
