@@ -1,0 +1,48 @@
+{
+  "name": "Mate",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/mate.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p><strong>Career Ability:</strong></p><p>Your leadership checks gain:<br><ul><li>Reduce party tension by 1</li></ul>",
+    "advanced": true,
+    "raceRestrictions": [],
+    "traits": "",
+    "primaryCharacteristics": [],
+    "careerSkills": "",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 0,
+      "talent": 0,
+      "skill": 0,
+      "fortune": 0,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 0
+    },
+    "summary": ""
+  },
+  "effects": [
+    {
+      "name": "Mate",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/mate_ability.webp",
+      "_id": "FLoPU4X6gobngagy",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Your leadership checks gain:<br><ul><li>Reduce party tension by 1</li></ul>",
+      "transfer": true,
+      "_key": "!items.effects!xX2VzFRJwrp0emUy.FLoPU4X6gobngagy"
+    }
+  ],
+  "_id": "xX2VzFRJwrp0emUy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xX2VzFRJwrp0emUy"
+}

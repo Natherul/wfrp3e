@@ -1,0 +1,43 @@
+{
+  "name": "Charlatan",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/charlatan.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Many people in the Empire have no formal education. They rely on a mixture of common sense, folklore, tradition and practical skills borne out of hard experience.</p><p>Empire folk are, by and large, insular and gossipy, but to charm and gullible, however, an individual with a practiced peddler's patter and a charming manner can often pass for a respected expert or trustworthy authority when they are really just a swindler.</p><p>There are numerous ways in which these con artists fool credulous folk into believing them. Some pretend to be merchants who require a bit of cash in order to invest in a sure fire business venture that will make everyone involved stinking rich. Others play the part of seers, divining the future in the turn of a card or a vial of potion glimpsed in a crystal ball. Some pretend to be priests, selling salvation or displays of faith healing. Among their most notorious schemes is when charlatans pose as physicians who provide miraculous cures for a handful of illnesses.</p><p>The proffered concoctions are normally little more than coloured water, perhaps spiked with stimulants in order to provide an immediate, but short-lived, feeling of improved hard experience.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Charlatan",
+    "primaryCharacteristics": [
+      "willpower",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Discipline, Guide, Leadership, Stealth",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "An unscrupulous con artist, with charm, discipline, and a knack for persuasion, the Charlatan is a master of deception and illusion, able to manipulate both people and situations to their advantage."
+  },
+  "effects": [],
+  "_id": "ZWbXzRWGb3y7bXqg",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZWbXzRWGb3y7bXqg"
+}

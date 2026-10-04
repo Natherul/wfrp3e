@@ -1,0 +1,40 @@
+{
+  "name": "Bladelord",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/bladelord.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Bladelords are warriors who have dedicated their lives to martial combat, excelling as no others on the field of battle. They are not leaders or commanders, but as individual combatants they are unparalleled. They live for the melee. Their skills are tested to the utmost, for only then do they truly know how good they are. Many bladelords serve in armies, warbands, and at the secondary to attaining glory, and a bladelord often will lend his sword-arm to worthy cause for no reward. It is enough that his deeds will be immortalized in story and his songs. The dream of the bladelord is to see his Great Swords of Hoeth are in the bloodied sword in hand, dead at his feet, and his dead enemies with honor.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "agility"
+    ],
+    "careerSkills": "Coordination, Discipline, Intuition, Observation, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "Bladelords are warriors who have dedicated their lives to martial combat, excelling as no others on the field of battle."
+  },
+  "effects": [],
+  "_id": "oz3A2KQ6cDJMpiW8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oz3A2KQ6cDJMpiW8"
+}

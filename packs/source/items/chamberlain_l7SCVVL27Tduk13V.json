@@ -1,0 +1,56 @@
+{
+  "name": "Chamberlain",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/chamberlain.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Many members of the aristocracy in the Empire have holdings that require a large staff of servants to maintain. The heads of such wealthy households prefer not to manage their servants directly. Most leave the daily administration of their mansions and estates to a chamberlain.<br><br>The chamberlain's position is a privileged one. He is spared much of the hard and repetitive graft that those under his purview perform. However, the organisation of large households is daunting. If the cleanliness of the house, the quality of the grounds, or the quality of the cooking do not meet high standards, it is the chamberlain who takes the blame. Chamberlains are often in charge of finances, as well, ensuring that staff are paid and that upkeep costs do not exceed budget.<br><br>Successful chamberlains learn the best practices of household management and are ruthless in weeding out lazy or incompetent servants. As well as governing the staff, it is the chamberlain's duty to ensure that any visitors to the manor are warmly welcomed and have their needs catered for. A chamberlain must cultivate fine manners and be prepared to flatter even the most demanding and difficult guests. Chamberlains are normally employed by merchant houses to manage the staff of their townhouses or common trading houses. Some important military or religious leaders may also employ a chamberlain to better manage their affairs.<br><br>The chamberlain is a difficult role compared to many vocations in the Empire. However, the responsibilities of the role can become too much for some, and they may be tempted to make their own fortunes, tempted to become adventurers.</p><p><strong>Career Ability:</strong></p><p>Your Social actions gain:<br><br>\u2022 Add or remove 1 recharge token from this action",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Reputation",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Discipline, Education, Guile, Intuition, Observation",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "An organized and sociable individual with ties to high society."
+  },
+  "effects": [
+    {
+      "name": "Chamberlain",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/chamberlain_ability.webp",
+      "_id": "41g0lDJolp4DEjdt",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Your Social actions gain:<br><br>\u2022 Add or remove 1 recharge token from this action",
+      "transfer": true,
+      "_key": "!items.effects!l7SCVVL27Tduk13V.41g0lDJolp4DEjdt"
+    }
+  ],
+  "_id": "l7SCVVL27Tduk13V",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l7SCVVL27Tduk13V"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Silver Helm",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/silver_helm.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>While the common citizens of Ulthuan fill the ranks of the Silver Helms, the nobles of Uhlman can satisfy a different aspect of the High Elf Army. Elven nobles have learned to fight from horseback. As regiments of knights. These Elven knights form a small but powerful part of the Phoenix King's armies, mounted upon swift Elven steeds, armoured in hardened steel, and bearing tall lances with diamond-hard tips. The Silver Helm is knighted with the silver headgear. The first Silver Helms rode with the headgear. In Aenarion in the great war of Tyrion, to his racing side even his treacherous Dark Elves sought to include them. Few Humans can equal the martial prowess of the Silver Helms, nor their superb horsemanship. Such is the trust that the Elven steeds have in their masters that they will ride unflinching into the din of battle, without so much as a spoken instruction. The bond that joins Silver Helm and Silver requires none of the gallantry or brutality that their races implement to force their ignorance into battle. For the Silver Helm Knights are true cavalry masters, and their fine steeds know their commands as if they should rained one rank 1 in order to access this career.</p><p>While the common citizens of Ulthuan fill the ranks of the Silver Helms and Arvandor, the Silver Helms that the nobles of Uhlman can satisfy a different aspect of the High Elf Army. Elven nobles have learned to fight from horseback. As regiments of knights. These Elven knights form a small but powerful part of the Phoenix King's armies, mounted upon swift Elven steeds, armoured in hardened steel, and bearing tall lances with diamond-hard tips. The Silver Helm is knighted with the silver headgear. The first Silver Helms rode with the headgear. In Aenarion in the great war of Tyrion, to his racing side even his treacherous Dark Elves sought to include them. Few Humans can equal the martial prowess of the Silver Helms, nor their superb horsemanship. Such is the trust that the Elven steeds have in their masters that they will ride unflinching into the din of battle, without so much as a spoken instruction. The bond that joins Silver Helm and Silver requires none of the gallantry or brutality that their races implement to force their ignorance into battle. For the Silver Helm Knights are true cavalry masters, and their fine steeds know their commands as if they should rained one rank 1 in order to access this career.</p><p><strong>Career Ability:</strong></p><p>All melee attacks made while mounted gain:<br>+1 damage<br> +1 damage, your mount gains 1 wind",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Animal Handling, Discipline, Resilience, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A High Elf career that is a proud and defiant warband."
+  },
+  "effects": [
+    {
+      "name": "Silver Helm",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/silver_helm_ability.webp",
+      "_id": "RZavkJVqmgCS7mRd",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>All melee attacks made while mounted gain:<br>+1 damage<br> +1 damage, your mount gains 1 wind",
+      "transfer": true,
+      "_key": "!items.effects!07hY5hO9p8Fpcm4g.RZavkJVqmgCS7mRd"
+    }
+  ],
+  "_id": "07hY5hO9p8Fpcm4g",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!07hY5hO9p8Fpcm4g"
+}

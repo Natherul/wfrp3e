@@ -1,0 +1,53 @@
+{
+  "name": "Acolyte of the True Lore",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/acolyte_of_the_true_lore.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Acolytes know that they are in their last step before reaching the Third Circle and being able to start weaving the True Wind, Qhaysd. Therefore, they hold up or stop for anything considered powerful magic. During this period, mage elves are trained by first time on rush magic casting and channeling, in a preparation for combat situations. This training comes in combination with long meditation periods where the mage communes himself with the Aethyr. The purpose behind this mystical activity is the better understanding of the mysteries held by the Aethyr, with the goal of being prepared to avoid the perils hidden in it.</p><p>Not technically yet an Elf Memes, Acolytes are still zealously held within the walls of the White Tower, and Acolytes who travel outside the White Tower alone carry usually pieces of parchment to take notes or other documents in function of their mission.</p><p><strong>Career Ability:</strong></p><p>You may socket 4 Order talents in your High Magic talent slot. You are allowed by the scriptures and your superiors to Quickcast. Now, while Quickcasting, you still gain the benefits from the previous career abilities.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Special",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Channelling, Discipline, Education, Intuition, Magical Sight, Observation, Spellcraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Acolytes of the True Lore are powerful and competent wielders of wild magic."
+  },
+  "effects": [
+    {
+      "name": "Acolyte of the True Lore",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/acolyte_of_the_true_lore_ability.webp",
+      "_id": "DYkuB9RVrE3uCy0l",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You may socket 4 Order talents in your High Magic talent slot. You are allowed by the scriptures and your superiors to Quickcast. Now, while Quickcasting, you still gain the benefits from the previous career abilities.</p>",
+      "transfer": true,
+      "_key": "!items.effects!COL3j1Xiq1tgFsm9.DYkuB9RVrE3uCy0l"
+    }
+  ],
+  "_id": "COL3j1Xiq1tgFsm9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!COL3j1Xiq1tgFsm9"
+}

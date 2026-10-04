@@ -1,0 +1,56 @@
+{
+  "name": "Demagogue",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/demagogue.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The streets of the Empire's towns and cities are filled with people who have grievances, criticisms, and warnings that they insist on preaching to anyone who will listen. Most of these folks are ignored by anyone using them with sense, but some speakers are so convincing that they regularly draw convincing that they regularly draw large crowds.<br><br>Demagogues have learned to appeal to the people. Their language is full of barbs, venom, and conspiracies designed to appeal to the common man. They are excellent at apportioning blame, playing on fears, and convincing others to adopt their point of view. Their voices boom out across town squares and market-places, attracting the inquisitive and disuntrilled. Demagogues are always prepared for their next verbal assault and arrive fested with pamphlets, booklets, and counter-arguments to that they come away the victor from any oral battle.<br><br>While demagogues can become popular, and thus more difficult to prosecute, the authorities rarely turn a blind eye to them, and all but the least intelligent can spot the most least intelligent can spot the most pertinent moment to move onwards. With the help of the gab, and the ability to talk anyone round to their with thinking, a demagogue is a valuable resource to any group of adventurers, especially those that are regulars, because they are so convincing that they regularly draw large crowds.</p><p><strong>Career Ability:</strong></p><p> Social actions as well as Charm, Guile, and Intimidate checks targeting you gain:</p><p> <span style=\"color:gray;\">Suffer one stress</span> </p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Guile, Intuition, Leadership, Observation",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "An opinionated individual with a silver tongue."
+  },
+  "effects": [
+    {
+      "name": "Demagogue",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/demagogue_ability.webp",
+      "_id": "3rODwyJeJJCvOFVe",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p> Social actions as well as Charm, Guile, and Intimidate checks targeting you gain:</p><p> <span style=\"color:gray;\">Suffer one stress</span> </p>",
+      "transfer": true,
+      "_key": "!items.effects!PgXY5W76GpQOufu7.3rODwyJeJJCvOFVe"
+    }
+  ],
+  "_id": "PgXY5W76GpQOufu7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PgXY5W76GpQOufu7"
+}

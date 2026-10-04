@@ -1,0 +1,40 @@
+{
+  "name": "Dwarf Journeyman Engineer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dwarf_journeyman_engineer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Dwarf Engineers Guild is one of the most secretive of all Dwarf institutions and over the centuries its members have honed their skills of precision engineering to a fine in any Dwarf craft. Most of their inventions are practical art. Some of their inventions are hammer pumps to clear water from any mine workings; pumps to draw rages up vertical shafts, and swain-powered hammers to beat out sheet metal. Ever since the guild's founding they have also developed machines for battle, initially the simple Bolt Thrower and Grudge Thrower but they soon mastered the art of cannon foundry making. Over time, individual Engineers, eager to make a name for themselves, have come up with even more deadly inventions to unleash upon the enemies of the Everlasting Realm.</p><p>There are many wild rumours about the way the Engineers Guild operate, many of them coming from former members of the guild. What is certain is that in times of need, the guild can provide a throng with enough skilled engineers. The most eagle eyed are known for their peers battle are commonly known by their peers as War Engineers or just Journeyman Engineers, to refer to their enthusiasm to seek advancement of their inventions. They abandon the battlefield, however, to offer viable advice on the positioning of artillery and its use. In addition, they are often carrying Dwarfs in a tight spot, often carrying the latest pistols and handguns.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Advanced, Combat, Engineer, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "willpower"
+    ],
+    "careerSkills": "Ballistic Skill, Discipling (Dwarf), Engineering, Observation, Resilience, Tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 0,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A Journeyman Engineer is expert in many fields. He is first and foremost a doughty warrior whose skill alone merits a place in any Dwarf craft. In addition, he is a consummate craftsman who can produce machinery, pumps to clear water from any mine workings, engines to draw rages up vertical shafts, and swain-powered hammers to beat out sheet metal. Ever since the guild's founding they have also developed machines for battle, initially the simple Bolt Thrower and Grudge Thrower but they soon mastered the art of cannon foundry making. Over time, individual Engineers, eager to make a name for themselves, have come up with even more deadly inventions to unleash upon the enemies of the Everlasting Realm."
+  },
+  "effects": [],
+  "_id": "JPGcTdkY7jfvIO3w",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JPGcTdkY7jfvIO3w"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ambassador",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/ambassador.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The most important nobles rarely leave the confines of the court for long. Even those that do not mind forgetting about intrigue, backstabbing, and the deals that might be brokered in their absence. Thus, powerful people and organisations often employ on their behalf representatives to act on their behalf and none holds quite so much sway, or friendly, if a little gruff, as an ambassador.<br><br>A visit from an ambassador should hold nearly as much importance as a visit from the employer himself; indeed, many who fill this role are themselves younger sons of major nobles, or career officials with extensive experience in political and financial affairs. Human ambassadors are richly dressed in the colours of their provile and travel with all manner of official ince or organisation and are schooled in manners and conversational methods for years to ensure that their patrons' wishes are confidently, and expertly conveyed.<br><br>Elven ambassadors are very rare and only dispatched on missions of the utmost importance. They are normally much much older than the average elf.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may add <input type=\"checkbox\" checked=\"checked\" /> to any Charm or Education check.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Advanced Career: Any Race",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Discipline, Education, Folklore, Guile",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "An ambassador: A skilled advisor and negotiator, and expert in foreign policy."
+  },
+  "effects": [
+    {
+      "name": "Ambassador",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/ambassador_ability.webp",
+      "_id": "EYpcXErZCok9S2i2",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may add <input type=\"checkbox\" checked=\"checked\" /> to any Charm or Education check.</p>",
+      "transfer": true,
+      "_key": "!items.effects!BF75aRsxwRgTsOpc.EYpcXErZCok9S2i2"
+    }
+  ],
+  "_id": "BF75aRsxwRgTsOpc",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!BF75aRsxwRgTsOpc"
+}

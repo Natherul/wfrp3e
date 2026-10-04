@@ -1,0 +1,53 @@
+{
+  "name": "Wardancer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/wardancer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The deities of the elves of pantheon are incredibly contradictory figures, none more so than the god Loe. He is known as the Dance of the Shadows, and is personified by laughter and trickery. Such acts are sacred to him, and lift the hearts of believers from the grasp of Chaos and despair. Loe has a complex dance of darker side, associated with revenge, deception, and darkness, but they honour their gods equally. The wardancers are an elite wood elf warrior caste. They practice a style of close quarters fighting that relies on athleticism to provide protection, rather than cumbersome suits of armour. Such is their speed and grace that they cavort about their foes, darting in to strike blows and then pirouetting out of reach. To an out-servicing, but an out-serving, side observer a wardancer's assault may seem random, but their acrobatic, reckless, and audacious art. The training needed to achieve such prowess is long and arduous. Only youthful elves are normally accepted as novice wardancers. In peaceful times wardancers spend their time learning and performing tactical dances. Wardancers travel in groups, journeying through the secret and dangerous tracks of the Dance of the Shadows, and visit the sacred cairns and different wood elf kinbands to provide information, pass along wood elf lore through their complex dances, and provide entertaining distractions.</p><p>Wardancers travel in groups, journeying through the secret and dangerous tracks of the Dance of the Shadows, and visit the sacred cairns and different wood elf kinbands to provide information, pass along wood elf lore through their complex dances, and provide entertaining distractions.</p><p><strong>Career Ability:</strong></p><p>When one of your Melee Attacks inflicts at least one critical wound, you may immediately flip one of you currently recharging action cards so the opposite stance side is revealed. The number of recharge tokens on the card remains the same.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "woodElf"
+    ],
+    "traits": "Basic, Combat, Ritual Dancer, Tactical",
+    "primaryCharacteristics": [
+      "agility",
+      "willpower"
+    ],
+    "careerSkills": "Athletics, Coordination, Discipline, Lore, Nature Lore, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A lightly armoured but incredibly athletic and graceful warrior."
+  },
+  "effects": [
+    {
+      "name": "Wardancer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/wardancer_ability.webp",
+      "_id": "aSaiaSbWeF6sVf0d",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>When one of your Melee Attacks inflicts at least one critical wound, you may immediately flip one of you currently recharging action cards so the opposite stance side is revealed. The number of recharge tokens on the card remains the same.</p>",
+      "transfer": true,
+      "_key": "!items.effects!VLp4iAO3DejXojxK.aSaiaSbWeF6sVf0d"
+    }
+  ],
+  "_id": "VLp4iAO3DejXojxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VLp4iAO3DejXojxK"
+}

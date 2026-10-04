@@ -1,0 +1,53 @@
+{
+  "name": "Journeyman Runesmith",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/journeyman_runesmith.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>It's good. But not good enough. You can see if they can discover something new. You can often be dangerous to be around such tinkers, as an accident can unleash a terrible magical explosion.</p><p>Journeyman Runesmiths complete the fundamentals of their training and are elevated by their master to learn the unacceptable, but very rare, and utterly mysterious secrets of their craft. Instead of reading them, these Runesmiths are expected to venture out into the world in search of ancient magical treasures to bring back for study. Furthermore, these Dwarfs must take their accumulated knowledge and learn additional Runes from their independent study and experimentation. At the end of the Runesmithman period, the Runesmith may return to his master to demonstrate his skill. If found worthy, the master might elevate the student to the full status of Master Runesmith and teach him the secrets of the Master Runes.</p><p>Journeymen often try to find things someone else in their family has done, or at least not recently. Some will try travel hundreds of miles to attach themselves to Tilean or K Kislevite humans. Others experiment boldly, trying a hundred different variations on the same rune to discover something new.</p><p><strong>Career Ability:</strong></p><p>You may create runic items with up to three runes each.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Discipline, Education, Intuition, Observation, Trade",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 3,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "A skillful runesmith of renown, capable of discovering new runes if they can discover something new."
+  },
+  "effects": [
+    {
+      "name": "Journeyman Runesmith",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/journeyman_runesmith_ability.webp",
+      "_id": "bCJHjcalbMiCCS6D",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You may create runic items with up to three runes each.</p>",
+      "transfer": true,
+      "_key": "!items.effects!SZU76dQL2F6A8PPL.bCJHjcalbMiCCS6D"
+    }
+  ],
+  "_id": "SZU76dQL2F6A8PPL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SZU76dQL2F6A8PPL"
+}

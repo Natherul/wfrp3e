@@ -1,0 +1,53 @@
+{
+  "name": "Dwarf Lord",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dwarf_lord.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>While the thanes of the Dwarves of the Dwarf holds may have some local authority and prestige, most Dwarf Lords have influenced entire clans, or even throughout an entire empire, in some cases including mines, and have absolute power over it. Dwarf Lords own a vast portion of a Karak, and have kept their tongues sharp, help to compose their local legislation, and contribute to the ruling and policing of their clan, or solving conflicts concerning the whole Karak, through the intrigues of the courtly system. They must also resolve the local disputes and dispense justice as judges, jury, and executioner through-out their territories. Most dwarf Lords remain quick-witted and in physical health even in later years. They enjoy the thrill of the fight and marching into battle with fellow clan dwarf to defend their hold. Dwarf Lords tend to travel away from their holds to travel as envoy or ambassadors with the purpose to open new diplomatic breakthroughs or establish new profitable mercantile treaties. The reason for their absence must be a good one, for the maintenance of capable stewards, tax collectors and militia is expensive. Most dwarf Lords dress with incredible adorned armours, even when traveling, and owned only the finest clothing, often made of mink, velvet, or some other rare fabrics. They usually carry some seal of office or made wear a chamberlain to add to the imposing effect. Usually the work is directed when the lord is away and the mine is worked by local dwarf miners. On the contrary, Dwarf Lords from fallen clans own little.</p><p><strong>Career Ability:</strong></p><p>You gain <b>1</b> to all melee actions targeting any enemy against whom you hold a grudge.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "intelligence"
+    ],
+    "careerSkills": "Charm, Education, Leadership, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 2,
+      "skill": 1,
+      "fortune": 2,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A lore description of the career in HTML <p>tags."
+  },
+  "effects": [
+    {
+      "name": "Dwarf Lord",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/dwarf_lord_ability.webp",
+      "_id": "apFPC49f4XqGuKVX",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain <b>1</b> to all melee actions targeting any enemy against whom you hold a grudge.</p>",
+      "transfer": true,
+      "_key": "!items.effects!ytFYDTmziWB6BHeb.apFPC49f4XqGuKVX"
+    }
+  ],
+  "_id": "ytFYDTmziWB6BHeb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ytFYDTmziWB6BHeb"
+}

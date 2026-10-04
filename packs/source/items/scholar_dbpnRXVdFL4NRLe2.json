@@ -1,0 +1,55 @@
+{
+  "name": "Scholar",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/scholar.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Within the universities of the Empire students strive to understand the many basics of the subjects taught. Many students fail to fully grasp the intricacies of their chosen discipline, but those few who do are recognized as masters in their field and are given qualifications to prove it. These scholars seek to increase their knowledge further, and often remain in academia to further their studies and to lecture about their thoughts to the next generation of students. Subjects that scholars dedicate their lives to understanding include: History - the study of the wars the Empire has won and the innovations its rulers have patronized. Wars that the Empire lost, or foreign innovations, are not subject to particular scrutiny. Bestiaria - the study of the animals and plants of the world. The scholar of bestiaria will be able to divulge the bestiary's vital statistics, diet and reproductive methods of organisms ranging from humble mould to the Black Leviathan. Breviary - the study of great works written by poets, playwrights and the Tilean literate. Typical Trappings: Scholars carry a learning kit and a sheaf of notes scrawled on parchment. They often carry candles or a small lantern so they can continue their studies and musings well after dark.</p><p>Philosophy - the art of seeking to understand the manner in which men behave in a civilised society. Some scholars argue that there are better ways to live, though they are usually ignored.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may substitute your Intelligence for Willpower or Fellowship during a skill check</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf"
+    ],
+    "traits": "Academic, Intermediate, Specialist, Urban",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "discipline, education, folklore, nature lore, tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 0,
+      "talent": 3,
+      "skill": 0,
+      "fortune": 3,
+      "conservative": 4,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "An especially well educated and learned individual."
+  },
+  "effects": [
+    {
+      "name": "Scholar",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/scholar_ability.webp",
+      "_id": "9KRYL4dQESMhIt5p",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may substitute your Intelligence for Willpower or Fellowship during a skill check</p>",
+      "transfer": true,
+      "_key": "!items.effects!dbpnRXVdFL4NRLe2.9KRYL4dQESMhIt5p"
+    }
+  ],
+  "_id": "dbpnRXVdFL4NRLe2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dbpnRXVdFL4NRLe2"
+}

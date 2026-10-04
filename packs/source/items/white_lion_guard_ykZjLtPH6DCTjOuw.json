@@ -1,0 +1,53 @@
+{
+  "name": "White Lion Guard",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/white_lion_guard.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The White Lion Guards are the personal guard of the Phoenix King. They form as a substantial number of regiments, that protect the King's palace in wartime and accompany him in time of peace. Traditionally the White Lions are recruited from the rugged inhabitants of Chrace, a perilous realm whose inhabitants are great woodsmen and fierce warriors. Those woodsmen of Chrace who prove themselves worthy to become a member of the King's elite bodyguard are known as White Lions. Within the White Lions corps, the most veteran, brave, and fearless ones are known as White Lion Guard, or just as a Guardians. These White Lions have faced countless threats, have faced endless enemies and endured every danger they have encountered. They are among the mightiest Elves in all of Ulthuan, and certainly their strength is legendary. Yet, they are no longer legendary, for they wield their long axes with dexterity and grace that makes even fellow White Lions appear cumbersome.</p><p>White Lion Guard are renowned for their unflinching courage in the face of beasts like none other. No 1 speaks not of the War Lion but of its White Lion master. These warriors are known as leaders among their kin, among who they are highly regarded as because of their sacrifice, honour, loyalty and implication.</p><p><strong>Career Ability:</strong></p><p>Once per encounter you can take a critical wound suffered by an engaged ally. If you have mastery in Resilience you may choose, instead of its effect, to receive an amount of normal wounds equal to its critical severity rating.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "fellowship"
+    ],
+    "careerSkills": "Animal Handling or Leadership, Discipline, Intimidate, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 0,
+      "reckless": 1,
+      "wound": 3
+    },
+    "summary": "A career feared in the battlefield."
+  },
+  "effects": [
+    {
+      "name": "White Lion Guard",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/white_lion_guard_ability.webp",
+      "_id": "O2tpHYsJgNGcRW5b",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per encounter you can take a critical wound suffered by an engaged ally. If you have mastery in Resilience you may choose, instead of its effect, to receive an amount of normal wounds equal to its critical severity rating.</p>",
+      "transfer": true,
+      "_key": "!items.effects!ykZjLtPH6DCTjOuw.O2tpHYsJgNGcRW5b"
+    }
+  ],
+  "_id": "ykZjLtPH6DCTjOuw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ykZjLtPH6DCTjOuw"
+}

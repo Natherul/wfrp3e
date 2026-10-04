@@ -1,0 +1,59 @@
+{
+  "name": "Knight",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/knight.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A knight may take to a life of adventure in the process of performing his duties. He might be tasked with locating a missing relic of the order, or charged to go forth and represent the order on the battlefield and to the common folk by display of his skill and courage.</p><p>A knight can take to a life of adventure in the process of performing his duties. He might be tasked with locating a missing relic of the order, or charged to go forth and represent the order on the battlefield and to the common folk by display of his skill and courage.</p><p><strong>Career Ability:</strong></p><p>You have a mighty warhorse, with whom you have a special bond. Take the Battle-Bred Warhorse follower sheet. Should your horse die or be stolen, you lose access to this ability until you form a similar bond with a new horse</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": [
+      "Discipline",
+      "Leadership",
+      "Piety",
+      "Ride",
+      "Weapon Skill"
+    ],
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "An exceptional career fighter trained as a heavy cavalryman."
+  },
+  "effects": [
+    {
+      "name": "Knight",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/knight_ability.webp",
+      "_id": "bULtGzCCSVFk7KNc",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You have a mighty warhorse, with whom you have a special bond. Take the Battle-Bred Warhorse follower sheet. Should your horse die or be stolen, you lose access to this ability until you form a similar bond with a new horse</p>",
+      "transfer": true,
+      "_key": "!items.effects!bgMytzbDEZIFrAag.bULtGzCCSVFk7KNc"
+    }
+  ],
+  "_id": "bgMytzbDEZIFrAag",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bgMytzbDEZIFrAag"
+}

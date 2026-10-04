@@ -1,0 +1,53 @@
+{
+  "name": "Giant Slayer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/giant_slayer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A formidable dwarf warrior, one step further along the Slayer path of monsters that these redoubtable death seekers consider worth a worthy foe.</p><p>Many Soldiers become obsessed with their having their final moments witnessed a glorious death. Slayers vow to confront the enemy of their dwarf's glorious doom back into their clan or stronghold. As a result, they often die trying. Most of those undertaking the Slayer's Oath soon meet the doom they desire. The dwarf race has many enemies, and innumerable Slayers have met their end by disappearing into the tunnels infested by goblins or worse creatures that riddle many lost dwarf holds. Some, the Slayers, despite their efforts, fail to meet an appropriate doom because they are a skilled enough doom because they have so far faced all the foes they have so far faced.</p><p>Slayers who win every battle they fight are something of a paradox. On the one hand, they are warriors of some renown. On the other hand, they are considered to be failures, who have been unsuccessful in finding the enemy they swore to seek. These veteran Slayers become known as the sort known as Giant Slayers, giants being the sort defeated in battle.</p><p><strong>Career Ability:</strong></p><p>You inflict +1 damage with all Melee Attack actions</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Fanatic, Intermediate, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Athletics, Intimidate, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 3
+    },
+    "summary": "A formidable dwarf warrior, one step further along the Slayer path of monsters that these redoubtable death seekers consider worth a worthy foe."
+  },
+  "effects": [
+    {
+      "name": "Giant Slayer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/giant_slayer_ability.webp",
+      "_id": "GAee0VFkMpkIBFwH",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You inflict +1 damage with all Melee Attack actions</p>",
+      "transfer": true,
+      "_key": "!items.effects!J7uXT4VA5JXJNz76.GAee0VFkMpkIBFwH"
+    }
+  ],
+  "_id": "J7uXT4VA5JXJNz76",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!J7uXT4VA5JXJNz76"
+}

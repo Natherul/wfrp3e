@@ -1,0 +1,53 @@
+{
+  "name": "Warlock",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/warlock.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Those witches fortune enough to escape the persecution of their time or the undead zeal of the dogged munities or the dogs of the Witch Hunters may find their strange powers slowly growing over time. As a witch practises unsanctioned magic, the winds of magic wildly through their bodies. Such exposure to the raw essence of magic begins to take its toll. Provided with training and experience by the Colleges of Magic, witches pay a high price for such power. Soon, their bodies invariably begin to show the signs of corruption, and mutation is inevitable soon to show its true face.</p><p>Far more become embittered and spiteful toward those they once called friends. Still others find themselves driven by paranoia, delusion, or wrath, and turn their growing powers against those that previously shunned or persecuted them. Regardless, the life of a warlock is a dangerous, precarious, dangerous career.</p><p><strong>Career Ability:</strong></p><p>You gain +1 corruption threshold. Before rolling dice to cast a spell, you may voluntarily add <span class=\"corruption\">+</span> to the results in order to add <span class=\"corruption\">+</span> to the check required to cast the spell.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Arcane, Intermediate, Rural, Witch",
+    "primaryCharacteristics": [
+      "toughness",
+      "willpower"
+    ],
+    "careerSkills": "Channelling, Folklore, Intuition, Magical Sight, Resilience, Spellcraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 3,
+      "skill": 3,
+      "fortune": 2,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "A self taught sorcerer whose power grows with greater risks."
+  },
+  "effects": [
+    {
+      "name": "Warlock",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/warlock_ability.webp",
+      "_id": "LNvbGEknnTySXk8y",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain +1 corruption threshold. Before rolling dice to cast a spell, you may voluntarily add <span class=\"corruption\">+</span> to the results in order to add <span class=\"corruption\">+</span> to the check required to cast the spell.</p>",
+      "transfer": true,
+      "_key": "!items.effects!lrS97q7en543XEwh.LNvbGEknnTySXk8y"
+    }
+  ],
+  "_id": "lrS97q7en543XEwh",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!lrS97q7en543XEwh"
+}

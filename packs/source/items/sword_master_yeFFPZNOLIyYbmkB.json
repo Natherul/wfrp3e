@@ -1,0 +1,53 @@
+{
+  "name": "Sword Master",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/sword_master.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>One of the most impressive of the many wonders in the land of Ulthuan is the White Tower of Hoeth, a tall, slender structure that spirals high into the sky. The tower was commissioned by the School King Bel-Korhadris, and designed to be a repository of knowledge and magical lore. The tower was also built in honour of Hoeth, the eleven god of wisdom, and it houses his greatest shrine. The Sword Masters are the guardians of the White Tower. Sword Masters are famous for their ability with their greatsword, the greatsword of Hoeth. These are expertly crafted ceremonial blades of considerable size, wielded with both hands. In extreme circumstances, a Sword Master might even travel as far as the Empire to serve in the travel of a travelling scholar or to seek out previously undiscovered martial techniques. Sword Masters spend much of their lives honing their skills and their fighting practising great feats of arms. It is rumoured that the greatest Sword Masters can slice a candle in half without disturbing the flame or fight an enemy in the dark guided only by the sound of his breathing. What Masters spend little time they do not dedicate to training, the Sword Masters spend in conversation with Tower lore.</p><p><strong>Career Ability:</strong></p><p>You have a Greatsword of Hoeth. Take the Greatsword of Hoeth item card. You cannot give away, sell, lend, or trade this sword</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "agility"
+    ],
+    "careerSkills": "Coordination, Discipline, Intuition, Leadership, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A highly skilled, well-trained High Elf swordsmaster, learning all they can about the art of war."
+  },
+  "effects": [
+    {
+      "name": "Sword Master",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/sword_master_ability.webp",
+      "_id": "0ZoEbk8CoVAXMdp9",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You have a Greatsword of Hoeth. Take the Greatsword of Hoeth item card. You cannot give away, sell, lend, or trade this sword</p>",
+      "transfer": true,
+      "_key": "!items.effects!yeFFPZNOLIyYbmkB.0ZoEbk8CoVAXMdp9"
+    }
+  ],
+  "_id": "yeFFPZNOLIyYbmkB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yeFFPZNOLIyYbmkB"
+}

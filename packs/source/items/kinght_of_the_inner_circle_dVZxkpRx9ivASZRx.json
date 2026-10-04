@@ -1,0 +1,40 @@
+{
+  "name": "Knight of the Inner Circle",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/kinght_of_the_inner_circle.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>While every knight is an elite warrior, trained to the highest standards and equipped with the best weapons and armor by the knightly order, they look up to those veterans within their ranks who have attained the right to sit within the inner circle. The inner circle is composed of knights who have sought for the length of time and earned a certain amount of renown. The criteria for earning the right to join the inner circle vary depending on the knightly order in question. For example, the White Wolves place emphasis on proving to be a mighty warrior in battle. The Order of the Fiery Heart places more importance on completing quests or single-handedly slaying goblins. The Order of the Blazing Sun is more interested in knights that show courage and sound tactical decision making. Whatever the exact criteria, all inner circle knights are consummate warriors and their regiments are equal to those fielded by the Empire. This aside, from the inner circle, knights of other orders are cause for much rivalry between them.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Advanced, Combat, Military, Social",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Discipline, Leadership, Piety, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A knight of the inner circle is a sole occasion. An inner circle knight circle may be made to sit within the inner circle."
+  },
+  "effects": [],
+  "_id": "dVZxkpRx9ivASZRx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dVZxkpRx9ivASZRx"
+}

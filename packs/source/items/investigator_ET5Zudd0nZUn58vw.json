@@ -1,0 +1,56 @@
+{
+  "name": "Investigator",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/investigator.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>In the towns of the Empire, the watch defend the streets, respond to threats when they are alerted to them or confronting criminals on patrol. Few watch forces are equipped to carefully investigate crimes after they have occurred, and they haven't the time or expertise to infiltrate gangs or piece together complex clues to unravel their secrets. Investigation as an occupation is a fairly recent occurrence in the Empire. However, today a small but growing number of mercenary investigators work through out the Empire to look into unsolved crimes or suspicious activity. They tend to be more discriminating hunters and meticulous than hucksters. The best of them, such as the Marien-burger Sam Warble, can command large fees for their services. These investigators use tools such as magnifying glasses and lock picks in order to uncover clues. They may use spying equipment such as small telescopes, command consoles, or homing pigeons in order to make important clues or evidence from interviews. Once they have discovered enough evidence to make a clear case, they report back to their paymasters with the information that they have gathered. Some of the larger watch forces have paid investigators on their tomes. Any Watcher of the Cult of Verena sometimes uses their knowledge of the Empire's Order of Mysteries to often track lost libers and homes of knowligible miscarriages of justice in the Empire.</p><p>Investigator</p><p>A perceptve individual who can get to the bottom of things</p><p><strong>Career Ability:</strong></p><p>When spending fortune points on an Intuition or Observation check, add <span style='color: yellow'>\u25a1</span> instead of <span style='color: gray'>\u25a1</span> for each fortune point spent</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Education, Folklore, Intuition, Observation, Skulduggery, Stealth",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 2,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "A perceptve individual who can get to the bottom of things."
+  },
+  "effects": [
+    {
+      "name": "Investigator",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/investigator_ability.webp",
+      "_id": "CNYBJ1Z9DEqseQ9D",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>When spending fortune points on an Intuition or Observation check, add <span style='color: yellow'>\u25a1</span> instead of <span style='color: gray'>\u25a1</span> for each fortune point spent</p>",
+      "transfer": true,
+      "_key": "!items.effects!ET5Zudd0nZUn58vw.CNYBJ1Z9DEqseQ9D"
+    }
+  ],
+  "_id": "ET5Zudd0nZUn58vw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ET5Zudd0nZUn58vw"
+}

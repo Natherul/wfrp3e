@@ -1,0 +1,53 @@
+{
+  "name": "Demon Slayer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/demon_slayer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>That weren't so tough. Wake me up when I find something worthy of my axe.<br><br>In every generation there are one or two Slayers that cannot seem to find the unworthy foes; the dwarfs might hold it worth their death they crave. At every turn, destiny cheats them or perhaps, drives them forward, and as the long years pass, they grow more and more fierce, determined to find the mighty doom that awaits them. When all demons finally meet their doom, his surviving companions should decide how to honour him. It would certainly be remiss of them not to contact the dwarf's family and old associates to tell them of his passing.<br><br>Such a journey could be perilous in itself, as the dwarf holds lie in remote mountaintides. The reception may not be a warm one either, and if the news is bad, it could be fatal. But the rewards are great, and the legacy of the Slayer is one of the most feared in the Old World. The Slayers of Chaos. Daemon Slayers are the frightening individuals. They are barely sane at best, the shame of their continuing survival weighing on their thoughts, yet they're also among the greatest warriors that the Old World has ever known.</p><p><strong>Career Ability:</strong></p><p>If you have Resilience mastery you gain +1 soak.<br>When the This Will Be a Glorious Death action card is recharging you cannot be KO'd.",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Fanatic",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Athletics, Intimidate, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 3
+    },
+    "summary": "A Demon Slayer is a dwarf equipped with little less than his legendary dwarfs weapons, normally axes of various sizes."
+  },
+  "effects": [
+    {
+      "name": "Demon Slayer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/demon_slayer_ability.webp",
+      "_id": "dgSFyXnNu51WQ32i",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>If you have Resilience mastery you gain +1 soak.<br>When the This Will Be a Glorious Death action card is recharging you cannot be KO'd.",
+      "transfer": true,
+      "_key": "!items.effects!IAMYD3wmY3nvCEQz.dgSFyXnNu51WQ32i"
+    }
+  ],
+  "_id": "IAMYD3wmY3nvCEQz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IAMYD3wmY3nvCEQz"
+}

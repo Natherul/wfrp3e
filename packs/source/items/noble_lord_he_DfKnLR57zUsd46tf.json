@@ -1,0 +1,55 @@
+{
+  "name": "Noble Lord",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/noble_lord_he.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Noble lords have inherited the vast majority of the Empire's power, although some men have known them to claw their way up the social ladder through great deeds or great bribery. Noble lords own a tract of land and have absolute power over their Commoners till the fields and syphocantical servants attend to the lord's houses and interests. The upper echelons of the landed gentry have varied lives. Noble lords are expected to keep their tongues sharp, help to compose their local legislation, and contribute to the ruling and policing of their province, or even the Empire itself, through the court system. They must also resolve local disputes and dispense justice as judge, jury, and executor through-out their career. Most noble lords remain quite quack-witted and in good physical health even into their later years. They enjoy the thrill of the hunt and riding into battle with knightly orders to defend their lands.</p><p>Noble lords tend to travel away from their lands to travel as envoy or ambassadors with the purpose to open new diplomatic bounds or establish new mercantile treaties. The reason for their absence must be a good one, for the maintenance of capable stewards, tax collectors and militia is expensive. Foreign lords often find a quite commoners till the fields and syphocantical servants attend to the lord's houses and interests. The usual where they respect they enjoyed in their home lands is not to be found anymore, and must be normally harvested from zero.</p><p><strong>Career Ability:</strong></p><p>You gain <b>Noble Lord</b> to all Social actions and Fellowship checks targeting anyone with a noble rank lower than yours.<br><br>In the case of a foreign noble lord, this ability can only be used within the Brass Tier to trigger the Universal Effects.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Education, Leadership, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Noble lords inherit the vast majority of the Empire's power, although some men have known them to claw their way up the social ladder through great deeds or great bribery."
+  },
+  "effects": [
+    {
+      "name": "Noble Lord",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/noble_lord_he_ability.webp",
+      "_id": "As3Mua289QtgxEYw",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain <b>Noble Lord</b> to all Social actions and Fellowship checks targeting anyone with a noble rank lower than yours.<br><br>In the case of a foreign noble lord, this ability can only be used within the Brass Tier to trigger the Universal Effects.</p>",
+      "transfer": true,
+      "_key": "!items.effects!DfKnLR57zUsd46tf.As3Mua289QtgxEYw"
+    }
+  ],
+  "_id": "DfKnLR57zUsd46tf",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DfKnLR57zUsd46tf"
+}

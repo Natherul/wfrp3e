@@ -1,0 +1,54 @@
+{
+  "name": "Admiral",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/admiral.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Commanding a fleet of ships, Admirals are the true lords of the sea. While most are employed by one of the navies of the Old World, some Admirals are pirates of the Old World, some are admirals of a flotilla of bloodthirsty marauders. Many Sea Captains envy their position, so Admirals must be quick-witted and charismatic to see off attackers; after all, once at sea, almost anything can happen, and only the survivors can tell the tale. Because of this, many Admirals are paranoid and most are quick to end any imagined mutiny with their loyal Marines or Pirates. The admiral's flagship is the largest in the fleet. In battle, the admiral supervises operations from the elevated fore or aft deck of his flagship. Orders are conveyed to the captains of other ships by a signalman, using patterned flags. Signal flags are hoisted up the flagship's mast when the fleet is operating in formation, such as during a naval blockade, or when communicating with approaching fleets. In communications of poor visibility, the signalman uses a hooded lantern or carrier pigeon.</p><p><strong>Career Ability:</strong></p><p>Once per encounter you may suffer <b>2 stress to add</b> to any <i>Guile</i>, <i>Intimidate</i>, or <i>Leadership</i> check.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Education, Discipline, Guile, Intimade, Intuition, Leadership",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Admirals are the true lords of the sea, commanding a fleet of ships and often targeted in battle with the purpose of disrupting fleet traffic."
+  },
+  "effects": [
+    {
+      "name": "Admiral",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/admiral_ability.webp",
+      "_id": "uMrIqbImyteNj2Qg",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per encounter you may suffer <b>2 stress to add</b> to any <i>Guile</i>, <i>Intimidate</i>, or <i>Leadership</i> check.</p>",
+      "transfer": true,
+      "_key": "!items.effects!FA3edRlGX4laj1gS.uMrIqbImyteNj2Qg"
+    }
+  ],
+  "_id": "FA3edRlGX4laj1gS",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FA3edRlGX4laj1gS"
+}

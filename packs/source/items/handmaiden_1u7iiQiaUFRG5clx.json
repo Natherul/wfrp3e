@@ -1,0 +1,52 @@
+{
+  "name": "Handmaiden",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/handmaiden.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Handmaidens of the Everqueen are not merely courtiers and advisors, but a warrior guard whose duty is to serve and protect their mistress. With great natural gifts are chosen: the most talented singers and musicians, the most beautiful, the fleetest and most graceful, but above all the most loyal.</p><p>The Handmaiden Guard are chosen by the Everqueen herself to become her most trusted guards. It is an incomparable honor to serve Everqueen, and those bound to her side will remain there for seven years, during which time they foreswear all other companionship and even the company of their families. The only elf of maiden who remains for longer than this period this period is the Captain of the Handmaidens.</p><p>In Avelorn it is the dream of every young maiden to become a Maiden Guard, not only because of the honor, and the fact that they are in the good graces of the Everqueen herself, but often also because they are trained to the equal of an Elf knight in martial arts and skills with the spear and bow. The skills with the spear and bow. The maiden guard are advisors and guards of the Everqueen.</p><p><strong>Career Ability:</strong></p><p>Upon acquiring the weapon skill specialization Spears (or pole arms). Treat any spear you wield as having CR 2 and ignore the Unreliable 2 quality.</p>",
+    "advanced": true,
+    "raceRestrictions": [],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "agility",
+      "fellowship"
+    ],
+    "careerSkills": "Ballistic Skill, Charm, Coordination, Discipline, Observation, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 0,
+      "wound": 2
+    },
+    "summary": "The Handmaidens are warriors of rare power even amongst the High Elves, being skilled with all manner of weapons, but their weapon of choice is unmatched skill."
+  },
+  "effects": [
+    {
+      "name": "Handmaiden",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/handmaiden_ability.webp",
+      "_id": "eA6VHUKS1wBODW8P",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Upon acquiring the weapon skill specialization Spears (or pole arms). Treat any spear you wield as having CR 2 and ignore the Unreliable 2 quality.</p>",
+      "transfer": true,
+      "_key": "!items.effects!1u7iiQiaUFRG5clx.eA6VHUKS1wBODW8P"
+    }
+  ],
+  "_id": "1u7iiQiaUFRG5clx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1u7iiQiaUFRG5clx"
+}

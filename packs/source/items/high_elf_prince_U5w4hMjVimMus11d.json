@@ -1,0 +1,53 @@
+{
+  "name": "High Elf Prince",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/high_elf_prince.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>High Elf Princes are members of the highest of noble with actual power and responsibility, not only in their natal region but often also their influence extends to other regions of Ulthuan or even in the courts where they find the that they have a hard time remaining of the Empire in the Old World. Some inherit their positions, whereas others forceclaw their way to their, all of them strong-willed, adept public speakers, and skilled fighters. They must be adept at resolving local disputes, negotiating court politics, and some of the most powerful Princes in the field. Some ancient familiar families of noble blood, from the Loremaster of Hoeth. Among them, those with the Blood of Aenarion can be found.</p><p>High Elf Princes are only allowed in political power to more powerful princes and of Hoeth. Nonetheless, they still ruled by the law governing all the elf society. Indeed, once informed of a prince\u2019s bad behaviour, his peers will tend to make an example of him. However they usually extends to withdrawal of keeps. They have all kinds of hunting hounds. All kinds of hunting hounds, having some even elven magical luxury objects, including a family heirloom, or a present from the Loremaster of Hoeth.</p><p><strong>Career Ability:</strong></p><p>Once per session, when you influence a target, you and your allies recover 2 stress and 2 fatigue each.<br><br>When in a foreign civilized land, during social interactions, you are fully recognize as a noble. Apply the rules for nobles as they appear in <i>Lure of Power.</i></p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Elite, Noble, Prince, Social",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Education, Intuition, Leadership, Discipline, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "High Elf Princes are members of the highest of noble with actual power and responsibility, not only in their natal region but often also their influence extends to other regions of Ulthuan or even in the courts where they find the that they have a hard time remaining of the Empire in the Old World. Some inherit their positions, whereas others forceclaw their way to their, all of them strong-willed, adept public speakers, and skilled fighters. They must be adept at resolving local disputes, negotiating court politics, and some of the most powerful Princes in the field. Some ancient familiar families of noble blood, from the Loremaster of Hoeth. Among them, those with the Blood of Aenarion can be found."
+  },
+  "effects": [
+    {
+      "name": "High Elf Prince",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/high_elf_prince_ability.webp",
+      "_id": "Sdn2AUBGRHSbNeYC",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, when you influence a target, you and your allies recover 2 stress and 2 fatigue each.<br><br>When in a foreign civilized land, during social interactions, you are fully recognize as a noble. Apply the rules for nobles as they appear in <i>Lure of Power.</i></p>",
+      "transfer": true,
+      "_key": "!items.effects!U5w4hMjVimMus11d.Sdn2AUBGRHSbNeYC"
+    }
+  ],
+  "_id": "U5w4hMjVimMus11d",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!U5w4hMjVimMus11d"
+}

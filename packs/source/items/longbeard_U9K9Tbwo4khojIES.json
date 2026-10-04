@@ -1,0 +1,53 @@
+{
+  "name": "Longbeard",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/longbeard.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The old Hammermender stroked a hand through his beard. \"Course, I weren't a career in their day. No Dwarf would have been in their day. No Dwarf would have been in their days,\" he announced to the Longbeards as they entered the smoky tavern. \"When you've got good beards you might understand what a bit of gnome humor means, what it's like to respect a Dwarf for the fullness of his beard. This beard here says I'm old, and that means I know best, and that you knows best, and that too, is why you're going to listen to my advice, then you can grow up to be proper Dwarf's and pass on your advice to the next generation. Remember, a Dwarf's only as big as his beard.\"</p><p>Longbeards are the oldest, most experienced Dwarf warriors, a fact evidenced by the length of their beards. These ensure that they receive complete respect from other Dwarfs, who have been taught quite rightly to respect their warriors. Longbeards have fought in more wars, beaten more enemies, and endured greater hardships than any young Dwarf can imagine. They constantly grumble about how today's Goblins are far smaller and weedlier than they used to be.</p><p><strong>Career Ability:</strong></p><p>If you have mastery in Weapon Skill you gain +1 DR.<br>If you have mastery in Disciplines you treat all Fear and Terror ratings as 1 less.<br>If you have mastery in Leadership, when you kill or route an enemy, your allies within close range gain the Inspired condition.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Elite, Military",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Athletics, Discipline, Intimidate, Leadership, Resilience, Wear an Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 3
+    },
+    "summary": "Longbeards carry the heavy load of a Dwarf warrior, respected for their beards and their experience."
+  },
+  "effects": [
+    {
+      "name": "Longbeard",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/longbeard_ability.webp",
+      "_id": "jsi8sTtIwQvJYb6J",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>If you have mastery in Weapon Skill you gain +1 DR.<br>If you have mastery in Disciplines you treat all Fear and Terror ratings as 1 less.<br>If you have mastery in Leadership, when you kill or route an enemy, your allies within close range gain the Inspired condition.</p>",
+      "transfer": true,
+      "_key": "!items.effects!U9K9Tbwo4khojIES.jsi8sTtIwQvJYb6J"
+    }
+  ],
+  "_id": "U9K9Tbwo4khojIES",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!U9K9Tbwo4khojIES"
+}

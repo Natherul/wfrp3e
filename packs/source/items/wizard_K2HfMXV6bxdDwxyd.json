@@ -1,0 +1,53 @@
+{
+  "name": "Wizard",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/wizard.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A practitioner of the arcane arts, steadily growing in power. <br><br>Exactly how an acolyte earns the status of wizard varies from college to college. A Grey Wizard might sooner impress his masters by uncovering the powers he can employ. Within the confines of the colleges apprentices and acolytes are regarded simply as promising potentials as not yet fully fledged wizards. Most wizards attain their current position through performing an appropriate feat. This might be served on the field of battle in the name of the Order, or combating another power spellcaster. Not all wizards prove themselves through acts of military prowess or magical duels. Whilst the Typical Trappings: A wizard carries a staff, the attendant item that was his apprentice. He wears the robes of his college to identify him and aid him with spellcasting. Wizards also carry books with essays and spell notes on spell casting, and quill and ink in order to make new notes. Many wizards earn the right to master spells beyond their perceived ability, or for spearheading a new line of study. A character may only enter this career if he has completed the Acolyte career.</p><p><strong>Career Ability:</strong></p><p>Your power equilibrium is equal to <i>Willpower +1</i></p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Channeling, Discipline, Education, Intuition, Magical Sight, Observation, Spellcraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 4,
+      "talent": 1,
+      "skill": 4,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "A practitioner of the arcane arts, steadily growing in power."
+  },
+  "effects": [
+    {
+      "name": "Wizard",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/wizard_ability.webp",
+      "_id": "4woFEyC5WR7cvPQg",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Your power equilibrium is equal to <i>Willpower +1</i></p>",
+      "transfer": true,
+      "_key": "!items.effects!K2HfMXV6bxdDwxyd.4woFEyC5WR7cvPQg"
+    }
+  ],
+  "_id": "K2HfMXV6bxdDwxyd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!K2HfMXV6bxdDwxyd"
+}

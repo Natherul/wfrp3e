@@ -1,0 +1,53 @@
+{
+  "name": "Flagellant",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/flagellant.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The violent and unstable conditions of life in the Empire are enough to turn sane men mad. Faced with the ravages of war, disease, and the growling, corrupting influence of Chaos, many become convinced that they are witnesses to the end times. They rallied across the Empire in ragtag bands, proselytising angrily to their fellow citizens about the need to honour the gods and defy the forces of Chaos. The flagellant bands wandering the roadways of the Empire are comprised of lunatics who may have, or acquired two, or more Insanity traits. You may encounter an Insanity Card attached to this card as if it were a Flagellant.</p><p>Typical Trappings: A flagellant carries a flail with which he smites his enemies and chastises himself. He eschews armour, wearing only rags or a hair shirt. A truly devoted flagellant will become religious icons, and may even nail parchment scrolls with vowed vows into his flesh. If extremely fanatical, he will scarify his entire body with up to his own holy standards of piety \u2014 to the extent that he might possess a bottle of cheap spirits, even accuse them of being symptomatic of Chaos, which can have their sole remaining consolation.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may immediately increase your soak value by the severity of one of the insanity cards you have attached to your career sheet</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Devoted, Fanatic, Intemperate",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Discipline, Intimidate, Piety, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 0,
+      "wound": 3
+    },
+    "summary": "Advanced Career: Human. Crazed religious warriors, inured to hardship, bereft of reason."
+  },
+  "effects": [
+    {
+      "name": "Flagellant",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/flagellant_ability.webp",
+      "_id": "tSLqKQSFNzsJ7PQP",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may immediately increase your soak value by the severity of one of the insanity cards you have attached to your career sheet</p>",
+      "transfer": true,
+      "_key": "!items.effects!I8q6542FBRySmoFN.tSLqKQSFNzsJ7PQP"
+    }
+  ],
+  "_id": "I8q6542FBRySmoFN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!I8q6542FBRySmoFN"
+}

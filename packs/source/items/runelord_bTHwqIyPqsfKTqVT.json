@@ -1,0 +1,53 @@
+{
+  "name": "Runelord",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/runelord.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Runelords are the greatest of the Dark Elf Runesmiths. A Runelord candidate may only be promoted with the death of an existing Runelord, so this position is coveted and contested. Among the Dwarfs, Runelords are equal to kings, and so they move through Dwarflord society as some of its most esteemed members. A few Runelords will withdraw from the world, seeking out the deeper secrets of the Master Runes and perhaps impose their own, further diminishing their numbers as their names become legend.</p><p>A runelord may take one of two paths in his life. The majority, choose to live among the Dwarfs, where they are figures of legendary power. While they do continue to hone and practice their craft, for the most part, it is the refinement of an already refined art.</p><p>They serve as advisors, arbiters and symbols of all that it means to be a dwarf, and their day is filled with meetings, tours of the community, checking in on the works of the runemasters, and so on. Only during rare interludes can they actually turn to their tools and forges and craft new items - and given the Rule of Pride, it is very rare they come up with an item they have never made before over their long career.</p><p>All of the are the adventuring runelords. It takes a lot to get such a skilled individual to travel dark and dangerous paths; their motivations are unique and often inscrutable. Any band of travelers who have such a companion is blessed, and there is no telling how long they will continue to spend time away from their families and studies.</p><p><strong>Career Ability:</strong></p><p>You may create runic items which combines runes and a master rune. When crafting a runeitem, if you spend fortune points you get a yellow box instead of. When crafting a runitem inscribed with a Master rune, you can only spend one fortune point in that way.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Education, Intuition, Leadership, Observation, Resilient, Tradecraft, Weaponry, Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 3,
+      "skill": 2,
+      "fortune": 3,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "The Runelords are the greatest of the Dark Elf Runesmiths."
+  },
+  "effects": [
+    {
+      "name": "Runelord",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/runelord_ability.webp",
+      "_id": "ZTaOcQTaTKDEHmpr",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You may create runic items which combines runes and a master rune. When crafting a runeitem, if you spend fortune points you get a yellow box instead of. When crafting a runitem inscribed with a Master rune, you can only spend one fortune point in that way.</p>",
+      "transfer": true,
+      "_key": "!items.effects!bTHwqIyPqsfKTqVT.ZTaOcQTaTKDEHmpr"
+    }
+  ],
+  "_id": "bTHwqIyPqsfKTqVT",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bTHwqIyPqsfKTqVT"
+}

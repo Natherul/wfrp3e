@@ -1,0 +1,53 @@
+{
+  "name": "Revenant Knight",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/revenant_knight.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Revenant Knights despise all evil and chaotic creatures and take every opportunity to hunt them down. The Revenant Knights sometimes travel far abroad to Alion, the Southlands, the Araby or even Cathay. There are many that can be found. There is a Revenant Knight, and all creatures of evil disposition flee from their path or die. Many of the Revenant Knights even make for a way of rekindling deep into Naggaroth itself. They steal into camps and slasher the Dark Elves in their sleep. They appear at some landing site after the Dark Elves return from raiding Uthland and dispatch the battlelead land-wary army with only a few followers. They are the banes of the Druchii and their hatred for Chaos is unparalleled by any other enemy in the realm.</p><p>The Revenant Knights do not carry the Curse of Khaine easily, and they are constantly driven to action and war, there is not time for them to make peace or to appreciate the finer things of life like comfort and family. They appear as cold and hard living statues that can only sense life and see the world through a red haze. They never remove their armour except under the most private of conditions, and once they draw their weapons they cannot sheath them until they have drawn blood. In many backwards and poor parts of the Empire there are Revenant Knights with shrines dedicated to the Revenant Knights, as the simple folk see the incarnation of Khaine passing through like a thunderbolt, on some deadly and urgent errand.</p><p><strong>Career Ability:</strong></p><p>You inflict +1 damage against Chaos, Cultists, Dark Elves and Daemon targets.<br><br>Once per session you may suffer and amount of Fatigue equal to the severity rating of your curse of Khaine to deliver that amount of extra wounds to a Chaos, Cultists, Dark Elf or Daemon target.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Athletics, Discipline, Folklore, Resilience, Weapon Skills",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A Revenant Knight is one who returns from a long, an unmatched hatred of Chaos."
+  },
+  "effects": [
+    {
+      "name": "Revenant Knight",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/revenant_knight_ability.webp",
+      "_id": "lbeElUpxkgTaAsUu",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You inflict +1 damage against Chaos, Cultists, Dark Elves and Daemon targets.<br><br>Once per session you may suffer and amount of Fatigue equal to the severity rating of your curse of Khaine to deliver that amount of extra wounds to a Chaos, Cultists, Dark Elf or Daemon target.</p>",
+      "transfer": true,
+      "_key": "!items.effects!rpWzKWVNnO0K5KPU.lbeElUpxkgTaAsUu"
+    }
+  ],
+  "_id": "rpWzKWVNnO0K5KPU",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rpWzKWVNnO0K5KPU"
+}

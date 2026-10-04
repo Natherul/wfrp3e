@@ -1,0 +1,55 @@
+{
+  "name": "Seer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/seer_he.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Some mystics or fortune tellers become very good at making predictions and convincing their audience that they can contact the underworld. If they are lucky enough to evade the witches or retribution of priests for long enough, these mystics can become recognised as having a special insight into future events, and are known as seers. Save for those seers who come from a life of service to Mor, most religious authorities of the Empire take a dim view of seers, claiming that they are charlatans or, even worse, that they receive their visions from daemons. For their part, the supporters of seers claim that the religious cults are the frauds, jealously persecuting those with a genuine relationship with the divine. Such people have to be very careful about their opinions, however, lest they find themselves burnt at the stake. Some seers associate with the Strigany folk, whose attitude to apothecary, parent hedgecraft or ancient practices is more lax than that of the average citizen of the Empire. Others may find themselves in the company of a noble, or an unconventional crime lord. Wild Rumours exist amongst the ranks of seers who have been closeted away within the halls of the Celestial College, however, the astronomers are quick to dismiss such stories. A few seers are convincing enough in proclaiming their visions that they manage to gather a devoted set of followers, calling for reform along the lines of their prophecies. However, such revolutionary figures are rarely so powerful as to threaten the position of the established authorities, who soon quash such threats.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may spend 1 fortune point to add to the result of a skill check made by an ally within medium range. You may do this after seeing the original or the original results of the dice pool.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "woodElf",
+      "highElf"
+    ],
+    "traits": "Advanced Career: Human, Wood Elf, or High Elf",
+    "primaryCharacteristics": [
+      "fellowship",
+      "intelligence"
+    ],
+    "careerSkills": "Charm, Folklore, Intuition, Magical Sight, Observation",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 0,
+      "talent": 1,
+      "skill": 0,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 3,
+      "wound": 2
+    },
+    "summary": "A talented augury with a powerful sense of intuition and foresight."
+  },
+  "effects": [
+    {
+      "name": "Seer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/seer_he_ability.webp",
+      "_id": "W9tM36ZqWWJBGIYb",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may spend 1 fortune point to add to the result of a skill check made by an ally within medium range. You may do this after seeing the original or the original results of the dice pool.</p>",
+      "transfer": true,
+      "_key": "!items.effects!LD29WjTF8QsI9exx.W9tM36ZqWWJBGIYb"
+    }
+  ],
+  "_id": "LD29WjTF8QsI9exx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LD29WjTF8QsI9exx"
+}

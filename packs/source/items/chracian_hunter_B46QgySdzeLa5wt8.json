@@ -1,0 +1,48 @@
+{
+  "name": "Chracian Hunter",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/chracian_hunter.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p><strong>Career Ability:</strong></p><p>You have a White Lion companion. Take the White Lion follower sheet. You can teach your Lion Trick talents and attach them to its sheet. You may use Action Cards with the trait pet.</p>",
+    "advanced": true,
+    "raceRestrictions": [],
+    "traits": "",
+    "primaryCharacteristics": [],
+    "careerSkills": "",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 0,
+      "talent": 0,
+      "skill": 0,
+      "fortune": 0,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 0
+    },
+    "summary": ""
+  },
+  "effects": [
+    {
+      "name": "Chracian Hunter",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/chracian_hunter_ability.webp",
+      "_id": "f78KpyNqf8ZnRAhj",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You have a White Lion companion. Take the White Lion follower sheet. You can teach your Lion Trick talents and attach them to its sheet. You may use Action Cards with the trait pet.</p>",
+      "transfer": true,
+      "_key": "!items.effects!B46QgySdzeLa5wt8.f78KpyNqf8ZnRAhj"
+    }
+  ],
+  "_id": "B46QgySdzeLa5wt8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!B46QgySdzeLa5wt8"
+}

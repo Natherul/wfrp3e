@@ -1,0 +1,54 @@
+{
+  "name": "Explorer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/explorer_he.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>These individuals stop at nothing to explore within the unknown. What an amazing structure off in the distance. It's unlike anything I've ever seen in these parts. Stay back at camp if you like, I'm going off to have a <i>couple</i> if you know what I mean.</p><p>Explorers are afflicted by wanderlust and travel extensively across the Old World and beyond. They channel their great need to know what lies beyond the next horizon into finding new lands and new opportunities for trade. Explorers, regular delve into the unknown, which either turns them into canny fighters and diplomats or makes them very short-lived. They are skilled in travelling by both land and sea. Explorers tend to be highly capable individuals. The variety of roles they are called upon to assume forces them to become very flexible, able to command troops or negotiate in tongues they barely understand.</p><p>High Elf exploring expeditions are a common relative age. Expectations sail from Ulthuan to lands like Austria, Cathay, or the Empire seeking for lost, knowledge, new allies or the remnants of new ancient civilizations.</p><p><strong>Career Ability:</strong></p><p>You are very versatile, one of your talent slots become a generic talent slot where you can socket any kind of talent. While in the Explorer career you can buy Tactics, Reputation and Focus talents as career talents.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf"
+    ],
+    "traits": "Intelligence, Willpower",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Intelligence, Willpower, Ballistic Skill, Folklore, Nature Lore, Observation, Weapon Skill, Lore, Education",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "Advanced Career: Human, Elf or Dwarf"
+  },
+  "effects": [
+    {
+      "name": "Explorer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/explorer_he_ability.webp",
+      "_id": "6R88VnGHPmvRNs0o",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You are very versatile, one of your talent slots become a generic talent slot where you can socket any kind of talent. While in the Explorer career you can buy Tactics, Reputation and Focus talents as career talents.</p>",
+      "transfer": true,
+      "_key": "!items.effects!W8MTQALEBGpvmLtn.6R88VnGHPmvRNs0o"
+    }
+  ],
+  "_id": "W8MTQALEBGpvmLtn",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!W8MTQALEBGpvmLtn"
+}

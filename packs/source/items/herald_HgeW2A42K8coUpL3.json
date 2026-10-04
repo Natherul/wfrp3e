@@ -1,0 +1,56 @@
+{
+  "name": "Herald",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/herald.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p> Heralds are sent by their lords to proclaim messages, laws, and other requests. As such, they are often highly unpopular and their arrival is generally greeted with trepidation. They often proclaim new taxes, fines, arrest warrants for treason, or notify the brigands and bandits, or local militia to gather for war. Luckily for them, they often have protection in the form of an official letter, if not already badly rewarded. In official circumstances, they also often travel in advance of armies or diplomats and begin to proclaim their arrival and begin negotiations on their behalf as their masters. Heralds have therefore been trained and educated in order to read their orders and documents with the appropriate level of bombard for the situation. Some heralds insist that they hold as much sway as they do as an ambassador or otherwise diplomat because they are often sent as the first point of contact and make the first (and most important, some would say) impression. Indeed, they have to gauge the reaction of the other party and make a detailed report back so that the first round of negotiations proper are conducted in an appropriate manner. Regardless of descent, heralds are generally respected and possess an aura of respect and authority. They are often targets for brigands and bandits, or so a handyman, but such adventurers can provide vital protection in a new life if the herald was especially badly rewarded. Heralds dress to represent their noble master and often always wear some kind of clothes or arms or other identification, normally on a lavishly surcoat or on tabard. They often carry various scrolls and other documentation on behalf of their patron.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may move one of the hero tokens to the top of the initiative track during a social encounter. You must go first.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "willpower",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Education, Guile, Intimidate, Intuition, Leadership",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Heralds dress to represent their noble master and often always wear some kind of clothes or arms or other identification, normally on a lavishly surcoat or on tabard."
+  },
+  "effects": [
+    {
+      "name": "Herald",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/herald_ability.webp",
+      "_id": "7eSO5NrMBKDOlUuS",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may move one of the hero tokens to the top of the initiative track during a social encounter. You must go first.</p>",
+      "transfer": true,
+      "_key": "!items.effects!HgeW2A42K8coUpL3.7eSO5NrMBKDOlUuS"
+    }
+  ],
+  "_id": "HgeW2A42K8coUpL3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HgeW2A42K8coUpL3"
+}

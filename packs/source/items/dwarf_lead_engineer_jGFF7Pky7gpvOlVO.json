@@ -1,0 +1,40 @@
+{
+  "name": "Dwarf Lead Engineer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dwarf_lead_engineer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Lead engineers are regarded as one of the greatest engineers of the guild. Typically Damminson, blew up the engineers guild in Karaz-a-Karak back in 2350. Nonetheless, each hold only has a few of them. They are chosen by a committee of elders in between the ranks of the longbeards master engineers. The selection is high meritocratic, and involves mainly the recognition of the complexity of the inventions technological advance of the inventions that the dwarf has made during his life, as well as the impact they have had in the Karak or beyond. Nevertheless, the choice involve also a lot of politics, and no older Dwarf can dream without rise to the status of lead engineer without having good contacts within the elder master engineering career if he has completed the Dwarf Master Engineer or the Dwarf Journeyman Engineer.</p><p>In counter part to that part those Dwarf that reach that lead engineer status as the recognition by his peers to a long life full of achievements and hard work, there are few young engineers that rise to this status by sheer genius. These dwarfs hardly ever obtain the recognition of their travelers, and adapt to the environment. It is impossible to make a generic file since they look down at them and consider them as impulsive short beards and their inventions as dangerous tools. Sadly enough, it is often extending ladder, where these young engineers are expelled from the guild, due to their temperament and lack of respect for the work of their peers, like the case of the famous Sven Hasselfieldsy, who developed the set armour and weapons (sometimes it Steam Roller, but in the process, he together with Burlock</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Tactical",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "ballistic skill, dwarf engineering, discipline, education, intuition, observation, leadership, tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 4,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Lead engineers carry all the time a good assortment of their latest inventions to help them survive the perilous travel and to adapt to the environment."
+  },
+  "effects": [],
+  "_id": "jGFF7Pky7gpvOlVO",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jGFF7Pky7gpvOlVO"
+}

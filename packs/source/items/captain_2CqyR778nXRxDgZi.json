@@ -1,0 +1,46 @@
+{
+  "name": "Captain",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/captain.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The armies of the Empire are led by renowned generals. The emperor is counted by the elector count of the province in which the army was raised and may even be the elector himself. Generals rarely give orders directly to the men and instead issue commands to their captains, each of whom commands a portion of the army. Captains are also given commands of quasi-military organisations within the Empire, such as a city's force of watchmen or a province's roadwatcher patrols. Many captains are troublemakers who may have been well paid for their position. While such men might not be experienced soldiers and may even be effete fops, they are usually educated in martial pursuits such as hunting and swordsmanship. Only the most venal and incompetent of electors would hand command of their armed forces to just any rich man seeking to satisfy his own vanity. Other captains earn their rank by performing well as a sergeant and convincing their superiors that they can be trusted with their command of more than just a regiment of troops. While such examples of meritorocracy are an inspiration to the men, they often try to be fielded by a noble. They tend to prefer battlefield experience alone.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "agility",
+      "intelligence",
+      "willpower",
+      "fellowship"
+    ],
+    "careerSkills": "Ballistic Skill, Coordination, Discipline, Leadership, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "An important career, responsible for a large force of men."
+  },
+  "effects": [],
+  "_id": "2CqyR778nXRxDgZi",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2CqyR778nXRxDgZi"
+}

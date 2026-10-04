@@ -1,0 +1,53 @@
+{
+  "name": "Master Thief",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/master_thief.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The greater of thieves, they are undetectable. The life expectancy for a thief in the <i>Empire</i> is often short; while policing is simple and thieves can always flee their last location, many are invariably caught and the punishments are severe. Therefore, there are few who have truly mastered the art of pickpocketing, locks, or wire traps; those that do can become rich beyond their wildest dreams, for they can slip in and out of even the richest, most well-guarded homes and warehouses totally unnoticed. However, the overall look is one of anonymity, in order to blend into the environment.</p><p>One example is the ex-specialist Konrad Blaide, who made a fortune infiltrating and robbing military institutions and travelling armies, and, supposedly, never came close to being apprehended. Ironed out, master thieves rarely turn a blind eye when their subordinates steal from their master and are quick to demonstrate their lethal skill with a short blade.</p><p>Master thieves are just as expertly trained in the art of disappearance, and if any part of their latest heist goes wrong, they slip into the nearest crowd and sneak off into the night. Such skills are highly valued by adventurers, regardless of their moral standing.</p><p><strong>Career Ability:</strong></p><p>Each time you make an initiative check, you may immediately perform a free manoeuvre.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "fellowship"
+    ],
+    "careerSkills": "Coordination, Discipline, Guile, Intuition, Skulduggery, Stealth",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "The greater of thieves, they are undetectable."
+  },
+  "effects": [
+    {
+      "name": "Master Thief",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/master_thief_ability.webp",
+      "_id": "bQjlxyxIePGkdjnn",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Each time you make an initiative check, you may immediately perform a free manoeuvre.</p>",
+      "transfer": true,
+      "_key": "!items.effects!yGK8q1VpMTa1APtL.bQjlxyxIePGkdjnn"
+    }
+  ],
+  "_id": "yGK8q1VpMTa1APtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yGK8q1VpMTa1APtL"
+}

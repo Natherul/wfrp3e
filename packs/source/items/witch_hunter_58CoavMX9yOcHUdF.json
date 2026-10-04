@@ -1,0 +1,53 @@
+{
+  "name": "Witch Hunter",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/witch_hunter.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p> To Empire citizens, threats to their lives are external - predators, bandit gangs or greenkeepers, or raiders, the machinations of foreign powers to name but a few. While they fear witchcraft, most people in the Empire are too busy struggling for survival to maintain constant vigilance for hidden threats. Many of the Empire's most dangerous enemies - Empire's cultists and powerful sorcerers - manage to conceal themselves. A few grim individuals dedicate their lives to hunting down witchcraft and eradicating all signs of witchcraft. These are the members of the Order of the Tempelars of Sigmar, the Order of the Cult of Sigmar, under the jurisdiction of both the Theogonist and the Emperor. While all witch hunt hunters are polar, some warriors, willing to confront their foes face to face, are also a charismatic rabble-rouser who incite angry peasants or townsfolk into angry mobs to help them find their quarry. A witch hunt hunter is judge, jury, and executioner, sanctioned by the Emperor to consign the minions of Chaos and rogue wizards to the pyre. Despite their authority and despite their powers, Chaos hunters are far from popular. Most folk dread the sight of them, for almost everyone has some knowledge, and many witch hunters have been known to be unscrupulous in their investigations. It has been known for witch hunters to burn the innocent along the just - probably because the taint of Chaos are unearthing their destroyed. This career is only available to a character who has completed the Order of the Tempelars of Sigmar or the Order of the Cult of Sigmar, under the jurisdiction of both the Theogonist and the Emperor. A witch hunter usually carries a missile weapon that can be fired with one hand, such as a blackpowder pistol or a crossbow pistol. He possesses a finely crafted pistol. He wears either leather armor or a mail-shirt. The unofficial uniform of the witch hunter is his long dark cloak and a flat-topped, a conventional hat with a stiff brim. A witch hunter also carries the official badge of his order, the twisted-cornet of Sigmar. </p><p><strong>Career Ability:</strong></p><p>You inflict +1 damage against Cultist, Chaos, and Daemon targets</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "intelligence"
+    ],
+    "careerSkills": "Ballistic Skill, Folklore, Intimidate, Intuition, Piety, Stealth",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "A zealous, wilful individual feared by heretics and innocents alike."
+  },
+  "effects": [
+    {
+      "name": "Witch Hunter",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/witch_hunter_ability.webp",
+      "_id": "9C4UoQCscZRbjscn",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You inflict +1 damage against Cultist, Chaos, and Daemon targets</p>",
+      "transfer": true,
+      "_key": "!items.effects!58CoavMX9yOcHUdF.9C4UoQCscZRbjscn"
+    }
+  ],
+  "_id": "58CoavMX9yOcHUdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!58CoavMX9yOcHUdF"
+}

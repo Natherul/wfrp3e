@@ -1,0 +1,53 @@
+{
+  "name": "Runesmith",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/runesmith.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>After completing his apprenticeship, a Runesmith understands the fundamentals of runesmithing, but the creation of Master Runes are still beyond him. To continue his training, a Runesmith must take it seriously: he has learned and practiced, learning through trial, error, and experimentation. He may spend days at a time at his forge, laboriously perfecting his craft, and spend decades learning from a Master in his own hold. Known as Runesmiths, they are driven by fate or by their nature to be a sedentary existence. Some may travel from hold to hold to seek out tutelage from other Master Runesmiths. Others may seek out holds lost to the greenskins, ratmen, or other enemies, where they hope to find ancient runes long forgotten. These wanderers may fall in with a band of adventurers, both for mutual protection and as a means to secure materials with which to perfect his craft (not to mention an appreciative audience for any completed runic work)</p><p><strong>Career Ability:</strong></p><p>You may create runic items with up to 2 runes each.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Discipline, Education, Intuition, Observation, Tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 3,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 0,
+      "wound": 1
+    },
+    "summary": "A dwarf who has learnt the basics of runesmithing."
+  },
+  "effects": [
+    {
+      "name": "Runesmith",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/runesmith_ability.webp",
+      "_id": "6VX0Sx2acpobXeX7",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You may create runic items with up to 2 runes each.</p>",
+      "transfer": true,
+      "_key": "!items.effects!AK07vpxZRiraOBf7.6VX0Sx2acpobXeX7"
+    }
+  ],
+  "_id": "AK07vpxZRiraOBf7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AK07vpxZRiraOBf7"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "High Elf Spiritual Leader",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/high_elf_spiritual_leader.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Spiritual leaders are favoured seers or high cult priests of the elves, through that endless meditation have achieved a state of communion with the land and the gods which is near to godly. Only very few of these individuals exist, and some even the birth of one of them is marked by very swanky omens. Born-to-bet in the lands of the mortal worlds, be Spiritual Leaders show already from birth unearthy precognitive skills. making predictions and precognitive omen with the highest accuracy. The elves are aware that similar individuals exist in other races like the humans, but in those especially societies, most of these special people are killed by Witch Hunters, left by their families in a Shollyan hospice, or expelled from their communities to the mercy of the wilderness. On the other hand, in Elven communities, these individuals may chose very divergent paths, while ostentatious display of their deity signs, accompanied by few, occasional lands mysterious signs, others have become leaders and wise men of uttermost importance. Even going to war as leaving temples, even going to war as leaving beacons of inspiration for other Elves.</p><p><strong>Career Ability:</strong></p><p>After resolving a <i>Pyret</i> skill check, re-roll any of the <i>expertise</i> dice which outcome was a <i> </i>. You gain one fortune point for each new <i> </i> rolled in this way. After resolving a <i>Magical Sight</i> skill check, re-roll one single <i> </i> expertise dice which outcome was a <i> </i>. You gain one fortune point if you re-roll in this way.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Intelligence, Willpower",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Charm, Education or Folklore, Intuition, Leadership, Magical Sight, Observation, Piety",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 3,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "High Elf Spiritual Leaders are favoured seers or high cult priests of the elves, through that endless meditation have achieved a state of communion with the land and the gods which is near to godly."
+  },
+  "effects": [
+    {
+      "name": "High Elf Spiritual Leader",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/high_elf_spiritual_leader_ability.webp",
+      "_id": "jqcv73qll7u5Unb6",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>After resolving a <i>Pyret</i> skill check, re-roll any of the <i>expertise</i> dice which outcome was a <i> </i>. You gain one fortune point for each new <i> </i> rolled in this way. After resolving a <i>Magical Sight</i> skill check, re-roll one single <i> </i> expertise dice which outcome was a <i> </i>. You gain one fortune point if you re-roll in this way.</p>",
+      "transfer": true,
+      "_key": "!items.effects!fzqdqfvUEUBxCp6O.jqcv73qll7u5Unb6"
+    }
+  ],
+  "_id": "fzqdqfvUEUBxCp6O",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fzqdqfvUEUBxCp6O"
+}

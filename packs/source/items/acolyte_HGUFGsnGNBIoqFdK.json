@@ -1,0 +1,53 @@
+{
+  "name": "Acolyte",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/acolyte.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Those wizards who are skilled and lucky enough to pass their career as an apprentice is still be expected to act on the best interests of his order, and to respond promptly and respectfully to any requests that his superiors might ask of him.</p><p>The Acolyte is a career of the College of Magic, assisting their masters and learning more about the magical arts. The more adventurous acolytes prefer to take the advantage of the fact that they have greater freedom during their apprenticeship. They choose to leave the College buildings to pursue a life of exploration and discovery, learning about magic through practical application of their skills. In this manner, they gain knowledge and experience, but at greater risk of failure.</p><p><strong>Career Ability:</strong></p><p>While you have less power than your Willpower rating, your Channelling checks gain <span>\u25a1</span>.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Channelling, Discipline, Education, Intuition, Magical Sight, Observation, Spellcraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "A developing wizard gaining more confidence with his powers."
+  },
+  "effects": [
+    {
+      "name": "Acolyte",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/acolyte_ability.webp",
+      "_id": "Mk99OVYh1U4VJOY3",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>While you have less power than your Willpower rating, your Channelling checks gain <span>\u25a1</span>.</p>",
+      "transfer": true,
+      "_key": "!items.effects!HGUFGsnGNBIoqFdK.Mk99OVYh1U4VJOY3"
+    }
+  ],
+  "_id": "HGUFGsnGNBIoqFdK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HGUFGsnGNBIoqFdK"
+}

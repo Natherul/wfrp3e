@@ -1,0 +1,40 @@
+{
+  "name": "Dwarf Master Engineer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dwarf_master_engineer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The greatest engineers of the Empire can but dream of possessing even a fraction of the knowledge held by a Master Engineer of the Guild. Most have created a new invention or an improvement to an existing design that has been accepted by the Guild. Most give up the reckless endeavor of youth and continue to tried and trusted designs. Others, however, insist on trying out new inventions. This often tests the patience of the other Guildmasters, who encourage such radicals to be better role models for the younger engineers. Those that persist are eventually asked to leave the hold - usually after blowing up a lab or crashing a steam-powered, multi-headed mining-drill into a brewery.</p><p>Independent Master Engineers often travel the Old World, testing their designs and taking their inspiration, as they did in their youth. Conservatism, however, tends to travel from Master Engineers. Most tend to hold to, checking up on local developments to see if there are any innovations that might be worth exploring. Something that no Master Engineer can resist is the prospect of recovering lost engineering lore. Hidden workshops are said to still exist untouched within the depths of some of the lost holds. When the engineering stronghold of Zhulbar was recaptured from the greenskins, many have created a new invention or an improvement to an existing design that has been accepted by the Guild. Most give up the reckless endeavor of youth and continue to tried and trusted designs. Other, however, insist on trying out new inventions. This often tests the patience of the other Guildmasters, who encourage such radicals to be better role models for the younger engineers. Those that persist are eventually asked to leave the hold - usually after blowing up a lab or crashing a steam-powered, multi-headed mining-drill into a brewery.</p><p>A character that may only enter if he has completed the Dwarf Engineer career.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Engineer",
+    "primaryCharacteristics": [
+      "agility",
+      "intelligence"
+    ],
+    "careerSkills": "Ballistic Skill, Dwarf Engineer- ing, Education, Intuition, Observation, Tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 1,
+      "skill": 1,
+      "fortune": 4,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A dwarf engineer who has mastered the secrets of engineering."
+  },
+  "effects": [],
+  "_id": "cKuy4yRbzPql9CvC",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cKuy4yRbzPql9CvC"
+}

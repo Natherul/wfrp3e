@@ -1,0 +1,41 @@
+{
+  "name": "Sea Captain",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/sea_captain.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p> Sea Captains roam the oceans of the Old World seeking profit and adventure over the next horizon. Strictly Honorable Sea Captains are far-traveling traders who only sail in search of the most profitable markets for their goods. The most dangerous are bloodthirsty pirates, attacking other ships for plunder and having no survivors. Most Sea Captains fall somewhere in between. The law is a Captain's sword, or a sailor's, however, are a frigid lot; A Sea Captain must be clever, strong-willed and a bit ruthless to stay in command. The most prolific of profit or plunder can keep a crew in line, but the captain must eventually deliver, and it must be clear to everyone his vision, knowledge and discipline is what got them to that point on the ship.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "fellowship"
+    ],
+    "careerSkills": "Toughness, Fellowship",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 2,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A leader who knows how to react in hostile environments."
+  },
+  "effects": [],
+  "_id": "JHyceIhEh8yT18HF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JHyceIhEh8yT18HF"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Sword Master Captain",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/sword_master_captain.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Enlightenment is achieved by mastering not only the body, but the soul. Only then can a warrior truly understand the value of life, and why it should be protected at all costs.</p><p>Belanerra of Hoeth, Bladelord of White Tower - The Swordmasters of Hoeth are perhaps the greatest martial artists in the world of Warhammer, warrior-ascetics who dedicate their lives to the pursuit of obtaining perfect balance between mind and body, between the cultivation of wisdom and the study of martial masters. For thousands of years, Swordmasters have been the guardians of the White Tower of Hoeth, the high temple to the Elven God of Wisdom and the greatest training ground for images in all of Ulthuan, standing like a beacon in the heart of mystic Saphery. Since their inception since their inception on the throne of Reikhold, the Sword Masters have distinguished themselves on the field. At the Battle of Hadsford, a single regiment of Sword Masters guarded the only river crossing for miles around. Commanded by the feared sorcerer, the Coven of Ten, a vast Dark Elf army sought the single passage across the river but found it difficult to find a better warrior. It is then knee-deep in the swirling river, Fighting Masters inflicted grievous casualties on the Dark Elves, despite the blistering barrage of spells cast by the Coven. After hours of battle, the Swordmasters emerged victorious, their bodies the river became so choked with the bodies of the Dark Elf corpses that the skulls blocked the flow of the river, thus it should be protected at all costs.</p><p>Regiments of Sword Masters are lead by the Captains of Regiment, experienced combatants and the study of martial masters, which have at some point, excelled in both martial skills and mind in time and body cultivation and group combat tactics training. Their presence within the walls of the White Tower is therefore much needed. Although, Sword Masters are also ultimate bodyguards, and some thousands of times they are requested to accompany an important elfharem character, or like a mage or a loremaster, or tasked with the delivery of important packages. Such as the High Elf nobles request some time to the White Towers. The Sword Masters of Hoeth are lead by the most powerful and skilled warriors in the world of Warhammer, and their skills are unmatched. They are the guardians of the White Tower, and their presence is a beacon of hope and strength in times of crisis.</p><p><strong>Career Ability:</strong></p><p>Whenever you kill our route an opponent allies within close range gain the Inspired condition for one round.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Discipline, Intuition, Leadership, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "Sword Masters are the greatest martial artists in the world of Warhammer, warrior-ascetics who dedicate their lives to the pursuit of obtaining perfect balance between mind and body, between the cultivation of wisdom and the study of martial masters."
+  },
+  "effects": [
+    {
+      "name": "Sword Master Captain",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/sword_master_captain_ability.webp",
+      "_id": "Q3KgLbw2Vthgd6AJ",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Whenever you kill our route an opponent allies within close range gain the Inspired condition for one round.</p>",
+      "transfer": true,
+      "_key": "!items.effects!HrqlRrRFXQFgDvSk.Q3KgLbw2Vthgd6AJ"
+    }
+  ],
+  "_id": "HrqlRrRFXQFgDvSk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HrqlRrRFXQFgDvSk"
+}

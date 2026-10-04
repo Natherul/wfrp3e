@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Slayer",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dragon_slayer.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A veteran slayer who seeks more gruesome foes to bring his doom closer. Most dwarfs who take the Slayer career find their doom shortly thereafter. Oath find their doom there still. A rare few survive their initial encounters and have to seek out deadlier opponents, inevitably being ripped apart by a vampire, crushed, killed by a giant, or drowned under waves of skaven. There are a few unfortunates who, through skill, luck, or sheer soul who, through skill, luck, or sheer stubbornness, defend, kill, or foe they meet. No matter what they do, a glorious death entails them, forcing them to live with their shame. Viewed with a mixture of awe and pity by other slayers these half-mad or completely mad dwarfs search for even more dangerous enemies. They and become Dragon Slayers. The few dwarfs bear many judges against the dragons, which are not above looting their treasures or even using one as a lair. Of course, dragons are exceedingly rare and hide their lairs well. A Dragon Slayer's may spend decades searching and fail to find one. In the meantime they often attach themselves to bands of adventurers. Their companions are often of two minds about working with such a Slayer.</p><p>Having a vicious, skilled killer president be available and who wouldn't want to be around when it comes time to draw a dragon's hoard On the other hand, having a vicious, cruel, crushed killer president be available and who wouldn't want to be around when the dragon eats the Slayer and finds out who's been secretly plundering its treasure!</p><p><strong>Career Ability:</strong></p><p>You gain the <b>This Will Be a Glorious Death</b> action card.<br>You deal extra damage on attacks against targets with a To of 6 or higher equal to the number of <b>Slayer</b> career ability cards you have.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Athletics, Intimidate, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 3,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 3
+    },
+    "summary": "A veteran slayer who seeks more gruesome foes to bring his doom closer."
+  },
+  "effects": [
+    {
+      "name": "Dragon Slayer",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/dragon_slayer_ability.webp",
+      "_id": "zuaMsOEMARtj5th9",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain the <b>This Will Be a Glorious Death</b> action card.<br>You deal extra damage on attacks against targets with a To of 6 or higher equal to the number of <b>Slayer</b> career ability cards you have.</p>",
+      "transfer": true,
+      "_key": "!items.effects!lKH0cc0ucX6Sf2KB.zuaMsOEMARtj5th9"
+    }
+  ],
+  "_id": "lKH0cc0ucX6Sf2KB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!lKH0cc0ucX6Sf2KB"
+}

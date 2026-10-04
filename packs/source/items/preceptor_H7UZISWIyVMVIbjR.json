@@ -1,0 +1,54 @@
+{
+  "name": "Preceptor",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/preceptor.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Each knightly order is based in a chapter house that stores the order's equipment and regalia and also provides a training barracks and packs together. Should the order be called to war, the members will muster in the chapter house before joining the rest of the army. Some order have chapter houses throughout the larger orders throughout the Typical Houses: The Order of the Knights of the Empire, for example, maintains houses in Carroburg, Middenheim and Talabheim. An archaic term for the chapter houses of templars is 'preceptor', and the heads of chapter houses of many knightly orders are known as preceptors. Within the ranks of the knightly brotherhood, the preceptor has almost supreme authority and is answerable only to the order's grand master. During times of war preceptors lead the knights from their particular chapter house, combining the duties of a sergeant with the power of a knight. Like any knight, they are a hardened warriors and some may relish the opportunity to put aside the administrative trivia of the day-to-day to indulge in what they have learned for so long: to do so: crush the enemies of the Empire beneath their hooves!</p><p>To become a Preceptor, a candidate must have completed the Knight of the Inner Circle career.</p><p><strong>Career Ability:</strong></p><p>You gain +1 Defence while mounted, and your mount has +1 Wind</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "agility",
+      "fellowship"
+    ],
+    "careerSkills": "Discipline, Leadership, Piety, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A deadly warrior and a leader of men."
+  },
+  "effects": [
+    {
+      "name": "Preceptor",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/preceptor_ability.webp",
+      "_id": "OAmoyCSf14hzCSQX",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain +1 Defence while mounted, and your mount has +1 Wind</p>",
+      "transfer": true,
+      "_key": "!items.effects!H7UZISWIyVMVIbjR.OAmoyCSf14hzCSQX"
+    }
+  ],
+  "_id": "H7UZISWIyVMVIbjR",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!H7UZISWIyVMVIbjR"
+}

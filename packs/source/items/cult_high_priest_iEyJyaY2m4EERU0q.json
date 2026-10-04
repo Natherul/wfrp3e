@@ -1,0 +1,51 @@
+{
+  "name": "Cult High Priest",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/cult_high_priest.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A Cult High Priest is the living embodiment of God's will in the elven society. Cult priests and initiates answer to them in all things. They are most frequent, as few individuals have both the strength of character and the boundless faith it takes to read such a lofty post. Cult High Priests, with very few exceptions, will operate out of their temples, the primary centers of their faith. Pilgrims will travel the breadth of Ulthuan if necessary just to speak for a few moments with such a being. Cult High Priests tend to either reject the physical world, retiring to their temple or becoming a secular leader. The eldest and wisest of the cult high priest may eventually rise to become the spiritual leader even for priests from other temples or shrines of the same god.</p><p>High Cult Priests are legally allowed to tell any local noble to mind his own business, and one with the full backing of his cult might even get away with it.</p><p><strong>Career Ability:</strong></p><p>Once per session you may substitute a given skill check by a Piety(Fel) check</p>",
+    "advanced": true,
+    "raceRestrictions": [],
+    "traits": "Religious",
+    "primaryCharacteristics": [
+      "fellowship",
+      "willpower"
+    ],
+    "careerSkills": "charm, education, intuition, leadership, piety",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A Cult High Priest is the living embodiment of God's will in the elven society."
+  },
+  "effects": [
+    {
+      "name": "Cult High Priest",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/cult_high_priest_ability.webp",
+      "_id": "alCTjbex2oSp7NyT",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session you may substitute a given skill check by a Piety(Fel) check</p>",
+      "transfer": true,
+      "_key": "!items.effects!iEyJyaY2m4EERU0q.alCTjbex2oSp7NyT"
+    }
+  ],
+  "_id": "iEyJyaY2m4EERU0q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!iEyJyaY2m4EERU0q"
+}

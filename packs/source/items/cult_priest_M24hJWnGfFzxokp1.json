@@ -1,0 +1,56 @@
+{
+  "name": "Cult Priest",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/cult_priest.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The gods cannot possibly answer every plea for aid. Therefore, we must be grateful for the help we are given, and we must always remain prepared to help ourselves.</p><p>Elven cult priests serve their god's will through worldly deeds. Unlike their magical human counterparts, Elven priests do not labour day and night, studying esoteric scriptures to achieve communion with the divine. Instead, elven priests deliver sermons to common folk whenever they have a vision or conduct ceremonies and rituals, for ultimately the devotion the masses is what elevates gods above daemons and spirits. These lay priests are not every day preachers, however; they are tradesmen, scholars and administrators. A god's sphere of influence is manifested by his lay priest's expertise in his field, and the divine ideal is exemplified by his public conduct.</p><p><strong>Career Ability:</strong></p><p>You may add <span style=\"color:#0000FF;\">\u25a1</span> instead of <span style=\"color:#0000FF;\">\u25a1</span> when you spend a fortune point on a Piety check. You may only do this once per check.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "fellowship",
+      "willpower"
+    ],
+    "careerSkills": "charm, education, intuition, leadership, piety",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Advanced Career: Elf"
+  },
+  "effects": [
+    {
+      "name": "Cult Priest",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/cult_priest_ability.webp",
+      "_id": "ATxJL5uDuW0Cg2fE",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You may add <span style=\"color:#0000FF;\">\u25a1</span> instead of <span style=\"color:#0000FF;\">\u25a1</span> when you spend a fortune point on a Piety check. You may only do this once per check.</p>",
+      "transfer": true,
+      "_key": "!items.effects!M24hJWnGfFzxokp1.ATxJL5uDuW0Cg2fE"
+    }
+  ],
+  "_id": "M24hJWnGfFzxokp1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!M24hJWnGfFzxokp1"
+}

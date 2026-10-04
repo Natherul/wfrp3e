@@ -1,0 +1,41 @@
+{
+  "name": "Gang Boss",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/gang_boss.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A leader of men, whether civil or criminal</p><p>Gang bosses usually rise to that rank by out-scheming or out-muscling the old gang boss or their rivals. This means that gang bosses are always on the look out for new threats to their position from within their own gang, or threats to their territory from other gangs.</p><p>The reasons for why a gang boss might leave this life and take to the road as an adventurer are many; perhaps the Temple has been finished and the work gang disperesed, or maybe a rival gang forcibly takes over their smuggling operation, or it might be that the watch has closed down the gangs illegal activities. In the latter three cases, leaving the area may be the only option other than death or serious injury.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "willpower",
+      "fellowship"
+    ],
+    "careerSkills": "observation, guile, intuition, intimidate, leadership",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 3,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "The gang boss provides the leadership in a gang. The job can involve anything from deciding who unloads which river barge to which pickpocket picks the rich merchants pocket, or on which night the gang takes on their rivals on the docks or streets. The gang boss may frequently have to lead their gang against rivals intruding on their territory and/or rackets. However, a gang boss leading a group of pickpockets could just as easily lead from the shadows, providing a legitimate front for the gangs illegal activities."
+  },
+  "effects": [],
+  "_id": "3BE6lpqOGFwm5JKU",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3BE6lpqOGFwm5JKU"
+}

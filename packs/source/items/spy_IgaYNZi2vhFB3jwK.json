@@ -1,0 +1,43 @@
+{
+  "name": "Spy",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/spy.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Secrets are my stock in trade. My compensation is coin equal to my career's secret value to a client. My silence will cost at least twice as much.</p><p>Spies are secret agents who gather information for their patrons or the highest bidder. Spies are masters of disguise who often risk their lives to work undercover in enemy territory. Some will even join subversive groups and study them for months from the inside. A Spy who dares to infiltrate a Chaos covert risks far worse than death, but there are many groups in the Old World who desperately need the information such as a stout soul deep into a conspiracy. Most kings and emperors agents scour universities and guilds for candidates who display the necessary intelligence, charm and ruthlessness. The agent often uses blackmail to ensure the loyalty of new recruits, engineering interviews that they should run them if they should be made.</p><p>All the nations of the Old World employ Spies, usually to monitor the military and political moves of their rivals. While the armies of a nation defend its borders, an legion battle tirelessly to thwart the enemies within. These agents confound those who plot against their nation, whether they be Chaos cultists, treacherous nobles or political agitators. In the court of every noble, in every guild meeting and house building where there malcontents rant against various ideological edicts, and even in places such as the Colleges of Magic, an eye waits and watches. Knowledge is power, and spies and emperors alike uses the spies to maximise his authority.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Advanced Career",
+    "primaryCharacteristics": [
+      "fellowship",
+      "willpower"
+    ],
+    "careerSkills": "discipline, education, folklore, guile, intuition, skullcrafter",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "A character with the advanced career of Spy has mastered the art of being a very dangerous occupation, such spies cannot be uncommon that some of them carry a potent poison. If a high ranked spy is captured during a mission, his patron will send a fellow agent to silence him."
+  },
+  "effects": [],
+  "_id": "IgaYNZi2vhFB3jwK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IgaYNZi2vhFB3jwK"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Outrider",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/outrider.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Outriders are grizzled veterans of the Pistolcorps, experienced combatants capable on and off the field of battle. Within the Pistolcorps, they serve as instructors for the young nobles who make up on the bulk of the corps' numbers. On the battlefield, they may lead units of pistoliers or group into units of their own, wielding some of the most lethal and modern weaponry in the Empire's inaccessible halls of the Old engineers can design. In addition to their duties as instructors and warriors, Outriders are often pressed into duty as scouts -- hence the name. They literally 'ride out' from the army, sometimes for days or weeks, and find its foes or protect its flanks. As such, Outriders are tough, competent individualists, often at home in the wild. They're used to being alone, days or weeks with only their horse for companionship. Outriders are loners by nature but their independence and self-reliance may lead them to live a wandering life, but many Outriders find companionship of younger and less experienced soldiers to teach, even while outside through the struc-ture of the Pistolcorps. This may lead an Outrider to seek an adventuring life, where he is not obligated to put down roots but still has the oppor-tunity to pass on his skills to a new generation.</p><p>Typical Trappings: An Outrider's most precious possession is his horse, without which he would likely perish in the inhospitable halls of the Old World. His second most prized possession is his weapon, probably a lethally sadistic Engineer of some kind of a repeater handgun or repeater pistol. He probably also has a cavalry sabre or flail, a suit of armour, and enough supplies to live for a week in his saddlebag at any given time.</p><p><strong>Career Ability:</strong></p><p>You have an exceptional horse, with whom you have a special bond. Take the Trusty Horse bond. Take the Trusty Horse follower sheet. Should your horse die or be stolen, you lose access to this ability until you form a similar bond with a new horse</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "intelligence"
+    ],
+    "careerSkills": "Ballistic Skill, Discipline, Leadership, Nature Lore, Ride",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A grizzled veteran home on the battlefield or in the wilderness."
+  },
+  "effects": [
+    {
+      "name": "Outrider",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/outrider_ability.webp",
+      "_id": "tOTGJDkN8SViYTLf",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You have an exceptional horse, with whom you have a special bond. Take the Trusty Horse bond. Take the Trusty Horse follower sheet. Should your horse die or be stolen, you lose access to this ability until you form a similar bond with a new horse</p>",
+      "transfer": true,
+      "_key": "!items.effects!Sh5t9KOVbt52UrBS.tOTGJDkN8SViYTLf"
+    }
+  ],
+  "_id": "Sh5t9KOVbt52UrBS",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Sh5t9KOVbt52UrBS"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Physician",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/physician.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>In the towns, barber-surgeons tend to cuts, bruises and rotten teeth, while in rural areas wise women administer folk remedies to those complaining by such people are often tedious. The science of medicine is still in its infancy in the Empire, but as a growing body of knowledge and practice exists. Each year the universities train more students in the craft of the physician.</p><p>Those who earn their qualifications are required to join one of the physician's guilds before they are allowed to practice in the Empire. The guilds set standards for courses of treatment and the sort of payment physicians should charge. Some physicians re-sent the interference of the Guild, not to mention their membership fees. However, if a physician is found practicing without guild membership he is likely to be arrested and tried by the fearsome imperial Judges. Trustworthy members find that the Guild rewards loyalty by funding patronage should the physician fall afoul of the law, and by shutting down charlatans and backstreet surgeons.</p><p><strong>Career Ability:</strong></p><p>Characters benefitting from your long term care recover one more wound than they normally would when wounds are recovered</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Discipline, Education, First Aid, Intuition, Medicine, Observation",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 2,
+      "skill": 1,
+      "fortune": 3,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A skilled chirurgeon with specialised training in the healing arts."
+  },
+  "effects": [
+    {
+      "name": "Physician",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/physician_ability.webp",
+      "_id": "Mr3NYJNyfwG3k6Cl",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Characters benefitting from your long term care recover one more wound than they normally would when wounds are recovered</p>",
+      "transfer": true,
+      "_key": "!items.effects!75oBlG4Cyob2JtGb.Mr3NYJNyfwG3k6Cl"
+    }
+  ],
+  "_id": "75oBlG4Cyob2JtGb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!75oBlG4Cyob2JtGb"
+}

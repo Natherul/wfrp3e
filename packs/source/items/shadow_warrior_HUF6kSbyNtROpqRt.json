@@ -1,0 +1,53 @@
+{
+  "name": "Shadow Warrior",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/shadow_warrior.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>At the time of civil war in medieval Ulthuan, those who chose to follow the Dark Elves, while those that chose to follow the Phoenix King became the High Elves. In the kingdom of Nagarythe, the citizens sided with the Witch King, apart from the small communities of hunters who inhabited the bleak hills of the east of the kingdom. The Shadow Warriors are descended from this minor clan, and they are the most fervent opponents of their dark kin. They have taken upon themselves to patrol the shattered coast left after the destruction caused by the souls of the Shadow Warriors, a mantle that hangs over them like a veil of distrust. None question that the Shadow Warriors perform a task necessary for the existence of the homeland, but it has left the presence of the Shadow Warriors with a haunting, and a mysterious streak to their personalities. Many High Elves have observed the brutal behaviour of their kin Warriors. Weary and grim, they constantly patrol the barren shores and bleakest hills of Nagarythe. They keep a vigil against approach of the dark evil Druchii who sank their homeland beyond the waves. To this day many Dark Elves return to steal their children and their kin. It is a lonely and thankless task, to stand as sentinels against the constant malice of the Dark Elves, but they carry the oaths that the Shadow Elves spread more and more thousand years ago bind themselves to their allies.</p><p><strong>Career Ability:</strong></p><p>Melee Attacks and Ranged Attacks made with a weapon you have a specialization in gain:</p><ul><li>+1 damage</li><li>+1 damage</li><li>+1 damage, perform a manoeuvre for free</li></ul>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "willpower"
+    ],
+    "careerSkills": "Athletics, Ballistic Skill, Coordination, Observation, Stealth, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Advanced Career: High Elf\nAdvanced: Combat, Specialist\nShadow Warriors reserve for the Dark Elves, while those that chose to follow the Phoenix King became the High Elves. In the kingdom of Nagarythe, the citizens sided with the Witch King, apart from the small communities of hunters who inhabited the bleak hills of the east of the kingdom. The Shadow Warriors are descended from this minor clan, and they have taken upon themselves to patrol the shattered coast left after the destruction caused by the souls of the Shadow Warriors, a mantle that hangs over them like a veil of distrust. None question that the Shadow Warriors perform a task necessary for the existence of the homeland, but it has left the presence of the Shadow Warriors with a haunting, and a mysterious streak to their personalities. Many High Elves have observed the brutal behaviour of their kin Warriors. Weary and grim, they constantly patrol the barren shores and bleakest hills of Nagarythe. They keep a vigil against approach of the dark evil Druchii who sank their homeland beyond the waves. To this day many Dark Elves return to steal their children and their kin. It is a lonely and thankless task, to stand as sentinels against the constant malice of the Dark Elves, but they carry the oaths that the Shadow Elves spread more and more thousand years ago bind themselves to their allies."
+  },
+  "effects": [
+    {
+      "name": "Shadow Warrior",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/shadow_warrior_ability.webp",
+      "_id": "ZHZ0UPpCjJFtZD8Y",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Melee Attacks and Ranged Attacks made with a weapon you have a specialization in gain:</p><ul><li>+1 damage</li><li>+1 damage</li><li>+1 damage, perform a manoeuvre for free</li></ul>",
+      "transfer": true,
+      "_key": "!items.effects!HUF6kSbyNtROpqRt.ZHZ0UPpCjJFtZD8Y"
+    }
+  ],
+  "_id": "HUF6kSbyNtROpqRt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HUF6kSbyNtROpqRt"
+}

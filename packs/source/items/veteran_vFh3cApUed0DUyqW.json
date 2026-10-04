@@ -1,0 +1,56 @@
+{
+  "name": "Veteran",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/veteran.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>All soldiers in the Empire are trained fighting men but not all of them have have been tested in the crucible of life or death combat. Some soldiers can go into any front-line action as they go into fortress forts or patrol city walls. Those soldiers who have survived combat quickly develop a reputation for pragmatic battlefield skills and personal renown. Such men who have not yet been known as veterans, are known as veterans. While veterans have the respect of their fellow soldiers, they are not considered as leaders of men and lack either the confidence or opportunity to give orders in battle. Many veterans feel somewhat slighted that they have been passed over for promotion, and they are often for grumbling about any apparent shortcomings in the strategy of their superiors. Although many veterans remain with the regiments they joined when they entered the army, some are picked out for elite units. Such regiments may well be provided with better arms than the regular soldiers and may win much glory by being placed in key positions in the ranks.</p><p><strong>Career Ability:</strong></p><p>Once per session you may treat the CR of any weapon as 2</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Ballistic Skill, Coordination, Discipline, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "An elite soldier who has been tested upon the battlefield."
+  },
+  "effects": [
+    {
+      "name": "Veteran",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/veteran_ability.webp",
+      "_id": "uunUc1aOBQGzm29n",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session you may treat the CR of any weapon as 2</p>",
+      "transfer": true,
+      "_key": "!items.effects!vFh3cApUed0DUyqW.uunUc1aOBQGzm29n"
+    }
+  ],
+  "_id": "vFh3cApUed0DUyqW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vFh3cApUed0DUyqW"
+}

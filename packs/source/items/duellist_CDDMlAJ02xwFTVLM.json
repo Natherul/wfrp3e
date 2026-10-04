@@ -1,0 +1,48 @@
+{
+  "name": "Duellist",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/duellist.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p><strong>Career Ability:</strong></p><p>When you are engaged with only one enemy and no other characters, you gain +1 Defence and <u>to all attacks</u> attacks</p>",
+    "advanced": true,
+    "raceRestrictions": [],
+    "traits": "",
+    "primaryCharacteristics": [],
+    "careerSkills": "",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 0,
+      "talent": 0,
+      "skill": 0,
+      "fortune": 0,
+      "conservative": 0,
+      "reckless": 0,
+      "wound": 0
+    },
+    "summary": ""
+  },
+  "effects": [
+    {
+      "name": "Duellist",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/duellist_ability.webp",
+      "_id": "U8RQQZcgVZ6LYznM",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>When you are engaged with only one enemy and no other characters, you gain +1 Defence and <u>to all attacks</u> attacks</p>",
+      "transfer": true,
+      "_key": "!items.effects!CDDMlAJ02xwFTVLM.U8RQQZcgVZ6LYznM"
+    }
+  ],
+  "_id": "CDDMlAJ02xwFTVLM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CDDMlAJ02xwFTVLM"
+}

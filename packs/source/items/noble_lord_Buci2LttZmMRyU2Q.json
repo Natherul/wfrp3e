@@ -1,0 +1,53 @@
+{
+  "name": "Noble Lord",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/noble_lord.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>A powerful, ambitious, and important member of the aristocracy. While the minor nobles of the Empire may have some local authority and prestige, noble lords have influenced and prestige, noble lords have throughout an entire province, or even throughout the Empire itself. Although the vast majority inherit their power, some men have even been known to claw their way up the social ladder through great deeds or great bribery. Noble lords own a vast tract of land and have absolute power over it. Commoners till the fields and sycophantic servants attend to the lord's houses and interests. The upper echelons of the landed gentry have varied lives. Noble lords are expected to keep their tongues sharp, help to compose local legislation, and contribute to the ruling and policing of their provinces, or even the Empire itself, through the intrigues of the courtly system. They must also resolve local disputes and dispense justice as judge, jury, and executor through their Focus. Most noble lords remain quick-witted and in good physical health even into their later years. They enjoy the thrill of the hunt and riding into battle with knightsly orders to defend their lands. Typical Trappings: Noble lords dress with incredible flamboyance, with traveling, and own only the finest clothing, often made of velvet, or some other rare fabrics. They usually carry some seal of office and wear fine jewelry to add to the imposing effect. Noble lords own both a large townhouse and a country estate. A chamberlain typically directs the household staff when the lord is away and the estate's farmland is tilled by local common folk.</p><p><strong>Career Ability:</strong></p><p>You gain <b>to all Social actions and Fellowship checks targeting anyone with a Noble Rank lower than yours.</b>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Education, Leadership, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 1,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A powerful, ambitious, and important member of the aristocracy."
+  },
+  "effects": [
+    {
+      "name": "Noble Lord",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/noble_lord_ability.webp",
+      "_id": "eurKVvCfUQrcSjxR",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain <b>to all Social actions and Fellowship checks targeting anyone with a Noble Rank lower than yours.</b>",
+      "transfer": true,
+      "_key": "!items.effects!Buci2LttZmMRyU2Q.eurKVvCfUQrcSjxR"
+    }
+  ],
+  "_id": "Buci2LttZmMRyU2Q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Buci2LttZmMRyU2Q"
+}

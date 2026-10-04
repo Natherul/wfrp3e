@@ -1,0 +1,53 @@
+{
+  "name": "Master Runesmith",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/master_runesmith.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Master Runesmiths are the teachers and keepers of Rune knowledge. Very few Runesmiths ever rise to this status and of those who do, many stay within their respective duties and distractions, passing on what they have learned to the young and talented. Other Master Runesmiths devote years of their lives to the search for ancient secrets, exploring the world to uncover ancient weapons and artefacts of great age, hoping to find such quests take Master Runesmiths into dangerous places, such as ruined holds, dragon lairs, the depths of Elven forests, and worse, for much of the centuries forward, over the centuries, fallen into the hands of their enemies, resolved into all of the dwarf holds to settlements announcing a Grand Conclave. This occurs during a rare period of low intensity warfare some years and peace, but some tools and arms are calmer than others. The conclave, which take a year to fully plan out, call together large numbers of masters and a handful of very select individuals, and journeymen and apprentices to a month long gathering where knowledge is shared, old debts are settled and the various other duties and distractions that can be set aside. Such conclaves are, obviously, arranged with great secrecy; none known. If the enemies discovered the known inform of them, it could be devastating. It is rumored that master runesmiths have learned to tie the braids of their runes into runeic patterns, making them impervious to harm. Few dare attempt to prove their, but \"stealward\" is a common nickname for a master runesmith.</p><p><strong>Career Ability:</strong></p><p>You gain <i>to tradecraft checks when crafting runic items.</i><br>If you know any, you may create runic items with one master rune.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "dwarf"
+    ],
+    "traits": "Academic, Elite, Runesmith, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "intelligence"
+    ],
+    "careerSkills": "Education, Leadership, Intuition, Observation, Resilience, Tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 3,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "Master Runesmiths are the teachers and keepers of Rune knowledge. Very few Runesmiths ever rise to this status and of those who do, many stay within their respective duties and distractions, passing on what they have learned to the young and talented."
+  },
+  "effects": [
+    {
+      "name": "Master Runesmith",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/master_runesmith_ability.webp",
+      "_id": "MuSyEayR2BPTXVLH",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You gain <i>to tradecraft checks when crafting runic items.</i><br>If you know any, you may create runic items with one master rune.</p>",
+      "transfer": true,
+      "_key": "!items.effects!rVDvBgqgZw1p22PQ.MuSyEayR2BPTXVLH"
+    }
+  ],
+  "_id": "rVDvBgqgZw1p22PQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rVDvBgqgZw1p22PQ"
+}

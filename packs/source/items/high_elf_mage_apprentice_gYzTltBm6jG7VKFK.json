@@ -1,0 +1,40 @@
+{
+  "name": "High Elf Mage Apprentice",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/high_elf_mage_apprentice.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>When the doors of the Third Circle of the White tower are open for them, they present a good argument to leave the White tower officially one of the few mighty beings able to mould their way to shape his will. On the subsequent years of his life he will learn how to wave the true wind of magic to cause spells that have full wave effects on the petty magic spells that are color magic spells. Nevertheless, the power an elf mage apprentice can unleash rivals with that of the greatest human wizard sorcerers of the Chaos sorcerers. Finally, after that many years Still, the white tower protective walls, elf mage apprentices can, and are indeed encouraged to, leave and adventure in Ulthuan. Many times apprentices assist against high elf armies in the quest to recover it on the uneventfulness that Dark Elf Corsairs. Although apprentices are granted with usually pieces of parchment, books and writing tools.</p><p>Powerful magic with a deep readable knowledge of the Aethyr. When the doors of the Third Circle of the White tower are open for them, they present a good argument to leave the White tower officially one of the few mighty beings able to mould their way to shape his will. On the subsequent years of his life he will learn how to wave the true wind of magic to cause spells that have full wave effects on the petty magic spells that are color magic spells. Nevertheless, the power an elf mage apprentice can unleash rivals with that of the greatest human wizard sorcerers of the Chaos sorcerers. Finally, after that many years Still, the white tower protective walls, elf mage apprentices can, and are indeed encouraged to, leave and adventure in Ulthuan. Many times apprentices assist against high elf armies in the quest to recover it on the uneventfulness that Dark Elf Corsairs. Although apprentices are granted with usually pieces of parchment, books and writing tools.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Channelling, Intelligence, Education, Insight, Observation, Spellcraft, Willpower",
+    "primaryCharacteristics": [
+      "intelligence",
+      "willpower"
+    ],
+    "careerSkills": "Channelling, Intelligence, Education, Insight, Observation, Spellcraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 4,
+      "talent": 2,
+      "skill": 4,
+      "fortune": 2,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Advanced Career: High Elf Mage Apprentice"
+  },
+  "effects": [],
+  "_id": "gYzTltBm6jG7VKFK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gYzTltBm6jG7VKFK"
+}

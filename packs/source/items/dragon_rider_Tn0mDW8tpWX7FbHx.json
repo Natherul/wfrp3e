@@ -1,0 +1,43 @@
+{
+  "name": "Dragon Rider",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/dragon_rider.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>In the eastern reaches of Caledon of Dragonwake is to be found, where the tall mountain peaks yield to grassy slopes eventually slope down to meet the western border of Eataine. Though the lands to the west are more mountainous, the cave that is run beneath the hills of this region as dark as any in Caledon, and within any ancient Dragons slumber within them. In ages past, Dragons were both warriors and nobles, and they might travel outside the lands of the High Elves came under this threat, the Dragon Princes traveled to this land to rouse the slumbering beasts to war.</p><p>The Dragons are among the High Elves' mightiest weapons, but the Dragons' slumber is deep indeed, and every time a dragon falls into dormancy there is no certain way to know if there is any chance of awakening them. Though, Dragon riders are possibly more than any other elf, bound to their mightiest and wisest Loremaster it is only the task only the one that achieve and a very dangerous one for, in many ways nowadays dragons are only awake when the need is dire and unavailable. Still, the mightiest and finest knights of Ulthuan who are appointed to visit the tower of Ulthuan are known to be the heroes of Hoeth to learn the secrets of Dragon riding. It is believed that the teachings and rituals are highly secret and they are only transferred from a Loremaster to a Loremaster. It is said, that a bound rider is performed by the Loremaster that binds that rider, the Knight and Dragon minds, that such that one Knight can only ever ride with a single dragon. This reputation is made with his rider and the dragon recognizes his rider and shows no hostility against him, and if legends</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "willpower",
+      "fellowship"
+    ],
+    "careerSkills": "Animal Handling, Discipline, Leadership, Resilience, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 8,
+      "reckless": 8,
+      "wound": 3
+    },
+    "summary": "A career that has the champion trait, this character has completed the career."
+  },
+  "effects": [],
+  "_id": "Tn0mDW8tpWX7FbHx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Tn0mDW8tpWX7FbHx"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Merchant",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/merchant_he.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Empire is at the center of trade routes extending to the four corners of the world. Cities like Altorf and Nuln are trading hubs second only to Marienburg in terms of mercantile significance. Barges that ply the Reik between the three great cities are piled high with high-quality commodities belonging to wealthy merchants. Merchants are generally wealthly wholesalers. They speculate on large quantities of goods, buying them at the site of production and moving them to towns where burghers, peddlers and the citizens demand them. A man has to be rich to set himself up as a merchant of goods, but provided he is careful and fortunate he stands to make significant profits. A merchant requires luck, as some cargoes fall prey to river pirates, marauding greenskins or even worse. Certain merchants even develop the mindset of a military commander to protect their mercenary guards to protect their business. Many of the merchants in the Empire come from the great merchant houses, extended family units who take pains to ensure that their sons receive a cosmopolitan education with a bias towards developing business acumen. The merchant guilds and houses are increasingly powerful and form a powerhouse that wields a politcal clout burgeoning on the Empire. Reactionary holy nobles see this as a threat, and holy priests preach against the evils of avarice and the virtue of knowing one's place.</p><p><strong>Career Ability:</strong></p><p>Once per session you may choose to either treat one item as if it were one rarity level more common when haggling, or improve your customer rating one level higher than your haggling check would normally allow</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Trade",
+    "primaryCharacteristics": [
+      "fellowship",
+      "intelligence"
+    ],
+    "careerSkills": "discipline, folklore, guile, intuition, tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "A career for those who wish to be the grease of the wheels of commerce."
+  },
+  "effects": [
+    {
+      "name": "Merchant",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/merchant_he_ability.webp",
+      "_id": "GW9idCKy7kqwGaUc",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session you may choose to either treat one item as if it were one rarity level more common when haggling, or improve your customer rating one level higher than your haggling check would normally allow</p>",
+      "transfer": true,
+      "_key": "!items.effects!88uzGBGbn5Rb6Yql.GW9idCKy7kqwGaUc"
+    }
+  ],
+  "_id": "88uzGBGbn5Rb6Yql",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!88uzGBGbn5Rb6Yql"
+}

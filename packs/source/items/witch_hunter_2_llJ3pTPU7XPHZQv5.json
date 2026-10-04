@@ -1,0 +1,40 @@
+{
+  "name": "Witch Hunter",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/witch_hunter_2.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Witch hunters are grim individuals who have dedicated their lives to eradicating the forces of Chaos. Whatever their story, these Witch Hunters are united in their service to one or more of the Gods of Chaos, either in either the service of the Chaos cultists, or the Church. They seek out chaos occultists, heretics, and mutants that have somehow hidden within the cities of the Empire. However, they will often travel far indeed if they think they can strike a meaningful blow against the forces of evil. Brimmed hat, blades of pistols and propensity towards will burnings have all been 'inspired' by the common sorts of Witch Hunts are the hired by the Emperor Magnus more and more frequently, as they are seldom more than highly specialized mercenaries. For the right gold, they used to have the power to fire an Emperor's Noble's estate, removing the suspicious, dangerous and troublesome Daemon-worship. Depending on that for the nature of the Landlord, highly influential, and sometimes highly professional. The accused have the right to a fair trial, though the definition of fair depends on the place. Hunters are quick to note that hired Witch Hunters tend to have limited areas of influence. They are granted their powers by a Noble, their jurisdiction usually ends at the boundry of their sponsor's estate. Occasionally, gentlemen on speaking terms with their neighbours will occasionally seek their mandate, but this is seldom achieved.</p><p>Devout Witch Hunters are those motivated by the love of their cult, personal calling from their God, or simply concern for their flock. These religious men and women 'fight' the dark horror with their long hunter's cloak and a faithful hound, fighting any and all Chaos cults with a stick in equal measure. Some find faith, fear and fire in equal measure. Some find employment in the service of a Noble, acting as a mercenary Witch Hunter does. As a religious Witch Hunter does, they are driven by Witchcraft, particularly Hired Witch Hunters are driven to religion by a vocation, occasionally horrific incident, thus being called by the Church as their official badge of their order. Others are local priests driven into the role through the Church.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "toughness",
+      "willpower"
+    ],
+    "careerSkills": "Ballistic Skill or Weapon Skill*, Discipline, Folklore, Intuition, Intimidation, Piety",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 0,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "Witch hunters are grim individuals who have dedicated their lives to eradicating the forces of Chaos."
+  },
+  "effects": [],
+  "_id": "llJ3pTPU7XPHZQv5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!llJ3pTPU7XPHZQv5"
+}

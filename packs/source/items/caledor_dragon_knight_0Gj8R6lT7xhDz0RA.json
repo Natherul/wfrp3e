@@ -1,0 +1,40 @@
+{
+  "name": "Caledor Dragon Knight",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/caledor_dragon_knight.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>Caledor is the fabled land of Dragons, where in ancient times princesses of royal blood would ride Dragons to battle. The Dragon Princes, as they were called, were renowned, the greatest warriors in all of Ulthuan, the greatest champions of the wars against the Daemon's and the civil war warred in their entirety, in the manor of Witch King.</p><p>Once, Caledor was the supreme realm amongst the Elven kingdoms, but now its power has waned, its Drakes are diminished in size and numbers, and they spend long centuries in a deep sleep from which they can seldomly be roused. Today, there are still Dragons slumbering in their lairs in the Dragon Spine Mountains and in the caves beneath Vault's Anvil.</p><p>In Where in the distant past the noble world, the home of the world, the Dragon Princes crash into the battlefield with masterful strikes from both foe with masterful strikes from both the lance and sword. Such is their skill that a Dragon Prince can wield two warriors with one lance thrust, impaling both on their typically equipped - typically, Dragon Reckless.</p><p>Typical Equipment: Traditionally, Dragon Armor: Typical, Dragon Reckless, and a lance, a shield, and they ride atop of on mighty Elven Horse swords.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Discipline, Leadership, Resilience, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 2,
+      "reckless": 1,
+      "wound": 2
+    },
+    "summary": "A skillful warrior unmatched only by that of his own arrogance."
+  },
+  "effects": [],
+  "_id": "0Gj8R6lT7xhDz0RA",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0Gj8R6lT7xhDz0RA"
+}

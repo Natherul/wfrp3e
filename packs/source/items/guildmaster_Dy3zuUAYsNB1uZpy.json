@@ -1,0 +1,55 @@
+{
+  "name": "Guildmaster",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/guildmaster.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>As Imperial trade continues to play a vital role in the Empire's economy, the guildmaster is taken on increasing importance. Some craftsmen have reached the rank of guildmaster after many long years of toil while others have used the riches they were able to gather from their mercantile activities to buy favor and rise to their position. Nobles find it increasingly difficult to rule their lands effectively without the support that the merchant and craft guilds can provide. If, among the most respected merchants and craftsmen in the Empire who dress and act accordingly. Guildmasters typically own a large trading company, at least one warehouse, 500 gold crowns cash, and at least one well-maintained house. In a large city, their wealth is likely to be even greater, and they may have trade outposts and warehouses throughout the Empire and even farther afield.</p><p><strong>Career Ability:</strong></p><p>Once per session, you may use your Fellowship characteristic rating to replace the rating of your Strength or Agility for one check.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf"
+    ],
+    "traits": "Advanced Career: Human, Dwarf, or High Elf",
+    "primaryCharacteristics": [
+      "intelligence",
+      "fellowship"
+    ],
+    "careerSkills": "Charm, Discipline, Folklore, Intuition, Tradecraft",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 0
+    },
+    "summary": "Guildmasters have reached the rank of guildmaster after many long years of toil while others have used the riches they were able to gather from their mercantile activities to buy favor and rise to their position."
+  },
+  "effects": [
+    {
+      "name": "Guildmaster",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/guildmaster_ability.webp",
+      "_id": "vsDWOF5YgJcoXfT0",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session, you may use your Fellowship characteristic rating to replace the rating of your Strength or Agility for one check.</p>",
+      "transfer": true,
+      "_key": "!items.effects!Dy3zuUAYsNB1uZpy.vsDWOF5YgJcoXfT0"
+    }
+  ],
+  "_id": "Dy3zuUAYsNB1uZpy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Dy3zuUAYsNB1uZpy"
+}

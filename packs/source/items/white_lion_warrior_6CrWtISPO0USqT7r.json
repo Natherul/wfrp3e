@@ -1,0 +1,56 @@
+{
+  "name": "White Lion Warrior",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/white_lion_warrior.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>The Elves of northern kingdom Wales are a hardy folk, self sufficient; they live in the wilds of the northernmost coast of Ulthuan. The city of Chrace is a bulwark against invasion and her hunters prow the woodlands for Dark Elf raiding parties, spies and assassins. It was one such hunting party that saved Caledor the First from certain doom at the hand of an assassin's blade. These hunters became known as 'White Lion'. A name used in their fierceness and courage in battle, and the pelts earned by slaying a one of the White Lion in single combat.</p><p>Ever since the time of Caledor the First, the closest bodyguards of the Phoenix Kings have come from the wildest forests of Ulthuan. The people found here are among the bravest elves of Ulthuan, hunting the savage creatures found among the untamed foothills of the Anulii mountains. Every year, a small group of young elves chosen by ancient rites for the honor of serving the Phoenix King. Not all are considered worthy to serve, and each must demonstrate his skill and bravery by tracking down one of the fierce beasts that roam the barren mountains and dark forests of the land, the White Lions. Find one they meet it as a trophy. When they have proven themselves wear the fur (as the White Lion as a sign of their courage and may serve the Phoenix as their Handler or their chosen career; The chosen skill remains a non-career skill.</p><p><strong>Career Ability:</strong></p><p>You have a White Lion Pelt. Take the White Lion Pelt item card. You cannot give away, sell, lend, or trade this pelt.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Advanced, Rural, White Lion",
+    "primaryCharacteristics": [
+      "strength",
+      "toughness"
+    ],
+    "careerSkills": "Animal Handling or Leadership, Athletics, Discipline, Resilience, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 1,
+      "reckless": 0,
+      "wound": 2
+    },
+    "summary": "White Lion Warriors hold a very important demanding task, being a bodyguard of the Phoenix King. Therefore they have their own Dark Elf raiding parties, spies and assassins."
+  },
+  "effects": [
+    {
+      "name": "White Lion Warrior",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/white_lion_warrior_ability.webp",
+      "_id": "n1EimLG8nfTf0JhQ",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You have a White Lion Pelt. Take the White Lion Pelt item card. You cannot give away, sell, lend, or trade this pelt.</p>",
+      "transfer": true,
+      "_key": "!items.effects!6CrWtISPO0USqT7r.n1EimLG8nfTf0JhQ"
+    }
+  ],
+  "_id": "6CrWtISPO0USqT7r",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6CrWtISPO0USqT7r"
+}

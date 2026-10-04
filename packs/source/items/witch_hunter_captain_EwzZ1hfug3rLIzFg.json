@@ -1,0 +1,40 @@
+{
+  "name": "Witch Hunter Captain",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/witch_hunter_captain.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>An experienced witch hunter, well practiced in rooting out heresy but instead pursue rumors of more dangerous quarry, such as vampires and daemons.</p><p>Despite the terrible dangers they face, witch hunter captains are universally dreaded, for everyone has something or someone to hide. Maybe someone's order of the Templars of the Signar. This ancient organisation traces its origin back to the foundation of the Empire, and claims that its first member was a contemporary of Sigmar himself.</p><p>The order has a strict hierarchy. Ordinary members are simply known as witch hunters. They are led by the witch hunter captain, who is themselves answerable to a witchfinder general who oversees part of the Holy Order, usually determined by where the witch hunter captain operates geographically.</p><p>Witch hunter captains are individuals with a proven track record of hunting down and destroying those that the order deems a threat to the Empire, and they carry the edict of the Grand Theogonist with them. Some witch hunter captains do not satisfy themselves with burning mutants, or themselves with burning mutants, or hedge wizards and village herbretcs,</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "intelligence"
+    ],
+    "careerSkills": "Ballistic Skill, Folklore, Intuition, Leadership, Observation, Piety",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 2,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "An experienced witch hunter, well practiced in rooting out heresy but instead pursue rumors of more dangerous quarry, such as vampires and daemons."
+  },
+  "effects": [],
+  "_id": "EwzZ1hfug3rLIzFg",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EwzZ1hfug3rLIzFg"
+}

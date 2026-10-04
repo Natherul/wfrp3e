@@ -1,0 +1,56 @@
+{
+  "name": "Marksman",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/marksman.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p>While only the most rash of the rush of the general's generals would ever use a missile trooper, they do so with a skill that is rarely matched. They have a marked tendency to give them a short shrift. Instead, they focus their attention on the raising and deployment of regiments of infantry to hold the line whilst armed knights deliver charges to break the back of the enemy forces. As such, regiments of missile troops are usually relegated to a supporting role and are sometimes little more than a hastily mustered levy of the militia. However, despite this some soldiers become renowned for their ability to pinpoint their targets. Those with a proven track record for sharp-shooting are known as marksmen. Empire generals debate at length which missile troops to employ in which situations. Many still favour the bow and crossbow, but gun-powder weapons grow increasingly popular as Empire engineers continually improve on their design. The Hochland Long Rifle, in particular, is acclaimed for its range and accuracy.</p><p>Both wood elves and high elves have a strong skills with a bow. They held skilled marksmen in high esteem. Dwarfs, however, focus their attention on the raising and deployment of regiments of infantry to hold the line whilst armed knights deliver charges to break the back of the enemy forces. As such, regiments of missile troops are usually relegated to a supporting role and are sometimes little more than a hastily mustered levy of the militia. However, despite this some soldiers become renowned for their ability to pinpoint their targets. Those with a proven track record for sharp-shooting are known as marksmen. Empire generals debate at length which missile troops to employ in which situations. Many still favour the bow and crossbow, but gun-powder weapons grow increasingly popular as Empire engineers continually improve on their design. The Hochland Long Rifle, in particular, is acclaimed for its range and accuracy.</p><p><strong>Career Ability:</strong></p><p>Once per session you may ignore the difficulty modifier on a Ranged Attack action</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "human",
+      "dwarf",
+      "highElf",
+      "woodElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "agility",
+      "willpower"
+    ],
+    "careerSkills": "Ballistic Skill, Coordination, Discipline, Observation, Resilience",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 1,
+      "skill": 3,
+      "fortune": 1,
+      "conservative": 3,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "Marksman: Marksmen need nothing other than a missile weapon and ammunition. Crossbows, hand-held guns, and bows are popular, though those marksmen able to afford one will seek to make best use of their skills with a Hochland Long Rifle."
+  },
+  "effects": [
+    {
+      "name": "Marksman",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/marksman_ability.webp",
+      "_id": "xhnebnFBg7VMTJ9f",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>Once per session you may ignore the difficulty modifier on a Ranged Attack action</p>",
+      "transfer": true,
+      "_key": "!items.effects!FvMlLJD9IaNof8HA.xhnebnFBg7VMTJ9f"
+    }
+  ],
+  "_id": "FvMlLJD9IaNof8HA",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FvMlLJD9IaNof8HA"
+}

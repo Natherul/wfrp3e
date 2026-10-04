@@ -1,0 +1,53 @@
+{
+  "name": "Harbinger",
+  "type": "career",
+  "img": "systems/wfrp3e/assets/images/careers/advanced/harbinger.webp",
+  "folder": "advCareersFolder",
+  "system": {
+    "description": "<p> We ride until the sun sets and only then do we cease. We look first to our seeds when we halt, for as they care for us when we ride, so we are obliged to care for them when we rest. <br> <br> Each hoof must be diligently tended, each tired muscle cared for. Of all our weapons, our steeds are the greatest. With them our spears are swift, the quicksilver scions of the hunters of old. Without them, like our would be lumbering and slow, like our foes. <br> <br> When we strike, it is with both first and where it is weakest. Our is not the way of other knights, we attack swiftly and withdraw before our foes can gather their might. They are for nourishment, we take it where we can. When we hunt, we never kill more than is needed, for we need the blessing of Kurnos, and the Hunter god favours not the wasteful nor the cruel... <br> <br> The descendants of generations of expert horse warriors, these lightly armed cavalrymen are experts at scouting, and the High Elf armies. They range many miles around the army seeking enemy troops, places of ambush and advantageous sites where they can strike. </p><p><strong>Career Ability:</strong></p><p>You ignore penalties for being on horseback while firing ranged weapons.</p>",
+    "advanced": true,
+    "raceRestrictions": [
+      "highElf"
+    ],
+    "traits": "Combat, Specialist",
+    "primaryCharacteristics": [
+      "strength",
+      "agility"
+    ],
+    "careerSkills": "Animal Handling, Ballistic Skill, Observation, Ride, Weapon Skill",
+    "startingStance": {
+      "conservativeSegments": 0,
+      "recklessSegments": 0
+    },
+    "advanceOptions": {
+      "action": 2,
+      "talent": 2,
+      "skill": 2,
+      "fortune": 2,
+      "conservative": 1,
+      "reckless": 1,
+      "wound": 1
+    },
+    "summary": "A cavalry expert at scouting, the Harbinger is a High Elf who rides into battle on horseback, using their keen senses and quick reflexes to outmaneuver and outfight their enemies."
+  },
+  "effects": [
+    {
+      "name": "Harbinger",
+      "img": "systems/wfrp3e/assets/images/careers/advanced/abilities/harbinger_ability.webp",
+      "_id": "TcqIrkfaNUhSUGKn",
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "description": "<p>You ignore penalties for being on horseback while firing ranged weapons.</p>",
+      "transfer": true,
+      "_key": "!items.effects!bE2MDl7D6CpHenrj.TcqIrkfaNUhSUGKn"
+    }
+  ],
+  "_id": "bE2MDl7D6CpHenrj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bE2MDl7D6CpHenrj"
+}
